@@ -12,6 +12,9 @@ module.exports = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      backgroundImage: {
+        'diagonal-split': 'linear-gradient(75deg, red 50%, white 50%)',
+      },
     },
   },
   plugins: [],
