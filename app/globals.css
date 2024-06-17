@@ -46,3 +46,34 @@
     text-decoration: underline;
   }
   
+
+  .container {
+    max-width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .shadow-xl {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .rounded-full {
+    border-radius: 9999px;
+  }
+  
+  .bg-red-600 {
+    background-color: #dc2626;
+  }
+  
+  .hover\:bg-red-700:hover {
+    background-color: #b91c1c;
+  }
+  
+  .transition {
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .duration-300 {
+    transition-duration: 300ms;
+  }
+  

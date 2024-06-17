@@ -10,6 +10,9 @@ module.exports = {
       backgroundImage: {
         'diagonal-split': 'linear-gradient(75deg, red 50%, white 50%)',
       },
+      colors: {
+        heroRed: '#E11D48', // Assuming this is the red color used in the Hero component
+      },
     },
   },
   plugins: [],

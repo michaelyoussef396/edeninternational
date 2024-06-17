@@ -1,4 +1,5 @@
 
+import AboutUs from "@/components/AboutUs";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import TopNav from "@/components/TopNav";
@@ -13,6 +14,7 @@ export default function Home() {
       <FloatingNav/>
       <Header />
       <Hero />
+      <AboutUs />
     </main>
   );
 }
