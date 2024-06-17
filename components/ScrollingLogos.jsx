@@ -58,3 +58,4 @@ const ScrollingLogos = () => {
 };
 
 export default ScrollingLogos;
+

@@ -10,6 +10,7 @@ import WorkingProcess from "@/components/WorkingProcess";
 import { FloatingNav } from "@/components/ui/Floating-NavBar";
 import ScrollingLogos from "@/components/ScrollingLogos";
 import Image from "next/image";
+import Footer from "@/components/Footer";
 
 export default function Home() {
   return (
@@ -24,6 +25,7 @@ export default function Home() {
       <WorkingProcess />
       <Statistics />
       <ScrollingLogos />
+      <Footer />
     </main>
   );
 }
