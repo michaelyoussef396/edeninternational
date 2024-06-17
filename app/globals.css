@@ -1,3 +1,48 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* styles.css */
+.navbar-container {
+    background-color: #ff0000;
+    padding: 16px 32px;
+  }
+  
+  .navbar-logo {
+    height: 48px;
+  }
+  
+  .navbar-link {
+    color: #ffffff;
+    font-weight: bold;
+    position: relative;
+  }
+  
+  .navbar-link:hover .submenu {
+    display: block;
+  }
+  
+  .submenu {
+    display: none;
+    position: absolute;
+    left: 100%; /* Move to the right side of the parent */
+    top: 0;
+    margin-left: 8px; /* Adjust as necessary */
+    background-color: #ffffff;
+    color: #000000;
+    padding: 16px;
+    border-radius: 4px;
+    z-index: 10;
+  }
+  
+  .submenu a {
+    display: block;
+    padding: 8px 0;
+    color: #000000;
+    text-decoration: none;
+  }
+  
+  .submenu a:hover {
+    text-decoration: underline;
+  }
+  
