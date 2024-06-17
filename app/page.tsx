@@ -1,5 +1,6 @@
 
 import AboutUs from "@/components/AboutUs";
+import CountryList from "@/components/CountryList";
 import Header from "@/components/Header";
 import Hero from "@/components/Hero";
 import TopNav from "@/components/TopNav";
@@ -17,6 +18,7 @@ export default function Home() {
       <Hero />
       <AboutUs />
       <VisaCategories />
+      <CountryList />
     </main>
   );
 }
