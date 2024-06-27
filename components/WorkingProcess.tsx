@@ -1,47 +1,69 @@
+"use client"
+import { steps } from '@/data';
 import React from 'react';
+import { motion, useAnimation } from 'framer-motion';
+import { useInView } from 'react-intersection-observer';
+import { circleAnimation, textAnimation } from '@/utils/Animations';
+import Image from 'next/image';
 
-const steps = [
-  {
-    step: '01',
-    title: 'Fill In The Required Form',
-    description: 'Amet minim mollit no duis deserunt ullamco.',
-  },
-  {
-    step: '02',
-    title: 'Submit Your Documents',
-    description: 'Amet minim mollit no duis deserunt ullamco.',
-  },
-  {
-    step: '03',
-    title: 'Get Ready To Receive your Visa',
-    description: 'Amet minim mollit no duis deserunt ullamco.',
-  },
-];
+const WorkingProcess: React.FC = () => {
+  const { ref: sectionRef, inView: sectionInView } = useInView({ triggerOnce: true });
 
-const WorkingProcess = () => {
+  const sectionControls = useAnimation();
+
+  if (sectionInView) sectionControls.start("visible");
+
   return (
-    <section className="py-16 bg-gray-100">
-      <div className="max-w-6xl mx-auto text-center p-6 md:p-12">
+    <section className="relative py-16 bg-gray-100" ref={sectionRef}>
+      <div className="absolute inset-x-0 bottom-0 top-1/2 z-0">
+        <Image 
+          src="/shape-8.jpg" // make sure this image path is correct
+          alt="Background Shape"
+          layout="fill"
+          objectFit="cover"
+          className="opacity-50"
+        />
+      </div>
+      <motion.div
+        className="relative max-w-6xl mx-auto text-center p-6 md:p-12 z-10"
+        initial="hidden"
+        animate={sectionControls}
+        variants={circleAnimation}
+      >
         <h3 className="text-red-600 text-sm mb-2">WORKING PROCESS</h3>
-        <h2 className="text-3xl font-bold mb-12">3 Easy Steps to Get Quick Help</h2>
+        <h2 className="text-2xl font-medium mb-12">3 Easy Steps to Get Quick Help</h2>
         <div className="flex flex-col md:flex-row items-center justify-around space-y-8 md:space-y-0 relative">
           {steps.map((step, index) => (
-            <div key={index} className="relative bg-white p-8 rounded-lg shadow-lg w-full max-w-xs mx-4">
-              <div className="flex justify-center items-center w-24 h-24 bg-red-600 text-white rounded-full text-2xl font-bold mb-4 mx-auto">
-                <span>{step.step}</span>
-                <span className="absolute bottom-1 text-xs">Step</span>
+            <motion.div
+              key={index}
+              className="relative flex flex-col items-center"
+              initial="hidden"
+              animate={sectionControls}
+              variants={circleAnimation}
+            >
+              <div className="relative bg-white p-8 rounded-full shadow-lg w-56 h-56 flex items-center justify-center">
+                <div className="absolute top-[-2rem] right-[-2rem] w-20 h-20 bg-red-600 text-white rounded-full flex items-center justify-center text-2xl font-bold">
+                  <span>{step.step}</span>
+                </div>
+                <motion.div
+                  className="text-center flex flex-col items-center mt-8"
+                  initial="hidden"
+                  animate={sectionControls}
+                  variants={textAnimation}
+                >
+                  <h4 className="text-lg font-medium mb-1">{step.title}</h4>
+                  <p className="text-gray-600 text-sm">{step.description}</p>
+                </motion.div>
               </div>
-              <h4 className="text-xl font-semibold mb-2">{step.title}</h4>
-              <p className="text-gray-600">{step.description}</p>
               {index < steps.length - 1 && (
-                <div className="absolute top-1/2 right-[-3rem] transform -translate-y-1/2 text-red-600 text-xl">
-                  <div className="mr-4">---&gt;</div> {/* Adjust the margin-right value to create the gap */}
+                <div className="absolute top-1/2 right-[-2rem] transform -translate-y-1/2 text-red-600 text-2xl">
+                  <span>→</span>
                 </div>
               )}
-            </div>
+            </motion.div>
           ))}
         </div>
-      </div>
+      </motion.div>
     </section>
   );
 };

@@ -79,12 +79,14 @@ export const MenuItem = ({
   item,
   children,
   setHovering,
+  href
 }: {
   setActive: (item: string | null) => void;
   active: string | null;
   item: string;
   children?: React.ReactNode;
   setHovering: (hovering: boolean) => void;
+  href: string;
 }) => {
   const handleMouseEnter = () => {
     setActive(item);
@@ -101,12 +103,15 @@ export const MenuItem = ({
       onMouseLeave={handleMouseLeave}
       className="relative"
     >
+      <a href={href}>
       <motion.p
         transition={{ duration: 0.3 }}
         className="cursor-pointer text-black hover:text-red-600" // Hover to red
       >
         {item}
       </motion.p>
+      </a>
+      
       {active === item && (
         <motion.div
           initial={{ opacity: 0, scale: 0.85, y: 10 }}

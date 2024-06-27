@@ -72,12 +72,13 @@ export const FloatingNav = ({ className }: { className?: string }) => {
           active={active}
           item="Student Visa"
           setHovering={setHovering}
+          href="/student-visa"
         >
           <div className="flex flex-col space-y-4 text-sm">
-            <HoveredLink href="/hobby">Study In Australia</HoveredLink>
-            <HoveredLink href="/individual">Study In Canada</HoveredLink>
-            <HoveredLink href="/team">Affiliated Institutions</HoveredLink>
-            <HoveredLink href="/enterprise">Professional Year</HoveredLink>
+            <HoveredLink href="/study-in-australia">Study In Australia</HoveredLink>
+            <HoveredLink href="/study-in-canada">Study In Canada</HoveredLink>
+            <HoveredLink href="/affiliate-institutions">Affiliated Institutions</HoveredLink>
+            <HoveredLink href="/Professional-year">Professional Year</HoveredLink>
           </div>
         </MenuItem>
         <MenuItem
@@ -85,16 +86,17 @@ export const FloatingNav = ({ className }: { className?: string }) => {
           active={active}
           item="Migration"
           setHovering={setHovering}
+          href="/migration"
         >
           <div className="flex flex-col space-y-4 text-sm">
-            <HoveredLink href="/hobby">Temporary Skilled Shortage Tss Visa Subclass 482 (AUS)</HoveredLink>
-            <HoveredLink href="/individual">Training Visa Subclass 407</HoveredLink>
-            <HoveredLink href="/enterprise">Skilled Work Reginal Visa</HoveredLink>
-            <HoveredLink href="/enterprise">Skilled Nominated Visa</HoveredLink>
-            <HoveredLink href="/enterprise">Skilled Independent Visa</HoveredLink>
-            <HoveredLink href="/enterprise">Temporary Graduate Visa</HoveredLink>
-            <HoveredLink href="/enterprise">Sponsored Jobs</HoveredLink>
-            <HoveredLink href="/enterprise">Point Calculation</HoveredLink>
+            <HoveredLink href="/temporary-skill-shortage-tss-visa-subclass-482">Temporary Skilled Shortage Tss Visa Subclass 482 (AUS)</HoveredLink>
+            <HoveredLink href="/training-visa-subclass-407">Training Visa Subclass 407</HoveredLink>
+            <HoveredLink href="/skilled-work-regional-visa">Skilled Work Reginal Visa</HoveredLink>
+            <HoveredLink href="/skilled-nominated-visa">Skilled Nominated Visa</HoveredLink>
+            <HoveredLink href="/skilled-independent-visa">Skilled Independent Visa</HoveredLink>
+            <HoveredLink href="/temporary-graduate-visa-subclass-485">Temporary Graduate Visa</HoveredLink>
+            <HoveredLink href="/sponsored-jobs">Sponsored Jobs</HoveredLink>
+            <HoveredLink href="/point-calculation">Point Calculation</HoveredLink>
           </div>
         </MenuItem>
         <NavHoveredLink href="/enterprise">Contact</NavHoveredLink>
