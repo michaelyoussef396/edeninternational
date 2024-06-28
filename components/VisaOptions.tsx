@@ -1,4 +1,5 @@
 // components/VisaOptions.tsx
+import Image from "next/image";
 import { FC } from "react";
 import { FaGlobe, FaGraduationCap, FaCog, FaAnchor, FaUserTie, FaGavel } from "react-icons/fa";
 
@@ -39,10 +40,13 @@ const VisaOptions: FC = () => {
   return (
     <section className="relative bg-black py-12">
       <div className="absolute inset-0">
-        <img
+        <Image
           src="/footer-3.png" // Ensure this image is placed in the public folder
           alt="Background"
-          className="w-full h-full object-cover opacity-50"
+          layout="fill"
+          objectFit="cover"
+          quality={100}
+          className="opacity-50"
         />
         <div className="absolute inset-0 bg-black opacity-50"></div>
       </div>

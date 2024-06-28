@@ -17,7 +17,7 @@ const ContactForm: FC = () => {
   return (
     <section className="bg-gray-100 py-12">
       <div className="container mx-auto px-4 md:px-20">
-        <h2 className="text-4xl font-bold text-center mb-8">Don't Hesitate to <span className="text-red-500">Contact Us</span></h2>
+        <h2 className="text-4xl font-bold text-center mb-8">Do not Hesitate to <span className="text-red-500">Contact Us</span></h2>
         <form onSubmit={handleSubmit} className="space-y-4">
           <div className="flex space-x-4">
             <input

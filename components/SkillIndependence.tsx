@@ -2,7 +2,7 @@ import Image from 'next/image'
 export default function SkillIndependence() {
   return (
     <div className="relative h-90"> {/* Adjust the height as needed */}
-      <img
+      <Image
         src="/main3.png"
         alt="Background"
         layout="fill"

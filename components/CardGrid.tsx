@@ -31,7 +31,7 @@ const Card: FC<CardProps> = ({ title, imageUrl, description }) => {
           className="absolute inset-0 flex items-center justify-center bg-black text-white text-lg font-bold"
           style={{ backfaceVisibility: "hidden" }}
         >
-          <img
+          <Image
             src={imageUrl}
             alt={title}
             className="absolute inset-0 w-full h-full object-cover"
