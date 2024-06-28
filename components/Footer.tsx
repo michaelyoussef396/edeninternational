@@ -12,8 +12,8 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8 text-center md:text-left">
           <div className="flex flex-col items-center md:items-start p-3">
             <Image src="/title.png" alt="Eden International" width={200} height={100} />
-            <p className="mt-4">info@edeninternational.in</p>
-            <p className="mt-2">+61</p>
+            <p className="mt-4">info@edeninternational@gmail.com</p>
+            <p className="mt-2">+61 452 031 982</p>
             <div className="flex mt-4 space-x-4">
               <a href="#" className="text-gray-500 hover:text-heroRed">
                 <FaFacebookSquare size={24} />
