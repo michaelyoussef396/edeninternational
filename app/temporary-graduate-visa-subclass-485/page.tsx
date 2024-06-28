@@ -1,6 +1,7 @@
 import MigrationHeroSection from "@/components/MigrationHeroSection";
 import VisaInfo from "@/components/VisaInfo";
-import mainImage from '@/public/main3.png'
+import mainImage from  "@/public/best-reason-to-use-cbd-oil.webp"
+
 
 export default function Home() {
   return (

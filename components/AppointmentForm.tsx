@@ -44,17 +44,27 @@ const AppointmentForm = () => {
   return (
     <div className="container mx-auto my-16 px-4">
       <div className="flex justify-center items-center mb-8">
-        <div
-          className={`w-8 h-8 rounded-full ${
-            step === 1 ? "bg-red-500" : "bg-gray-300"
-          }`}
-        />
+        <div className="flex items-center">
+          <div
+            className={`w-8 h-8 rounded-full flex items-center justify-center text-white ${
+              step === 1 ? "bg-red-500" : "bg-gray-300"
+            }`}
+          >
+            1
+          </div>
+          <span className="ml-2 text-gray-700">Appointment Schedule</span>
+        </div>
         <div className="w-4 h-0.5 bg-gray-300 mx-2" />
-        <div
-          className={`w-8 h-8 rounded-full ${
-            step === 2 ? "bg-red-500" : "bg-gray-300"
-          }`}
-        />
+        <div className="flex items-center">
+          <div
+            className={`w-8 h-8 rounded-full flex items-center justify-center text-white ${
+              step === 2 ? "bg-red-500" : "bg-gray-300"
+            }`}
+          >
+            2
+          </div>
+          <span className="ml-2 text-gray-700">Personal Information</span>
+        </div>
       </div>
 
       {step === 1 && (

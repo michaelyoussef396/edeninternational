@@ -1,10 +1,10 @@
 import Accordion from "@/components/Accordion";
+import AccordionCanada from "@/components/AccordionCanada";
 import HeroSection from "@/components/HeroSection";
 import QuickSteps from "@/components/QuickSteps";
 import ScrollingLogos from "@/components/ScrollingLogos";
-import StudyProcess from "@/components/StudyingProccess";
-import TopReasonsCanada from "@/components/TopReasonsCanada";
 import WhyStudyInCanada from "@/components/WhyStudyInCanada";
+import { studyInCanadaItems } from "@/data";
 import mainImage from '@/public/main3.png'
 export default function Home() {
   return (
@@ -17,8 +17,7 @@ export default function Home() {
       />
         <WhyStudyInCanada />
         <QuickSteps />
-        <TopReasonsCanada />
-        <StudyProcess />
+        <AccordionCanada items={studyInCanadaItems} />
         <ScrollingLogos />
     </main>
   );

@@ -2,7 +2,8 @@ import AffiliatedInstitutions from "@/components/AffiliatedInstitutions";
 import HeroSection from "@/components/HeroSection";
 import ScrollingLogos from "@/components/ScrollingLogos";
 import Affiliated from "@/components/affilated";
-import mainImage from '@/public/main3.png'
+import mainImage from '@/public/US_School5441_Output.webp'
+import image from "@/public/footer-3.png"
 export default function Home() {
   return (
     <main className="">
@@ -14,7 +15,7 @@ export default function Home() {
       />
         <AffiliatedInstitutions />
         <HeroSection
-      imageSrc={mainImage}
+      imageSrc={image}
       title="OUR AFFILIATED"
       highlightText="INSTITUTIONS"
       height="h-36"

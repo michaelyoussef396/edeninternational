@@ -1,7 +1,7 @@
 import VisaComparison from "@/components/ComparisonCard";
 import MigrationHeroSection from "@/components/MigrationHeroSection";
 import TrainingVisaInfo from "@/components/TrainingVisaInfo";
-import mainImage from '@/public/main3.png'
+import mainImage from '@/public/visual_SERFIN_A.webp'
 export default function Home() {
   return (
     <main className="">

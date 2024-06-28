@@ -49,19 +49,19 @@ const FAQAccordion: FC = () => {
     },
     {
       title: "HOW LONG DOES IT TAKE TO GET A PERMANENT RESIDENCE VISA TO IMMIGRATE TO AUSTRALIA?",
-      content: "Information about the duration for permanent residence visa...",
+      content: "Every application is different and processing times largely depend on the type of visa being applied for. For the most recent guidelines for Australian visa processing times, see Global visa and citizenship processing times on the Department of Immigration and Border Protection website.",
     },
     {
       title: "CAN THE IMMIGRATION AUTHORITIES REFUSE MY APPLICATION?",
-      content: "Information about the possibilities of application refusal...",
+      content: "Yes. A surprisingly large number of applicants are unaware how strictly the immigration regulations are enforced and are often unnecessarily refused or delayed due to technical errors on their application or by submitting the wrong supporting documentation. So the moral of the story is to consider seeking the professional guidance and independent advice of a MARA Registered Migration Agent before lodging an application for residence. Migration Agents exist to help you find the best way through the immigration maze and are highly effective in doing so.",
     },
     {
       title: "WILL THE IMMIGRATION AUTHORITIES OR EMBASSY HELP ME TO PREPARE MY APPLICATION AND MAKE SURE THAT EVERYTHING IS CORRECT BEFORE APPLYING?",
-      content: "Information about help from immigration authorities or embassy...",
+      content: "No. This type of service is no longer provided by Government. The authorities exist to enforce the immigration law, make decisions on residence applications and to issue residence visas. Although basic information and application forms are available, the authorities are unable to provide independent advice and personalized guidance on your specific case. An Australian Registered Migration Agent can provide this kind of service.",
     },
     {
       title: "MY MIGRATION AGENT HAS ASSESSED ME AS BEING ELIGIBLE FOR RESIDENCE IN AUSTRALIA. IF I APPLY WITHOUT HIS OR HER HELP, CAN I BE CERTAIN OF SUCCESS?",
-      content: "Information about the certainty of success without a migration agent...",
+      content: "No. Although you may fundamentally qualify under the immigration policy, you are by no means guaranteed of success. Your application must be prepared in accordance with the prevailing immigration regulations and submitted together with the appropriate supporting documentation in order to be approved by the immigration authorities. The ways in which to do this are not always clearly set out by the immigration authorities and result in many applicants presenting their cases incorrectly, inevitably leading to refusal. So you should consider seeking the advice of a MARA Registered Migration Agent."
     },
   ];
 
@@ -81,9 +81,12 @@ const FAQAccordion: FC = () => {
           ))}
         </div>
         <div className="mt-8 text-center">
-          <button className="px-6 py-3 text-white bg-red-500 hover:bg-red-600 font-bold">
-            GET A FREE INITIAL ASSESSMENT OF YOUR ELIGIBILITY
-          </button>
+          <a href="/contact-us">
+            <button className="px-6 py-3 text-white bg-red-500 hover:bg-red-600 font-bold">
+              GET A FREE INITIAL ASSESSMENT OF YOUR ELIGIBILITY
+            </button>
+          </a>
+
         </div>
       </div>
     </section>

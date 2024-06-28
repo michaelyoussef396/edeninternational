@@ -3,7 +3,7 @@ import HeroSection from "@/components/HeroSection";
 import ScrollingLogos from "@/components/ScrollingLogos";
 import VisaOptions from "@/components/VisaOptions";
 import VisasWeSpecialiseIn from "@/components/VisasWeSpecialiseIn";
-import mainImage from '@/public/main3.png'
+import mainImage from '@/public/parallax-abouit-01.webp'
 
 export default function Home() {
   return (

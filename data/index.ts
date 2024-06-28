@@ -1,6 +1,9 @@
 import mainImage from '@/public/main3.png';
 import studyImage from '@/public/study.jpg';
 import ecaImage from '@/public/eca-img.jpg';
+import image from "@/public/1001_Team.webp"
+import image2 from "@/public/Performance-Education.webp"
+import image3 from "@/public/ATMC-Professional-Year-768x538.webp"
 const slides = [
   {
     subtitle: "Student Visa",
@@ -20,7 +23,7 @@ const slides = [
 
 export const contentData = {
   heroSection: {
-    imageSrc: mainImage,
+    imageSrc: image,
     title: 'Professional',
     highlightText: 'Year Plan',
     height: 'h-96',
@@ -41,13 +44,13 @@ export const contentData = {
     title: 'PERFORMANCE',
     highlightText: 'EDUCATION',
     content: `As The Graduate Employability Experts, Performance Education Group changes lives by helping people achieve career success through learning and access to Australia’s best employment connections. Established in 2006 to improve the careers of young professionals in Australia, we are now a leader in this space, developing much-needed employability skills including; professional business communication, workplace readiness, Work Integrated Learning (WIL) programs and career skills. We ensure that each and every student is given the best possible training and support to achieve their career goals.`,
-    imageSrc: studyImage,
+    imageSrc: image2,
   },
   atmcProfessionalYear: {
     title: 'ATMC',
     highlightText: 'PROFESSIONAL YEAR',
     content: `Have you finished your degree but want to gain additional technical skills and knowledge to establish your career in Australia? Now you can kick-start your career with help from the Professional Year Program with ATMC. ATMC offers Professional Year programs through the Australian Computer Society (ACS) for information technology graduates and accounting programs through the Accounting PYP. The Professional Year (PY) Program is specifically designed for international students who have graduated from an Australian university and are looking for a successful pathway from university to employment and residency in Australia.`,
-    imageSrc: studyImage,
+    imageSrc: image3,
   },
 };
 
@@ -222,29 +225,6 @@ export const temporarySkilledVisaData = {
   ]
 };
 
-
-export const studyInCanadaItems = [
-  {
-    title: "SAFE COUNTRY",
-    content: "A very important factor for most international students while choosing a study abroad program, is the safety and security of the country and the city in particular. Parents are worried about the safety of their children and factors like crime against women, racial discrimination, theft and burglary play an important role while choosing a destination for study abroad. In this respect, Canada is one of the safest places to study with very low crime rates and cases of racial discrimination. Statistics by Numbeo reveal that Canada’s safety index (62.42) is much higher than the safety indices of other popular study abroad destinations such as US (49.99), UK (57.9) and Australia (57.94).",
-  },
-  {
-    title: "MULTICULTURAL ENVIRONMENT",
-    content: "Information about multicultural environment...",
-  },
-  {
-    title: "JOB OPPORTUNITIES",
-    content: "Information about job opportunities...",
-  },
-  {
-    title: "AFFORDABLE EDUCATION & LIVING",
-    content: "Information about affordable education and living...",
-  },
-  {
-    title: "ADMISSION REQUIREMENT",
-    content: "Information about admission requirements...",
-  },
-];
 
 
 
@@ -438,6 +418,47 @@ export const studyInAustraliaItems = [
     `,
   },
 ];
+
+export const studyInCanadaItems = [
+  {
+    title: "SAFE COUNTRY",
+    content: `A very important factor for most international students while choosing a study abroad program, is the safety and security of the country and the city in particular. Parents are worried about the safety of their children and factors like crime against women, racial discrimination, theft and burglary play an important role while choosing a destination for study abroad. In this respect, Canada is one of the safest places to study with very low crime rates and cases of racial discrimination. Statistics by Numbeo reveal that Canada’s safety index (62.42) is much higher than the safety indices of other popular study abroad destinations such as US (49.99), UK (57.9) and Australia (57.94).`,
+  },
+  {
+    title: "MULTICULTURAL ENVIRONMENT",
+    content: `Canada is an international leader in computer and information technologies and has a reputation for excellence in such sectors as telecommunications, animation, transportation and engineering; and specifically, aerospace, urban transport, microelectronics, medical devices, advanced software, hydroelectric and nuclear power, lasers and opto-electronics, biotechnology etc. Canada was among the first in the world to recognize the need to connect schools and libraries to the Internet, and its SchoolNet program is being copied around the world. All kinds of modern amenities are provided and most campuses happen to be wired with the most sophisticated technologies the world has to offer.`,
+  },
+  {
+    title: "JOB OPPORTUNITIES",
+    content: `Yes, as an international student you will still pay more than Canadians for the same course, but that same course in another country, such as the United States, Australia or United Kingdom, would likely cost even more. Also, see point 1 above – not only are you paying less in Canada, you’re also earning.`,
+  },
+  {
+    title: "AFFORDABLE EDUCATION & LIVING",
+    content: `Canada offers not only quality education, but education which is affordable for international including Indian students. Compared to countries like the UK, USA and Australia, cost of education in Canada is quite moderate.`,
+  },
+  {
+    title: "ADMISSION REQUIREMENT",
+    content: `
+      <p>All students must fulfill these following criteria to take admission in any University/College/Institute in Canada:
+      Academic Qualifications: Minimum 60% marks in all previous degree programs i.e. secondary and higher secondary level or intermediate level and bachelor or honors.</p>
+      <p>ESL Course (English as a Second Language):</p>
+      <p>English language qualifications: With/Without IELTS can apply.</p>
+      <p>Diploma:</p>
+      <ul class="mt-4 list-disc list-inside">
+        <li>English language qualifications: Students require to score minimum band 5.5 (no band less than 5.0) in IELTS or 46 in PTE or 62 in TOEFL.</li>
+      </ul>
+      <p>Bachelor Program:</p>
+      <ul class="mt-4 list-disc list-inside">
+        <li>English language qualifications: Students require to score minimum band 6.0 (no band less than 5.5) in IELTS or 54 in PTE or 73 in TOEFL.</li>
+      </ul>
+      <p>Masters Program:</p>
+      <ul class="mt-4 list-disc list-inside">
+        <li>English language qualifications: Students require to score minimum band 6.5 (no band less than 6.0) in IELTS or 61 in PTE or 85 in TOEFL.</li>
+      </ul>
+    `,
+  },
+];
+
 
 
 

@@ -37,8 +37,16 @@ const visaOptions = [
 
 const VisaOptions: FC = () => {
   return (
-    <section className="bg-black py-12">
-      <div className="container mx-auto px-8 md:px-20">
+    <section className="relative bg-black py-12">
+      <div className="absolute inset-0">
+        <img
+          src="/footer-3.png" // Ensure this image is placed in the public folder
+          alt="Background"
+          className="w-full h-full object-cover opacity-50"
+        />
+        <div className="absolute inset-0 bg-black opacity-50"></div>
+      </div>
+      <div className="relative z-10 container mx-auto px-8 md:px-20">
         <h2 className="text-5xl font-bold text-center mb-8 text-white">
           VISA <span className="text-red-500">OPTIONS</span>
         </h2>

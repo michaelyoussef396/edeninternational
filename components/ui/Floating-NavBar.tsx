@@ -99,7 +99,7 @@ export const FloatingNav = ({ className }: { className?: string }) => {
             <HoveredLink href="/point-calculation">Point Calculation</HoveredLink>
           </div>
         </MenuItem>
-        <NavHoveredLink href="/enterprise">Contact</NavHoveredLink>
+        <NavHoveredLink href="/contact-us">Contact</NavHoveredLink>
       </motion.div>
     </AnimatePresence>
   );

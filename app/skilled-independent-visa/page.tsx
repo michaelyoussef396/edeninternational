@@ -1,7 +1,7 @@
 import VisaComponent from "@/components/VisaComponent";
 import VisaComparison from "@/components/ComparisonCard";
 import SkillIndependence from "@/components/SkillIndependence";
-import mainImage from '@/public/main3.png'
+import mainImage from '@/public/Prepaid-Cards.webp'
 import MigrationHeroSection from "@/components/MigrationHeroSection";
 export default function Home() {
   return (
