@@ -13,7 +13,7 @@ const TopNav = () => {
     >
       <div className="flex items-center space-x-2">
         <Image src="/mail.png" alt="mail" width={20} height={20} />
-        <a href="mailto:info@edeninternational@gmail.com" className="hover:underline">info@edeninternational@gmail.com</a>
+        <a href="mailto:info.edeninternational@gmail.com" className="hover:underline">info.edeninternational@gmail.com</a>
       </div>
       <div className="flex items-center space-x-2 pr-12">
         <Image src="/phone.png" alt="phone" width={20} height={20} />

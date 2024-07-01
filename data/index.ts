@@ -461,70 +461,69 @@ export const studyInCanadaItems = [
 
 
 
-
 export const cards = [
   {
     title: "Accounting",
     imageUrl: "/i.webp",
-    description: "Description for Accounting",
+    description: "Develop skills in financial reporting, auditing, and taxation. Learn to analyze financial statements and manage budgets.",
   },
   {
     title: "Engineering & Technology",
     imageUrl: "/i-2.webp",
-    description: "Description for Engineering & Technology",
+    description: "Explore innovative solutions in fields like mechanical, civil, and electrical engineering. Gain hands-on experience in technology development.",
   },
   {
     title: "Art",
     imageUrl: "/i-3.webp",
-    description: "Description for Art",
+    description: "Delve into creative expression through various mediums. Study art history, techniques, and contemporary practices.",
   },
   {
     title: "Business Management",
     imageUrl: "/i-4.webp",
-    description: "Description for Science",
+    description: "Understand business operations, marketing, and strategy. Prepare for leadership roles in diverse organizational settings.",
   },
   {
-    title: "Communation",
+    title: "Communication",
     imageUrl: "/i-5.webp",
-    description: "Description for History",
+    description: "Learn effective communication strategies, public relations, and media dynamics. Enhance your interpersonal and writing skills.",
   },
   {
     title: "Media",
     imageUrl: "/i-6.webp",
-    description: "Description for Mathematics",
+    description: "Study the impact of digital media, journalism, and content creation. Gain skills in multimedia storytelling and production.",
   },
   {
     title: "Medicine",
     imageUrl: "/i-7.webp",
-    description: "Description for Music",
+    description: "Prepare for a career in healthcare with a focus on patient care, medical research, and clinical practices.",
   },
   {
     title: "Nursing",
     imageUrl: "/i-11.webp",
-    description: "Description for Biology",
+    description: "Train in patient care, medical procedures, and healthcare management. Join a rewarding profession dedicated to helping others.",
   },
   {
     title: "Language",
     imageUrl: "/i-9.webp",
-    description: "Description for Literature",
+    description: "Study linguistics, translation, and cross-cultural communication. Enhance your proficiency in multiple languages.",
   },
   {
-    title: "Computing & Technology ",
+    title: "Computing & Technology",
     imageUrl: "/999.webp",
-    description: "Description for Physical Education",
+    description: "Learn about software development, data analysis, and emerging technologies. Build a strong foundation in computer science.",
   },
-
   {
     title: "Education & Training",
     imageUrl: "/i-10.webp",
-    description: "Description for Geography",
+    description: "Develop teaching skills and educational theory. Prepare to inspire and educate the next generation of learners.",
   },
   {
     title: "Architecture",
     imageUrl: "/192.webp",
-    description: "Description for Chemistry",
+    description: "Explore architectural design, urban planning, and sustainable building. Gain the skills to shape the built environment.",
   },
 ];
+
 
 
 export const testimonials = [
@@ -635,7 +634,9 @@ export const countries = [
   "Croatia",
   "Turkey",
   "Malta",
-  "Germany"
+  "Germany",
+  "Philippines",
+  "Korea"
 ];
 
 
@@ -643,19 +644,19 @@ export const steps = [
   {
     step: 1,
     title: "Step One",
-    description: "Description for step one.",
+    description: "Fill In The Required Form",
     icon: "📈" // Ensure the icon property is included
   },
   {
     step: 2,
     title: "Step Two",
-    description: "Description for step two.",
+    description: "Sumbit Your Documents",
     icon: "💼" // Ensure the icon property is included
   },
   {
     step: 3,
     title: "Step Three",
-    description: "Description for step three.",
+    description: "Get Ready To Recieve your visa",
     icon: "🚀" // Ensure the icon property is included
   },
 ];

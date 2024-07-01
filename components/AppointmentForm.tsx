@@ -15,12 +15,46 @@ const AppointmentForm = () => {
     email: "",
     phone: "",
   });
+  const [loading, setLoading] = useState(false);
+  const [success, setSuccess] = useState('');
+  const [error, setError] = useState('');
 
-  const handleNext = () => {
+  const handleNext = async () => {
     if (step === 1) {
       setStep(2);
     } else {
-      // Handle form submission here
+      setLoading(true);
+      setSuccess('');
+      setError('');
+      try {
+        const response = await fetch('/api/appointments', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            appointmentType,
+            scheduleType,
+            appointmentDate,
+            appointmentTime,
+            formData,
+          }),
+        });
+
+        if (response.ok) {
+          setSuccess('Appointment scheduled successfully!');
+          setFormData({ firstName: '', lastName: '', email: '', phone: '' });
+          setAppointmentType('');
+          setScheduleType('');
+          setAppointmentDate(null);
+          setAppointmentTime('');
+          setStep(1);
+        } else {
+          setError('Error scheduling appointment');
+        }
+      } catch (error) {
+        setError('Error scheduling appointment');
+      } finally {
+        setLoading(false);
+      }
     }
   };
 
@@ -145,8 +179,9 @@ const AppointmentForm = () => {
           <button
             onClick={handleNext}
             className="bg-red-500 text-white px-4 py-2 rounded"
+            disabled={loading}
           >
-            Next
+            {loading ? "Loading..." : "Next"}
           </button>
         </div>
       )}
@@ -162,6 +197,7 @@ const AppointmentForm = () => {
               value={formData.firstName}
               onChange={handleInputChange}
               className="border p-2 rounded w-full"
+              required
             />
           </div>
           <div>
@@ -172,6 +208,7 @@ const AppointmentForm = () => {
               value={formData.lastName}
               onChange={handleInputChange}
               className="border p-2 rounded w-full"
+              required
             />
           </div>
           <div>
@@ -182,6 +219,7 @@ const AppointmentForm = () => {
               value={formData.email}
               onChange={handleInputChange}
               className="border p-2 rounded w-full"
+              required
             />
           </div>
           <div>
@@ -192,16 +230,21 @@ const AppointmentForm = () => {
               value={formData.phone}
               onChange={handleInputChange}
               className="border p-2 rounded w-full"
+              required
             />
           </div>
           <button
             onClick={handleNext}
             className="bg-red-500 text-white px-4 py-2 rounded"
+            disabled={loading}
           >
-            Submit
+            {loading ? "Submitting..." : "Submit"}
           </button>
         </div>
       )}
+
+      {success && <p className="text-green-500 mt-4">{success}</p>}
+      {error && <p className="text-red-500 mt-4">{error}</p>}
     </div>
   );
 };

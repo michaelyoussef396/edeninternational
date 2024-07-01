@@ -15,7 +15,7 @@ const TheAboutUs: React.FC = () => {
             <p className="mb-4">
               EDUCUBE was built in 2010, keeping in mind those struggling clients finding it hard to determine their career pathway abroad for onshore or offshore higher education, migration. Being a multinational company, with a head office in Sydney, equipped with worlds class consultants awarded with PIER and MARA certificates both in Sydney, Melbourne, Italy, Croatia Malta, Turkey and Bangladesh branch in order to provide our students and clients a seamless service all across the world.
             </p>
-            <Button href="https://edeninternational.in/about-us/" text="Contact Us" />
+            <Button href="/contact-us" text="Contact Us" />
           </div>
           <div className="md:w-1/2 flex justify-center md:justify-end mt-8 md:mt-0">
             <div className="relative w-full h-auto">
