@@ -18,7 +18,7 @@ const ContactForm: FC = () => {
     setSuccess('');
     setError('');
     try {
-      const response = await fetch('/api/sendEmail', {
+      const response = await fetch('/api/send', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(formData),
@@ -27,9 +27,11 @@ const ContactForm: FC = () => {
         setSuccess('Email sent successfully!');
         setFormData({ name: '', email: '', phone: '', message: '' });
       } else {
-        setError('Error sending email');
+        const result = await response.json();
+        setError(result.error || 'Error sending email');
       }
     } catch (error) {
+      console.error('Error sending email:', error);
       setError('Error sending email');
     } finally {
       setLoading(false);
