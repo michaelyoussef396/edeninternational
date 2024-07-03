@@ -48,7 +48,8 @@ const AppointmentForm = () => {
           setAppointmentTime('');
           setStep(1);
         } else {
-          setError('Error scheduling appointment');
+          const result = await response.json();
+          setError(result.error || 'Error scheduling appointment');
         }
       } catch (error) {
         setError('Error scheduling appointment');
