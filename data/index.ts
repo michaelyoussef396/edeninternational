@@ -9,14 +9,14 @@ const slides = [
     subtitle: "Student Visa",
     description: "Student visas are non-immigrant visas and do not require the applicant to gain citizenship.",
     image: "/hero1.png",
-    buttonText: "More About Us",
+    buttonText: "More Info",
     buttonLink: "/student-visa",
   },
   {
     subtitle: "Migration",
     description: "You'll be surprised to know that your experience and qualification may create pathways to skilled migration in Australia.",
     image: "/hero2.png",
-    buttonText: "More About Us",
+    buttonText: "More Info",
     buttonLink: "/migration",
   },
 ];
@@ -387,7 +387,7 @@ export const studyInAustraliaItems = [
         <li><strong>Australian Awards:</strong> The Australia Awards aim to promote knowledge, education links, and enduring ties between Australia and its neighbors through extensive scholarship programs. Scholarships are available for full tuition fees, accommodation, return air travel, establishment allowance, and health cover.</li>
         <li><strong>International Postgraduate Research Scholarships (IPRS):</strong>The IPRS program enables international students to undertake a postgraduate research qualification in Australia and gain experience with leading Australian researchers. The scholarships are available for a period of two years for a Masters by research degree or AUD three years for a Doctorate by Research degree. The scholarship covers tuition fees and health cover costs.</li>
         <li><strong>Macquarie University International Scholarships:</strong>TThe Macquarie University Vice-Chancellor’s International Scholarship provides a partial tuition fee scholarship for outstanding students to study an undergraduate or postgraduate degree at Macquarie University North Ryde campus. The scholarship amount is varied up to AUD $10,000.</li>
-        <li><strong>Adelaide Scholarships International:</strong>The University of Adelaide offers the Adelaide Scholarships International (ASI) program to attract high quality international postgraduate students to areas of research strength in the University of Adelaide to support its research effort. The scholarships include course tuition fees, annual living allowance, and health insurance. **Note: Educube Bangladesh assist students to get these all aforementioned scholarships package.</li>  
+        <li><strong>Adelaide Scholarships International:</strong>The University of Adelaide offers the Adelaide Scholarships International (ASI) program to attract high quality international postgraduate students to areas of research strength in the University of Adelaide to support its research effort. The scholarships include course tuition fees, annual living allowance, and health insurance. **Note: Eden International Bangladesh assist students to get these all aforementioned scholarships package.</li>  
         </ul>
     `,
   },
@@ -528,13 +528,13 @@ export const cards = [
 export const testimonials = [
   {
     quote:
-      "Finally I've received my visa, thanks a lot to Educube for helping me at this field. I've a great experience with this organisation. Staff of Educube is very helping. I will suggest my friends to apply through Educube only.",
+      "Finally I've received my visa, thanks a lot to for helping me at this field. I've a great experience with this organisation. Staff of Eden International is very helping. I will suggest my friends to apply through Eden International only.",
     name: "Shakil Alom",
     imageUrl: "/img-01-alom-1-150x150.webp"
   },
   {
     quote:
-      "I will be recommending Educube Services to any other trades that are in my situation. This service saved me countless hours of having to resist a college course. Great organization!!",
+      "I will be recommending Eden International Services to any other trades that are in my situation. This service saved me countless hours of having to resist a college course. Great organization!!",
     name: "Lisa",
     imageUrl: "/6-1-1-150x150.webp",
   },
@@ -546,7 +546,7 @@ export const testimonials = [
   },
   {
     quote:
-      "I was just delighted when I got the Visa. I want to give all credit to Educube Pty Ltd. because of their proper initiative. They are too much friendly about the student Visa processing. If anyone wants to go to abroad then feel free to contact with EDUCUBE.",
+      "I was just delighted when I got the Visa. I want to give all credit to Eden International Pty Ltd. because of their proper initiative. They are too much friendly about the student Visa processing. If anyone wants to go to abroad then feel free to contact with EDUCUBE.",
     name: "Arafat Hossain Akib",
     imageUrl: "/7-1-150x150.webp",
   },
@@ -585,7 +585,7 @@ export const OffShores = [
 export const OnShores = [
   {
     title: "Course Change",
-    description: "Educube helps you to choose a suitable course or change a course which is already running.",
+    description: "Eden International helps you to choose a suitable course or change a course which is already running.",
     icon: "/img-11-01-1.webp", // Replace with the appropriate icon if available
   },
   {

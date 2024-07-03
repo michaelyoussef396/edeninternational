@@ -46,13 +46,13 @@ const AboutUs: React.FC = () => {
             animate={textControls}
             variants={textAnimation}
           >
-            <span className="text-xl font-semibold text-red-600">Who we are?</span>
+            <span className="text-xl font-semibold text-red-600 block md:inline">Who we are?</span>
             <h2 className="text-3xl font-bold mb-4">A Few Words About Us</h2>
             <p className="mb-4">
               EDEN INTERNATIONAL was built in 2010, keeping in mind those struggling clients finding it hard to determine their career pathway abroad for onshore or offshore higher education, migration. Being a multinational company, with a head office in Sydney, equipped with worlds class consultants awarded with PIER and MARA certificates both in Sydney, Melbourne, Italy, Croatia Malta, Turke and Bangladesh branch in order to provide our students and clients a seamless service all across the world.
             </p>
             <motion.ul
-              className="list-none text-left space-y-2"
+              className="list-none text-left md:text-left space-y-2 mx-auto md:mx-0"
               ref={listRef}
               initial="hidden"
               animate={listControls}
@@ -65,7 +65,7 @@ const AboutUs: React.FC = () => {
               ].map((item, index) => (
                 <motion.li
                   key={index}
-                  className="flex items-center text-base"
+                  className="flex items-center text-base justify-center md:justify-start"
                   variants={listItemAnimation}
                 >
                   <Image src="/tick.png" alt="Tick" width={20} height={20} className="mr-2" />
@@ -73,7 +73,7 @@ const AboutUs: React.FC = () => {
                 </motion.li>
               ))}
             </motion.ul>
-            <div className="mt-4">
+            <div className="mt-4 text-center md:text-left">
               <Button href="/about-us" text="About More" />
             </div>
           </motion.div>

@@ -13,20 +13,20 @@ const PointCalc = () => {
   ];
 
   return (
-    <div className="flex justify-center items-center min-h-screen bg-gray-100">
-      <div className="w-full max-w-4xl p-8 bg-white rounded-lg shadow-md flex">
-        <div className="w-1/3 p-4">
-          <h2 className="text-2xl font-bold">Other Useful Links</h2>
-          <ul className="space-y-2 mt-4">
+    <div className="flex justify-center items-center min-h-screen bg-gray-100 p-4">
+      <div className="w-full max-w-4xl p-8 bg-white rounded-lg shadow-md flex flex-col md:flex-row">
+        <div className="w-full md:w-1/3 p-4 border-r md:border-r-0 md:border-b border-gray-200">
+          <h2 className="text-2xl font-bold text-center md:text-left">Other Useful Links</h2>
+          <ul className="space-y-2 mt-4 text-center md:text-left">
             {links.map((item, index) => (
-              <li key={index} className="flex items-center">
+              <li key={index} className="flex items-center justify-center md:justify-start">
                 <span className="text-red-500 mr-2">✔</span>
-                  <a href={item.url}>{item.name}</a>
+                  <a href={item.url} className="text-red-500 hover:underline">{item.name}</a>
               </li>
             ))}
           </ul>
         </div>
-        <div className="w-2/3 p-4">
+        <div className="w-full md:w-2/3 p-4 mt-8 md:mt-0">
           <AppointmentForm />
         </div>
       </div>

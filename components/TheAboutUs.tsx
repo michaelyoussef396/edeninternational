@@ -13,7 +13,7 @@ const TheAboutUs: React.FC = () => {
             <span className="text-xl font-semibold text-red-600">WHO WE ARE?</span>
             <h2 className="text-3xl font-bold mb-4">A Few Words About Us</h2>
             <p className="mb-4">
-              EDUCUBE was built in 2010, keeping in mind those struggling clients finding it hard to determine their career pathway abroad for onshore or offshore higher education, migration. Being a multinational company, with a head office in Sydney, equipped with worlds class consultants awarded with PIER and MARA certificates both in Sydney, Melbourne, Italy, Croatia Malta, Turkey and Bangladesh branch in order to provide our students and clients a seamless service all across the world.
+            EDEN INTERNATIONAL was built in 2010, keeping in mind those struggling clients finding it hard to determine their career pathway abroad for onshore or offshore higher education, migration. Being a multinational company, with a head office in Sydney, equipped with worlds class consultants awarded with PIER and MARA certificates both in Sydney, Melbourne, Italy, Croatia Malta, Turkey and Bangladesh branch in order to provide our students and clients a seamless service all across the world.
             </p>
             <Button href="/contact-us" text="Contact Us" />
           </div>

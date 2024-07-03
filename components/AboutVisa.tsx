@@ -2,7 +2,7 @@ import React from 'react';
 
 const AboutVisa: React.FC = () => {
   return (
-    <div className="container mx-auto px-4 md:px-20 py-12">
+    <div className="container mx-auto px-4 md:px-20 py-12 text-center md:text-left">
       <h2 className="text-4xl font-bold text-center mb-8">ABOUT THIS VISA</h2>
       <p className="mb-6">
         The Skilled Nomination Visa Subclass 190 is a permanent visa, which allows skilled workers to live in Australia, based on nomination by an Australian State or Territory Government.
@@ -27,7 +27,7 @@ const AboutVisa: React.FC = () => {
       <p className="mb-6">
         At the time that you are invited to apply for this visa, you must:
       </p>
-      <ul className="list-disc list-inside mb-6">
+      <ul className="list-disc list-inside mb-6 mx-auto md:mx-0 max-w-xs md:max-w-full">
         <li>Be under 45 years of age</li>
         <li>Nominate an occupation that is included on the relevant Occupation List (MLTSSL)</li>
         <li>Lodge an EOI and receive an invitation</li>
@@ -40,7 +40,7 @@ const AboutVisa: React.FC = () => {
       <p className="mb-6">
         Once granted, the Skilled Nomination Visa is a permanent visa which allows the applicant and accompanying family members to:
       </p>
-      <ul className="list-disc list-inside mb-6">
+      <ul className="list-disc list-inside mb-6 mx-auto md:mx-0 max-w-xs md:max-w-full">
         <li>Live and work anywhere in Australia indefinitely, with no restrictions</li>
         <li>Study in Australia, with access to subsidised education</li>
         <li>Access to Medicare</li>
@@ -63,7 +63,7 @@ const AboutVisa: React.FC = () => {
       <p className="mb-6">
         <strong>The following can be added:</strong>
       </p>
-      <ul className="list-disc list-inside mb-6">
+      <ul className="list-disc list-inside mb-6 mx-auto md:mx-0 max-w-xs md:max-w-full">
         <li>Spouses, De facto partners, and same-sex partners</li>
         <li>Dependent children</li>
         <li>Other dependent family members – e.g. parents who live with you and are financially dependent</li>

@@ -41,8 +41,8 @@ const Footer = () => {
               </a>
             </div>
           </div>
-          <div className='mt-9 ml-7'>
-            <ul className='text-lg ml-8'>
+          <div className='flex flex-col items-center md:items-start mt-9'>
+            <ul className='text-lg'>
               <li className="mb-2">
                 <a href="/Professional-year" className="hover:text-heroRed">Explore</a>
               </li>
@@ -54,8 +54,8 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-          <div className='mt-9 mr-9'>
-            <ul className='text-lg  ml-8'>
+          <div className='flex flex-col items-center md:items-start mt-9'>
+            <ul className='text-lg'>
               <li className="mb-2">
                 <a href="/point-calculation" className="hover:text-heroRed">Useful Links</a>
               </li>
@@ -67,7 +67,7 @@ const Footer = () => {
               </li>
             </ul>
           </div>
-          <div>
+          <div className="flex flex-col items-center md:items-start">
             <h2 className="font-semibold mb-4">Recent Projects</h2>
             <div className="grid grid-cols-3 gap-2">
               <Image src="/footer-1.png" alt="Project 1" width={64} height={64} />

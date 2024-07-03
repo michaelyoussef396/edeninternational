@@ -1,9 +1,8 @@
 const WhyStudyInCanada = () => {
   return (
-    <div className="relative h-96 bg-white"> {/* Adjust the height as needed */}
-
+    <div className="relative h-96 bg-white flex items-center justify-center"> {/* Adjust the height as needed */}
       <div className="absolute inset-0 flex flex-col items-center justify-center px-4">
-        <h1 className="text-4xl md:text-5xl font-bold text-black mb-4">
+        <h1 className="text-4xl md:text-5xl font-bold text-black mb-4 text-center">
           WHY STUDY IN <span className="text-red-500">CANADA?</span>
         </h1>
         <p className="text-lg text-black text-center max-w-2xl">
@@ -11,7 +10,7 @@ const WhyStudyInCanada = () => {
         </p>
       </div>
     </div>
-  )
-}
+  );
+};
 
 export default WhyStudyInCanada;

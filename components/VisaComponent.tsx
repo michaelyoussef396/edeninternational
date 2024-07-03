@@ -2,7 +2,7 @@ import React from 'react';
 
 const VisaComponent: React.FC = () => {
   return (
-    <div className="container mx-auto px-4 md:px-20 py-12">
+    <div className="container mx-auto px-4 md:px-20 py-12 text-center md:text-left">
       <div className="mt-8">
         <section className="mb-8">
           <h2 className="text-4xl font-bold text-center mb-8">SKILLED INDEPENDENT VISA</h2>
@@ -13,7 +13,7 @@ const VisaComponent: React.FC = () => {
 
         <section className="mb-8">
           <h3 className="text-2xl font-bold mb-4">HOW DO I QUALIFY FOR A SUBCLASS 189 VISA?</h3>
-          <ul className="list-decimal list-inside mb-6">
+          <ul className="list-decimal list-inside mb-6 mx-auto md:mx-0 max-w-xs md:max-w-full">
             <li>Be under 45 years of age</li>
             <li>Nominate an occupation that is included on the relevant Occupation List (MLTSSL)</li>
             <li>Have your skills assessed by the appropriate Australian skills assessing authority as suitable for your nominated occupation</li>
@@ -23,7 +23,7 @@ const VisaComponent: React.FC = () => {
 
         <section className="mb-8">
           <h3 className="text-2xl font-bold mb-4">WHAT THIS VISA ALLOWS YOU TO DO:</h3>
-          <ul className="list-disc list-inside mb-6">
+          <ul className="list-disc list-inside mb-6 mx-auto md:mx-0 max-w-xs md:max-w-full">
             <li>Live and work anywhere in Australia indefinitely</li>
             <li>Study in Australia, with access to subsidised education</li>
             <li>Access to Medicare</li>

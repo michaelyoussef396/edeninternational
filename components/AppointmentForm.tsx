@@ -105,13 +105,14 @@ const AppointmentForm = () => {
       {step === 1 && (
         <div className="space-y-4">
           <h2 className="text-xl font-bold">Appointment Schedule</h2>
-          <div>
-            <label className="mr-4">
+          <div className="flex flex-col items-center md:items-start">
+            <label className="mb-2">
               <input
                 type="radio"
                 value="Phone"
                 checked={appointmentType === "Phone"}
                 onChange={(e) => setAppointmentType(e.target.value)}
+                className="mr-2"
               />
               Phone or Online Consultation
             </label>
@@ -121,17 +122,19 @@ const AppointmentForm = () => {
                 value="Face"
                 checked={appointmentType === "Face"}
                 onChange={(e) => setAppointmentType(e.target.value)}
+                className="mr-2"
               />
               Face to Face Consultation
             </label>
           </div>
-          <div>
-            <label className="mr-4">
+          <div className="flex flex-col items-center md:items-start mt-4">
+            <label className="mb-2">
               <input
                 type="radio"
                 value="Professional"
                 checked={scheduleType === "Professional"}
                 onChange={(e) => setScheduleType(e.target.value)}
+                className="mr-2"
               />
               Professional Development - RPL
             </label>
@@ -141,22 +144,24 @@ const AppointmentForm = () => {
                 value="Migration"
                 checked={scheduleType === "Migration"}
                 onChange={(e) => setScheduleType(e.target.value)}
+                className="mr-2"
               />
               Migration Team
             </label>
-            <label className="ml-4">
+            <label className="ml-0 md:ml-4">
               <input
                 type="radio"
                 value="Admission"
                 checked={scheduleType === "Admission"}
                 onChange={(e) => setScheduleType(e.target.value)}
+                className="mr-2"
               />
               Admission Team
             </label>
           </div>
-          <div>
-            <label>Choose Date & Time</label>
-            <div className="flex space-x-4">
+          <div className="flex flex-col items-center md:items-start mt-4">
+            <label className="mb-2">Choose Date & Time</label>
+            <div className="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4">
               <DatePicker
                 selected={appointmentDate}
                 onChange={(date) => setAppointmentDate(date)}
@@ -177,13 +182,15 @@ const AppointmentForm = () => {
               </select>
             </div>
           </div>
-          <button
-            onClick={handleNext}
-            className="bg-red-500 text-white px-4 py-2 rounded"
-            disabled={loading}
-          >
-            {loading ? "Loading..." : "Next"}
-          </button>
+          <div className="flex justify-center md:justify-start mt-4">
+            <button
+              onClick={handleNext}
+              className="bg-red-500 text-white px-4 py-2 rounded"
+              disabled={loading}
+            >
+              {loading ? "Loading..." : "Next"}
+            </button>
+          </div>
         </div>
       )}
 
@@ -191,7 +198,7 @@ const AppointmentForm = () => {
         <div className="space-y-4">
           <h2 className="text-xl font-bold">Personal Information</h2>
           <div>
-            <label>First Name</label>
+            <label className="block mb-2">First Name</label>
             <input
               type="text"
               name="firstName"
@@ -202,7 +209,7 @@ const AppointmentForm = () => {
             />
           </div>
           <div>
-            <label>Last Name</label>
+            <label className="block mb-2">Last Name</label>
             <input
               type="text"
               name="lastName"
@@ -213,7 +220,7 @@ const AppointmentForm = () => {
             />
           </div>
           <div>
-            <label>Email</label>
+            <label className="block mb-2">Email</label>
             <input
               type="email"
               name="email"
@@ -224,7 +231,7 @@ const AppointmentForm = () => {
             />
           </div>
           <div>
-            <label>Phone Number</label>
+            <label className="block mb-2">Phone Number</label>
             <input
               type="tel"
               name="phone"
@@ -234,13 +241,15 @@ const AppointmentForm = () => {
               required
             />
           </div>
-          <button
-            onClick={handleNext}
-            className="bg-red-500 text-white px-4 py-2 rounded"
-            disabled={loading}
-          >
-            {loading ? "Submitting..." : "Submit"}
-          </button>
+          <div className="flex justify-center md:justify-start mt-4">
+            <button
+              onClick={handleNext}
+              className="bg-red-500 text-white px-4 py-2 rounded"
+              disabled={loading}
+            >
+              {loading ? "Submitting..." : "Submit"}
+            </button>
+          </div>
         </div>
       )}
 

@@ -36,7 +36,7 @@ const ContentSection: React.FC<ContentSectionProps> = ({
       className={`flex flex-col ${textFirst} items-center justify-center py-8 px-4 md:px-16 ${backgroundColor} ${textColor}`}
       style={sectionStyle}
     >
-      <div className="w-full md:w-1/2 text-left md:pr-8 mb-8 md:mb-0">
+      <div className="w-full md:w-1/2 text-center md:text-left md:pr-8 mb-8 md:mb-0">
         <h1 className="text-4xl md:text-5xl font-bold mb-4 break-words">
           {title} <span className="text-red-500">{highlightText}</span>
         </h1>

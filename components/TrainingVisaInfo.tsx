@@ -2,7 +2,7 @@ import React from 'react';
 
 const TrainingVisaInfo = () => {
   return (
-    <div className="container mx-auto py-12 px-4">
+    <div className="container mx-auto py-12 px-4 text-center md:text-left">
       <h1 className="text-4xl font-bold mb-4">ABOUT THIS VISA</h1>
       <p className="mb-8">
         The Training visa subclass 407 is a temporary visa for people in Australia who want to undergo job or work training in Australia. This visa helps the holder to develop their skills in their current profession, area of tertiary study or field of expertise. The visa is generally valid for stay in Australia for up to 2 years.
@@ -12,7 +12,7 @@ const TrainingVisaInfo = () => {
       <p className="mb-4">
         To be eligible for the training visa you must:
       </p>
-      <ul className="list-disc list-inside mb-8">
+      <ul className="list-disc list-inside mb-8 mx-auto md:mx-0 max-w-xs md:max-w-full">
         <li>be sponsored by an approved sponsor, to participate in relevant professional development or occupational training programs directly from the sponsor</li>
         <li>have been nominated for an approved occupation position by an approved Australian temporary activities sponsor, and that nomination has been approved</li>
         <li>be invited to apply for the visa, if the sponsor is a Commonwealth agency</li>
@@ -41,7 +41,7 @@ const TrainingVisaInfo = () => {
       <p className="mb-8">
         This is a temporary visa which allows the holder to:
       </p>
-      <ul className="list-disc list-inside mb-8">
+      <ul className="list-disc list-inside mb-8 mx-auto md:mx-0 max-w-xs md:max-w-full">
         <li>Temporarily live in Australia for up to 2 years and complete the training specified in your application</li>
         <li>Leave and re-enter Australia frequently till the visa is valid</li>
         <li>Bring eligible family members to accompany you in Australia</li>

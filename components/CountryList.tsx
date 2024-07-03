@@ -24,7 +24,7 @@ const CountryList: React.FC = () => {
   const secondHalf = countries.slice(half);
 
   return (
-    <section className="relative pt-16 bg-white" ref={sectionRef}>
+    <section className="relative pt-16 bg-white md:text-left text-center" ref={sectionRef}>
       <div className="absolute inset-0 z-0">
         <Image 
           src="/shape-7.jpg" // make sure this image path is correct
@@ -35,12 +35,12 @@ const CountryList: React.FC = () => {
         />
       </div>
       <motion.div
-        className="relative max-w-6xl mx-auto p-6 md:p-12 flex flex-col md:flex-row items-center z-10"
+        className="relative max-w-6xl mx-auto p-6 md:p-12 flex flex-col md:flex-row md:items-start items-center z-10"
         initial="hidden"
         animate={sectionControls}
         variants={sectionTitleAnimation}
       >
-        <div className="md:w-1/2">
+        <div className="w-full md:w-1/2">
           <motion.div
             ref={listRef}
             initial="hidden"
@@ -69,7 +69,7 @@ const CountryList: React.FC = () => {
           </motion.div>
         </div>
         <motion.div
-          className="md:w-1/2 flex justify-center md:justify-end mt-8 md:mt-0"
+          className="w-full md:w-1/2 flex justify-center md:justify-end mt-8 md:mt-0 hidden md:block"
           ref={imageRef}
           initial="hidden"
           animate={imageControls}

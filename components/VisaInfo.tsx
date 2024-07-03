@@ -2,7 +2,7 @@ import React from 'react';
 
 const VisaInfo = () => {
   return (
-    <div className="p-8">
+    <div className="container mx-auto px-4 py-8 text-center md:text-left">
       <h1 className="text-2xl font-bold mb-4">ABOUT THIS VISA</h1>
       <p className="mb-4">
         The Temporary Graduate Subclass 485 Visa is a temporary visa for International students, who have recently graduated from an Australian educational institution.
@@ -10,7 +10,7 @@ const VisaInfo = () => {
 
       <h2 className="text-xl font-bold mb-4">HOW DO I QUALIFY FOR A SUBCLASS 190 VISA?</h2>
       <p className="mb-4">At the time that you are invited to apply for this visa, you must:</p>
-      <ul className="list-disc list-inside mb-4">
+      <ul className="list-disc list-inside mb-4 mx-auto md:mx-0 max-w-xs md:max-w-full">
         <li>Be under 45 years of age</li>
         <li>Nominate an occupation that is included on the relevant Occupation List (MLTSSL)</li>
         <li>Lodge an EOI and receive an invitation</li>
@@ -22,7 +22,7 @@ const VisaInfo = () => {
 
       <h2 className="text-xl font-bold mb-4">WHAT THIS VISA ALLOWS YOU TO DO:</h2>
       <p className="mb-4">The Subclass 491 visa provides the holder with temporary residency in Australia, with conditions.</p>
-      <ul className="list-disc list-inside mb-4">
+      <ul className="list-disc list-inside mb-4 mx-auto md:mx-0 max-w-xs md:max-w-full">
         <li>The holder can live, work and study in a specified region of Australia for 5 years from the visa grant date</li>
         <li>The holder can travel freely to and from Australia while the visa is valid</li>
         <li>The holder may have the opportunity to apply for permanent residency through the Permanent Residence Skilled Regional Visa Subclass 191, which will commence on 16 November 2022</li>
@@ -35,7 +35,7 @@ const VisaInfo = () => {
 
       <h2 className="text-xl font-bold mb-4">DURATION AND CONDITIONS</h2>
       <p className="mb-4">This is a 5-year provisional visa allowing him and his/her dependents to live, work or study in any regional or low populated areas. The approved regional areas vary depending on whether s/he is sponsored by a relative or by a State or Territory Government:</p>
-      <ul className="list-disc list-inside mb-4">
+      <ul className="list-disc list-inside mb-4 mx-auto md:mx-0 max-w-xs md:max-w-full">
         <li><strong>State or Territory Government:</strong> s/he can only live in a Regional or Low Population Growth Area</li>
         <li><strong>Relative:</strong> S/He can live in a Designated Area</li>
       </ul>
