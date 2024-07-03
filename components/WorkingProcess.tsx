@@ -1,10 +1,12 @@
-"use client"
+"use client";
 import { steps } from '@/data';
 import React from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { circleAnimation, textAnimation } from '@/utils/Animations';
 import Image from 'next/image';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCheckCircle, faUser, faClock } from '@fortawesome/free-solid-svg-icons';
 
 const WorkingProcess: React.FC = () => {
   const { ref: sectionRef, inView: sectionInView } = useInView({ triggerOnce: true });
@@ -12,6 +14,8 @@ const WorkingProcess: React.FC = () => {
   const sectionControls = useAnimation();
 
   if (sectionInView) sectionControls.start("visible");
+
+  const icons = [faCheckCircle, faUser, faClock];
 
   return (
     <section className="relative py-16 bg-gray-100" ref={sectionRef}>
@@ -41,12 +45,15 @@ const WorkingProcess: React.FC = () => {
               animate={sectionControls}
               variants={circleAnimation}
             >
-              <div className="relative bg-white p-8 rounded-full shadow-lg w-56 h-56 flex items-center justify-center">
-                <div className="absolute top-[-2rem] right-[-2rem] w-20 h-20 bg-red-600 text-white rounded-full flex items-center justify-center text-2xl font-bold">
+              <div className="relative bg-white p-8 rounded-full shadow-lg w-56 h-56 flex flex-col items-center justify-center">
+                <div className="text-4xl text-red-600 mb-4">
+                  <FontAwesomeIcon icon={icons[index]} />
+                </div>
+                <div className="absolute top-[-2rem] right-[-2rem] w-10 h-10 bg-red-600 text-white rounded-full flex items-center justify-center text-2xl font-bold">
                   <span>{step.step}</span>
                 </div>
                 <motion.div
-                  className="text-center flex flex-col items-center mt-8"
+                  className="text-center flex flex-col items-center mt-2"
                   initial="hidden"
                   animate={sectionControls}
                   variants={textAnimation}

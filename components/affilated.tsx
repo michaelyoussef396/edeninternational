@@ -7,15 +7,21 @@ const Affiliated = () => {
         <h2 className="text-4xl font-bold mb-8">Affiliated Institutions</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 text-black">
           {institutions.map((institution, index) => (
-            <div key={index} className="flex items-start p-4 border border-gray-200 rounded-lg shadow-sm bg-white">
+            <a
+              key={index}
+              href={institution.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-start p-4 border border-gray-200 rounded-lg shadow-sm bg-white"
+            >
               <span className="text-red-500 mr-2">●</span>
-              <p className="text-left">{institution}</p>
-            </div>
+              <p className="text-left">{institution.name}</p>
+            </a>
           ))}
         </div>
       </div>
     </div>
   );
-}
+};
 
 export default Affiliated;
