@@ -1,57 +1,58 @@
+"use client";
 import Image from 'next/image';
-
-const steps = [
-  {
-    number: '01',
-    title: 'File Submission',
-    description: (
-      <ul className="text-left list-disc list-inside">
-        <li>Passport</li>
-        <li>Passport Size Photographs</li>
-        <li>Academic Documents</li>
-        <li>Birth Certificate</li>
-        <li>NID (English Translated)</li>
-        <li>Application Fees</li>
-        <li>SOP (Statement of Purpose)</li>
-        <li>Resume/CV</li>
-        <li>IELTS/TOEFL Certificate</li>
-      </ul>
-    ),
-    color: 'bg-red-500',
-  },
-  {
-    number: '02',
-    title: 'Offer Letter',
-    description: 'Receive an Offer Letter from the University for Admission upon successful G.T.E. Assessment.',
-    color: 'bg-orange-500',
-  },
-  {
-    number: '03',
-    title: 'G.T.E. Assessment',
-    description: 'Financial and other documents investigation and interview with the university.',
-    color: 'bg-green-500',
-  },
-  {
-    number: '04',
-    title: 'COE Confirmation',
-    description: 'Successful enrollment in university and payment confirmation.',
-    color: 'bg-blue-500',
-  },
-  {
-    number: '05',
-    title: 'Visa Lodgement',
-    description: 'Submit visa application and required documents.',
-    color: 'bg-purple-500',
-  },
-  {
-    number: '06',
-    title: 'Successful Visa',
-    description: 'Receive visa approval and prepare for travel.',
-    color: 'bg-yellow-500', // Changed to a different color
-  },
-];
+import { useTranslations } from "next-intl";
 
 const QuickSteps = () => {
+  const t = useTranslations('quickSteps');
+
+  // Define the type for the description items
+  const fileSubmissionDescription: string[] = t.raw('fileSubmission.description') as string[];
+
+  const steps = [
+    {
+      number: '01',
+      title: t('fileSubmission.title'),
+      description: (
+        <ul className="text-left list-disc list-inside">
+          {fileSubmissionDescription.map((item: string, index: number) => (
+            <li key={index}>{item}</li>
+          ))}
+        </ul>
+      ),
+      color: 'bg-red-500',
+    },
+    {
+      number: '02',
+      title: t('offerLetter.title'),
+      description: t('offerLetter.description'),
+      color: 'bg-orange-500',
+    },
+    {
+      number: '03',
+      title: t('gteAssessment.title'),
+      description: t('gteAssessment.description'),
+      color: 'bg-green-500',
+    },
+    {
+      number: '04',
+      title: t('coeConfirmation.title'),
+      description: t('coeConfirmation.description'),
+      color: 'bg-blue-500',
+    },
+    {
+      number: '05',
+      title: t('visaLodgement.title'),
+      description: t('visaLodgement.description'),
+      color: 'bg-purple-500',
+    },
+    {
+      number: '06',
+      title: t('successfulVisa.title'),
+      description: t('successfulVisa.description'),
+      color: 'bg-yellow-500', // Changed to a different color
+    },
+  ];
+
   return (
     <div className="relative bg-black py-12 px-4 md:px-20">
       <div className="absolute inset-0">
@@ -66,7 +67,7 @@ const QuickSteps = () => {
       </div>
       <div className="relative z-10 text-center mb-8">
         <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
-          QUICK STEPS OF <span className="text-red-500">ADMISSION PROCESS</span>
+          {t('title')} <span className="text-red-500">{t('highlight')}</span>
         </h1>
       </div>
       <div className="relative z-10 grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -83,7 +84,7 @@ const QuickSteps = () => {
       </div>
       <div className="relative z-10 flex justify-center mt-8">
         <button className="bg-red-500 text-white font-bold py-2 px-4 rounded">
-          Click here to see the full visa process
+          {t('buttonText')}
         </button>
       </div>
     </div>

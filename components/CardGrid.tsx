@@ -1,9 +1,8 @@
-// components/CardGrid.tsx
 "use client";
 import { FC, useState } from "react";
 import { motion } from "framer-motion";
 import Image from "next/image";
-import { cards } from "@/data";
+import { useTranslations } from "next-intl";
 
 interface CardProps {
   title: string;
@@ -53,7 +52,70 @@ const Card: FC<CardProps> = ({ title, imageUrl, description }) => {
 };
 
 const CardGrid: FC = () => {
-  
+  const t = useTranslations("cards");
+
+  const cards = [
+    {
+      title: t("0.title"),
+      imageUrl: t("0.imageUrl"),
+      description: t("0.description"),
+    },
+    {
+      title: t("1.title"),
+      imageUrl: t("1.imageUrl"),
+      description: t("1.description"),
+    },
+    {
+      title: t("2.title"),
+      imageUrl: t("2.imageUrl"),
+      description: t("2.description"),
+    },
+    {
+      title: t("3.title"),
+      imageUrl: t("3.imageUrl"),
+      description: t("3.description"),
+    },
+    {
+      title: t("4.title"),
+      imageUrl: t("4.imageUrl"),
+      description: t("4.description"),
+    },
+    {
+      title: t("5.title"),
+      imageUrl: t("5.imageUrl"),
+      description: t("5.description"),
+    },
+    {
+      title: t("6.title"),
+      imageUrl: t("6.imageUrl"),
+      description: t("6.description"),
+    },
+    {
+      title: t("7.title"),
+      imageUrl: t("7.imageUrl"),
+      description: t("7.description"),
+    },
+    {
+      title: t("8.title"),
+      imageUrl: t("8.imageUrl"),
+      description: t("8.description"),
+    },
+    {
+      title: t("9.title"),
+      imageUrl: t("9.imageUrl"),
+      description: t("9.description"),
+    },
+    {
+      title: t("10.title"),
+      imageUrl: t("10.imageUrl"),
+      description: t("10.description"),
+    },
+    {
+      title: t("11.title"),
+      imageUrl: t("11.imageUrl"),
+      description: t("11.description"),
+    },
+  ];
 
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 p-4">

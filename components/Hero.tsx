@@ -1,11 +1,31 @@
 "use client";
 import React, { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import slides from "@/data";
+import { useTranslations } from "next-intl";
 import { slideShow, subtitleAnimation, descriptionAnimation, buttonAnimation } from "@/utils/Animations";
 import Button from "@/components/Button"; // Adjust the import path as necessary
+import { Slide } from "@/data/types";
 
-const Hero = () => {
+const Hero: React.FC = () => {
+  const t = useTranslations('hero');
+  
+  const slides: Slide[] = [
+    {
+      subtitle: t('slide1.subtitle'),
+      description: t('slide1.description'),
+      image: t('slide1.image'),
+      buttonText: t('slide1.buttonText'),
+      buttonLink: t('slide1.buttonLink')
+    },
+    {
+      subtitle: t('slide2.subtitle'),
+      description: t('slide2.description'),
+      image: t('slide2.image'),
+      buttonText: t('slide2.buttonText'),
+      buttonLink: t('slide2.buttonLink')
+    }
+  ];
+
   const [currentSlide, setCurrentSlide] = useState(0);
 
   useEffect(() => {
@@ -14,7 +34,7 @@ const Hero = () => {
     }, 6000); // Change slide every 6 seconds
 
     return () => clearInterval(interval); // Cleanup interval on component unmount
-  }, []);
+  }, [slides.length]);
 
   return (
     <div className="relative h-screen overflow-hidden">

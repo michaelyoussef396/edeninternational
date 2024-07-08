@@ -1,12 +1,60 @@
 "use client";
-import { OnShores, OffShores } from "@/data";
 import React from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { slideInFromTop, slideInFromBottom, slideInFromLeft, slideInFromRight } from '@/utils/Animations';
 import Image from 'next/image';
+import { useTranslations } from "next-intl";
 
 const ShoreServices: React.FC = () => {
+  const t = useTranslations("shoreServices");
+
+  const OffShores = [
+    {
+      title: t("offShores.0.title"),
+      description: t("offShores.0.description"),
+      icon: "/img-11-05-1.webp",
+    },
+    {
+      title: t("offShores.1.title"),
+      description: t("offShores.1.description"),
+      icon: "/img-11-06-1.webp",
+    },
+    {
+      title: t("offShores.2.title"),
+      description: t("offShores.2.description"),
+      icon: "/img-11-07-1.webp",
+    },
+    {
+      title: t("offShores.3.title"),
+      description: t("offShores.3.description"),
+      icon: "/img-11-08-1.webp",
+    },
+  ];
+
+  const OnShores = [
+    {
+      title: t("onShores.0.title"),
+      description: t("onShores.0.description"),
+      icon: "/img-11-01-1.webp",
+    },
+    {
+      title: t("onShores.1.title"),
+      description: t("onShores.1.description"),
+      icon: "/img-11-02-1.webp",
+    },
+    {
+      title: t("onShores.2.title"),
+      description: t("onShores.2.description"),
+      icon: "/img-11-03-1.webp",
+    },
+    {
+      title: t("onShores.3.title"),
+      description: t("onShores.3.description"),
+      icon: "/img-11-04-1.webp",
+    },
+  ];
+
   const titleControls = useAnimation();
   const subtitleControls = useAnimation();
   const { ref: titleRef, inView: titleInView } = useInView({ triggerOnce: true });
@@ -32,8 +80,8 @@ const ShoreServices: React.FC = () => {
           animate={titleControls}
           variants={slideInFromTop}
         >
-          <span className="text-black">OUR ON SHORE </span>
-          <span className="text-red-500">SERVICES</span>
+          <span className="text-black">{t("onShoreTitle").split(" ")[0]} </span>
+          <span className="text-red-500">{t("onShoreTitle").split(" ").slice(1).join(" ")}</span>
         </motion.h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {OnShores.map((OnShore, index) => {
@@ -66,8 +114,8 @@ const ShoreServices: React.FC = () => {
           animate={titleControls}
           variants={slideInFromTop}
         >
-          <span className="text-black">OUR OFF SHORE </span>
-          <span className="text-red-500">SERVICES</span>
+          <span className="text-black">{t("offShoreTitle").split(" ")[0]} </span>
+          <span className="text-red-500">{t("offShoreTitle").split(" ").slice(1).join(" ")}</span>
         </motion.h2>
         <motion.p
           ref={subtitleRef}
@@ -76,7 +124,7 @@ const ShoreServices: React.FC = () => {
           animate={subtitleControls}
           variants={slideInFromBottom}
         >
-          FOR INTERNATIONAL STUDENTS
+          {t("forInternationalStudents")}
         </motion.p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           {OffShores.map((OffShore, index) => {

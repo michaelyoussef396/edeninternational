@@ -79,9 +79,9 @@ const HamburgerMenu = () => {
                   className="absolute left-full top-0 bg-white shadow-lg p-4 rounded-md overflow-y-auto max-h-64"
                 >
                   <div className="flex flex-col space-y-4 text-sm pl-4">
-                    <HoveredLink href="/temporary-skill-shortage-tss-visa-subclass-482" className="text-red-600" onClick={toggleMenu}>Temporary Skilled Shortage Tss Visa Subclass 482 (AUS)</HoveredLink>
+                    <HoveredLink href="/temporary-skill-shortage-TSS-visa-subclass-482" className="text-red-600" onClick={toggleMenu}>Temporary Skilled Shortage TSS Visa Subclass 482 (AUS)</HoveredLink>
                     <HoveredLink href="/training-visa-subclass-407" className="text-red-600" onClick={toggleMenu}>Training Visa Subclass 407</HoveredLink>
-                    <HoveredLink href="/skilled-work-regional-visa" className="text-red-600" onClick={toggleMenu}>Skilled Work Reginal Visa</HoveredLink>
+                    <HoveredLink href="/skilled-work-regional-visa" className="text-red-600" onClick={toggleMenu}>Skilled Work Regional Visa</HoveredLink>
                     <HoveredLink href="/skilled-nominated-visa" className="text-red-600" onClick={toggleMenu}>Skilled Nominated Visa</HoveredLink>
                     <HoveredLink href="/skilled-independent-visa" className="text-red-600" onClick={toggleMenu}>Skilled Independent Visa</HoveredLink>
                     <HoveredLink href="/temporary-graduate-visa-subclass-485" className="text-red-600" onClick={toggleMenu}>Temporary Graduate Visa</HoveredLink>

@@ -2,11 +2,15 @@
 import React from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
+import { useTranslations } from 'next-intl';
 import Image from 'next/image';
 import { sectionTitleAnimation, listFromLeftAnimation, imageFromRightAnimation } from '@/utils/Animations';
-import { countries } from '@/data';
 
 const CountryList: React.FC = () => {
+  const t = useTranslations('countryList');
+
+  const countries = t('countries').split('|');
+
   const { ref: sectionRef, inView: sectionInView } = useInView({ triggerOnce: true });
   const { ref: listRef, inView: listInView } = useInView({ triggerOnce: true });
   const { ref: imageRef, inView: imageInView } = useInView({ triggerOnce: true });
@@ -27,7 +31,7 @@ const CountryList: React.FC = () => {
     <section className="relative pt-16 bg-white md:text-left text-center" ref={sectionRef}>
       <div className="absolute inset-0 z-0">
         <Image 
-          src="/shape-7.jpg" // make sure this image path is correct
+          src="/shape-7.jpg"
           alt="Background Shape"
           layout="fill"
           objectFit="cover"
@@ -47,9 +51,9 @@ const CountryList: React.FC = () => {
             animate={listControls}
             variants={listFromLeftAnimation}
           >
-            <h3 className="text-red-600 text-sm mb-2">SUPPORT AREA</h3>
-            <h2 className="text-3xl font-bold mb-4">Country List For Immigration</h2>
-            <h4 className="text-xl font-semibold mb-4">Country List:</h4>
+            <h3 className="text-red-600 text-sm mb-2">{t('supportArea')}</h3>
+            <h2 className="text-3xl font-bold mb-4">{t('title')}</h2>
+            <h4 className="text-xl font-semibold mb-4">{t('subtitle')}</h4>
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               <ul className="list-none space-y-2">
                 {firstHalf.map((country, index) => (
@@ -69,7 +73,7 @@ const CountryList: React.FC = () => {
           </motion.div>
         </div>
         <motion.div
-          className="w-full md:w-1/2 flex justify-center md:justify-end mt-8 md:mt-0 hidden md:block"
+          className="w-full md:w-1/2 flex justify-center md:justify-end mt-8 md:mt-0"
           ref={imageRef}
           initial="hidden"
           animate={imageControls}
@@ -77,7 +81,7 @@ const CountryList: React.FC = () => {
         >
           <div className="relative w-full h-[500px] overflow-hidden">
             <Image 
-              src="/women-1.png" // make sure this image path is correct
+              src="/women-1.png"
               alt="About Us"
               layout="fill"
               objectFit="cover"

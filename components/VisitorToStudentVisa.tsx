@@ -6,8 +6,11 @@ import { useInView } from 'react-intersection-observer';
 import studentImage from '../public/VisitorToStudentVisa.jpg';
 import footerBackground from '../public/footer-3.png';
 import { slideInFromLeft, slideInFromRight, slideInFromTop } from '@/utils/Animations';
+import { useTranslations } from 'next-intl';
 
 const VisitorToStudentVisa = () => {
+  const t = useTranslations("visitorToStudentVisa");
+
   const titleControls = useAnimation();
   const textControls = useAnimation();
   const imageControls = useAnimation();
@@ -55,7 +58,7 @@ const VisitorToStudentVisa = () => {
             variants={slideInFromTop}
           >
             <h2 className="text-4xl font-bold mb-4">
-              VISITOR TO <span className="text-red-500">STUDENT VISA</span>
+              {t("title")} <span className="text-red-500">{t("highlight")}</span>
             </h2>
           </motion.div>
           <motion.div
@@ -66,7 +69,7 @@ const VisitorToStudentVisa = () => {
             variants={slideInFromLeft}
           >
             <p className="text-lg">
-              Yes, you read it right. Your Tourist Visa has the potential to be converted into a student visa. Put a stop to the “No More Stay” restrictions and get that education you deserve. Open up your career to limitless opportunities.
+              {t("description")}
             </p>
           </motion.div>
           <motion.div

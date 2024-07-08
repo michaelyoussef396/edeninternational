@@ -3,10 +3,13 @@ import React from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import Image from 'next/image';
+import { useTranslations } from 'next-intl';
 import { imageAnimation, textAnimation, listItemAnimation } from '@/utils/Animations';
-import Button from '@/components/Button'; // Adjust the import path as necessary
+import Button from '@/components/Button';
 
 const AboutUs: React.FC = () => {
+  const t = useTranslations('aboutUs');
+
   const { ref: imageRef, inView: imageInView } = useInView({ triggerOnce: true });
   const { ref: textRef, inView: textInView } = useInView({ triggerOnce: true });
   const { ref: listRef, inView: listInView } = useInView({ triggerOnce: true });
@@ -18,6 +21,8 @@ const AboutUs: React.FC = () => {
   if (imageInView) imageControls.start("visible");
   if (textInView) textControls.start("visible");
   if (listInView) listControls.start("visible");
+
+  const listItems = t('listItems').split('|');
 
   return (
     <section className="relative pt-16 bg-white">
@@ -32,10 +37,10 @@ const AboutUs: React.FC = () => {
             variants={imageAnimation}
           >
             <Image 
-              src="/about-1.png" // make sure this image path is correct
+              src="/about-1.png"
               alt="Person with Suitcase"
-              width={500} // Adjust the width
-              height={500} // Adjust the height
+              width={500}
+              height={500}
               className="w-full h-auto"
             />
           </motion.div>
@@ -46,23 +51,16 @@ const AboutUs: React.FC = () => {
             animate={textControls}
             variants={textAnimation}
           >
-            <span className="text-xl font-semibold text-red-600 block md:inline">Who we are?</span>
-            <h2 className="text-3xl font-bold mb-4">A Few Words About Us</h2>
-            <p className="mb-4">
-              EDEN INTERNATIONAL was built in 2010, keeping in mind those struggling clients finding it hard to determine their career pathway abroad for onshore or offshore higher education, migration. Being a multinational company, with a head office in Sydney, equipped with worlds class consultants awarded with PIER and MARA certificates both in Sydney, Melbourne, Italy, Croatia Malta, Turke and Bangladesh branch in order to provide our students and clients a seamless service all across the world.
-            </p>
+            <span className="text-xl font-semibold text-red-600 block md:inline">{t('whoWeAre')}</span>
+            <h2 className="text-3xl font-bold mb-4">{t('title')}</h2>
+            <p className="mb-4">{t('description')}</p>
             <motion.ul
               className="list-none text-left md:text-left space-y-2 mx-auto md:mx-0"
               ref={listRef}
               initial="hidden"
               animate={listControls}
             >
-              {[
-                "Migration",
-                "Student Admission",
-                "Sponsored Jobs",
-                "Skills Recognition"
-              ].map((item, index) => (
+              {listItems.map((item, index) => (
                 <motion.li
                   key={index}
                   className="flex items-center text-base justify-center md:justify-start"
@@ -74,7 +72,7 @@ const AboutUs: React.FC = () => {
               ))}
             </motion.ul>
             <div className="mt-4 text-center md:text-left">
-              <Button href="/about-us" text="About More" />
+              <Button href="/about-us" text={t('buttonText')} />
             </div>
           </motion.div>
         </div>

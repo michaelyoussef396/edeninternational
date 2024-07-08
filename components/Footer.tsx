@@ -1,9 +1,13 @@
+"use client";
 import React from 'react';
 import { CiInstagram } from "react-icons/ci";
 import { FaTwitter, FaFacebookSquare, FaTiktok } from "react-icons/fa";
 import Image from 'next/image';
+import { useTranslations } from 'next-intl';
 
 const Footer = () => {
+  const t = useTranslations('footer');
+
   return (
     <footer className="bg-black text-white py-12 bg-cover bg-center bg-no-repeat">
       <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -44,31 +48,31 @@ const Footer = () => {
           <div className='flex flex-col items-center md:items-start mt-9'>
             <ul className='text-lg'>
               <li className="mb-2">
-                <a href="/Professional-year" className="hover:text-heroRed">Explore</a>
+                <a href="/Professional-year" className="hover:text-heroRed">{t('explore')}</a>
               </li>
               <li className="mb-2">
-                <a href="/affiliate-institutions" className="hover:text-heroRed">Affiliates</a>
+                <a href="/affiliate-institutions" className="hover:text-heroRed">{t('affiliates')}</a>
               </li>
               <li>
-                <a href="/contact-us" className="hover:text-heroRed">Contact Us</a>
+                <a href="/contact-us" className="hover:text-heroRed">{t('contactUs')}</a>
               </li>
             </ul>
           </div>
           <div className='flex flex-col items-center md:items-start mt-9'>
             <ul className='text-lg'>
               <li className="mb-2">
-                <a href="/point-calculation" className="hover:text-heroRed">Useful Links</a>
+                <a href="/point-calculation" className="hover:text-heroRed">{t('usefulLinks')}</a>
               </li>
               <li className="mb-2">
-                <a href="/student-visa" className="hover:text-heroRed">Student Visa</a>
+                <a href="/student-visa" className="hover:text-heroRed">{t('studentVisa')}</a>
               </li>
               <li>
-                <a href="/migration" className="hover:text-heroRed">Migration</a>
+                <a href="/migration" className="hover:text-heroRed">{t('migration')}</a>
               </li>
             </ul>
           </div>
           <div className="flex flex-col items-center md:items-start">
-            <h2 className="font-semibold mb-4">Recent Projects</h2>
+            <h2 className="font-semibold mb-4">{t('recentProjects')}</h2>
             <div className="grid grid-cols-3 gap-2">
               <Image src="/footer-1.png" alt="Project 1" width={64} height={64} />
               <Image src="/footer-2.png" alt="Project 2" width={64} height={64} />

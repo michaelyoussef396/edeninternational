@@ -1,42 +1,45 @@
 // components/VisaOptions.tsx
 import Image from "next/image";
 import { FC } from "react";
+import { useTranslations } from "next-intl";
 import { FaGlobe, FaGraduationCap, FaCog, FaAnchor, FaUserTie, FaGavel } from "react-icons/fa";
 
-const visaOptions = [
-  {
-    icon: FaGlobe,
-    title: "Visitor Visa",
-    description: "You might come to Australia for reasons such as holidays, sightseeing, social or recreational reasons, to visit relatives, friends."
-  },
-  {
-    icon: FaCog,
-    title: "Skilled Visa",
-    description: "General Skilled Migration (GSM) or Skilled Visas is for people who want to live and work in Australia on a temporary or permanent basis."
-  },
-  {
-    icon: FaAnchor,
-    title: "Sponsored Visa",
-    description: "Employer Sponsored Visas are for employers who cannot fill a position with an Australian worker or by training Australian workers."
-  },
-  {
-    icon: FaGraduationCap,
-    title: "Student Visa",
-    description: "There is one student visa class (TU) with eight visa subclasses. Seven of the visa subclasses relate to specific educational sectors and one relates to student guardians."
-  },
-  {
-    icon: FaUserTie,
-    title: "Partner Visa",
-    description: "A partner visa is for people who are married, engaged, or in a de facto relationship with an Australian citizen or eligible New Zealand citizen and want to live in Australia."
-  },
-  {
-    icon: FaGavel,
-    title: "AAT & Federal Court",
-    description: "We have a team of professional lawyers and solicitors. If you have major issues, please contact us and we will be able to solve your complex migration problems."
-  }
-];
-
 const VisaOptions: FC = () => {
+  const t = useTranslations('visaOptions');
+
+  const visaOptions = [
+    {
+      icon: FaGlobe,
+      title: t('visitorVisa.title'),
+      description: t('visitorVisa.description')
+    },
+    {
+      icon: FaCog,
+      title: t('skilledVisa.title'),
+      description: t('skilledVisa.description')
+    },
+    {
+      icon: FaAnchor,
+      title: t('sponsoredVisa.title'),
+      description: t('sponsoredVisa.description')
+    },
+    {
+      icon: FaGraduationCap,
+      title: t('studentVisa.title'),
+      description: t('studentVisa.description')
+    },
+    {
+      icon: FaUserTie,
+      title: t('partnerVisa.title'),
+      description: t('partnerVisa.description')
+    },
+    {
+      icon: FaGavel,
+      title: t('aatFederalCourt.title'),
+      description: t('aatFederalCourt.description')
+    }
+  ];
+
   return (
     <section className="relative bg-black py-12">
       <div className="absolute inset-0">
@@ -52,7 +55,7 @@ const VisaOptions: FC = () => {
       </div>
       <div className="relative z-10 container mx-auto px-8 md:px-20">
         <h2 className="text-5xl font-bold text-center mb-8 text-white">
-          VISA <span className="text-red-500">OPTIONS</span>
+          {t('title')} <span className="text-red-500">{t('highlightText')}</span>
         </h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 text-center">
           {visaOptions.map((option, index) => (

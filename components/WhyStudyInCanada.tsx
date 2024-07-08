@@ -1,12 +1,17 @@
+"use client";
+import { useTranslations } from "next-intl";
+
 const WhyStudyInCanada = () => {
+  const t = useTranslations('whyStudyInCanada');
+
   return (
     <div className="relative h-96 bg-white flex items-center justify-center"> {/* Adjust the height as needed */}
       <div className="absolute inset-0 flex flex-col items-center justify-center px-4">
         <h1 className="text-4xl md:text-5xl font-bold text-black mb-4 text-center">
-          WHY STUDY IN <span className="text-red-500">CANADA?</span>
+          {t('title')} <span className="text-red-500">{t('highlightText')}</span>
         </h1>
         <p className="text-lg text-black text-center max-w-2xl">
-          Apr 30, 2018 – With 21 of the world’s top <span className="text-red-500">500 universities</span> and 32 in the <span className="text-red-500">top 1000</span>, Canada welcomes more than <span className="text-red-500">400,000 international students</span> each year. It offers the world’s best study programs and is home to some of the world’s leading research facilities and academic institutions. If studying abroad is your plan, Canada should be at the top of your list.
+          {t('description.part1')} <span className="text-red-500">{t('description.part2')}</span> {t('description.part3')} <span className="text-red-500">{t('description.part4')}</span> {t('description.part5')} <span className="text-red-500">{t('description.part6')}</span> {t('description.part7')}
         </p>
       </div>
     </div>

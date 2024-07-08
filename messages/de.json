@@ -1,0 +1,1003 @@
+{
+    "hero": {
+      "slide1": {
+        "subtitle": "Studentenvisum",
+        "description": "Studentenvisa sind nicht-immigrantische Visa und erfordern nicht, dass der Antragsteller die Staatsbürgerschaft erwirbt.",
+        "image": "/hero1.png",
+        "buttonText": "Mehr Infos",
+        "buttonLink": "/student-visa"
+      },
+      "slide2": {
+        "subtitle": "Migration",
+        "description": "Sie werden überrascht sein zu erfahren, dass Ihre Erfahrung und Qualifikation Wege zur qualifizierten Migration nach Australien eröffnen können.",
+        "image": "/hero2.png",
+        "buttonText": "Mehr Infos",
+        "buttonLink": "/migration"
+      }
+    },
+    "aboutUs": {
+      "whoWeAre": "Wer wir sind?",
+      "title": "Ein paar Worte über uns",
+      "description": "EDEN INTERNATIONAL wurde 2010 gegründet, um denjenigen zu helfen, die Schwierigkeiten haben, ihren Karriereweg im Ausland für In- oder Offshore-Hochschulbildung und Migration zu bestimmen...",
+      "listItems": "Migration|Studentenzulassung|Gesponserte Jobs|Anerkennung von Fähigkeiten",
+      "buttonText": "Mehr über uns"
+    },
+    "visaCategories": {
+      "sectionTitle": "VISAKATEGORIEN",
+      "sectionSubtitle": "Immigrations- & Visakategorien",
+      "studentVisa": {
+        "title": "Studentenvisa",
+        "description": "Studentenvisa sind nicht-immigrantische Visa und erfordern nicht, dass der Antragsteller die Staatsbürgerschaft erwirbt.",
+        "buttonText": "Weiterlesen",
+        "buttonLink": "/student-visa"
+      },
+      "migration": {
+        "title": "Migration",
+        "description": "Sie werden überrascht sein zu erfahren, dass Ihre Erfahrung und Qualifikation Wege zur qualifizierten Migration nach Australien eröffnen können.",
+        "buttonText": "Weiterlesen",
+        "buttonLink": "/migration"
+      }
+    },
+    "countryList": {
+      "supportArea": "UNTERSTÜTZUNGSBEREICH",
+      "title": "Länderliste für Einwanderung",
+      "subtitle": "Länderliste:",
+      "countries": "Dubai|Kanada|USA|Australien|Italien|Kroatien|Türkei|Malta|Deutschland|Philippinen|Korea"
+    },
+    "workingProcess": {
+      "subtitle": "ARBEITSPROZESS",
+      "title": "3 einfache Schritte, um schnelle Hilfe zu erhalten",
+      "steps": [
+        {
+          "title": "Schritt Eins",
+          "description": "Füllen Sie das erforderliche Formular aus"
+        },
+        {
+          "title": "Schritt Zwei",
+          "description": "Reichen Sie Ihre Dokumente ein"
+        },
+        {
+          "title": "Schritt Drei",
+          "description": "Bereiten Sie sich darauf vor, Ihr Visum zu erhalten"
+        }
+      ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "Weltweit tätiges Büro",
+      "successfulVisaProcess": "Erfolgreicher Visaprozess",
+      "satisfiedClientsMaintains": "Zufriedene Kunden"
+    },
+    "footer": {
+      "explore": "Entdecken",
+      "affiliates": "Partner",
+      "contactUs": "Kontaktieren Sie uns",
+      "usefulLinks": "Nützliche Links",
+      "studentVisa": "Studentenvisum",
+      "migration": "Migration",
+      "recentProjects": "Aktuelle Projekte"
+    },
+    "floatingNav": {
+      "home": "Startseite",
+      "studentVisa": "Studentenvisum",
+      "studyInAustralia": "Studium in Australien",
+      "studyInCanada": "Studium in Kanada",
+      "affiliatedInstitutions": "Partnerinstitutionen",
+      "professionalYear": "Berufsjahr",
+      "migration": "Migration",
+      "temporarySkillShortageTssVisaSubclass482": "Temporäres Fachkräftemangel-Visum TSS Subklasse 482 (AUS)",
+      "trainingVisaSubclass407": "Trainingsvisum Subklasse 407",
+      "skilledWorkRegionalVisa": "Qualifizierte Arbeit Regionalvisum",
+      "skilledNominatedVisa": "Qualifizierte Nominierte Visum",
+      "skilledIndependentVisa": "Qualifizierte Unabhängige Visum",
+      "temporaryGraduateVisaSubclass485": "Temporäres Abschlussvisum Subklasse 485",
+      "sponsoredJobs": "Gesponserte Jobs",
+      "pointCalculation": "Punktberechnung",
+      "contactUs": "Kontaktieren Sie uns",
+      "bookAnAppointment": "Termin buchen"
+    },
+    "heroSectionStudent": {
+      "title": "Student",
+      "highlightText": "Visum"
+    },
+    "shoreServices": {
+      "onShoreTitle": "UNSERE ONSHORE-DIENSTLEISTUNGEN",
+      "offShoreTitle": "UNSERE OFFSHORE-DIENSTLEISTUNGEN",
+      "forInternationalStudents": "FÜR INTERNATIONALE STUDENTEN",
+      "onShores": [
+        {
+          "title": "Kurswechsel",
+          "description": "Eden International hilft Ihnen, einen geeigneten Kurs auszuwählen oder einen bereits laufenden Kurs zu wechseln."
+        },
+        {
+          "title": "Universitäts- oder Institutswechsel",
+          "description": "Viele Studenten möchten ihre Universitäten/Institute für bessere Möglichkeiten wechseln, wissen jedoch nicht, wie sie dies tun können. Wir helfen ihnen dabei."
+        },
+        {
+          "title": "Vorbewertung für Migration oder ein anderes Visum",
+          "description": "Studenten können ihre Bewertung während des Studiums durchführen lassen. Sie können ihre Eignung und Voraussetzungen für die qualifizierte Migration und andere Visa von einem internen Migrationsanwalt von Educube überprüfen lassen."
+        },
+        {
+          "title": "Verlängerung des Studentenvisums",
+          "description": "Sie haben diese Fächer abgeschlossen und Ihr Visum läuft ab oder Sie haben Ihren Kurs abgeschlossen und möchten nun ein neues Studentenvisum beantragen."
+        }
+      ],
+      "offShores": [
+        {
+          "title": "Erstbewertung",
+          "description": "Bewertung aller akademischen Zeugnisse & Zertifikate, Englisch-Sprachkurs-Zertifikat, nationale Identität, Reisepass usw."
+        },
+        {
+          "title": "Finanzielle Bewertung",
+          "description": "Wir informieren über Kursgebühren, Reisekosten, Sponsoranforderungen, wer Sponsor sein kann und wie viel Geld benötigt wird."
+        },
+        {
+          "title": "Stipendien",
+          "description": "Sparen Sie Kursgebühren mit Hilfe von Educube."
+        },
+        {
+          "title": "Kurs- & Universitätsauswahl",
+          "description": "Bei so vielen großartigen Universitäten und Kursen im Ausland kann die Entscheidung, wo und was man studieren soll, schwierig sein."
+        }
+      ]
+    },
+    "visitorToStudentVisa": {
+      "title": "BESUCHER ZU STUDENTENVISUM",
+      "highlight": "STUDENTENVISUM",
+      "description": "Ja, Sie haben richtig gelesen. Ihr Touristenvisum kann in ein Studentenvisum umgewandelt werden. Beenden Sie die „Keine weitere Aufenthalts“-Einschränkungen und erhalten Sie die Bildung, die Sie verdienen. Öffnen Sie Ihre Karriere für grenzenlose Möglichkeiten."
+    },
+    "studentTestimonials": {
+      "title": "Was unsere",
+      "highlight": "Studenten sagen",
+      "testimonials": [
+        {
+          "quote": "Endlich habe ich mein Visum erhalten, vielen Dank für die Hilfe in diesem Bereich. Ich habe großartige Erfahrungen mit dieser Organisation gemacht. Das Personal von Eden International ist sehr hilfsbereit. Ich werde meinen Freunden empfehlen, nur über Eden International zu beantragen.",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "Ich werde Eden International Services jedem anderen Gewerbe in meiner Situation empfehlen. Dieser Service hat mir unzählige Stunden erspart, die ich damit verbracht hätte, einen Hochschulkurs zu widerstehen. Großartige Organisation!!",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "Es war eine Freude, mit Educube zu arbeiten. Die Art und Weise, wie sie mich geführt haben, insbesondere Md Arifuzzaman, hat mir sehr geholfen, mich auf das Universitätsviva vorzubereiten und mir eine klare Richtung zur Verbesserung meiner Englischkenntnisse zu zeigen.",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "Ich war einfach begeistert, als ich das Visum erhielt. Ich möchte Eden International Pty Ltd. alle Ehre machen, weil sie die richtigen Schritte unternommen haben. Sie sind sehr freundlich bei der Bearbeitung des Studentenvisums. Wenn jemand ins Ausland gehen möchte, dann kontaktieren Sie EDUCUBE ohne zu zögern.",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "Nennen Sie mich Ishmael. Vor einigen Jahren - es spielt keine Rolle, wie lange genau - hatte ich wenig oder gar kein Geld in meiner Börse und nichts Besonderes, das mich an Land interessierte, also dachte ich, ich würde ein bisschen segeln und den wässrigen Teil der Welt sehen.",
+          "name": "Herman Melville",
+          "title": "Moby-Dick",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
+    },
+    "cards": [
+      {
+        "title": "Rechnungswesen",
+        "imageUrl": "/i.webp",
+        "description": "Entwickeln Sie Fähigkeiten in Finanzberichterstattung, Prüfung und Besteuerung. Lernen Sie, Finanzberichte zu analysieren und Budgets zu verwalten."
+      },
+      {
+        "title": "Ingenieurwesen & Technologie",
+        "imageUrl": "/i-2.webp",
+        "description": "Erforschen Sie innovative Lösungen in Bereichen wie Maschinenbau, Bauingenieurwesen und Elektrotechnik. Sammeln Sie praktische Erfahrungen in der Technologieentwicklung."
+      },
+      {
+        "title": "Kunst",
+        "imageUrl": "/i-3.webp",
+        "description": "Tauchen Sie ein in kreative Ausdrucksformen durch verschiedene Medien. Studieren Sie Kunstgeschichte, Techniken und zeitgenössische Praktiken."
+      },
+      {
+        "title": "Geschäftsführung",
+        "imageUrl": "/i-4.webp",
+        "description": "Verstehen Sie Geschäftsabläufe, Marketing und Strategie. Bereiten Sie sich auf Führungsrollen in verschiedenen organisatorischen Umgebungen vor."
+      },
+      {
+        "title": "Kommunikation",
+        "imageUrl": "/i-5.webp",
+        "description": "Lernen Sie effektive Kommunikationsstrategien, Öffentlichkeitsarbeit und Mediendynamik. Verbessern Sie Ihre zwischenmenschlichen und Schreibfähigkeiten."
+      },
+      {
+        "title": "Medien",
+        "imageUrl": "/i-6.webp",
+        "description": "Studieren Sie die Auswirkungen digitaler Medien, Journalismus und Content-Erstellung. Erwerben Sie Fähigkeiten im multimedialen Geschichtenerzählen und in der Produktion."
+      },
+      {
+        "title": "Medizin",
+        "imageUrl": "/i-7.webp",
+        "description": "Bereiten Sie sich auf eine Karriere im Gesundheitswesen mit Schwerpunkt auf Patientenversorgung, medizinischer Forschung und klinischen Praktiken vor."
+      },
+      {
+        "title": "Krankenpflege",
+        "imageUrl": "/i-11.webp",
+        "description": "Trainieren Sie in der Patientenversorgung, medizinischen Verfahren und im Gesundheitsmanagement. Treten Sie in einen lohnenden Beruf ein, der sich dem Helfen anderer widmet."
+      },
+      {
+        "title": "Sprache",
+        "imageUrl": "/i-9.webp",
+        "description": "Studieren Sie Linguistik, Übersetzung und interkulturelle Kommunikation. Verbessern Sie Ihre Fähigkeiten in mehreren Sprachen."
+      },
+      {
+        "title": "Informatik & Technologie",
+        "imageUrl": "/999.webp",
+        "description": "Lernen Sie Softwareentwicklung, Datenanalyse und aufstrebende Technologien. Bauen Sie eine solide Grundlage in der Informatik auf."
+      },
+      {
+        "title": "Bildung & Ausbildung",
+        "imageUrl": "/i-10.webp",
+        "description": "Entwickeln Sie Lehrfähigkeiten und pädagogische Theorien. Bereiten Sie sich darauf vor, die nächste Generation von Lernenden zu inspirieren und zu unterrichten."
+      },
+      {
+        "title": "Architektur",
+        "imageUrl": "/192.webp",
+        "description": "Erforschen Sie architektonisches Design, Stadtplanung und nachhaltiges Bauen. Erwerben Sie die Fähigkeiten, um die gebaute Umwelt zu gestalten."
+      }
+    ],
+    "studyInAustralia": {
+      "title": "Studieren in",
+      "highlightText": "Australien"
+    },
+    "whyStudyAustralia": {
+      "educationIsYourRight": "Bildung ist Ihr Recht, keine Option",
+      "whyStudyIn": "WARUM STUDIEREN IN",
+      "australia": "AUSTRALIEN",
+      "description": "Wenn wir über ein Studium in Australien nachdenken, gibt es viele Faktoren, die die Aufmerksamkeit der Studenten leicht auf sich ziehen. Wachsende Destination. AUSTRALIEN ist derzeit das drittbeliebteste Ziel für internationale Studenten in der englischsprachigen Welt, hinter den USA und dem Vereinigten Königreich. Viele internationale Studenten entscheiden sich für ein Studium dort aufgrund der kulturellen Vielfalt, freundlichen Einheimischen und der hohen Qualität der Bildung."
+    },
+    "quickSteps": {
+      "title": "SCHNELLE SCHRITTE DES",
+      "highlight": "AUFNAHMEVERFAHRENS",
+      "fileSubmission": {
+        "title": "Dateieinreichung",
+        "description": [
+          "Reisepass",
+          "Passfoto",
+          "Akademische Dokumente",
+          "Geburtsurkunde",
+          "Personalausweis (englisch übersetzt)",
+          "Bewerbungsgebühren",
+          "SOP (Statement of Purpose)",
+          "Lebenslauf/CV",
+          "IELTS/TOEFL-Zertifikat"
+        ]
+      },
+      "offerLetter": {
+        "title": "Angebotsschreiben",
+        "description": "Erhalten Sie ein Angebotsschreiben von der Universität für die Zulassung nach erfolgreicher G.T.E. Bewertung."
+      },
+      "gteAssessment": {
+        "title": "G.T.E. Bewertung",
+        "description": "Finanzielle und andere Dokumentenüberprüfung und Interview mit der Universität."
+      },
+      "coeConfirmation": {
+        "title": "COE Bestätigung",
+        "description": "Erfolgreiche Einschreibung an der Universität und Zahlungsbestätigung."
+      },
+      "visaLodgement": {
+        "title": "Visa-Antragstellung",
+        "description": "Reichen Sie den Visumantrag und die erforderlichen Dokumente ein."
+      },
+      "successfulVisa": {
+        "title": "Erfolgreiches Visum",
+        "description": "Erhalten Sie die Visumgenehmigung und bereiten Sie sich auf die Reise vor."
+      },
+      "buttonText": "Klicken Sie hier, um den gesamten Visumprozess zu sehen"
+    },
+    "studyProcess": {
+      "title": "VISUM",
+      "highlight": "PROZESS",
+      "steps": [
+        {
+          "title": "SICHERES LAND",
+          "description": "Ein sehr wichtiger Faktor für die meisten internationalen Studenten bei der Auswahl eines Auslandsstudienprogramms ist die Sicherheit und der Schutz des Landes und der Stadt im Besonderen. Eltern machen sich Sorgen um die Sicherheit ihrer Kinder, und Faktoren wie Verbrechen gegen Frauen, Rassendiskriminierung, Diebstahl und Einbruch spielen eine wichtige Rolle bei der Wahl eines Studienziels im Ausland. In dieser Hinsicht ist Kanada einer der sichersten Orte zum Studieren mit sehr niedrigen Kriminalitätsraten und Fällen von Rassendiskriminierung. Statistiken von Numbeo zeigen, dass der Sicherheitsindex von Kanada (62,42) viel höher ist als die Sicherheitsindizes anderer beliebter Studienziele im Ausland wie USA (49,99), Großbritannien (57,9) und Australien (57,94)."
+        },
+        {
+          "title": "MULTIKULTURELLE UMGEBUNG",
+          "description": "Kanada ist ein internationaler Führer in den Bereichen Computer- und Informationstechnologie und hat einen hervorragenden Ruf in Branchen wie Telekommunikation, Animation, Transport und Ingenieurwesen; und insbesondere in Luft- und Raumfahrt, städtischem Transport, Mikroelektronik, medizinischen Geräten, fortschrittlicher Software, Wasserkraft und Kernkraft, Lasern und Optoelektronik, Biotechnologie usw. Kanada war eines der ersten Länder weltweit, das die Notwendigkeit erkannte, Schulen und Bibliotheken mit dem Internet zu verbinden, und sein SchoolNet-Programm wird weltweit kopiert. Alle Arten von modernen Annehmlichkeiten werden bereitgestellt, und die meisten Campus sind mit den fortschrittlichsten Technologien der Welt ausgestattet."
+        },
+        {
+          "title": "BERUFSCHANCEN",
+          "description": "Ja, als internationaler Student zahlen Sie immer noch mehr als Kanadier für denselben Kurs, aber derselbe Kurs in einem anderen Land, wie den Vereinigten Staaten, Australien oder dem Vereinigten Königreich, würde wahrscheinlich noch mehr kosten. Siehe auch Punkt 1 oben – nicht nur zahlen Sie weniger in Kanada, Sie verdienen auch mehr."
+        },
+        {
+          "title": "ERSCHWINGLICHE BILDUNG & LEBEN",
+          "description": "Kanada bietet nicht nur qualitativ hochwertige Bildung, sondern auch erschwingliche Bildung für internationale, einschließlich indische, Studenten. Im Vergleich zu Ländern wie Großbritannien, USA und Australien sind die Bildungskosten in Kanada ziemlich moderat."
+        },
+        {
+          "title": "ZULASSUNGSANFORDERUNG",
+          "description": "Nach Erhalt des COE wird EDUCUDE – im Namen des Studenten – alle akademischen und finanziellen Dokumente bei der Botschaft einreichen und die Studenten auf Biometrie und medizinische Untersuchungen vorbereiten. Es dauert 20-30 Arbeitstage, um ein Visum zu erhalten."
+        }
+      ]
+    },
+    "studyInCanada": {
+      "title": "STUDIUM IN",
+      "highlightText": "KANADA"
+    },
+    "whyStudyInCanada": {
+      "title": "WARUM STUDIEREN IN",
+      "highlightText": "KANADA?",
+      "description": {
+        "part1": "Apr 30, 2018 – Mit 21 der weltweit besten",
+        "part2": "500 Universitäten",
+        "part3": "und 32 unter den",
+        "part4": "Top 1000",
+        "part5": ", heißt Kanada jedes Jahr mehr als",
+        "part6": "400.000 internationale Studenten",
+        "part7": "willkommen. Es bietet die besten Studienprogramme der Welt und beherbergt einige der weltweit führenden Forschungseinrichtungen und akademischen Institutionen. Wenn das Studium im Ausland Ihr Plan ist, sollte Kanada ganz oben auf Ihrer Liste stehen."
+      }
+    },
+    "accordionCanada": {
+      "title": "TOP GRÜNDE, SICH FÜR",
+      "highlightText": "KANADA ZU ENTSCHEIDEN",
+      "buttonText": "ERHALTEN SIE EINE KOSTENLOSE ERSTE BEWERTUNG IHRER EIGNUNG",
+      "items": [
+        {
+          "title": "SICHERES LAND",
+          "content": "Ein sehr wichtiger Faktor für die meisten internationalen Studenten bei der Auswahl eines Auslandsstudienprogramms ist die Sicherheit und der Schutz des Landes und der Stadt im Besonderen. Eltern machen sich Sorgen um die Sicherheit ihrer Kinder, und Faktoren wie Verbrechen gegen Frauen, Rassendiskriminierung, Diebstahl und Einbruch spielen eine wichtige Rolle bei der Wahl eines Studienziels im Ausland. In dieser Hinsicht ist Kanada einer der sichersten Orte zum Studieren mit sehr niedrigen Kriminalitätsraten und Fällen von Rassendiskriminierung. Statistiken von Numbeo zeigen, dass der Sicherheitsindex von Kanada (62,42) viel höher ist als die Sicherheitsindizes anderer beliebter Studienziele im Ausland wie USA (49,99), Großbritannien (57,9) und Australien (57,94)."
+        },
+        {
+          "title": "MULTIKULTURELLE UMGEBUNG",
+          "content": "Kanada ist ein internationaler Führer in den Bereichen Computer- und Informationstechnologie und hat einen hervorragenden Ruf in Branchen wie Telekommunikation, Animation, Transport und Ingenieurwesen; und insbesondere in Luft- und Raumfahrt, städtischem Transport, Mikroelektronik, medizinischen Geräten, fortschrittlicher Software, Wasserkraft und Kernkraft, Lasern und Optoelektronik, Biotechnologie usw. Kanada war eines der ersten Länder weltweit, das die Notwendigkeit erkannte, Schulen und Bibliotheken mit dem Internet zu verbinden, und sein SchoolNet-Programm wird weltweit kopiert. Alle Arten von modernen Annehmlichkeiten werden bereitgestellt, und die meisten Campus sind mit den fortschrittlichsten Technologien der Welt ausgestattet."
+        },
+        {
+          "title": "BERUFSCHANCEN",
+          "content": "Ja, als internationaler Student zahlen Sie immer noch mehr als Kanadier für denselben Kurs, aber derselbe Kurs in einem anderen Land, wie den Vereinigten Staaten, Australien oder dem Vereinigten Königreich, würde wahrscheinlich noch mehr kosten. Siehe auch Punkt 1 oben – nicht nur zahlen Sie weniger in Kanada, Sie verdienen auch mehr."
+        },
+        {
+          "title": "ERSCHWINGLICHE BILDUNG & LEBEN",
+          "content": "Kanada bietet nicht nur qualitativ hochwertige Bildung, sondern auch erschwingliche Bildung für internationale, einschließlich indische, Studenten. Im Vergleich zu Ländern wie Großbritannien, USA und Australien sind die Bildungskosten in Kanada ziemlich moderat."
+        },
+        {
+          "title": "ZULASSUNGSANFORDERUNG",
+          "content": "Alle Studenten müssen die folgenden Kriterien erfüllen, um sich an einer Universität/Hochschule/Institution in Kanada einzuschreiben: Akademische Qualifikationen: Mindestens 60% Noten in allen vorherigen Studiengängen, d.h. auf Sekundar- und Hochschulniveau oder Zwischenstufe und Bachelor- oder Ehrenstufe. ESL-Kurs (Englisch als Zweitsprache): Englischsprachige Qualifikationen: Mit/Ohne IELTS können sich bewerben. Diplom: Englischsprachige Qualifikationen: Studenten müssen mindestens 5,5 Bänder (kein Band unter 5,0) im IELTS oder 46 im PTE oder 62 im TOEFL erreichen. Bachelor-Programm: Englischsprachige Qualifikationen: Studenten müssen mindestens 6,0 Bänder (kein Band unter 5,5) im IELTS oder 54 im PTE oder 73 im TOEFL erreichen. Master-Programm: Englischsprachige Qualifikationen: Studenten müssen mindestens 6,5 Bänder (kein Band unter 6,0) im IELTS oder 61 im PTE oder 85 im TOEFL erreichen."
+        }
+      ]
+    },
+    "affiliatedInstitutions": {
+      "title": "PARTNER",
+      "highlightText": "INSTITUTIONEN",
+      "description": "Eine angeschlossene Schule oder Hochschule ist eine Bildungseinrichtung, die unabhängig arbeitet, aber auch eine formelle Kooperationsvereinbarung mit einer anderen, normalerweise größeren Institution hat, die möglicherweise ein gewisses Maß an Kontrolle oder Einfluss auf ihre akademischen Richtlinien, Standards oder Programme hat."
+    },
+    "heroSection": {
+      "firstTitle": "",
+      "firstHighlightText": "",
+      "secondTitle": "UNSERE PARTNER",
+      "secondHighlightText": "INSTITUTIONEN"
+    },
+    "affiliated": {
+      "title": "Partnerinstitutionen",
+      "institutions": [
+        { "name": "University of New South Wales (UNSW) - Global", "url": "https://www.unsw.edu.au/" },
+        { "name": "Central Queensland University (CQU)", "url": "https://www.cqu.edu.au/" },
+        { "name": "Charles Darwin University (CDU)", "url": "https://www.cdu.edu.au/" },
+        { "name": "Charles Stuart University", "url": "https://www.csu.edu.au/" },
+        { "name": "Curtin University - Perth", "url": "https://www.curtin.edu.au/" },
+        { "name": "Deakin University", "url": "https://www.deakin.edu.au/" },
+        { "name": "Edith Cowan University (ECU)", "url": "https://www.ecu.edu.au/" },
+        { "name": "James Cook University (JCUB)", "url": "https://www.jcu.edu.au/" },
+        { "name": "La Trobe University", "url": "https://www.latrobe.edu.au/" },
+        { "name": "La Trobe University - Sydney", "url": "https://www.latrobe.edu.au/sydney" },
+        { "name": "Macquarie University", "url": "https://www.mq.edu.au/" },
+        { "name": "Monash University / College", "url": "https://www.monash.edu/" },
+        { "name": "Murdoch University", "url": "https://www.murdoch.edu.au/" },
+        { "name": "RMIT (Royal Melbourne Institute of Technology)", "url": "https://www.rmit.edu.au/" },
+        { "name": "SAIBT - University of South Australia (Navitas)", "url": "https://www.saibt.sa.edu.au/" },
+        { "name": "Southern Cross University (SCU)", "url": "https://www.scu.edu.au/" },
+        { "name": "Swinburne University", "url": "https://www.swinburne.edu.au/" },
+        { "name": "Sydney Institute of Business and Technology (SIBT)", "url": "https://www.sibt.nsw.edu.au/" },
+        { "name": "TAFE NSW", "url": "https://www.tafensw.edu.au/" },
+        { "name": "The University of Newcastle", "url": "https://www.newcastle.edu.au/" },
+        { "name": "Torrens University", "url": "https://www.torrens.edu.au/" },
+        { "name": "University of Queensland (UQ)", "url": "https://www.uq.edu.au/" },
+        { "name": "University of Tasmania Sydney (UTAS)", "url": "https://www.utas.edu.au/" },
+        { "name": "University of Technology, Sydney (UTS)", "url": "https://www.uts.edu.au/" },
+        { "name": "University of Western Sydney (WSU)", "url": "https://www.westernsydney.edu.au/" },
+        { "name": "University of Wollongong (UOW)", "url": "https://www.uow.edu.au/" },
+        { "name": "Victorian Institute of Technology (VIT)", "url": "https://www.vit.edu.au/" },
+        { "name": "Victoria University - Melbourne", "url": "https://www.vu.edu.au/" },
+        { "name": "University of Sunshine Coast", "url": "https://www.usc.edu.au/" },
+        { "name": "Australian National University", "url": "https://www.anu.edu.au/" },
+        { "name": "The University of Queensland", "url": "https://www.uq.edu.au/" },
+        { "name": "The University of Western Australia", "url": "https://www.uwa.edu.au/" },
+        { "name": "University of South Australia", "url": "https://www.unisa.edu.au/" },
+        { "name": "The University of Notre Dame Australia", "url": "https://www.notredame.edu.au/" },
+        { "name": "Federation University Australia", "url": "https://federation.edu.au/" },
+        { "name": "Bright College", "url": "#" },
+        { "name": "AIBI College", "url": "#" },
+        { "name": "Alpha College", "url": "#" },
+        { "name": "Connected Institute", "url": "#" },
+        { "name": "Building Institute (NSW)", "url": "#" },
+        { "name": "Australian Learning Institute", "url": "#" },
+        { "name": "Trinity Institute Australia", "url": "#" },
+        { "name": "Astrall Skill Institute Australia", "url": "#" },
+        { "name": "Apex Australia", "url": "#" },
+        { "name": "Reach Community College", "url": "#" },
+        { "name": "Waratah Polytechnic", "url": "#" },
+        { "name": "Australian Academy of Hospitality Management", "url": "#" },
+        { "name": "Kaplan Business School Australia", "url": "https://www.kbs.edu.au/" },
+        { "name": "TAFE NSW", "url": "https://www.tafensw.edu.au/" },
+        { "name": "Kings Own Institute", "url": "https://www.koi.edu.au/" },
+        { "name": "Education Centre of Australia (ECA)", "url": "https://www.eca.edu.au/" },
+        { "name": "Stodds College", "url": "https://www.stotts.edu.au/" },
+        { "name": "TAFE Queensland", "url": "https://tafeqld.edu.au/" },
+        { "name": "UTS College", "url": "https://utscollege.edu.au/" },
+        { "name": "UOW College", "url": "https://www.uowcollege.edu.au/" },
+        { "name": "Stanley College", "url": "https://www.stanleycollege.edu.au/" },
+        { "name": "TAFE SA", "url": "https://www.tafesa.edu.au/" },
+        { "name": "Charles Darwin University International College", "url": "https://www.cdu.edu.au/cdu-international" },
+        { "name": "Deakin College", "url": "https://www.deakincollege.edu.au/" },
+        { "name": "Latrobe College Australia", "url": "https://www.latrobe.edu.au/" },
+        { "name": "Conestoga College", "url": "https://www.conestogac.on.ca/" },
+        { "name": "Confederation College", "url": "https://www.confederationcollege.ca/" },
+        { "name": "ACAP College", "url": "https://www.acap.edu.au/" },
+        { "name": "Academia International", "url": "https://www.academia21.com/" },
+        { "name": "Engineer Institute of Technology", "url": "https://www.eit.edu.au/" },
+        { "name": "Melbourne Institute of Technology (MIT)", "url": "https://www.mit.edu.au/" },
+        { "name": "Insearch UTS", "url": "https://www.insearch.edu.au/" },
+        { "name": "Griffith College (Navitas)", "url": "https://www.griffithcollege.edu.au/" },
+        { "name": "Lead College", "url": "https://www.leadcollege.edu.au/" },
+        { "name": "Griffith College", "url": "https://www.griffithcollege.edu.au/" },
+        { "name": "International College of Management (Sydney)", "url": "https://www.icms.edu.au/" },
+        { "name": "TAFE International Western Australia", "url": "https://www.tafeinternational.wa.edu.au/" },
+        { "name": "Holmes Institute", "url": "https://www.holmes.edu.au/" },
+        { "name": "Swinburne College", "url": "https://www.swinburne.edu.au/" },
+        { "name": "Crown Institute of Higher Education", "url": "https://www.cihe.edu.au/" },
+        { "name": "International Institute of Business and Information Technology", "url": "https://www.iibit.edu.au/" },
+        { "name": "Le Cordon Bleu", "url": "https://www.cordonbleu.edu/" },
+        { "name": "Melbourne Polytechnic", "url": "https://www.melbournepolytechnic.edu.au/" },
+        { "name": "The Université of Adelaide College", "url": "https://college.adelaide.edu.au/" },
+        { "name": "Quality College of Australia", "url": "https://www.qca.edu.au/" },
+        { "name": "Sydney Institute of Business and Technology (SIBT)", "url": "https://www.sibt.nsw.edu.au/" },
+        { "name": "Adelaide Institute of Business and Technology", "url": "https://aibtglobal.edu.au/" },
+        { "name": "Greenwich College", "url": "https://www.greenwichcollege.edu.au/" },
+        { "name": "Curtin College", "url": "https://www.curtincollege.edu.au/" },
+        { "name": "Edith Cowan College", "url": "https://www.edithcowancollege.edu.au/" },
+        { "name": "Equals International", "url": "https://www.equals.edu.au/" },
+        { "name": "The Hotel School of Australia", "url": "https://www.hotelschool.scu.edu.au/" },
+        { "name": "Australian Learning Group", "url": "https://alg.edu.au/" },
+        { "name": "UNSW Global", "url": "https://www.unswglobal.unsw.edu.au/" },
+        { "name": "Academics Australasia Polytechnic", "url": "https://www.aapoly.edu.au/" },
+        { "name": "Kent Institute Australia", "url": "https://kent.edu.au/" },
+        { "name": "Icon Institute of Australia", "url": "https://icon.edu.au/" },
+        { "name": "Skills Australia Institute", "url": "https://sai.edu.au/" },
+        { "name": "Australian Ideal College", "url": "https://idealcollege.edu.au/" },
+        { "name": "Imagine Education Australia", "url": "https://www.imagineeducation.edu.au/" },
+        { "name": "Institute of Health and Nursing Australia", "url": "https://www.ihna.edu.au/" },
+        { "name": "Signet Institute of Australia", "url": "https://signet.edu.au/" },
+        { "name": "ILSC-Australia", "url": "https://www.ilsc.com/" },
+        { "name": "Australian Health & Science Institute", "url": "https://ahsinstitute.edu.au/" },
+        { "name": "Australian National Airline College", "url": "https://www.anacollege.edu.au/" },
+        { "name": "WSU - College", "url": "https://www.westernsydney.edu.au/" },
+        { "name": "Phoneix", "url": "#" },
+        { "name": "Murdoch Institute (MIT)", "url": "https://www.mit.edu.au/" },
+        { "name": "Greystone College Australia", "url": "https://www.greystonecollege.com.au/" },
+        { "name": "Oxford House (OHC) - Australien", "url": "https://www.oxfordhouse.com/" },
+        { "name": "ANGAD Australian Institute of Technology", "url": "https://angad.vic.edu.au/" },
+        { "name": "Australian National Education (ANE)", "url": "https://www.ane.edu.au/" },
+        { "name": "Australian Technical College Western", "url": "https://www.atcwa.edu.au/" },
+        { "name": "Australian International High School Pty Ltd", "url": "https://www.aihs.edu.au/" },
+        { "name": "Skills Training Australia", "url": "https://skillstraining.edu.au/" },
+        { "name": "Australian Harbour International College", "url": "https://www.ahic.edu.au/" },
+        { "name": "Australian Science and Mathematics School", "url": "https://www.asms.sa.edu.au/" },
+        { "name": "Australian Skills Group", "url": "https://asgroup.com.au/" },
+        { "name": "Kaplan International English - Australien", "url": "https://www.kaplaninternational.com/" },
+        { "name": "Texila College Australia", "url": "#" },
+        { "name": "Australian Centre of English", "url": "https://www.australiancentreofenglish.com.au/" },
+        { "name": "Australian Childcare Career Options", "url": "https://www.acco.edu.au/" },
+        { "name": "Australian College of Management and Innovation", "url": "https://acmi.edu.au/" },
+        { "name": "Australian College of Technology Pty Ltd", "url": "https://act.edu.au/" },
+        { "name": "Australian Institute of Electro Technology", "url": "https://aite.edu.au/" },
+        { "name": "Australian Institute of Technical Training", "url": "https://aitt.edu.au/" },
+        { "name": "Australian International College", "url": "https://aic.edu.au/" },
+        { "name": "Australian National Airline College", "url": "https://www.anacollege.edu.au/" },
+        { "name": "Australian National Institute of Education", "url": "https://anie.edu.au/" },
+        { "name": "Australian Skills Management Institute", "url": "https://asmi.edu.au/" },
+        { "name": "Australian Sovereign College", "url": "#" },
+        { "name": "International Sport College of Australia", "url": "https://iscaustralia.edu.au/" },
+        { "name": "Salisbury College Australia", "url": "https://salisburycollege.com.au/" },
+        { "name": "Blue Mountain Hotel School", "url": "https://www.bluemountains.edu.au/" },
+        { "name": "Canterbury Intstitute of Technology (USQ Sydney)", "url": "https://www.canterbury.ac.nz/" },
+        { "name": "Canterbury Education Group (CLA, CBC, CTI)", "url": "https://www.canterbury.ac.nz/" },
+        { "name": "Chisholm Institute", "url": "https://www.chisholm.edu.au/" },
+        { "name": "Deakin College (Navitas)", "url": "https://www.deakincollege.edu.au/" },
+        { "name": "Excelsia College", "url": "https://excelsia.edu.au/" },
+        { "name": "Engineering Institute of Technology", "url": "https://www.eit.edu.au/" },
+        { "name": "Eyensbury", "url": "#" }
+      ]
+    },
+    "proHeroSection": {
+      "imageSrc": "/1001_Team.webp", 
+      "title": "Berufsjahrplan",
+      "highlightText": "",
+      "height": "h-96"
+    },
+    "professionalYearPrograms": {
+      "title": "BERUFSJAHRE",
+      "highlightText": "PROGRAMME",
+      "content": "Das Professional Year Program (PYP) bietet ehemaligen internationalen Studenten, die an einer Universität in Australien ihren Abschluss gemacht haben, eine Einführung in ihren jeweiligen Beruf und eine relevante praktische Ausbildung. Australian Internships stellt den praktischen Teil des Professional Year Program (PYP) bereit und wurde von den Akkreditierungsstellen, die vom Department of Immigration and Border Protection (DIBP) autorisiert wurden, genehmigt.",
+      "imageSrc": "/study.jpg"  
+    },
+    "educationCentre": {
+      "title": "BILDUNGSZENTRUM VON",
+      "highlightText": "AUSTRALIEN",
+      "content": "Das Education Centre of Australia (ECA) ist einer der führenden erschwinglichen privaten Bildungsanbieter in Australien mit mehreren Standorten in Sydney, Brisbane und Melbourne. Als wachsendes Netzwerk von Colleges suchen wir nach Wegen, um sicherzustellen, dass Ihre Zeit mit ECA Ihnen die Qualität der Bildung, praktischen Fähigkeiten und projektbasierten praktischen Lernens bietet. Die von uns angebotenen Wegeprogramme und Praktika bringen die Studenten vom Klassenzimmer in die Karriere. Unsere modernen multikulturellen Lernumgebungen bieten einen hervorragenden Ort für wachsende Köpfe.",
+      "imageSrc": "/eca-img.jpg" 
+    },
+    "performanceEducation": {
+      "title": "LEISTUNGS",
+      "highlightText": "AUSBILDUNG",
+      "content": "Als Experten für die Beschäftigungsfähigkeit von Absolventen verändert Performance Education Group das Leben, indem sie Menschen hilft, durch Lernen und Zugang zu den besten Beschäftigungsmöglichkeiten Australiens beruflichen Erfolg zu erzielen. Gegründet im Jahr 2006, um die Karrieren junger Fachkräfte in Australien zu verbessern, sind wir heute führend in diesem Bereich und entwickeln dringend benötigte Beschäftigungsfähigkeiten, einschließlich professioneller Geschäftskommunikation, Arbeitsplatzbereitschaft, Work Integrated Learning (WIL) Programme und Karrierefähigkeiten. Wir stellen sicher, dass jeder einzelne Student die bestmögliche Ausbildung und Unterstützung erhält, um seine Karriereziele zu erreichen.",
+      "imageSrc": "/Performance-Education.webp" 
+    },
+    "atmcProfessionalYear": {
+      "title": "ATMC",
+      "highlightText": "BERUFSJAHR",
+      "content": "Haben Sie Ihr Studium abgeschlossen, möchten aber zusätzliche technische Fähigkeiten und Kenntnisse erwerben, um Ihre Karriere in Australien zu starten? Jetzt können Sie Ihre Karriere mit Hilfe des Professional Year Program mit ATMC starten. ATMC bietet Professional Year Programme über die Australian Computer Society (ACS) für Absolventen der Informationstechnologie und Buchhaltungsprogramme über das Accounting PYP an. Das Professional Year (PY) Program ist speziell für internationale Studenten konzipiert, die an einer australischen Universität ihren Abschluss gemacht haben und einen erfolgreichen Weg von der Universität zur Beschäftigung und zum Aufenthalt in Australien suchen.",
+      "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
+    },
+    "migrationHeroSection": {
+      "title": "MIGRATION",
+      "highlightText": ""
+    },
+    "visaOptions": {
+      "title": "VISUM",
+      "highlightText": "OPTIONEN",
+      "visitorVisa": {
+        "title": "Besuchervisum",
+        "description": "Sie könnten aus Gründen wie Urlaub, Besichtigungen, sozialen oder Freizeitgründen, zum Besuch von Verwandten oder Freunden nach Australien kommen."
+      },
+      "skilledVisa": {
+        "title": "Qualifizierten Visum",
+        "description": "Allgemeine qualifizierte Migration (GSM) oder qualifizierte Visa sind für Menschen, die vorübergehend oder dauerhaft in Australien leben und arbeiten möchten."
+      },
+      "sponsoredVisa": {
+        "title": "Gesponserte Visa",
+        "description": "Arbeitgebergesponserte Visa sind für Arbeitgeber, die eine Position nicht mit einem australischen Arbeiter oder durch Schulung australischer Arbeiter besetzen können."
+      },
+      "studentVisa": {
+        "title": "Studentenvisum",
+        "description": "Es gibt eine Klasse von Studentenvisa (TU) mit acht Visa-Unterklassen. Sieben der Visa-Unterklassen beziehen sich auf spezifische Bildungssektoren und eine bezieht sich auf Studentenwächter."
+      },
+      "partnerVisa": {
+        "title": "Partnervisum",
+        "description": "Ein Partnervisum ist für Personen, die mit einem australischen Staatsbürger oder einem berechtigten neuseeländischen Staatsbürger verheiratet, verlobt oder in einer De-facto-Beziehung sind und in Australien leben möchten."
+      },
+      "aatFederalCourt": {
+        "title": "AAT & Bundesgericht",
+        "description": "Wir haben ein Team von professionellen Anwälten und Rechtsanwälten. Wenn Sie große Probleme haben, kontaktieren Sie uns bitte und wir werden in der Lage sein, Ihre komplexen Migrationsprobleme zu lösen."
+      }
+    },
+    "visaSpecialisations": {
+      "title": "VISA, AUF DIE WIR UNS SPEZIALISIEREN",
+      "highlightText": "",
+      "temporarySkillShortageVisa": {
+        "title": "Temporäres Fachkräftemangel-Visum",
+        "subclass": "Unterklasse 482"
+      },
+      "trainingVisa": {
+        "title": "Trainingsvisum",
+        "subclass": "Unterklasse 407"
+      },
+      "skilledIndependentVisa": {
+        "title": "Qualifizierte Unabhängige Visum",
+        "subclass": "Unterklasse 189"
+      },
+      "skilledNominatedVisa": {
+        "title": "Qualifizierte Nominierte Visum",
+        "subclass": "Unterklasse 190"
+      },
+      "skilledWorkRegionalVisa": {
+        "title": "Qualifizierte Arbeit Regionalvisum",
+        "subclass": "Unterklasse 491"
+      },
+      "sponsoredJobs": {
+        "title": "Gesponserte Jobs",
+        "subclass": ""
+      }
+    },
+    "faqAccordion": {
+      "title": "Häufig gestellte",
+      "highlightText": "Fragen",
+      "howDoIFindOutIfIAmEligibleToApply": {
+        "title": "WIE FINDE ICH HERAUS, OB ICH BERECHTIGT BIN, MICH ZU BEWERBEN?",
+        "content": "Bitte klicken Sie hier für eine Zusammenfassung der aktuellen australischen Einwanderungsvorschriften. Machen Sie dann eine KOSTENLOSE erste Überprüfung Ihrer Berechtigung, um an einen von MARA registrierten Migrationsagenten verwiesen zu werden."
+      },
+      "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+        "title": "WIE LANGE DAUERT ES, EIN DAUERHAFTES AUFENTHALTSVISUM FÜR DIE EINWANDERUNG NACH AUSTRALIEN ZU ERHALTEN?",
+        "content": "Jeder Antrag ist unterschiedlich und die Bearbeitungszeiten hängen weitgehend von der Art des beantragten Visums ab. Für die aktuellen Richtlinien zu den Bearbeitungszeiten für australische Visa siehe Globale Visa- und Staatsbürgerschaftsbearbeitungszeiten auf der Website des Department of Immigration and Border Protection."
+      },
+      "canTheImmigrationAuthoritiesRefuseMyApplication": {
+        "title": "KÖNNEN DIE EINWANDERUNGSBEHÖRDEN MEINEN ANTRAG ABLEHNEN?",
+        "content": "Ja. Eine überraschend große Anzahl von Antragstellern ist sich nicht bewusst, wie streng die Einwanderungsvorschriften durchgesetzt werden, und werden oft unnötig abgelehnt oder verzögert, weil sie technische Fehler in ihrem Antrag gemacht haben oder die falschen unterstützenden Dokumente eingereicht haben. Die Moral der Geschichte ist also, die professionelle Anleitung und unabhängige Beratung eines von MARA registrierten Migrationsagenten in Betracht zu ziehen, bevor man einen Antrag auf Aufenthalt stellt. Migrationsagenten existieren, um Ihnen zu helfen, den besten Weg durch das Einwanderungslabyrinth zu finden, und sind dabei sehr effektiv."
+      },
+      "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+        "title": "WERDEN DIE EINWANDERUNGSBEHÖRDEN ODER DIE BOTSCHAFT MIR HELFEN, MEINEN ANTRAG VORZUBEREITEN UND SICHERZUSTELLEN, DASS ALLES RICHTIG IST, BEVOR ICH MICH BEWERBE?",
+        "content": "Nein. Diese Art von Service wird nicht mehr von der Regierung bereitgestellt. Die Behörden existieren, um das Einwanderungsgesetz durchzusetzen, Entscheidungen über Aufenthaltsanträge zu treffen und Aufenthaltsvisa auszustellen. Obwohl grundlegende Informationen und Antragsformulare verfügbar sind, können die Behörden keine unabhängige Beratung und persönliche Anleitung zu Ihrem spezifischen Fall geben. Ein australischer registrierter Migrationsagent kann diese Art von Service anbieten."
+      },
+      "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+        "title": "MEIN MIGRATIONAGENT HAT MICH ALS BERECHTIGT FÜR DEN AUFENTHALT IN AUSTRALIEN BEURTEILT. WENN ICH MICH OHNE SEINE HILFE BEWERBE, KANN ICH DANN ERFOLG HABEN?",
+        "content": "Nein. Obwohl Sie grundsätzlich unter der Einwanderungspolitik qualifizieren, sind Sie keineswegs garantiert erfolgreich. Ihr Antrag muss gemäß den geltenden Einwanderungsvorschriften vorbereitet und zusammen mit den entsprechenden unterstützenden Dokumenten eingereicht werden, um von den Einwanderungsbehörden genehmigt zu werden. Die Methoden, dies zu tun, sind nicht immer klar von den Einwanderungsbehörden festgelegt und führen dazu, dass viele Antragsteller ihre Fälle falsch präsentieren, was unvermeidlich zu einer Ablehnung führt. Sie sollten also die Beratung eines von MARA registrierten Migrationsagenten in Betracht ziehen."
+      },
+      "cta": "ERHALTEN SIE EINE KOSTENLOSE ERSTE BEWERTUNG IHRER EIGNUNG"
+    },
+    "temporarySkilledVisaData": {
+      "hero": {
+        "title": "TEMPORÄRES FACHKRÄFTEMANGEL-VISUM (TSS)",
+        "highlightText": "UNTERKLASSE 482"
+      },
+      "title": "ÜBER DIESES VISUM",
+      "description": "Das temporäre Arbeitsvisum (Unterklasse 457) wurde am 18. März 2018 durch das temporäre Fachkräftemangel-Visum (TSS) Unterklasse 482 ersetzt. Dieses Visum ermöglicht es Arbeitgebern, Arbeitskräftemangel zu beheben, indem sie qualifizierte Arbeitskräfte aus dem Ausland einstellen, wenn Arbeitgeber keine entsprechend qualifizierten australischen Arbeitskräfte finden können.",
+      "section1": {
+        "heading": "WIE QUALIFIZIERE ICH MICH FÜR DAS TEMPORÄRE FACHKRÄFTEMANGEL-VISUM (TSS) UNTERKLASSE 482?",
+        "subSections": [
+          {
+            "subHeading": "Berechtigung für das temporäre Fachkräftemangel-Visum (TSS) Unterklasse 482:",
+            "details": [
+              {
+                "title": "i) Kurzfristiger Stream:",
+                "content": "Dieser Stream ist verfügbar, wenn ein Arbeitgeber einen ausländischen Facharbeiter nur vorübergehend in den auf der Short-term Skilled Occupation list (STSOL) aufgeführten Berufen für ein TSS-Visum sponsern möchte. Es kann verwendet werden, um Positionen für maximal zwei Jahre oder vier Jahre zu besetzen, wenn eine internationale Handelsverpflichtung (ITO) gilt."
+              },
+              {
+                "title": "ii) Mittelfristiger Stream:",
+                "content": "Dieses Visum ermöglicht es Arbeitgebern, Arbeitskräftemangel zu beheben, indem sie qualifizierte Arbeitskräfte aus dem Ausland einstellen, wenn Arbeitgeber keine entsprechend qualifizierten australischen Arbeitskräfte finden können."
+              },
+              {
+                "title": "iii) Arbeitsabkommen-Stream:",
+                "content": "Dieses Visum ist für qualifizierte Arbeitskräfte, die von Arbeitgebern nominiert wurden, die ein Arbeitsabkommen haben. Es ermöglicht Ihnen, vorübergehend in Australien zu leben und zu arbeiten. Arbeitsabkommen werden zwischen der australischen Regierung (vertreten durch das Department) und den Arbeitgebern entwickelt."
+              }
+            ]
+          }
+        ]
+      },
+      "section2": {
+        "heading": "Was sind die Berechtigungsvoraussetzungen für die Beantragung eines temporären Fachkräftemangel-Visums (Unterklasse 482)?",
+        "listItems": [
+          "Sie haben einen Beruf auf der konsolidierten Liste der qualifizierten Berufe",
+          "Sie wurden für eine Arbeitsstelle von einem australischen Arbeitgeber nominiert, der Sie einstellen möchte",
+          "Sie haben die entsprechenden Fähigkeiten und Qualifikationen für Ihren Beruf",
+          "Sie haben mindestens zwei (2) Jahre Berufserfahrung in Ihrem Beruf",
+          "Sie haben berufsbezogene Englischkenntnisse",
+          "Sie können die Anforderungen der DHA für guten Charakter und Gesundheit erfüllen",
+          "Wenn Sie sich in Australien befinden, haben Sie ein substantives Visum oder ein Brückenvisum A, B oder C und haben Ihre Visabedingungen eingehalten."
+        ],
+        "note": "Hinweis: Es gibt keine Altersvoraussetzung für das TSS-Visum."
+      },
+      "section3": {
+        "heading": "Was sind die allgemeinen Anforderungen für Arbeitgeber, um ein temporäres Fachkräftemangel-Visum (Unterklasse 482) zu beantragen?",
+        "listItems": [
+          "Ein rechtmäßig operierendes Unternehmen sein",
+          "Keine negativen Informationen gegen das Unternehmen haben",
+          "Eine Arbeitsstelle für den ausländischen Arbeitsnehmer nominieren, die Vollzeit und echt ist",
+          "Gehalts- und arbeitsbedingte Anforderungen erfüllen",
+          "Nachweis der Arbeitsmarktprüfung, falls erforderlich, erbringen"
+        ]
+      },
+      "section4": {
+        "heading": "Wie beantrage ich das temporäre Fachkräftemangel-Visum (TSS) Unterklasse 482?",
+        "content": "Bevor Sie ein TSS-Visum beantragen können, muss Ihr vorgeschlagener Arbeitgeber einen Nominierungsantrag für Sie einreichen. Dies können sie nur tun, wenn sie ein genehmigter Sponsor sind oder zumindest einen Antrag gestellt haben, ein Standardgeschäftssponsor zu werden. Wenn Ihr Arbeitgeber noch ein genehmigter 457-Sponsor ist, kann er Sie unter dieser bestehenden Sponsorship für ein TSS (Unterklasse 482) sponsern. Sponsoren müssen auch zwingende Arbeitsmarktprüfungen nachweisen, um zu zeigen, dass sie keinen Australier in die Position einstellen können."
+      },
+      "section5": {
+        "heading": "Was dieses Visum Ihnen ermöglicht:",
+        "content": "Dieses Visum ermöglicht es Ihnen, während der Gültigkeitsdauer Ihres Visums nach Australien zu reisen und von dort zu reisen und:",
+        "listItems": [
+          "Wenn Sie der Hauptvisuminhaber sind, in Australien für einen genehmigten Sponsor in Ihrem nominierten Beruf zu arbeiten",
+          "Wenn Sie ein Familienmitglied sind, in Australien zu arbeiten und zu studieren"
+        ]
+      }
+    },
+    "trainingVisa": {
+      "title": "ÜBER DIESES VISUM",
+      "description": "Das Trainingsvisum der Unterklasse 407 ist ein temporäres Visum...",
+      "qualifyTitle": "WIE QUALIFIZIERE ICH MICH FÜR DAS TRAININGSVISUM DER UNTERKLASSE 407?",
+      "qualifyDescription": "Um für das Trainingsvisum berechtigt zu sein, müssen Sie:",
+      "qualifyList": [
+        "von einem genehmigten Sponsor gesponsert werden...",
+        "für eine genehmigte Berufsstelle nominiert worden sein...",
+        "...",
+        "ein echter vorübergehender Einreisender sein"
+      ],
+      "subQualifyList": [
+        "Unterklasse 403 Temporäres Arbeitsvisum...",
+        "Unterklasse 771 Transitvisum...",
+        "Sondervisum"
+      ],
+      "allowTitle": "WAS DIESES VISUM IHNEN ERLAUBT",
+      "allowDescription": "Dies ist ein temporäres Visum, das dem Inhaber ermöglicht:",
+      "allowList": [
+        "Vorübergehend in Australien zu leben...",
+        "Australien zu verlassen und wieder einzureisen...",
+        "Berechtigte Familienmitglieder mitzubringen..."
+      ],
+      "conditionTitle": "BEDINGUNG",
+      "conditionDescription": "Das Visum unterliegt der Bedingung 8102...",
+      "workConditionTitle": "ARBEITSBEDINGUNG",
+      "workConditionDescription": "Sie können nur für Ihren Sponsor arbeiten...",
+      "healthInsuranceTitle": "KRANKENVERSICHERUNG",
+      "healthInsuranceDescription": "Sie müssen auch Ihre Krankenversicherung aufrechterhalten...",
+      "locationTitle": "STANDORT",
+      "locationDescription": "Der Antrag muss online eingereicht werden...",
+      "familyMembersTitle": "FAMILIENMITGLIEDER",
+      "familyMembersDescription": "Familienmitglieder (Ehepartner und Kinder) können einbezogen werden..."
+    },
+    "trainingVisaHero": {
+      "title": "TRAININGSVISUM",
+      "highlightText": "UNTERKLASSE 407"
+    },
+    "skilledWorkRegionalVisaHero": {
+      "title": "QUALIFIZIERTE ARBEIT REGIONALVISUM",
+      "highlightText": "UNTERKLASSE 491"
+    },
+    "visaDetails": {
+      "aboutTitle": "ÜBER DIESES VISUM",
+      "aboutDescription1": "Das Skilled Work Regional Visa Subclass 491 wurde am 16. November 2019 vom Department of Home Affairs (DHA) eingeführt und ersetzt das frühere Visum Subclass 489. Dieses Visum ermöglicht es qualifizierten Arbeitskräften, bis zu 5 Jahre in einem festgelegten regionalen Gebiet Australiens zu leben und zu arbeiten.",
+      "aboutDescription2": "Eine Nominierung durch den Staat/das Territorium für dieses Visum gewährt Ihnen 15 zusätzliche Punkte, um die Punkteanforderungen des Department of Home Affairs zu erfüllen.",
+      "aboutDescription3": "Wenn jemand von der Staats- oder Territorialregierung für dieses Visum nominiert wird, muss er in diesem Staat/Territorium während der gesamten Visumsdauer leben. Sie können einen Antrag auf ein Subclass 191 Visa stellen, wenn sie drei Jahre lang in einem regionalen Gebiet gelebt und gearbeitet haben und ein Mindesteinkommen von 53.900 USD pro Jahr haben. Sobald ein dauerhaftes Aufenthaltsvisum gewährt wurde, können sie überall in Australien leben. Sie können nicht überall in Australien leben, bevor das Subclass 191 Visa gewährt wurde.",
+      "aboutDescription4": "Wenn sie dieses SC 491 Visa beantragen möchten, müssen sie zunächst eine positive Qualifikationsbewertung von ihrem nominierten Beruf erhalten und dann einen Ausdruck von Interesse & Staats- oder Territoriumsnominierungsantrag einreichen. Wenn dies erfolgreich ist, werden sie eingeladen, einen Visumantrag einzureichen.",
+      "qualifyTitle": "WIE QUALIFIZIERE ICH MICH FÜR EIN UNTERKLASSE 190 VISUM?",
+      "qualifyDescription": "Zum Zeitpunkt der Einladung zur Bewerbung für dieses Visum müssen Sie:",
+      "qualifyList": [
+        "Unter 45 Jahre alt sein",
+        "Einen Beruf nominieren, der auf der relevanten Berufsliste (MLTSSL) steht",
+        "Ein EOI einreichen und eine Einladung erhalten",
+        "Die Punkteanforderung von 65 Punkten erfüllen",
+        "Von einem Verwandten in einem festgelegten Gebiet oder von einer Staats-/Territorialregierung gesponsert werden",
+        "Berufliche Englischkenntnisse oder höher haben, abhängig von Ihren Punkten",
+        "Gesundheits- und Charakteranforderungen erfüllen"
+      ],
+      "visaAllowsTitle": "WAS DIESES VISUM IHNEN ERLAUBT:",
+      "visaAllowsDescription": "Das Subclass 491 Visum gewährt dem Inhaber vorübergehenden Aufenthalt in Australien unter Bedingungen.",
+      "visaAllowsList": [
+        "Der Inhaber kann für 5 Jahre ab dem Visumerteilungsdatum in einem bestimmten Gebiet Australiens leben, arbeiten und studieren",
+        "Der Inhaber kann während der Gültigkeitsdauer des Visums frei nach Australien reisen und zurückkehren",
+        "Der Inhaber hat möglicherweise die Möglichkeit, über das Permanent Residence Skilled Regional Visa Subclass 191, das am 16. November 2022 eingeführt wird, einen Antrag auf dauerhaften Aufenthalt zu stellen."
+      ],
+      "applyTitle": "KANN JEMAND IN AUSTRALIEN ODER IM AUSLAND EINEN ANTRAG STELLEN?",
+      "applyDescription": "Jeder kann entweder im Inland oder im Ausland sein, um dieses Visum zu beantragen. Wenn sie sich im Inland befinden, müssen sie vor der Antragstellung ein gültiges Visum oder ein Brückenvisum A, B oder C haben. Sobald der Antrag gestellt wurde, erhalten sie ein Brückenvisum, bis die Entscheidung über ihren Antrag vorliegt, was ihnen erlaubt, bis dahin in Australien zu bleiben.",
+      "durationTitle": "DAUER UND BEDINGUNGEN",
+      "durationDescription": "Dies ist ein 5-Jahres-Visum, das es dem Inhaber und seinen Abhängigkeiten ermöglicht, in jedem regionalen oder dünn besiedelten Gebiet zu leben, zu arbeiten oder zu studieren. Die genehmigten regionalen Gebiete variieren je nachdem, ob sie von einem Verwandten oder von einer Staats- oder Territorialregierung gesponsert werden:",
+      "durationList": [
+        {
+          "label": "Staats- oder Territorialregierung:",
+          "content": "Sie können nur in einem regionalen oder dünn besiedelten Gebiet leben"
+        },
+        {
+          "label": "Verwandter:",
+          "content": "Sie können in einem festgelegten Gebiet leben"
+        }
+      ],
+      "applyHowTitle": "WIE BEANTRAGE ICH EIN UNTERKLASSE 190 VISUM?",
+      "applyHowDescription": "Jeder, der dieses Visum beantragen möchte, MUSS zunächst von der Einwanderungsbehörde zur Beantragung eingeladen werden. Um eine Einladung zu erhalten, müssen Sie ein 'Expression of Interest' (EOI) einreichen, das darlegt, wie Sie die Anforderungen für dieses Visum erfüllen.",
+      "initialEligibilityTitle": "STUFE 1: ERSTE BERECHTIGUNG:",
+      "initialEligibilityDescription": "Der erste Schritt, den wir unternehmen werden, besteht darin, eine erste Bewertung Ihrer Berechtigung für dieses Visum durchzuführen. Dies umfasst die Überprüfung Ihrer Qualifikationen, Berufserfahrung, Englischkenntnisse und anderer Umstände, um festzustellen, ob Sie wahrscheinlich die relevanten Anforderungen erfüllen.",
+      "skillsAssessmentTitle": "STUFE 2: QUALIFIKATIONSBESTÄTIGUNG",
+      "skillsAssessmentDescription": "Wenn unsere erste Bewertung ergibt, dass Sie für eine positive Qualifikationsbewertung und ein EOI berechtigt sind, bereiten wir Ihren Qualifikationsbewertungsantrag vor.",
+      "expressionOfInterestTitle": "STUFE 3: AUSDRUCK VON INTERESSE (EOI)",
+      "expressionOfInterestDescription": "Sobald Sie eine positive Qualifikationsbewertung von der Qualifikationsbewertungsbehörde erhalten haben, bereiten wir Ihr EOI vor und reichen es ein. Obwohl Sie zu diesem Zeitpunkt keine unterstützenden Dokumente vorlegen müssen, MÜSSEN Sie in der Lage sein, nachzuweisen, dass die im EOI angegebenen Informationen korrekt sind, wenn Sie zur Beantragung des Visums eingeladen werden.",
+      "visaApplicationTitle": "STUFE 4: VISUMANTRAG",
+      "visaApplicationDescription": "Sobald die Einwanderungsbehörde Sie zur Beantragung dieses Visums eingeladen hat, werden wir Ihren Visumantrag innerhalb des festgelegten Zeitrahmens zusammen mit allen Dokumenten, die die im EOI angegebenen Informationen unterstützen, vorbereiten und einreichen.",
+      "otherRequirementsTitle": "ANDERE ANFORDERUNGEN",
+      "healthTitle": "GESUNDHEIT",
+      "healthDescription": "Der Hauptantragsteller und alle Familienmitglieder müssen die Gesundheitsanforderungen erfüllen.",
+      "characterTitle": "CHARAKTER",
+      "characterDescription": "Sie müssen von gutem Charakter sein. Möglicherweise werden Sie aufgefordert, Polizeizeugnisse für jedes Land vorzulegen, in dem Sie in den letzten 10 Jahren (berechnet unmittelbar vor dem Zeitpunkt der Visumantragsstellung) 12 Monate oder länger gelebt haben, seit Sie 16 Jahre alt sind.",
+      "locationTitle": "STANDORT",
+      "locationDescription": "Sie können sich im In- oder Ausland befinden, wenn Sie den Visumantrag einreichen und wenn eine Entscheidung getroffen wird.",
+      "debtsTitle": "SCHULDEN",
+      "debtsDescription": "Sie müssen alle ausstehenden Schulden gegenüber der australischen Regierung beglichen oder eine Vereinbarung zur Begleichung getroffen haben.",
+      "visaCancelledTitle": "VISUM WIDERRUFEN ODER ABGELEHNT",
+      "visaCancelledDescription": "Sie sind möglicherweise nicht berechtigt, dieses Visum zu beantragen, wenn Ihnen ein Visum in Australien widerrufen oder abgelehnt wurde.",
+      "processingTimeTitle": "BEARBEITUNGSZEIT",
+      "processingTimeDescription": "6-12 Monate.",
+      "processingNote": "BITTE BEACHTEN: Die tatsächliche Zeit, die die Einwanderungsbehörde benötigt, um einen Antrag zu genehmigen und ein Visum zu erteilen, variiert von Fall zu Fall, abhängig von den besonderen Umständen des Antragstellers und der Menge an unterstützenden Informationen, die die Behörde benötigt."
+    },
+    "skilledMigrationHeroSection": {
+      "skilledNominatedVisaTitle": "QUALIFIZIERTE NOMINIERTE VISUM",
+      "subclass190": "UNTERKLASSE 190"
+    },
+    "aboutVisa": {
+      "aboutTitle": "ÜBER DIESES VISUM",
+      "aboutDescription1": "Das Skilled Nomination Visa Subclass 190 ist ein permanentes Visum, das qualifizierten Arbeitskräften erlaubt, in Australien zu leben, basierend auf der Nominierung durch eine australische Staats- oder Territorialregierung.",
+      "aboutDescription2": "Bewerber müssen qualifizierte Arbeitskräfte sein, die qualifiziert und erfahren sind, um die aktuellen Fachkräftemängel in Australien zu füllen, basierend auf der Konsolidierten Liste der gesponserten Berufe (CSOL), und nach Australien auswandern.",
+      "aboutDescription3": "Um für dieses Visum berechtigt zu sein, müssen Bewerber von einer australischen Staats- oder Territorialregierung nominiert werden.",
+      "aboutDescription4": "Die Nominierung durch den Staat/das Territorium für dieses Visum gewährt Ihnen 5 zusätzliche Punkte, um die Punkteanforderungen des Department of Home Affairs zu erfüllen.",
+      "aboutDescription5": "Wenn Sie von der Staats- oder Territorialregierung für dieses Visum nominiert werden, müssen Sie in diesem Staat/Territorium für die Dauer von zwei Jahren nach der Visumerteilung leben.",
+      "aboutDescription6": "Wenn Sie dieses Visum beantragen möchten, müssen Sie zunächst eine positive Qualifikationsbewertung von Ihrem nominierten Beruf erhalten und dann einen Ausdruck von Interesse & Staats- oder Territoriumsnominierungsantrag einreichen. Wenn dies erfolgreich ist, werden Sie eingeladen, einen Visumantrag einzureichen.",
+      "qualifyTitle": "WIE QUALIFIZIERE ICH MICH FÜR EIN UNTERKLASSE 190 VISUM?",
+      "qualifyDescription": "Zum Zeitpunkt der Einladung zur Bewerbung für dieses Visum müssen Sie:",
+      "qualifyList": [
+        "Unter 45 Jahre alt sein",
+        "Einen Beruf nominieren, der auf der relevanten Berufsliste (MLTSSL) steht",
+        "Ein EOI einreichen und eine Einladung erhalten",
+        "Die Punkteanforderung von 65 Punkten erfüllen",
+        "Berufliche Englischkenntnisse oder höher haben, abhängig von Ihren Punkten",
+        "Diese Option erfordert eine Sponsorship durch einen Verwandten oder eine Staats-/Territorialregierung"
+      ],
+      "visaAllowsTitle": "WAS DIESES VISUM IHNEN ERLAUBT:",
+      "visaAllowsDescription": "Sobald das Skilled Nomination Visa erteilt wurde, ist es ein permanentes Visum, das dem Antragsteller und den begleitenden Familienmitgliedern erlaubt:",
+      "visaAllowsList": [
+        "Unbeschränkt überall in Australien zu leben und zu arbeiten",
+        "In Australien zu studieren und Zugang zu subventionierter Bildung zu haben",
+        "Zugang zu Medicare",
+        "Sich um die australische Staatsbürgerschaft zu bewerben (nach Erfüllung der entsprechenden Anforderungen)",
+        "Familienmitglieder für bestimmte Visa sponsern zu können",
+        "Sozialversicherungszahlungen zu beantragen",
+        "Für 5 Jahre nach Australien zu reisen und zurückzukehren"
+      ],
+      "visaAllowsNote": "Hinweis: Obwohl das Visum basierend darauf erteilt wird, dass der Inhaber in einem bestimmten Beruf qualifiziert ist, ist der Inhaber nach Erteilung des Visums nicht verpflichtet, in diesem Beruf eine Anstellung zu suchen oder aufrechtzuerhalten.",
+      "applyTitle": "KANN JEMAND IN AUSTRALIEN ODER IM AUSLAND EINEN ANTRAG STELLEN?",
+      "applyDescription1": "Jeder kann entweder im Inland oder im Ausland sein, um dieses Visum zu beantragen. Wenn er/sie sich im Inland befindet, muss er/sie vor der Antragstellung ein gültiges Visum oder ein Brückenvisum A, B oder C haben. Sobald der Antrag gestellt wurde, erhält er/sie ein Brückenvisum, bis die Entscheidung über seinen Antrag vorliegt, was ihm erlaubt, bis dahin in Australien zu bleiben.",
+      "applyDescription2": "Ein Antragsteller kann seine/ihre Familienmitglieder bei der Beantragung dieses Visums einbeziehen.",
+      "applyDescription3": "Folgende Personen können hinzugefügt werden:",
+      "applyList": [
+        "Ehepartner, De-facto-Partner und gleichgeschlechtliche Partner",
+        "Abhängige Kinder",
+        "Andere abhängige Familienmitglieder – z.B. Eltern, die bei Ihnen leben und finanziell abhängig sind"
+      ],
+      "applyProcessTitle": "WIE BEANTRAGE ICH EIN UNTERKLASSE 190 VISUM?",
+      "stage1Title": "STUFE 1: ERSTE BERECHTIGUNG:",
+      "stage1Description1": "Der erste Schritt, den wir unternehmen werden, besteht darin, eine erste Bewertung Ihrer Berechtigung für dieses Visum durchzuführen. Dies umfasst die Überprüfung Ihrer Qualifikationen, Berufserfahrung, Englischkenntnisse und anderer Umstände, um festzustellen, ob Sie wahrscheinlich die relevanten Anforderungen erfüllen.",
+      "stage1Description2": "Als Teil dieser ersten Berechtigungsprüfung werden wir prüfen, welche MLTSSL-Berufe Sie wahrscheinlich nominieren können und ob Sie wahrscheinlich für eine positive Qualifikationsbewertung der relevanten Bewertungsbehörde für diesen Beruf in Frage kommen.",
+      "stage1Description3": "Wir werden Ihnen dann fundierte und umfassende Beratung über Ihre Fähigkeit geben, die Mindeststandards zu erfüllen, die das Department of Immigration von Migranten verlangt, um für eine Einladung zur Beantragung dieses Visums in Frage zu kommen.",
+      "stage1Note": "Hinweis: Unsere erste Bewertung Ihrer Berechtigung garantiert nicht, dass Sie tatsächlich eine positive Qualifikationsbewertung erhalten oder eine Einladung zur Beantragung dieses Visums erhalten. Insbesondere hängt es davon ab, wie Ihre Punktebewertung im Vergleich zu anderen potenziellen Antragstellern abschneidet und ob das Department of Immigration Ihren nominierten Beruf zum Zeitpunkt der Bewertung als erforderlich ansieht.",
+      "stage2Title": "STUFE 2: QUALIFIKATIONSBESTÄTIGUNG",
+      "stage2Description1": "Wenn unsere erste Bewertung ergibt, dass Sie für eine positive Qualifikationsbewertung und ein EOI berechtigt sind, bereiten wir Ihren Qualifikationsbewertungsantrag vor.",
+      "stage2Description2": "Für jeden qualifizierten Beruf, der auf der MLTSSL aufgelistet ist, hat das Department of Immigration eine Bewertungsbehörde angegeben, die Qualifikationsbewertungen für diesen Beruf durchführen kann. Nur eine Bewertung durch die relevante Bewertungsbehörde wird vom Department of Immigration zur Unterstützung eines EOI akzeptiert. Wir werden Ihnen eine vollständige Liste der Informationen und Dokumente zur Verfügung stellen, die erforderlich sind, um Ihren Antrag zu unterstützen. Sobald Sie die erforderlichen Details und Dokumente zusammen mit der erforderlichen Bewertungsgebühr bereitgestellt haben, werden wir Ihren Antrag bei der entsprechenden Bewertungsbehörde einreichen.",
+      "stage2Description3": "Sobald Sie eine positive Qualifikationsbewertung von der Bewertungsbehörde erhalten haben, bereiten wir Ihr EOI vor und reichen es ein. Obwohl Sie zu diesem Zeitpunkt keine unterstützenden Dokumente vorlegen müssen, MÜSSEN Sie in der Lage sein, nachzuweisen, dass die im EOI angegebenen Informationen korrekt sind, wenn Sie zur Beantragung des Visums eingeladen werden.",
+      "stage3Title": "STUFE 3: AUSDRUCK VON INTERESSE (EOI)",
+      "stage3Description1": "Sobald Sie eine positive Qualifikationsbewertung von der Bewertungsbehörde erhalten haben, bereiten wir Ihr EOI vor und reichen es ein. Obwohl Sie zu diesem Zeitpunkt keine unterstützenden Dokumente vorlegen müssen, MÜSSEN Sie in der Lage sein, nachzuweisen, dass die im EOI angegebenen Informationen korrekt sind, wenn Sie zur Beantragung des Visums eingeladen werden.",
+      "stage3Description2": "Sie erhalten anschließend ein Ergebnis und eine Punktebewertung vom Department of Immigration, die verwendet wird, um Sie im Vergleich zu anderen Antragstellern zu bewerten, die ein EOI für dieses Visum eingereicht haben. Die Bewertung basiert teilweise darauf, ob Ihr Beruf zum Zeitpunkt der Bewertung des EOI in Australien benötigt wird. Wenn Ihr EOI erfolgreich ist, werden Sie eingeladen, einen Visumantrag einzureichen.",
+      "stage3Description3": "Hinweis: Das Department of Immigration behält ein EOI für 2 Jahre ab dem Einreichungsdatum. Während dieser Zeit kann Ihr EOI aktualisiert werden, wenn sich Ihre Umstände ändern (z.B. Sie erhalten eine neue Qualifikation oder eine Qualifikationsbewertung). Wenn sich Ihre Bewertung während dieses 2-Jahres-Zeitraums aufgrund Ihrer sich ändernden Umstände oder der sich ändernden Anforderungen an die Fachkräfte in Australien ändert, kann es sein, dass Ihnen zu diesem Zeitpunkt eine Einladung zur Beantragung des Visums erteilt wird.",
+      "stage4Title": "STUFE 4: VISUMANTRAG",
+      "stage4Description1": "Sobald die Einwanderungsbehörde Sie zur Beantragung dieses Visums eingeladen hat, werden wir Ihren Visumantrag innerhalb des festgelegten Zeitrahmens zusammen mit allen Dokumenten, die die im EOI angegebenen Informationen unterstützen, vorbereiten und einreichen. Dazu gehören Ihre Qualifikationsbewertung, Ergebnisse des Englischtests, Qualifikationen, Arbeitszeugnisse und alle anderen erforderlichen Dokumente. Wenn Ihr Visumantrag genehmigt wird, erhalten Sie ein dauerhaftes Visum. Sie können sich entweder in Australien oder im Ausland befinden, wenn Ihr Visum erteilt wird.",
+      "otherRequirementsTitle": "ANDERE ANFORDERUNGEN",
+      "healthTitle": "GESUNDHEIT",
+      "healthDescription": "Der Hauptantragsteller und alle Familienmitglieder müssen die Gesundheitsanforderungen erfüllen.",
+      "characterTitle": "CHARAKTER",
+      "characterDescription1": "Sie müssen von gutem Charakter sein. Möglicherweise werden Sie aufgefordert, Polizeizeugnisse für jedes Land vorzulegen, in dem Sie in den letzten 10 Jahren (berechnet unmittelbar vor dem Zeitpunkt der Visumantragsstellung) 12 Monate oder länger gelebt haben, seit Sie 16 Jahre alt sind.",
+      "characterDescription2": "Das Polizeizeugnis ist 12 Monate für Einwanderungszwecke gültig. Wenn Sie eine erhebliche Vorstrafe haben, können Sie den Charaktertest nicht bestehen. Zum Beispiel, wenn Sie zu 12 Monaten oder mehr Gefängnis verurteilt wurden.",
+      "locationTitle": "STANDORT",
+      "locationDescription": "Sie können sich im In- oder Ausland befinden, wenn Sie den Visumantrag einreichen und wenn eine Entscheidung getroffen wird.",
+      "debtsTitle": "SCHULDEN",
+      "debtsDescription": "Sie müssen alle ausstehenden Schulden gegenüber der australischen Regierung beglichen oder eine Vereinbarung zur Begleichung getroffen haben.",
+      "visaCancelledTitle": "VISUM WIDERRUFEN ODER ABGELEHNT",
+      "visaCancelledDescription": "Sie sind möglicherweise nicht berechtigt, dieses Visum zu beantragen, wenn Ihnen ein Visum in Australien widerrufen oder abgelehnt wurde.",
+      "processingTimeTitle": "BEARBEITUNGSZEIT",
+      "processingTime": "6 MONATE",
+      "processingTimeNote": "BITTE BEACHTEN: Die tatsächliche Zeit, die die Einwanderungsbehörde benötigt, um einen Antrag zu genehmigen und ein Visum zu erteilen, variiert von Fall zu Fall, abhängig von den besonderen Umständen des Antragstellers und der Menge an unterstützenden Informationen, die die Behörde benötigt."
+    },
+    "tempTrainingVisa": {
+      "title": "TEMPORÄRES ABSCHLUSSVISUM",
+      "highlightText": "UNTERKLASSE 407"
+    },
+    "visaInfo": {
+      "aboutTitle": "ÜBER DIESES VISUM",
+      "aboutDescription": "Das Temporary Graduate Subclass 485 Visa ist ein temporäres Visum für internationale Studenten, die kürzlich an einer australischen Bildungseinrichtung ihren Abschluss gemacht haben.",
+      "qualifyTitle": "WIE QUALIFIZIERE ICH MICH FÜR EIN UNTERKLASSE 190 VISUM?",
+      "qualifyDescription": "Zum Zeitpunkt der Einladung zur Bewerbung für dieses Visum müssen Sie:",
+      "qualifyList": [
+        "Unter 45 Jahre alt sein",
+        "Einen Beruf nominieren, der auf der relevanten Berufsliste (MLTSSL) steht",
+        "Ein EOI einreichen und eine Einladung erhalten",
+        "Die Punkteanforderung von 65 Punkten erfüllen",
+        "Von einem Verwandten in einem festgelegten Gebiet oder von einer Staats-/Territorialregierung gesponsert werden",
+        "Berufliche Englischkenntnisse oder höher haben, abhängig von Ihren Punkten",
+        "Gesundheits- und Charakteranforderungen erfüllen"
+      ],
+      "whatThisVisaAllowsTitle": "WAS DIESES VISUM IHNEN ERLAUBT:",
+      "whatThisVisaAllowsDescription": "Das Subclass 491 Visum gewährt dem Inhaber vorübergehenden Aufenthalt in Australien unter Bedingungen.",
+      "whatThisVisaAllowsList": [
+        "Der Inhaber kann für 5 Jahre ab dem Visumerteilungsdatum in einem bestimmten Gebiet Australiens leben, arbeiten und studieren",
+        "Der Inhaber kann während der Gültigkeitsdauer des Visums frei nach Australien reisen und zurückkehren",
+        "Der Inhaber hat möglicherweise die Möglichkeit, über das Permanent Residence Skilled Regional Visa Subclass 191, das am 16. November 2022 eingeführt wird, einen Antrag auf dauerhaften Aufenthalt zu stellen"
+      ],
+      "applyTitle": "KANN JEMAND IN AUSTRALIEN ODER IM AUSLAND EINEN ANTRAG STELLEN?",
+      "applyDescription": "Jeder kann entweder im Inland oder im Ausland sein, um dieses Visum zu beantragen. Wenn er/sie sich im Inland befindet, muss er/sie vor der Antragstellung ein gültiges Visum oder ein Brückenvisum A, B oder C haben. Sobald der Antrag gestellt wurde, erhält er/sie ein Brückenvisum, bis die Entscheidung über seinen Antrag vorliegt, was ihm erlaubt, bis dahin in Australien zu bleiben.",
+      "durationConditionsTitle": "DAUER UND BEDINGUNGEN",
+      "durationConditionsDescription": "Dies ist ein 5-Jahres-Visum, das es dem Inhaber und seinen Abhängigkeiten ermöglicht, in jedem regionalen oder dünn besiedelten Gebiet zu leben, zu arbeiten oder zu studieren. Die genehmigten regionalen Gebiete variieren je nachdem, ob sie von einem Verwandten oder von einer Staats- oder Territorialregierung gesponsert werden:",
+      "durationConditionsList": [
+        "<strong>Staats- oder Territorialregierung:</strong> Sie können nur in einem regionalen oder dünn besiedelten Gebiet leben",
+        "<strong>Verwandter:</strong> Sie können in einem festgelegten Gebiet leben"
+      ],
+      "stage1Title": "WIE BEANTRAGE ICH EIN UNTERKLASSE 190 VISUM?",
+      "stage1Description": "Der erste Schritt, den wir unternehmen werden, besteht darin, eine erste Bewertung Ihrer Berechtigung für dieses Visum durchzuführen. Dies umfasst die Überprüfung Ihrer Qualifikationen, Berufserfahrung, Englischkenntnisse und anderer Umstände, um festzustellen, ob Sie wahrscheinlich die relevanten Anforderungen erfüllen.",
+      "stage2Title": "STUFE 2: QUALIFIKATIONSBESTÄTIGUNG",
+      "stage2Description": "Wenn unsere erste Bewertung ergibt, dass Sie für eine positive Qualifikationsbewertung und ein EOI berechtigt sind, bereiten wir Ihren Qualifikationsbewertungsantrag vor.",
+      "stage3Title": "STUFE 3: AUSDRUCK VON INTERESSE (EOI)",
+      "stage3Description": "Sobald Sie eine positive Qualifikationsbewertung von der Qualifikationsbewertungsbehörde erhalten haben, bereiten wir Ihr EOI vor und reichen es ein.",
+      "stage4Title": "STUFE 4: VISUMANTRAG",
+      "stage4Description": "Sobald die Einwanderungsbehörde Sie zur Beantragung dieses Visums eingeladen hat, werden wir Ihren Visumantrag innerhalb des festgelegten Zeitrahmens zusammen mit allen Dokumenten, die die im EOI angegebenen Informationen unterstützen, vorbereiten und einreichen. Wenn Ihr Visumantrag genehmigt wird, erhalten Sie ein dauerhaftes Visum. Sie können sich entweder in Australien oder im Ausland befinden, wenn Ihr Visum erteilt wird.",
+      "otherRequirementsTitle": "ANDERE ANFORDERUNGEN",
+      "healthTitle": "GESUNDHEIT",
+      "healthDescription": "Der Hauptantragsteller und alle Familienmitglieder müssen die Gesundheitsanforderungen erfüllen.",
+      "characterTitle": "CHARAKTER",
+      "characterDescription": "Sie müssen von gutem Charakter sein. Möglicherweise werden Sie aufgefordert, Polizeizeugnisse für jedes Land vorzulegen, in dem Sie in den letzten 10 Jahren (berechnet unmittelbar vor dem Zeitpunkt der Visumantragsstellung) 12 Monate oder länger gelebt haben, seit Sie 16 Jahre alt sind. Das Polizeizeugnis ist 12 Monate für Einwanderungszwecke gültig. Wenn Sie eine erhebliche Vorstrafe haben, können Sie den Charaktertest nicht bestehen. Zum Beispiel, wenn Sie zu 12 Monaten oder mehr Gefängnis verurteilt wurden.",
+      "locationTitle": "STANDORT",
+      "locationDescription": "Sie können sich im In- oder Ausland befinden, wenn Sie den Visumantrag einreichen und wenn eine Entscheidung getroffen wird.",
+      "debtsTitle": "SCHULDEN",
+      "debtsDescription": "Sie müssen alle ausstehenden Schulden gegenüber der australischen Regierung beglichen oder eine Vereinbarung zur Begleichung getroffen haben.",
+      "visaCancelledRefusedTitle": "VISUM WIDERRUFEN ODER ABGELEHNT",
+      "visaCancelledRefusedDescription": "Sie sind möglicherweise nicht berechtigt, dieses Visum zu beantragen, wenn Ihnen ein Visum in Australien widerrufen oder abgelehnt wurde.",
+      "processingTimeTitle": "BEARBEITUNGSZEIT",
+      "processingTimeDescription": "6-12 Monate. BITTE BEACHTEN: Die tatsächliche Zeit, die die Einwanderungsbehörde benötigt, um einen Antrag zu genehmigen und ein Visum zu erteilen, variiert von Fall zu Fall, abhängig von den besonderen Umständen des Antragstellers und der Menge an unterstützenden Informationen, die die Behörde benötigt."
+    },
+    "home": {
+      "heroSection": {
+        "title": "Gesponserte Jobs",
+        "highlightText": ""
+      }
+    },
+    "fiveSteps": {
+      "title": "Fünf einfache Schritte, um den australischen Traum zu leben",
+      "highlightText": "Australischen",
+      "description": "Erfahren Sie, wie der Rekrutierungsprozess für den Fachkräftemangel internationalen Kandidaten wie Ihnen geholfen hat, den australischen Traum zu leben."
+    },
+    "home1": {
+      "migrationHeroSection": {
+        "title": "QUALIFIZIERTE UNABHÄNGIGE VISUM",
+        "highlightText": "UNTERKLASSE 189"
+      }
+    },
+    "home2": {
+      "title": "Gesponserte Jobs",
+      "highlightText": ""
+    },
+    "pointCalc": {
+      "otherUsefulLinks": "Andere nützliche Links",
+      "migration": "Migration",
+      "tssVisa": "Temporary Skill Shortage (TSS) Visa - Unterklasse 482",
+      "trainingVisa": "Trainingsvisum - Unterklasse 407",
+      "independentVisa": "Qualifizierte Unabhängige Visum - Unterklasse 189",
+      "nominatedVisa": "Qualifizierte Nominierte Visum - Unterklasse 190",
+      "regionalVisa": "Qualifizierte Arbeit Regionalvisum - Unterklasse 491",
+      "sponsoredJobs": "Gesponserte Jobs"
+    },
+    "appointmentForm": {
+      "appointmentSchedule": "Terminplan",
+      "personalInformation": "Persönliche Informationen",
+      "appointmentScheduleTitle": "Terminplan",
+      "phoneConsultation": "Telefonische oder Online-Beratung",
+      "faceConsultation": "Persönliche Beratung",
+      "professionalDevelopment": "Berufliche Entwicklung - RPL",
+      "migrationTeam": "Migrationsteam",
+      "admissionTeam": "Aufnahme-Team",
+      "chooseDateTime": "Datum und Uhrzeit wählen",
+      "chooseDate": "Datum wählen",
+      "chooseTime": "Uhrzeit wählen",
+      "next": "Weiter",
+      "personalInformationTitle": "Persönliche Informationen",
+      "firstName": "Vorname",
+      "lastName": "Nachname",
+      "email": "E-Mail",
+      "phoneNumber": "Telefonnummer",
+      "submit": "Absenden",
+      "loading": "Lädt...",
+      "submitting": "Wird gesendet...",
+      "successMessage": "Termin erfolgreich geplant!",
+      "errorMessage": "Fehler bei der Terminplanung"
+    },
+    "contactForm": {
+      "contactTitle": "Zögern Sie nicht, uns zu <span class='text-red-500'>kontaktieren</span>",
+      "yourName": "Ihr Name",
+      "yourEmail": "Ihre E-Mail",
+      "yourPhone": "Ihr Telefon",
+      "typeMessage": "Nachricht eingeben",
+      "sendMessage": "Nachricht senden",
+      "sending": "Wird gesendet...",
+      "successMessage": "E-Mail erfolgreich gesendet!",
+      "errorMessage": "Fehler beim Senden der E-Mail"
+    },
+    "heroSectionCon": {
+      "contactUsTitle": "Zögern Sie nicht, uns",
+      "contactUsHighlightText": " zu kontaktieren"
+    },
+    "heroSectionBook": {
+      "contactUsTitle": "Einen Termin buchen",
+      "contactUsHighlightText": ""
+    }
+  }
+  

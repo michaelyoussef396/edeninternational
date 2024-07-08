@@ -1,5 +1,4 @@
 "use client";
-import { steps } from '@/data';
 import React from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
@@ -7,8 +6,32 @@ import { circleAnimation, textAnimation } from '@/utils/Animations';
 import Image from 'next/image';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCheckCircle, faUser, faClock } from '@fortawesome/free-solid-svg-icons';
+import { useTranslations } from 'next-intl';
 
 const WorkingProcess: React.FC = () => {
+  const t = useTranslations('workingProcess');
+
+  const steps = [
+    {
+      step: 1,
+      title: t('steps.0.title'),
+      description: t('steps.0.description'),
+      icon: "📈"
+    },
+    {
+      step: 2,
+      title: t('steps.1.title'),
+      description: t('steps.1.description'),
+      icon: "💼"
+    },
+    {
+      step: 3,
+      title: t('steps.2.title'),
+      description: t('steps.2.description'),
+      icon: "🚀"
+    },
+  ];
+
   const { ref: sectionRef, inView: sectionInView } = useInView({ triggerOnce: true });
 
   const sectionControls = useAnimation();
@@ -21,10 +44,10 @@ const WorkingProcess: React.FC = () => {
     <section className="relative py-16 bg-gray-100" ref={sectionRef}>
       <div className="absolute inset-x-0 bottom-0 top-1/2 z-0">
         <Image 
-          src="/shape-8.jpg" // make sure this image path is correct
+          src="/shape-8.jpg" 
           alt="Background Shape"
-          layout="fill"
-          objectFit="cover"
+          fill
+          style={{ objectFit: "cover" }}
           className="opacity-50"
         />
       </div>
@@ -34,8 +57,8 @@ const WorkingProcess: React.FC = () => {
         animate={sectionControls}
         variants={circleAnimation}
       >
-        <h3 className="text-red-600 text-sm mb-2">WORKING PROCESS</h3>
-        <h2 className="text-2xl font-medium mb-12">3 Easy Steps to Get Quick Help</h2>
+        <h3 className="text-red-600 text-sm mb-2">{t('subtitle')}</h3>
+        <h2 className="text-2xl font-medium mb-12">{t('title')}</h2>
         <div className="flex flex-col md:flex-row items-center justify-around space-y-8 md:space-y-0 relative">
           {steps.map((step, index) => (
             <motion.div

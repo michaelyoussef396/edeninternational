@@ -1,0 +1,1003 @@
+{
+    "hero": {
+      "slide1": {
+        "subtitle": "Studentska viza",
+        "description": "Studentske vize su neimigrantske vize i ne zahtijevaju od podnositelja zahtjeva da stekne državljanstvo.",
+        "image": "/hero1.png",
+        "buttonText": "Više informacija",
+        "buttonLink": "/student-visa"
+      },
+      "slide2": {
+        "subtitle": "Migracija",
+        "description": "Iznenadit ćete se kada saznate da vaše iskustvo i kvalifikacije mogu stvoriti putove za kvalificiranu migraciju u Australiju.",
+        "image": "/hero2.png",
+        "buttonText": "Više informacija",
+        "buttonLink": "/migration"
+      }
+    },
+    "aboutUs": {
+      "whoWeAre": "Tko smo mi?",
+      "title": "Nekoliko riječi o nama",
+      "description": "EDEN INTERNATIONAL osnovan je 2010. godine, imajući na umu one klijente koji se bore kako bi odredili svoj karijerni put u inozemstvu za obrazovanje na kopnu ili na moru, migraciju...",
+      "listItems": "Migracija|Upis studenata|Sponzorirani poslovi|Prepoznavanje vještina",
+      "buttonText": "Više o nama"
+    },
+    "visaCategories": {
+      "sectionTitle": "KATEGORIJE VIZA",
+      "sectionSubtitle": "Kategorije imigracije i viza",
+      "studentVisa": {
+        "title": "Studentske vize",
+        "description": "Studentske vize su neimigrantske vize i ne zahtijevaju od podnositelja zahtjeva da stekne državljanstvo.",
+        "buttonText": "Pročitajte više",
+        "buttonLink": "/student-visa"
+      },
+      "migration": {
+        "title": "Migracija",
+        "description": "Iznenadit ćete se kada saznate da vaše iskustvo i kvalifikacije mogu stvoriti putove za kvalificiranu migraciju u Australiju.",
+        "buttonText": "Pročitajte više",
+        "buttonLink": "/migration"
+      }
+    },
+    "countryList": {
+      "supportArea": "PODRUČJE PODRŠKE",
+      "title": "Popis zemalja za imigraciju",
+      "subtitle": "Popis zemalja:",
+      "countries": "Dubai|Kanada|SAD|Australija|Italija|Hrvatska|Turska|Malta|Njemačka|Filipini|Koreja"
+    },
+    "workingProcess": {
+      "subtitle": "RADNI PROCES",
+      "title": "3 jednostavna koraka za brzu pomoć",
+      "steps": [
+        {
+          "title": "Prvi korak",
+          "description": "Ispunite potrebni obrazac"
+        },
+        {
+          "title": "Drugi korak",
+          "description": "Predajte svoje dokumente"
+        },
+        {
+          "title": "Treći korak",
+          "description": "Pripremite se za primanje svoje vize"
+        }
+      ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "Svjetski ured",
+      "successfulVisaProcess": "Uspješan proces vize",
+      "satisfiedClientsMaintains": "Zadovoljni klijenti održavaju"
+    },
+    "footer": {
+      "explore": "Istražite",
+      "affiliates": "Podružnice",
+      "contactUs": "Kontaktirajte nas",
+      "usefulLinks": "Korisni linkovi",
+      "studentVisa": "Studentska viza",
+      "migration": "Migracija",
+      "recentProjects": "Nedavni projekti"
+    },
+    "floatingNav": {
+      "home": "Početna",
+      "studentVisa": "Studentska viza",
+      "studyInAustralia": "Studiranje u Australiji",
+      "studyInCanada": "Studiranje u Kanadi",
+      "affiliatedInstitutions": "Povezane institucije",
+      "professionalYear": "Profesionalna godina",
+      "migration": "Migracija",
+      "temporarySkillShortageTssVisaSubclass482": "Privremena viza za nedostatak vještina TSS podrazred 482 (AUS)",
+      "trainingVisaSubclass407": "Viza za obuku podrazred 407",
+      "skilledWorkRegionalVisa": "Regionalna viza za kvalificirani rad",
+      "skilledNominatedVisa": "Kvalificirana nominirana viza",
+      "skilledIndependentVisa": "Kvalificirana neovisna viza",
+      "temporaryGraduateVisaSubclass485": "Privremena diploma viza podrazred 485",
+      "sponsoredJobs": "Sponzorirani poslovi",
+      "pointCalculation": "Izračun bodova",
+      "contactUs": "Kontaktirajte nas",
+      "bookAnAppointment": "Zakažite sastanak"
+    },
+    "heroSectionStudent": {
+      "title": "student",
+      "highlightText": "viza"
+    },
+    "shoreServices": {
+      "onShoreTitle": "NAŠE USLUGE NA KOPNU",
+      "offShoreTitle": "NAŠE USLUGE NA MORU",
+      "forInternationalStudents": "ZA MEĐUNARODNE STUDENTE",
+      "onShores": [
+        {
+          "title": "Promjena tečaja",
+          "description": "Eden International vam pomaže odabrati odgovarajući tečaj ili promijeniti tečaj koji već pohađate."
+        },
+        {
+          "title": "Promjena sveučilišta ili institucije",
+          "description": "Mnogi studenti žele promijeniti svoja sveučilišta/institucije zbog boljih prilika, ali ne znaju pravi način za to. Mi im pomažemo to učiniti."
+        },
+        {
+          "title": "Prethodna procjena za migraciju ili drugu vizu",
+          "description": "Studenti mogu imati svoju procjenu tijekom studija. Mogu provjeriti svoju podobnost i preduvjete za kvalificiranu migraciju i druge vize kod unutarnjeg pravnika za migracije iz Educubea."
+        },
+        {
+          "title": "Produženje studentske vize",
+          "description": "Završili ste te predmete, a vaša viza uskoro istječe ili ste završili svoj tečaj i sada ste odlučili prijaviti se za novu studentsku vizu."
+        }
+      ],
+      "offShores": [
+        {
+          "title": "Početna procjena",
+          "description": "Procjena svih akademskih transkripata i certifikata, certifikat o tečaju engleskog jezika, nacionalni identitet, putovnica itd."
+        },
+        {
+          "title": "Financijska procjena",
+          "description": "Informiramo vas o troškovima tečaja, troškovima putovanja, zahtjevima za sponzore, tko može biti sponzor i koliko je novca potrebno."
+        },
+        {
+          "title": "Stipendije",
+          "description": "Uštedite na troškovima tečaja uz malu pomoć Educubea."
+        },
+        {
+          "title": "Odabir tečaja i sveučilišta",
+          "description": "Uz toliko izvrsnih sveučilišta i tečajeva u inozemstvu za odabrati, odlučiti gdje i što studirati može biti teška odluka."
+        }
+      ]
+    },
+    "visitorToStudentVisa": {
+      "title": "POSJETITELJSKA U STUDENTSKU VIZU",
+      "highlight": "STUDENTSKA VIZA",
+      "description": "Da, dobro ste pročitali. Vaša turistička viza može se pretvoriti u studentsku vizu. Zaustavite ograničenja 'Nema više boravka' i steknite obrazovanje koje zaslužujete. Otvorite svoju karijeru za neograničene mogućnosti."
+    },
+    "studentTestimonials": {
+      "title": "Što naši",
+      "highlight": "Studenti kažu",
+      "testimonials": [
+        {
+          "quote": "Napokon sam dobio vizu, hvala puno što ste mi pomogli u ovom području. Imam sjajno iskustvo s ovom organizacijom. Osoblje Eden Internationala je vrlo korisno. Preporučit ću svojim prijateljima da se prijave isključivo putem Eden Internationala.",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "Preporučit ću usluge Eden Internationala svim drugim obrtnicima koji su u mojoj situaciji. Ova usluga mi je uštedjela bezbroj sati ponovnog polaganja tečaja. Sjajna organizacija!!",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "Bilo je zadovoljstvo raditi s Educubeom. Način na koji su me vodili, posebno Md Arifuzzaman, pomogao mi je puno da se pripremim za sveučilišni viva i pokazao pravi smjer za razvijanje mojih vještina engleskog jezika.",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "Bio sam oduševljen kada sam dobio vizu. Sav kredit dajem Eden International Pty Ltd. zbog njihove pravilne inicijative. Vrlo su prijateljski nastrojeni prema obradi studentske vize. Ako netko želi ići u inozemstvo, slobodno se obratite EDUCUBE-u.",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "Zovite me Ishmael. Prije nekoliko godina—neka ne bude važno koliko točno—bez novca u novčaniku i bez posebnog interesa na kopnu, pomislio sam da ću malo ploviti i vidjeti vodeni dio svijeta.",
+          "name": "Herman Melville",
+          "title": "Moby-Dick",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
+    },
+    "cards": [
+      {
+        "title": "Računovodstvo",
+        "imageUrl": "/i.webp",
+        "description": "Razvijte vještine u financijskom izvještavanju, reviziji i oporezivanju. Naučite analizirati financijske izvještaje i upravljati proračunima."
+      },
+      {
+        "title": "Inženjering i tehnologija",
+        "imageUrl": "/i-2.webp",
+        "description": "Istražite inovativna rješenja u područjima poput strojarstva, građevinarstva i elektrotehnike. Steknite praktično iskustvo u razvoju tehnologije."
+      },
+      {
+        "title": "Umjetnost",
+        "imageUrl": "/i-3.webp",
+        "description": "Upustite se u kreativno izražavanje kroz razne medije. Proučavajte povijest umjetnosti, tehnike i suvremene prakse."
+      },
+      {
+        "title": "Poslovno upravljanje",
+        "imageUrl": "/i-4.webp",
+        "description": "Razumijte poslovne operacije, marketing i strategiju. Pripremite se za voditeljske uloge u raznim organizacijskim okruženjima."
+      },
+      {
+        "title": "Komunikacija",
+        "imageUrl": "/i-5.webp",
+        "description": "Naučite učinkovite strategije komunikacije, odnosa s javnošću i dinamike medija. Poboljšajte svoje interpersonalne i pisane vještine."
+      },
+      {
+        "title": "Mediji",
+        "imageUrl": "/i-6.webp",
+        "description": "Proučavajte utjecaj digitalnih medija, novinarstva i stvaranja sadržaja. Steknite vještine u pripovijedanju i produkciji multimedije."
+      },
+      {
+        "title": "Medicina",
+        "imageUrl": "/i-7.webp",
+        "description": "Pripremite se za karijeru u zdravstvenoj zaštiti s naglaskom na brigu o pacijentima, medicinska istraživanja i kliničku praksu."
+      },
+      {
+        "title": "Medicinska sestra",
+        "imageUrl": "/i-11.webp",
+        "description": "Obučavajte se u brizi o pacijentima, medicinskim postupcima i upravljanju zdravstvom. Pridružite se nagrađivanoj profesiji posvećenoj pomaganju drugima."
+      },
+      {
+        "title": "Jezici",
+        "imageUrl": "/i-9.webp",
+        "description": "Proučavajte lingvistiku, prevođenje i međukulturalnu komunikaciju. Poboljšajte svoju vještinu u više jezika."
+      },
+      {
+        "title": "Računalstvo i tehnologija",
+        "imageUrl": "/999.webp",
+        "description": "Naučite o razvoju softvera, analizi podataka i novim tehnologijama. Izgradite snažnu osnovu u računalnim znanostima."
+      },
+      {
+        "title": "Obrazovanje i obuka",
+        "imageUrl": "/i-10.webp",
+        "description": "Razvijte vještine podučavanja i obrazovne teorije. Pripremite se za inspiriranje i obrazovanje sljedeće generacije učenika."
+      },
+      {
+        "title": "Arhitektura",
+        "imageUrl": "/192.webp",
+        "description": "Istražite arhitektonsko dizajniranje, urbanističko planiranje i održivu gradnju. Steknite vještine oblikovanja izgrađenog okoliša."
+      }
+    ],
+    "studyInAustralia": {
+      "title": "Studiranje u",
+      "highlightText": "Australiji"
+    },
+    "whyStudyAustralia": {
+      "educationIsYourRight": "Obrazovanje je vaše pravo, ne opcija",
+      "whyStudyIn": "ZAŠTO STUDIRATI U",
+      "australia": "AUSTRALIJI",
+      "description": "Kada razmišljamo o studiranju u Australiji, postoji mnogo čimbenika koji lako privlače pažnju studenata. Rast destinacije. AUSTRALIJA je trenutno treća najpopularnija destinacija za međunarodne studente u engleskom govornom području, iza Sjedinjenih Država i Velike Britanije. Mnogi međunarodni studenti odlučuju studirati tamo zbog kulturne raznolikosti, prijateljskih domaćih i visoke kvalitete obrazovanja."
+    },
+    "quickSteps": {
+      "title": "BRZI KORACI PRIJAVE ZA",
+      "highlight": "PROCES UPISA",
+      "fileSubmission": {
+        "title": "Podnošenje datoteka",
+        "description": [
+          "Putovnica",
+          "Fotografije veličine putovnice",
+          "Akademski dokumenti",
+          "Rodni list",
+          "NID (preveden na engleski)",
+          "Pristojbe za prijavu",
+          "SOP (Izjava o svrsi)",
+          "Životopis/CV",
+          "IELTS/TOEFL certifikat"
+        ]
+      },
+      "offerLetter": {
+        "title": "Pismo ponude",
+        "description": "Primite ponudu za upis na sveučilište nakon uspješne G.T.E. procjene."
+      },
+      "gteAssessment": {
+        "title": "G.T.E. procjena",
+        "description": "Ispitivanje financijskih i drugih dokumenata te intervju sa sveučilištem."
+      },
+      "coeConfirmation": {
+        "title": "Potvrda COE",
+        "description": "Uspješan upis na sveučilište i potvrda plaćanja."
+      },
+      "visaLodgement": {
+        "title": "Podnošenje zahtjeva za vizu",
+        "description": "Podnošenje zahtjeva za vizu i potrebnih dokumenata."
+      },
+      "successfulVisa": {
+        "title": "Uspješna viza",
+        "description": "Primanje odobrenja vize i priprema za putovanje."
+      },
+      "buttonText": "Kliknite ovdje da vidite cijeli proces vize"
+    },
+    "studyProcess": {
+      "title": "PROCES",
+      "highlight": "VIZE",
+      "steps": [
+        {
+          "title": "SIGURNA ZEMLJA",
+          "description": "Vrlo važan faktor za većinu međunarodnih studenata pri odabiru programa studiranja u inozemstvu je sigurnost i sigurnost zemlje, posebno grada. Roditelji brinu o sigurnosti svoje djece, a čimbenici poput zločina protiv žena, rasne diskriminacije, krađe i provale igraju važnu ulogu pri odabiru destinacije za studiranje u inozemstvu. U tom smislu, Kanada je jedno od najsigurnijih mjesta za studiranje s vrlo niskim stopama kriminala i slučajevima rasne diskriminacije. Statistike Numbea otkrivaju da je kanadski indeks sigurnosti (62,42) mnogo viši od indeksa sigurnosti drugih popularnih destinacija za studiranje u inozemstvu kao što su SAD (49,99), UK (57,9) i Australija (57,94)."
+        },
+        {
+          "title": "MULTIKULTURNO OKRUŽENJE",
+          "description": "Kanada je međunarodni lider u računalnim i informacijskim tehnologijama i ima reputaciju izvrsnosti u sektorima kao što su telekomunikacije, animacija, transport i inženjering; a posebno zrakoplovstvo, urbani prijevoz, mikroelektronika, medicinski uređaji, napredni softver, hidroelektrična i nuklearna energija, laseri i optoelektronika, biotehnologija itd. Kanada je među prvima u svijetu prepoznala potrebu povezivanja škola i knjižnica na Internet, a njen program SchoolNet se kopira diljem svijeta. Sve vrste modernih pogodnosti su osigurane i većina kampusa je opremljena najsofisticiranijim tehnologijama koje svijet nudi."
+        },
+        {
+          "title": "MOGUĆNOSTI ZAPOSLENJA",
+          "description": "Da, kao međunarodni student i dalje ćete plaćati više od Kanađana za isti tečaj, ali taj isti tečaj u drugoj zemlji, poput Sjedinjenih Država, Australije ili Ujedinjenog Kraljevstva, vjerojatno bi koštao još više. Također, pogledajte točku 1 gore – ne samo da plaćate manje u Kanadi, već i zarađujete."
+        },
+        {
+          "title": "PRISTUPAČNO OBRAZOVANJE I ŽIVOT",
+          "description": "Kanada nudi ne samo kvalitetno obrazovanje, već i obrazovanje koje je pristupačno za međunarodne, uključujući indijske studente. U usporedbi s zemljama poput Velike Britanije, SAD-a i Australije, troškovi obrazovanja u Kanadi su prilično umjereni."
+        },
+        {
+          "title": "UVJETI ZA UPIS",
+          "description": "Nakon što dobijete COE, EDUCUDE – u ime studenta će podnijeti sve akademske i financijske dokumente ambasadi i pripremiti studente za biometriju i liječnički pregled. Potrebno je 20-30 radnih dana da se dobije viza."
+        }
+      ]
+    },
+    "studyInCanada": {
+      "title": "Studiranje u",
+      "highlightText": "Kanadi"
+    },
+    "whyStudyInCanada": {
+      "title": "ZAŠTO STUDIRATI U",
+      "highlightText": "KANADI?",
+      "description": {
+        "part1": "30. travnja 2018. – S 21 od svjetskih najboljih",
+        "part2": "500 sveučilišta",
+        "part3": "i 32 u",
+        "part4": "prvih 1000",
+        "part5": ", Kanada godišnje dočekuje više od",
+        "part6": "400.000 međunarodnih studenata",
+        "part7": ". Nudi najbolje studijske programe na svijetu i dom je nekih od vodećih svjetskih istraživačkih objekata i akademskih institucija. Ako je studiranje u inozemstvu vaš plan, Kanada bi trebala biti na vrhu vašeg popisa."
+      }
+    },
+    "accordionCanada": {
+      "title": "GLAVNI RAZLOZI ZA ODABIR",
+      "highlightText": "KANADA",
+      "buttonText": "DOBITE BESPLATNU POČETNU PROCJENU VAŠE PODOBNOSTI",
+      "items": [
+        {
+          "title": "SIGURNA ZEMLJA",
+          "content": "Vrlo važan faktor za većinu međunarodnih studenata pri odabiru programa studiranja u inozemstvu je sigurnost i sigurnost zemlje, posebno grada. Roditelji brinu o sigurnosti svoje djece, a čimbenici poput zločina protiv žena, rasne diskriminacije, krađe i provale igraju važnu ulogu pri odabiru destinacije za studiranje u inozemstvu. U tom smislu, Kanada je jedno od najsigurnijih mjesta za studiranje s vrlo niskim stopama kriminala i slučajevima rasne diskriminacije. Statistike Numbea otkrivaju da je kanadski indeks sigurnosti (62,42) mnogo viši od indeksa sigurnosti drugih popularnih destinacija za studiranje u inozemstvu kao što su SAD (49,99), UK (57,9) i Australija (57,94)."
+        },
+        {
+          "title": "MULTIKULTURNO OKRUŽENJE",
+          "content": "Kanada je međunarodni lider u računalnim i informacijskim tehnologijama i ima reputaciju izvrsnosti u sektorima kao što su telekomunikacije, animacija, transport i inženjering; a posebno zrakoplovstvo, urbani prijevoz, mikroelektronika, medicinski uređaji, napredni softver, hidroelektrična i nuklearna energija, laseri i optoelektronika, biotehnologija itd. Kanada je među prvima u svijetu prepoznala potrebu povezivanja škola i knjižnica na Internet, a njen program SchoolNet se kopira diljem svijeta. Sve vrste modernih pogodnosti su osigurane i većina kampusa je opremljena najsofisticiranijim tehnologijama koje svijet nudi."
+        },
+        {
+          "title": "MOGUĆNOSTI ZAPOSLENJA",
+          "content": "Da, kao međunarodni student i dalje ćete plaćati više od Kanađana za isti tečaj, ali taj isti tečaj u drugoj zemlji, poput Sjedinjenih Država, Australije ili Ujedinjenog Kraljevstva, vjerojatno bi koštao još više. Također, pogledajte točku 1 gore – ne samo da plaćate manje u Kanadi, već i zarađujete."
+        },
+        {
+          "title": "PRISTUPAČNO OBRAZOVANJE I ŽIVOT",
+          "content": "Kanada nudi ne samo kvalitetno obrazovanje, već i obrazovanje koje je pristupačno za međunarodne, uključujući indijske studente. U usporedbi s zemljama poput Velike Britanije, SAD-a i Australije, troškovi obrazovanja u Kanadi su prilično umjereni."
+        },
+        {
+          "title": "UVJETI ZA UPIS",
+          "content": "Svi studenti moraju ispuniti ove kriterije kako bi se upisali na bilo koje sveučilište/koledž/institut u Kanadi: Akademske kvalifikacije: Minimalno 60% ocjena na svim prethodnim studijskim programima, tj. srednjoj i višoj srednjoj razini ili intermedijarnoj razini i diplomi ili časti. ESL tečaj (engleski kao drugi jezik): Kvalifikacije iz engleskog jezika: Može se prijaviti s/bez IELTS-a. Diploma: Kvalifikacije iz engleskog jezika: Studenti moraju postići minimalno 5,5 bodova (nijedan bod manji od 5,0) na IELTS-u ili 46 na PTE ili 62 na TOEFL-u. Preddiplomski program: Kvalifikacije iz engleskog jezika: Studenti moraju postići minimalno 6,0 bodova (nijedan bod manji od 5,5) na IELTS-u ili 54 na PTE ili 73 na TOEFL-u. Magistarski program: Kvalifikacije iz engleskog jezika: Studenti moraju postići minimalno 6,5 bodova (nijedan bod manji od 6,0) na IELTS-u ili 61 na PTE ili 85 na TOEFL-u."
+        }
+      ]
+    },
+    "affiliatedInstitutions": {
+      "title": "POVEZANE",
+      "highlightText": "INSTITUCIJE",
+      "description": "Povezana škola ili povezani koledž je obrazovna ustanova koja djeluje neovisno, ali također ima formalni suradnički sporazum s drugom, obično većom institucijom koja može imati određenu razinu kontrole ili utjecaja na njene akademske politike, standarde ili programe."
+    },
+    "heroSection": {
+      "firstTitle": "",
+      "firstHighlightText": "",
+      "secondTitle": "NAŠE POVEZANE",
+      "secondHighlightText": "INSTITUCIJE"
+    },
+    "affiliated": {
+      "title": "Povezane institucije",
+      "institutions": [
+        { "name": "University of North South Wales (UNSW) - Global", "url": "https://www.unsw.edu.au/" },
+        { "name": "Central Queensland University (CQU)", "url": "https://www.cqu.edu.au/" },
+        { "name": "Charles Darwin University (CDU)", "url": "https://www.cdu.edu.au/" },
+        { "name": "Charles Stuart University", "url": "https://www.csu.edu.au/" },
+        { "name": "Curtin University - Perth", "url": "https://www.curtin.edu.au/" },
+        { "name": "Deakin University", "url": "https://www.deakin.edu.au/" },
+        { "name": "Edith Cowan University (ECU)", "url": "https://www.ecu.edu.au/" },
+        { "name": "James Cook University (JCUB)", "url": "https://www.jcu.edu.au/" },
+        { "name": "La Trobe University", "url": "https://www.latrobe.edu.au/" },
+        { "name": "La Trobe University - Sydney", "url": "https://www.latrobe.edu.au/sydney" },
+        { "name": "Macquarie University", "url": "https://www.mq.edu.au/" },
+        { "name": "Monash University / College", "url": "https://www.monash.edu/" },
+        { "name": "Murdoch University", "url": "https://www.murdoch.edu.au/" },
+        { "name": "RMIT (Royal Melbourne Institute of Technology)", "url": "https://www.rmit.edu.au/" },
+        { "name": "SAIBT - University of South Australia (Navitas)", "url": "https://www.saibt.sa.edu.au/" },
+        { "name": "Southern Cross University (SCU)", "url": "https://www.scu.edu.au/" },
+        { "name": "Swinburne University", "url": "https://www.swinburne.edu.au/" },
+        { "name": "Sydney Institute of Business and Technology (SIBT)", "url": "https://www.sibt.nsw.edu.au/" },
+        { "name": "TAFE NSW", "url": "https://www.tafensw.edu.au/" },
+        { "name": "The University of Newcastle", "url": "https://www.newcastle.edu.au/" },
+        { "name": "Torrens University", "url": "https://www.torrens.edu.au/" },
+        { "name": "University of Queensland (UQ)", "url": "https://www.uq.edu.au/" },
+        { "name": "University of Tasmania Sydney (UTAS)", "url": "https://www.utas.edu.au/" },
+        { "name": "University of Technology, Sydney (UTS)", "url": "https://www.uts.edu.au/" },
+        { "name": "University of Western Sydney (WSU)", "url": "https://www.westernsydney.edu.au/" },
+        { "name": "University of Wollongong (UOW)", "url": "https://www.uow.edu.au/" },
+        { "name": "Victorian Institute of Technology (VIT)", "url": "https://www.vit.edu.au/" },
+        { "name": "Victoria University - Melbourne", "url": "https://www.vu.edu.au/" },
+        { "name": "University of Sunshine Coast", "url": "https://www.usc.edu.au/" },
+        { "name": "Australian National University", "url": "https://www.anu.edu.au/" },
+        { "name": "The University of Queensland", "url": "https://www.uq.edu.au/" },
+        { "name": "The University of Western Australia", "url": "https://www.uwa.edu.au/" },
+        { "name": "University of South Australia", "url": "https://www.unisa.edu.au/" },
+        { "name": "The University of Notre Dame Australia", "url": "https://www.notredame.edu.au/" },
+        { "name": "Federation University Australia", "url": "https://federation.edu.au/" },
+        { "name": "Bright College", "url": "#" },
+        { "name": "AIBI College", "url": "#" },
+        { "name": "Alpha College", "url": "#" },
+        { "name": "Connected Institute", "url": "#" },
+        { "name": "Building Institute (NSW)", "url": "#" },
+        { "name": "Australian Learning Institute", "url": "#" },
+        { "name": "Trinity Institute Australia", "url": "#" },
+        { "name": "Astrall Skill Institute Australia", "url": "#" },
+        { "name": "Apex Australia", "url": "#" },
+        { "name": "Reach Community College", "url": "#" },
+        { "name": "Waratah Polytechnic", "url": "#" },
+        { "name": "Australian Academy of Hospitality Management", "url": "#" },
+        { "name": "Kaplan Business School Australia", "url": "https://www.kbs.edu.au/" },
+        { "name": "TAFE NSW", "url": "https://www.tafensw.edu.au/" },
+        { "name": "Kings Own Institute", "url": "https://www.koi.edu.au/" },
+        { "name": "Education Centre of Australia (ECA)", "url": "https://www.eca.edu.au/" },
+        { "name": "Stodds College", "url": "https://www.stotts.edu.au/" },
+        { "name": "TAFE Queensland", "url": "https://tafeqld.edu.au/" },
+        { "name": "UTS College", "url": "https://utscollege.edu.au/" },
+        { "name": "UOW College", "url": "https://www.uowcollege.edu.au/" },
+        { "name": "Stanley College", "url": "https://www.stanleycollege.edu.au/" },
+        { "name": "TAFE SA", "url": "https://www.tafesa.edu.au/" },
+        { "name": "Charles Darwin University International College", "url": "https://www.cdu.edu.au/cdu-international" },
+        { "name": "Deakin College", "url": "https://www.deakincollege.edu.au/" },
+        { "name": "Latrobe College Australia", "url": "https://www.latrobe.edu.au/" },
+        { "name": "Conestoga College", "url": "https://www.conestogac.on.ca/" },
+        { "name": "Confederation College", "url": "https://www.confederationcollege.ca/" },
+        { "name": "ACAP College", "url": "https://www.acap.edu.au/" },
+        { "name": "Academia International", "url": "https://www.academia21.com/" },
+        { "name": "Engineer Institute of Technology", "url": "https://www.eit.edu.au/" },
+        { "name": "Melbourne Institute of Technology (MIT)", "url": "https://www.mit.edu.au/" },
+        { "name": "Insearch UTS", "url": "https://www.insearch.edu.au/" },
+        { "name": "Griffith College (Navitas)", "url": "https://www.griffithcollege.edu.au/" },
+        { "name": "Lead College", "url": "https://www.leadcollege.edu.au/" },
+        { "name": "Griffith College", "url": "https://www.griffithcollege.edu.au/" },
+        { "name": "International College of Management (Sydney)", "url": "https://www.icms.edu.au/" },
+        { "name": "TAFE International Western Australia", "url": "https://www.tafeinternational.wa.edu.au/" },
+        { "name": "Holmes Institute", "url": "https://www.holmes.edu.au/" },
+        { "name": "Swinburne College", "url": "https://www.swinburne.edu.au/" },
+        { "name": "Crown Institute of Higher Education", "url": "https://www.cihe.edu.au/" },
+        { "name": "International Institute of Business and Information Technology", "url": "https://www.iibit.edu.au/" },
+        { "name": "Le Cordon Bleu", "url": "https://www.cordonbleu.edu/" },
+        { "name": "Melbourne Polytechnic", "url": "https://www.melbournepolytechnic.edu.au/" },
+        { "name": "The Université of Adelaide College", "url": "https://college.adelaide.edu.au/" },
+        { "name": "Quality College of Australia", "url": "https://www.qca.edu.au/" },
+        { "name": "Sydney Institute of Business and Technology (SIBT)", "url": "https://www.sibt.nsw.edu.au/" },
+        { "name": "Adelaide Institute of Business and Technology", "url": "https://aibtglobal.edu.au/" },
+        { "name": "Greenwich College", "url": "https://www.greenwichcollege.edu.au/" },
+        { "name": "Curtin College", "url": "https://www.curtincollege.edu.au/" },
+        { "name": "Edith Cowan College", "url": "https://www.edithcowancollege.edu.au/" },
+        { "name": "Equals International", "url": "https://www.equals.edu.au/" },
+        { "name": "The Hotel School of Australia", "url": "https://www.hotelschool.scu.edu.au/" },
+        { "name": "Australian Learning Group", "url": "https://alg.edu.au/" },
+        { "name": "UNSW Global", "url": "https://www.unswglobal.unsw.edu.au/" },
+        { "name": "Academics Australasia Polytechnic", "url": "https://www.aapoly.edu.au/" },
+        { "name": "Kent Institute Australia", "url": "https://kent.edu.au/" },
+        { "name": "Icon Institute of Australia", "url": "https://icon.edu.au/" },
+        { "name": "Skills Australia Institute", "url": "https://sai.edu.au/" },
+        { "name": "Australian Ideal College", "url": "https://idealcollege.edu.au/" },
+        { "name": "Imagine Education Australia", "url": "https://www.imagineeducation.edu.au/" },
+        { "name": "Institute of Health and Nursing Australia", "url": "https://www.ihna.edu.au/" },
+        { "name": "Signet Institute of Australia", "url": "https://signet.edu.au/" },
+        { "name": "ILSC-Australia", "url": "https://www.ilsc.com/" },
+        { "name": "Australian Health & Science Institute", "url": "https://ahsinstitute.edu.au/" },
+        { "name": "Australian National Airline College", "url": "https://www.anacollege.edu.au/" },
+        { "name": "WSU - College", "url": "https://www.westernsydney.edu.au/" },
+        { "name": "Phoneix", "url": "#" },
+        { "name": "Murdoch Institute (MIT)", "url": "https://www.mit.edu.au/" },
+        { "name": "Greystone College Australia", "url": "https://www.greystonecollege.com.au/" },
+        { "name": "Oxford House (OHC) - Australia", "url": "https://www.oxfordhouse.com/" },
+        { "name": "ANGAD Australian Institute of Technology", "url": "https://angad.vic.edu.au/" },
+        { "name": "Australian National Education (ANE)", "url": "https://www.ane.edu.au/" },
+        { "name": "Australian Technical College Western", "url": "https://www.atcwa.edu.au/" },
+        { "name": "Australian International High School Pty Ltd", "url": "https://www.aihs.edu.au/" },
+        { "name": "Skills Training Australia", "url": "https://skillstraining.edu.au/" },
+        { "name": "Australian Harbour International College", "url": "https://www.ahic.edu.au/" },
+        { "name": "Australian Science and Mathematics School", "url": "https://www.asms.sa.edu.au/" },
+        { "name": "Australian Skills Group", "url": "https://asgroup.com.au/" },
+        { "name": "Kaplan International English - Australia", "url": "https://www.kaplaninternational.com/" },
+        { "name": "Texila College Australia", "url": "#" },
+        { "name": "Australian Centre of English", "url": "https://www.australiancentreofenglish.com.au/" },
+        { "name": "Australian Childcare Career Options", "url": "https://www.acco.edu.au/" },
+        { "name": "Australian College of Management and Innovation", "url": "https://acmi.edu.au/" },
+        { "name": "Australian College of Technology Pty Ltd", "url": "https://act.edu.au/" },
+        { "name": "Australian Institute of Electro Technology", "url": "https://aite.edu.au/" },
+        { "name": "Australian Institute of Technical Training", "url": "https://aitt.edu.au/" },
+        { "name": "Australian International College", "url": "https://aic.edu.au/" },
+        { "name": "Australian National Airline College", "url": "https://www.anacollege.edu.au/" },
+        { "name": "Australian National Institute of Education", "url": "https://anie.edu.au/" },
+        { "name": "Australian Skills Management Institute", "url": "https://asmi.edu.au/" },
+        { "name": "Australian Sovereign College", "url": "#" },
+        { "name": "International Sport College of Australia", "url": "https://iscaustralia.edu.au/" },
+        { "name": "Salisbury College Australia", "url": "https://salisburycollege.com.au/" },
+        { "name": "Blue Mountain Hotel School", "url": "https://www.bluemountains.edu.au/" },
+        { "name": "Canterbury Intstitute of Technology (USQ Sydney)", "url": "https://www.canterbury.ac.nz/" },
+        { "name": "Canterbury Education Group (CLA, CBC, CTI)", "url": "https://www.canterbury.ac.nz/" },
+        { "name": "Chisholm Institute", "url": "https://www.chisholm.edu.au/" },
+        { "name": "Deakin College (Navitas)", "url": "https://www.deakincollege.edu.au/" },
+        { "name": "Excelsia College", "url": "https://excelsia.edu.au/" },
+        { "name": "Engineering Institute of Technology", "url": "https://www.eit.edu.au/" },
+        { "name": "Eyensbury", "url": "#" }
+      ]
+    },
+    "proHeroSection": {
+      "imageSrc": "/1001_Team.webp", 
+      "title": "Profesionalni",
+      "highlightText": "Godišnji plan",
+      "height": "h-96"
+    },
+    "professionalYearPrograms": {
+      "title": "PROFESIONALNI",
+      "highlightText": "GODIŠNJI PROGRAMI",
+      "content": "Profesionalni godišnji program (PYP) nudi bivšim međunarodnim studentima koji su diplomirali na sveučilištu u Australiji uvod u svoje zanimanje i relevantnu praktičnu obuku. Australske prakse pružaju praktičnu komponentu Profesionalnog godišnjeg programa (PYP) i odobrile su ih akreditacijska tijela ovlaštena od strane Odjela za imigraciju i zaštitu granica (DIBP).",
+      "imageSrc": "/study.jpg"  
+    },
+    "educationCentre": {
+      "title": "OBRAZOVNI CENTAR",
+      "highlightText": "AUSTRALIJE",
+      "content": "Obrazovni centar Australije (ECA) jedan je od vodećih pružatelja privatnog obrazovanja po pristupačnim cijenama u Australiji s više kampusa u Sydneyu, Brisbaneu i Melbourneu. Kao rastuća mreža koledža, tražimo načine da osiguramo da vaše vrijeme s ECA-om pruža kvalitetno obrazovanje, praktične vještine i učenje kroz projektne zadatke. Programi putova i prakse koje nudimo vode studente od učionice do karijere. Naša moderna multikulturalna okruženja za učenje pružaju izvrsno mjesto za rastuće umove.",
+      "imageSrc": "/eca-img.jpg" 
+    },
+    "performanceEducation": {
+      "title": "PERFORMANCE",
+      "highlightText": "EDUKACIJA",
+      "content": "Kao Stručnjaci za Zapošljivost Diplomanata, Performance Education Group mijenja živote pomažući ljudima postići uspjeh u karijeri kroz učenje i pristup najboljim vezama za zapošljavanje u Australiji. Osnovani 2006. godine kako bi poboljšali karijere mladih profesionalaca u Australiji, sada smo lideri u ovom prostoru, razvijajući prijeko potrebne vještine zapošljivosti, uključujući profesionalnu poslovnu komunikaciju, spremnost za radno mjesto, programe integriranog učenja u radu (WIL) i karijerne vještine. Osiguravamo da svaki student dobije najbolju moguću obuku i podršku za postizanje svojih karijernih ciljeva.",
+      "imageSrc": "/Performance-Education.webp" 
+    },
+    "atmcProfessionalYear": {
+      "title": "ATMC",
+      "highlightText": "PROFESIONALNA GODINA",
+      "content": "Jeste li završili svoju diplomu, ali želite steći dodatne tehničke vještine i znanja kako biste započeli svoju karijeru u Australiji? Sada možete započeti svoju karijeru uz pomoć Profesionalnog godišnjeg programa s ATMC-om. ATMC nudi Profesionalne godišnje programe kroz Australsko računalno društvo (ACS) za diplomante informatičke tehnologije i računovodstvene programe kroz Računovodstveni PYP. Profesionalni godišnji (PY) program posebno je dizajniran za međunarodne studente koji su diplomirali na australskom sveučilištu i traže uspješan put od sveučilišta do zapošljavanja i stalnog boravka u Australiji.",
+      "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
+    },
+    "migrationHeroSection": {
+      "title": "MIGRACIJA",
+      "highlightText": ""
+    },
+    "visaOptions": {
+      "title": "OPCIJE",
+      "highlightText": "VIZA",
+      "visitorVisa": {
+        "title": "Posjetiteljska viza",
+        "description": "Možete doći u Australiju iz razloga poput odmora, razgledavanja, društvenih ili rekreacijskih razloga, posjete rodbini, prijateljima."
+      },
+      "skilledVisa": {
+        "title": "Viza za kvalificirane radnike",
+        "description": "Opća kvalificirana migracija (GSM) ili vize za kvalificirane radnike je za ljude koji žele živjeti i raditi u Australiji na privremenoj ili stalnoj osnovi."
+      },
+      "sponsoredVisa": {
+        "title": "Sponzorirana viza",
+        "description": "Vize za sponzorirane poslodavce namijenjene su poslodavcima koji ne mogu popuniti radno mjesto australskim radnikom ili obukom australskih radnika."
+      },
+      "studentVisa": {
+        "title": "Studentska viza",
+        "description": "Postoji jedna klasa studentske vize (TU) s osam podrazreda viza. Sedam podrazreda viza odnosi se na specifične obrazovne sektore, a jedan se odnosi na skrbnike studenata."
+      },
+      "partnerVisa": {
+        "title": "Partnerska viza",
+        "description": "Partnerska viza namijenjena je ljudima koji su u braku, zaručeni ili u de facto vezi s australskim državljaninom ili kvalificiranim novozelandskim državljaninom i žele živjeti u Australiji."
+      },
+      "aatFederalCourt": {
+        "title": "AAT i Federalni sud",
+        "description": "Imamo tim profesionalnih odvjetnika i pravnika. Ako imate velike probleme, obratite nam se i moći ćemo riješiti vaše složene migracijske probleme."
+      }
+    },
+    "visaSpecialisations": {
+      "title": "VIZE U KOJIMA",
+      "highlightText": "SE SPECIJALIZIRAMO",
+      "temporarySkillShortageVisa": {
+        "title": "Privremena viza za nedostatak vještina",
+        "subclass": "Podrazred 482"
+      },
+      "trainingVisa": {
+        "title": "Viza za obuku",
+        "subclass": "Podrazred 407"
+      },
+      "skilledIndependentVisa": {
+        "title": "Kvalificirana neovisna viza",
+        "subclass": "Podrazred 189"
+      },
+      "skilledNominatedVisa": {
+        "title": "Kvalificirana nominirana viza",
+        "subclass": "Podrazred 190"
+      },
+      "skilledWorkRegionalVisa": {
+        "title": "Regionalna viza za kvalificirani rad",
+        "subclass": "Podrazred 491"
+      },
+      "sponsoredJobs": {
+        "title": "Sponzorirani poslovi",
+        "subclass": ""
+      }
+    },
+    "faqAccordion": {
+      "title": "Često postavljana",
+      "highlightText": "Pitanja",
+      "howDoIFindOutIfIAmEligibleToApply": {
+        "title": "KAKO MOGU SAZNATI JESAM LI PODOBAN ZA PRIJAVU?",
+        "content": "Kliknite ovdje za sažetak trenutnih australskih imigracijskih propisa. Zatim uzmite BESPLATNU početnu provjeru svoje podobnosti kako biste bili upućeni na MARA registriranog agenta za migracije."
+      },
+      "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+        "title": "KOLIKO TRAJE DOBIVANJE STALNE VIZE ZA IMIGRACIJU U AUSTRALIJU?",
+        "content": "Svaka prijava je drugačija, a vrijeme obrade uvelike ovisi o vrsti vize koja se podnosi. Za najnovije smjernice za australska vremena obrade viza pogledajte Globalna vremena obrade viza i državljanstva na web stranici Odjela za imigraciju i zaštitu granica."
+      },
+      "canTheImmigrationAuthoritiesRefuseMyApplication": {
+        "title": "MOGU LI IMIGRACIJSKE VLASTI ODBITI MOJU PRIJAVU?",
+        "content": "Da. Iznenađujuće velik broj podnositelja zahtjeva nije svjestan koliko strogo se provode imigracijski propisi i često su nepotrebno odbijeni ili odgođeni zbog tehničkih pogrešaka u prijavi ili podnošenja pogrešne popratne dokumentacije. Dakle, moral priče je da razmislite o profesionalnom vodstvu i neovisnom savjetovanju MARA registriranog agenta za migracije prije podnošenja zahtjeva za stalni boravak. Agenti za migracije postoje kako bi vam pomogli pronaći najbolji način kroz imigracijski labirint i vrlo su učinkoviti u tome."
+      },
+      "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+        "title": "HOĆE LI MI IMIGRACIJSKE VLASTI ILI AMBASADA POMOĆI PRIPREMATI MOJU PRIJAVU I OSIGURATI DA JE SVE ISPRAVNO PRIJE PRIJAVE?",
+        "content": "Ne. Ova vrsta usluge više se ne pruža od strane vlade. Vlasti postoje kako bi provodile imigracijski zakon, donosile odluke o prijavama za stalni boravak i izdavale vize za stalni boravak. Iako su osnovne informacije i obrasci za prijavu dostupni, vlasti nisu u mogućnosti pružiti neovisne savjete i personalizirane smjernice o vašem specifičnom slučaju. MARA registrirani agent za migracije može pružiti ovu vrstu usluge."
+      },
+      "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+        "title": "MOJ AGENT ZA MIGRACIJE PROCJENIO JE DA SAM PODOBAN ZA STALNI BORAVAK U AUSTRALIJI. AKO SE PRIJAVIM BEZ NJEGOVE POMOĆI, MOGU LI BITI SIGURAN U USPJEH?",
+        "content": "Ne. Iako možda u osnovi ispunjavate uvjete prema imigracijskoj politici, to ne jamči uspjeh. Vaša prijava mora biti pripremljena u skladu s važećim imigracijskim propisima i podnesena zajedno s odgovarajućom popratnom dokumentacijom kako bi je imigracijske vlasti odobrile. Načini na koje to učiniti nisu uvijek jasno navedeni od strane imigracijskih vlasti i rezultiraju mnogim podnositeljima zahtjeva koji svoje slučajeve prikazuju nepravilno, što neizbježno dovodi do odbijanja. Stoga biste trebali razmotriti savjetovanje s MARA registriranim agentom za migracije."
+      },
+      "cta": "DOBITE BESPLATNU POČETNU PROCJENU VAŠE PODOBNOSTI"
+    },
+    "temporarySkilledVisaData": {
+      "hero": {
+        "title": "PRIVREMENA VIZA ZA NEDOSTATAK VJEŠTINA (TSS)",
+        "highlightText": "PODRAZRED 482"
+      },
+      "title": "O OVOJ VIZI",
+      "description": "Privremena radna viza (Podrazred 457) zamijenjena je privremenom vizom za nedostatak vještina (TSS) podrazred 482 18. ožujka 2018. Ova viza omogućuje poslodavcima da riješe nedostatak radne snage dovođenjem kvalificiranih radnika gdje poslodavci ne mogu pronaći odgovarajućeg kvalificiranog australskog radnika.",
+      "section1": {
+        "heading": "KAKO KVALIFICIRATI ZA PRIVREMENU VIZU ZA NEDOSTATAK VJEŠTINA (TSS) PODRAZRED 482?",
+        "subSections": [
+          {
+            "subHeading": "Podobnost za privremenu vizu za nedostatak vještina (TSS) podrazred 482:",
+            "details": [
+              {
+                "title": "i) Kratkoročni tok:",
+                "content": "Ovaj tok je dostupan ako poslodavac želi sponzorirati kvalificiranog radnika iz inozemstva na privremenoj osnovi samo za zanimanja navedena na Popisu kratkoročnih kvalificiranih zanimanja (STSOL) za TSS vizu. Može se koristiti za popunjavanje pozicija na maksimalno dvije godine ili četiri godine ako se primjenjuje Međunarodna trgovinska obveza (ITO)."
+              },
+              {
+                "title": "ii) Srednjoročni tok:",
+                "content": "Ova viza omogućuje poslodavcima da riješe nedostatak radne snage dovođenjem kvalificiranih radnika gdje poslodavci ne mogu pronaći odgovarajućeg kvalificiranog australskog radnika."
+              },
+              {
+                "title": "iii) Tok sporazuma o radu:",
+                "content": "Ova viza namijenjena je kvalificiranim radnicima koje su nominirali poslodavci koji imaju Sporazum o radu. Omogućuje vam privremeni boravak i rad u Australiji. Sporazumi o radu razvijaju se između australske vlade (predstavljene od strane Odjela) i poslodavaca."
+              }
+            ]
+          }
+        ]
+      },
+      "section2": {
+        "heading": "Koji su uvjeti podobnosti za prijavu za privremenu vizu za nedostatak vještina (TSS) podrazred 482?",
+        "listItems": [
+          "Imate zanimanje na konsolidiranom popisu kvalificiranih zanimanja",
+          "Bili ste nominirani za radno mjesto od strane australskog poslodavca koji želi da radite za njih",
+          "Imate relevantne vještine i kvalifikacije za svoje zanimanje",
+          "Imate najmanje dvije (2) godine radnog iskustva u svom zanimanju",
+          "Imate radno znanje engleskog jezika",
+          "Možete zadovoljiti zahtjeve DHA za dobar karakter i zdravlje",
+          "Ako ste u Australiji, imate važeću vizu ili vizu A, B ili C i ispunjavate uvjete svoje vize."
+        ],
+        "note": "Napomena: Nema dobnog ograničenja za TSS vizu."
+      },
+      "section3": {
+        "heading": "Koji su opći uvjeti za poslodavce za prijavu za privremenu vizu za nedostatak vještina (TSS) podrazred 482?",
+        "listItems": [
+          "Biti zakonito djelujuće poduzeće",
+          "Nemati negativne informacije protiv poduzeća",
+          "Nominirati radno mjesto za stranog radnika koje je puno radno vrijeme i stvarno",
+          "Zadovoljiti zahtjeve vezane za plaće i uvjete zapošljavanja",
+          "Pružiti dokaze o ispitivanju tržišta rada ako je potrebno"
+        ]
+      },
+      "section4": {
+        "heading": "Kako se prijaviti za privremenu vizu za nedostatak vještina (TSS) podrazred 482?",
+        "content": "Prije nego što se možete prijaviti za TSS vizu, vaš predloženi poslodavac mora podnijeti nominacijsku prijavu za vas. Moći će to učiniti samo ako su odobreni sponzor ili su barem podnijeli prijavu za postati standardni poslovni sponzor. Ako je vaš poslodavac još uvijek odobreni sponzor za 457, tada vas može sponzorirati za TSS (podrazred 482) pod postojećim sponzorstvom. Sponzori također trebaju dokazati obvezno ispitivanje tržišta rada kako bi pokazali da ne mogu zaposliti Australca na tu poziciju."
+      },
+      "section5": {
+        "heading": "Što vam ova viza omogućuje?",
+        "content": "Ova viza omogućuje vam putovanje u i izvan Australije tijekom trajanja vaše vize i:",
+        "listItems": [
+          "Ako ste primarni nositelj vize, raditi u Australiji za odobrenog sponzora u svom nominiranom zanimanju",
+          "Ako ste član obitelji, raditi i studirati u Australiji"
+        ]
+      }
+    },
+    "trainingVisa": {
+      "title": "O OVOJ VIZI",
+      "description": "Trenutna viza podrazred 407 je privremena viza...",
+      "qualifyTitle": "KAKO KVALIFICIRATI ZA TRENING PODRAZRED 407 VIZU?",
+      "qualifyDescription": "Da biste bili podobni za vizu za obuku, morate:",
+      "qualifyList": [
+        "biti sponzoriran od strane odobrenog sponzora...",
+        "biti nominirani za odobreno radno mjesto...",
+        "...",
+        "biti iskreni privremeni ulaznik"
+      ],
+      "subQualifyList": [
+        "Podrazred 403 Privremena radna viza...",
+        "Podrazred 771 Tranzitna viza...",
+        "Viza posebne namjene"
+      ],
+      "allowTitle": "ŠTO OVA VIZA OMOGUĆUJE",
+      "allowDescription": "Ova privremena viza omogućuje nositelju da:",
+      "allowList": [
+        "Privremeno živi u Australiji...",
+        "Odlazi i vraća se u Australiju...",
+        "Dovede članove obitelji koji ispunjavaju uvjete..."
+      ],
+      "conditionTitle": "UVJET",
+      "conditionDescription": "Viza je podložna uvjetu 8102...",
+      "workConditionTitle": "UVJET RADA",
+      "workConditionDescription": "Možete raditi samo za svog sponzora...",
+      "healthInsuranceTitle": "ZDRAVSTVENO OSIGURANJE",
+      "healthInsuranceDescription": "Morate također održavati svoje zdravstveno osiguranje...",
+      "locationTitle": "LOKACIJA",
+      "locationDescription": "Prijava se mora podnijeti online...",
+      "familyMembersTitle": "ČLANOVI OBITELJI",
+      "familyMembersDescription": "Članovi obitelji (supružnici i djeca) mogu biti uključeni..."
+    },
+    "trainingVisaHero": {
+      "title": "VIZA ZA TRENING",
+      "highlightText": "PODRAZRED 407"
+    },
+    "skilledWorkRegionalVisaHero": {
+      "title": "REGIONALNA VIZA ZA KVALIFICIRANI RAD",
+      "highlightText": "PODRAZRED 491"
+    },
+    "visaDetails": {
+      "aboutTitle": "O OVOJ VIZI",
+      "aboutDescription1": "Regionalna viza za kvalificirani rad Podrazred 491 uvedena je od strane Odjela za unutarnje poslove (DHA) 16. studenog 2019., zamjenjujući prethodnu vizu Podrazred 489. Ova viza omogućuje kvalificiranim radnicima da žive i rade u određenom regionalnom području Australije do 5 godina.",
+      "aboutDescription2": "Nominacija države/teritorija za ovu vizu pruža vam dodatnih 15 bodova kako biste pomogli ispuniti bodovni test Odjela za unutarnje poslove od 65 bodova.",
+      "aboutDescription3": "Ako je netko nominiran od strane državne ili teritorijalne vlade za ovu vizu, mora živjeti u toj državi/teritoriju tijekom cijelog trajanja vize. Moći će podnijeti zahtjev za vizu podrazred 191 ako su živjeli i radili u regionalnom području tri godine i trebali su imati minimalnu plaću od 53.900 USD godišnje. Kada se odobri viza za stalni boravak, mogu živjeti bilo gdje u Australiji. Ne možete početi živjeti bilo gdje u Australiji prije nego što dobijete vizu podrazred 191.",
+      "aboutDescription4": "Ako žele podnijeti zahtjev za ovu vizu SC 491, prvo moraju dobiti pozitivnu ocjenu vještina za svoje nominirano zanimanje, a zatim podnijeti zahtjev za izraz interesa i nominaciju države ili teritorija. Ako je to uspješno, bit će pozvani da podnesu zahtjev za vizu.",
+      "qualifyTitle": "KAKO KVALIFICIRATI ZA PODRAZRED 190 VIZU?",
+      "qualifyDescription": "U trenutku kada ste pozvani da podnesete zahtjev za ovu vizu, morate:",
+      "qualifyList": [
+        "Biti mlađi od 45 godina",
+        "Nominirati zanimanje koje je uključeno na relevantni popis zanimanja (MLTSSL)",
+        "Podnijeti EOI i dobiti pozivnicu",
+        "Ispuniti bodovni test od 65 bodova",
+        "Biti sponzoriran od strane rođaka koji živi u određenom području ili države/teritorija",
+        "Imati radno znanje engleskog jezika ili više, ovisno o bodovima koje imate",
+        "Zadovoljiti zdravstvene i karakterne zahtjeve"
+      ],
+      "visaAllowsTitle": "ŠTO OVA VIZA OMOGUĆUJE:",
+      "visaAllowsDescription": "Viza podrazred 491 pruža nositelju privremeni boravak u Australiji, uz uvjete.",
+      "visaAllowsList": [
+        "Nositelj može živjeti, raditi i studirati u određenom regionalnom području Australije 5 godina od datuma izdavanja vize",
+        "Nositelj može slobodno putovati u i izvan Australije dok viza vrijedi",
+        "Nositelj može imati priliku podnijeti zahtjev za stalni boravak kroz stalnu vizu za kvalificirane radnike podrazred 191, koja će početi 16. studenog 2022."
+      ],
+      "applyTitle": "MOŽE LI SE NETKO PRIJAVITI U AUSTRALIJI ILI IZVAN NJE?",
+      "applyDescription": "Svatko može biti na kopnu ili izvan kopna za prijavu za ovu vizu. Ako su na kopnu, trebaju imati valjanu vizu prije nego što podnesu zahtjev za ovu ili vizu A, B ili C. Kada podnesu zahtjev, dobit će vizu do donošenja odluke o vašem dosjeu, omogućujući im da ostanu u Australiji do tada.",
+      "durationTitle": "TRAJANJE I UVJETI",
+      "durationDescription": "Ova viza s privremenim boravkom na 5 godina omogućuje nositelju i njihovim ovisnicima da žive, rade ili studiraju u bilo kojem regionalnom ili slabo naseljenom području. Odobrena regionalna područja variraju ovisno o tome jesu li sponzorirani od strane rođaka ili od strane državne ili teritorijalne vlade:",
+      "durationList": [
+        {
+          "label": "Državna ili teritorijalna vlada:",
+          "content": "Mogu živjeti samo u regionalnom ili slabo naseljenom području"
+        },
+        {
+          "label": "Rođak:",
+          "content": "Mogu živjeti u određenom području"
+        }
+      ],
+      "applyHowTitle": "KAKO SE PRIJAVITI ZA PODRAZRED 190 VIZU?",
+      "applyHowDescription": "Svatko tko želi podnijeti zahtjev za ovu vizu MORA prvo biti POZVAN da podnese zahtjev od strane Odjela za imigraciju. Da bi ispunili uvjete za poziv, morate podnijeti 'Izraz interesa' (EOI), koji postavlja kako ispunjavate zahtjeve za ovu vizu.",
+      "initialEligibilityTitle": "FAZA 1: POČETNA PODOBNOST:",
+      "initialEligibilityDescription": "Prvi korak koji ćemo poduzeti je provođenje početne procjene vaše podobnosti za ovu vizu. To uključuje pregled vaših kvalifikacija, radnog iskustva, znanja engleskog jezika i drugih okolnosti kako bismo utvrdili ispunjavate li relevantne zahtjeve.",
+      "skillsAssessmentTitle": "FAZA 2: OCJENA VJEŠTINA",
+      "skillsAssessmentDescription": "Ako naša početna procjena pokazuje da ste podobni za pozitivnu ocjenu vještina i EOI, pripremit ćemo vašu prijavu za ocjenu vještina.",
+      "expressionOfInterestTitle": "FAZA 3: IZRAZ INTERESA (EOI)",
+      "expressionOfInterestDescription": "Nakon što dobijete pozitivnu ocjenu vještina od relevantne ocjenjujuće institucije, pripremit ćemo i podnijeti vaš EOI. Iako u ovoj fazi nije potrebno priložiti popratne dokumente, MORATE biti u mogućnosti pružiti dokaze da su podaci navedeni u EOI točni u trenutku kada ste pozvani da podnesete zahtjev za vizu.",
+      "visaApplicationTitle": "FAZA 4: ZAHTJEV ZA VIZU",
+      "visaApplicationDescription": "Nakon što vas Odjel za imigraciju pozove da podnesete zahtjev za ovu vizu, pripremit ćemo i podnijeti vaš zahtjev za vizu unutar zadanog vremenskog okvira, zajedno sa svim dokumentima koji podržavaju informacije koje ste pružili u EOI.",
+      "otherRequirementsTitle": "DRUGI ZAHTJEVI",
+      "healthTitle": "ZDRAVLJE",
+      "healthDescription": "Glavni podnositelj i svi članovi obitelji moraju ispunjavati zdravstvene zahtjeve.",
+      "characterTitle": "KARAKTER",
+      "characterDescription": "Morate biti dobrog karaktera. Možda ćete morati dostaviti policijske potvrde za svaku zemlju u kojoj ste živjeli 12 mjeseci ili više, tijekom posljednjih 10 godina (izračunato neposredno prije podnošenja zahtjeva za vizu), od navršenih 16 godina.",
+      "locationTitle": "LOKACIJA",
+      "locationDescription": "Možete biti u Australiji ili izvan nje kada podnosite zahtjev za vizu i kada se donosi odluka.",
+      "debtsTitle": "DUGOVI",
+      "debtsDescription": "Morate vratiti ili dogovoriti vraćanje bilo kakvih dugova prema australskoj vladi.",
+      "visaCancelledTitle": "VIZA OTKAZANA ILI ODBIJENA",
+      "visaCancelledDescription": "Možda nećete biti podobni za prijavu za ovu vizu ako ste imali vizu otkazanu ili odbijenu dok ste bili u Australiji.",
+      "processingTimeTitle": "VRIJEME OBRADE",
+      "processingTimeDescription": "6-12 mjeseci.",
+      "processingNote": "NAPOMENA: Stvarno vrijeme potrebno Odjelu za imigraciju za odobrenje zahtjeva i izdavanje vize varira od slučaja do slučaja ovisno o posebnim okolnostima podnositelja zahtjeva i količini popratnih informacija koje Odjel zahtijeva."
+    },
+    "skilledMigrationHeroSection": {
+      "skilledNominatedVisaTitle": "KVALIFICIRANA NOMINIRANA VIZA",
+      "subclass190": "PODRAZRED 190"
+    },
+    "aboutVisa": {
+      "aboutTitle": "O OVOJ VIZI",
+      "aboutDescription1": "Skilled Nomination Visa Subclass 190 je stalna viza koja omogućuje kvalificiranim radnicima da žive u Australiji, temeljem nominacije od strane australske državne ili teritorijalne vlade.",
+      "aboutDescription2": "Podnositelji zahtjeva moraju biti kvalificirani radnici koji su kvalificirani i iskusni za popunjavanje trenutnih nedostataka vještina u Australiji, temeljem Konsolidiranog popisa sponzoriranih zanimanja (CSOL), i migrirati u Australiju.",
+      "aboutDescription3": "Da bi ispunili uvjete za ovu vizu, podnositelji zahtjeva moraju dobiti nominaciju od strane australske državne ili teritorijalne vlade.",
+      "aboutDescription4": "Nominacija države/teritorija za ovu vizu pruža vam dodatnih 5 bodova kako biste pomogli ispuniti bodovni test Odjela za unutarnje poslove od 65 bodova.",
+      "aboutDescription5": "Ako ste nominirani od strane državne ili teritorijalne vlade za ovu vizu, morate živjeti u toj državi/teritoriju tijekom dvije godine nakon što je viza izdana.",
+      "aboutDescription6": "Ako želite podnijeti zahtjev za ovu vizu, prvo morate dobiti pozitivnu ocjenu vještina za svoje nominirano zanimanje, a zatim podnijeti zahtjev za izraz interesa i nominaciju države ili teritorija. Ako je to uspješno, bit ćete pozvani da podnesete zahtjev za vizu.",
+      "qualifyTitle": "KAKO KVALIFICIRATI ZA PODRAZRED 190 VIZU?",
+      "qualifyDescription": "U trenutku kada ste pozvani da podnesete zahtjev za ovu vizu, morate:",
+      "qualifyList": [
+        "Biti mlađi od 45 godina",
+        "Nominirati zanimanje koje je uključeno na relevantni popis zanimanja (MLTSSL)",
+        "Podnijeti EOI i dobiti pozivnicu",
+        "Ispuniti bodovni test od 65 bodova",
+        "Imati radno znanje engleskog jezika ili više, ovisno o bodovima koje imate",
+        "Ova opcija zahtijeva sponzorstvo od strane rođaka ili državne/teritorijalne vlade"
+      ],
+      "visaAllowsTitle": "ŠTO OVA VIZA OMOGUĆUJE:",
+      "visaAllowsDescription": "Kada se izda, Skilled Nomination Visa je stalna viza koja omogućuje podnositelju i pratiteljima članovima obitelji da:",
+      "visaAllowsList": [
+        "Žive i rade bilo gdje u Australiji neograničeno, bez ograničenja",
+        "Studiraju u Australiji, uz pristup subvencioniranom obrazovanju",
+        "Pristup Medicareu",
+        "Podnose zahtjev za australsko državljanstvo (nakon ispunjavanja odgovarajućih uvjeta)",
+        "Mogu sponzorirati članove obitelji za određene vize",
+        "Podnose zahtjev za socijalne isplate",
+        "Putuju u i izvan Australije 5 godina"
+      ],
+      "visaAllowsNote": "Napomena: Iako se viza izdaje temeljem toga što je nositelj kvalificiran u određenom zanimanju, nakon što se izda, nositelj nije obvezan tražiti ili održavati zaposlenje u tom zanimanju.",
+      "applyTitle": "MOŽE LI SE NETKO PRIJAVITI U AUSTRALIJI ILI IZVAN NJE?",
+      "applyDescription1": "Svatko može biti na kopnu ili izvan kopna za prijavu za ovu vizu. Ako su na kopnu, trebaju imati valjanu vizu prije nego što podnesu zahtjev za ovu ili vizu A, B ili C. Kada podnesu zahtjev, dobit će vizu do donošenja odluke o vašem dosjeu, omogućujući im da ostanu u Australiji do tada.",
+      "applyDescription2": "Podnositelj zahtjeva može uključiti članove obitelji dok podnosi ovu vizu.",
+      "applyDescription3": "Mogu se dodati sljedeći članovi:",
+      "applyList": [
+        "Supružnici, partneri de facto i partneri istog spola",
+        "Ovisna djeca",
+        "Ostali ovisni članovi obitelji – npr. roditelji koji žive s vama i financijski su ovisni"
+      ],
+      "applyProcessTitle": "KAKO SE PRIJAVITI ZA PODRAZRED 190 VIZU?",
+      "stage1Title": "FAZA 1: POČETNA PODOBNOST:",
+      "stage1Description1": "Prvi korak koji ćemo poduzeti je provođenje početne procjene vaše podobnosti za ovu vizu. To uključuje pregled vaših kvalifikacija, radnog iskustva, znanja engleskog jezika i drugih okolnosti kako bismo utvrdili ispunjavate li relevantne zahtjeve.",
+      "stage1Description2": "Kao dio ove početne procjene podobnosti, razmotrit ćemo koje MLTSSL zanimanje (zanimanja) najvjerojatnije možete nominirati i jeste li potencijalno podobni za pozitivnu ocjenu vještina od relevantne ocjenjujuće institucije za to zanimanje.",
+      "stage1Description3": "Zatim ćemo vam pružiti informirane i sveobuhvatne savjete o vašoj sposobnosti da ispunite minimalne standarde koje Odjel za imigraciju zahtijeva od migranata, kako bi ispunili uvjete za poziv za podnošenje zahtjeva za ovu vizu.",
+      "stage1Note": "Napomena: Naša početna procjena vaše podobnosti ne jamči da ćete (ili nećete) zapravo dobiti pozitivnu ocjenu vještina ili biti pozvani da podnesete zahtjev za ovu vizu. Osobito, hoće li vam Odjel za imigraciju izdati poziv ovisi o tome kako vaša ocjena na bodovnom testu uspoređuje s ocjenama drugih potencijalnih podnositelja zahtjeva i hoće li Odjel za imigraciju smatrati da je vaše nominirano zanimanje potrebno u Australiji.",
+      "stage2Title": "FAZA 2: OCJENA VJEŠTINA",
+      "stage2Description1": "Ako naša početna procjena pokazuje da ste podobni za pozitivnu ocjenu vještina i EOI, pripremit ćemo vašu prijavu za ocjenu vještina.",
+      "stage2Description2": "Za svako kvalificirano zanimanje navedeno na MLTSSL-u, Odjel za imigraciju je odredio ocjenjujuću instituciju koja može provesti ocjene vještina za to zanimanje. Samo ocjenu vještina koju provodi relevantna ocjenjujuća institucija prihvatit će Odjel za imigraciju kao potporu EOI. Pružit ćemo vam potpuni popis informacija i dokumenata potrebnih za podršku vašoj prijavi. Kada pružite potrebne podatke i dokumente, zajedno s potrebnom naknadom za ocjenu, podnijet ćemo vašu prijavu relevantnoj ocjenjujućoj instituciji za vještine.",
+      "stage2Description3": "Nakon što dobijete pozitivnu ocjenu vještina od relevantne ocjenjujuće institucije, pripremit ćemo i podnijeti vaš EOI. Iako u ovoj fazi nije potrebno priložiti popratne dokumente, MORATE biti u mogućnosti pružiti dokaze da su podaci navedeni u EOI točni u trenutku kada ste pozvani da podnesete zahtjev za vizu.",
+      "stage3Title": "FAZA 3: IZRAZ INTERESA (EOI)",
+      "stage3Description1": "Nakon što dobijete pozitivnu ocjenu vještina od relevantne ocjenjujuće institucije, pripremit ćemo i podnijeti vaš EOI. Iako u ovoj fazi nije potrebno priložiti popratne dokumente, MORATE biti u mogućnosti pružiti dokaze da su podaci navedeni u EOI točni u trenutku kada ste pozvani da podnesete zahtjev za vizu.",
+      "stage3Description2": "Nakon toga ćete dobiti rezultat i ocjenu bodova od Odjela za imigraciju, koja se koristi za rangiranje vas u odnosu na druge podnositelje zahtjeva koji su podnijeli EOI za ovu vizu. Rangiranje se djelomično temelji na tome je li vaše zanimanje vještina koja je potrebna u Australiji u trenutku kada se procjenjuje vaš EOI. Ako je vaš EOI uspješan, bit ćete pozvani da podnesete zahtjev za vizu.",
+      "stage3Description3": "Napomena: Odjel za imigraciju zadržava EOI dvije godine od datuma podnošenja. Tijekom tog vremena, vaš EOI može se ažurirati ako se bilo koja vaša okolnost promijeni (npr. dobijete novu kvalifikaciju ili ocjenu vještina). Ako se vaš rang promijeni tijekom ovog dvogodišnjeg razdoblja, temeljem vaših promjenjivih okolnosti ili promjenjivih potreba za vještinama Australije, možda će vam se izdati poziv za podnošenje zahtjeva za vizu u tom trenutku.",
+      "stage4Title": "FAZA 4: ZAHTJEV ZA VIZU",
+      "stage4Description1": "Nakon što vas Odjel za imigraciju pozove da podnesete zahtjev za ovu vizu, pripremit ćemo i podnijeti vaš zahtjev za vizu unutar zadanog vremenskog okvira, zajedno sa svim dokumentima koji podržavaju informacije koje ste pružili u EOI. To uključuje vašu ocjenu vještina, rezultate testa engleskog jezika, kvalifikacije, radne reference i sve druge potrebne dokumente. Ako vaš zahtjev za vizu bude odobren, dobit ćete stalnu vizu. Možete biti u Australiji ili izvan nje kada se vaša viza odobri.",
+      "otherRequirementsTitle": "DRUGI ZAHTJEVI",
+      "healthTitle": "ZDRAVLJE",
+      "healthDescription": "Glavni podnositelj i svi članovi obitelji moraju ispunjavati zdravstvene zahtjeve.",
+      "characterTitle": "KARAKTER",
+      "characterDescription1": "Morate biti dobrog karaktera. Možda ćete morati dostaviti policijske potvrde za svaku zemlju u kojoj ste živjeli 12 mjeseci ili više, tijekom posljednjih 10 godina (izračunato neposredno prije podnošenja zahtjeva za vizu), od navršenih 16 godina.",
+      "characterDescription2": "Policijska potvrda vrijedi 12 mjeseci za imigracijsku svrhu. Ako imate značajnu kaznenu evidenciju, ne možete proći test karaktera. Na primjer, osuđeni ste na 12 mjeseci ili više zatvora.",
+      "locationTitle": "LOKACIJA",
+      "locationDescription": "Možete biti u Australiji ili izvan nje kada podnosite zahtjev za vizu i kada se donosi odluka.",
+      "debtsTitle": "DUGOVI",
+      "debtsDescription": "Morate vratiti ili dogovoriti vraćanje bilo kakvih dugova prema australskoj vladi.",
+      "visaCancelledTitle": "VIZA OTKAZANA ILI ODBIJENA",
+      "visaCancelledDescription": "Možda nećete biti podobni za prijavu za ovu vizu ako ste imali vizu otkazanu ili odbijenu dok ste bili u Australiji.",
+      "processingTimeTitle": "VRIJEME OBRADE",
+      "processingTime": "6 MJESECI",
+      "processingTimeNote": "NAPOMENA: Stvarno vrijeme potrebno Odjelu za imigraciju za odobrenje zahtjeva i izdavanje vize varira od slučaja do slučaja ovisno o posebnim okolnostima podnositelja zahtjeva i količini popratnih informacija koje Odjel zahtijeva."
+    },
+    "tempTrainingVisa": {
+      "title": "PRIVREMENA VIZA ZA DIPLOMANTE",
+      "highlightText": "PODRAZRED 407"
+    },
+    "visaInfo": {
+      "aboutTitle": "O OVOJ VIZI",
+      "aboutDescription": "Privremena viza za diplomante Podrazred 485 je privremena viza za međunarodne studente koji su nedavno diplomirali na australskoj obrazovnoj instituciji.",
+      "qualifyTitle": "KAKO KVALIFICIRATI ZA PODRAZRED 190 VIZU?",
+      "qualifyDescription": "U trenutku kada ste pozvani da podnesete zahtjev za ovu vizu, morate:",
+      "qualifyList": [
+        "Biti mlađi od 45 godina",
+        "Nominirati zanimanje koje je uključeno na relevantni popis zanimanja (MLTSSL)",
+        "Podnijeti EOI i dobiti pozivnicu",
+        "Ispuniti bodovni test od 65 bodova",
+        "Biti sponzoriran od strane rođaka koji živi u određenom području ili države/teritorija",
+        "Imati radno znanje engleskog jezika ili više, ovisno o bodovima koje imate",
+        "Zadovoljiti zdravstvene i karakterne zahtjeve"
+      ],
+      "whatThisVisaAllowsTitle": "ŠTO OVA VIZA OMOGUĆUJE:",
+      "whatThisVisaAllowsDescription": "Viza podrazred 491 pruža nositelju privremeni boravak u Australiji, uz uvjete.",
+      "whatThisVisaAllowsList": [
+        "Nositelj može živjeti, raditi i studirati u određenom regionalnom području Australije 5 godina od datuma izdavanja vize",
+        "Nositelj može slobodno putovati u i izvan Australije dok viza vrijedi",
+        "Nositelj može imati priliku podnijeti zahtjev za stalni boravak kroz stalnu vizu za kvalificirane radnike podrazred 191, koja će početi 16. studenog 2022."
+      ],
+      "applyTitle": "MOŽE LI SE NETKO PRIJAVITI U AUSTRALIJI ILI IZVAN NJE?",
+      "applyDescription": "Svatko može biti na kopnu ili izvan kopna za prijavu za ovu vizu. Ako su na kopnu, trebaju imati valjanu vizu prije nego što podnesu zahtjev za ovu ili vizu A, B ili C. Kada podnesu zahtjev, dobit će vizu do donošenja odluke o vašem dosjeu, omogućujući im da ostanu u Australiji do tada.",
+      "durationConditionsTitle": "TRAJANJE I UVJETI",
+      "durationConditionsDescription": "Ova viza s privremenim boravkom na 5 godina omogućuje nositelju i njihovim ovisnicima da žive, rade ili studiraju u bilo kojem regionalnom ili slabo naseljenom području. Odobrena regionalna područja variraju ovisno o tome jesu li sponzorirani od strane rođaka ili od strane državne ili teritorijalne vlade:",
+      "durationConditionsList": [
+        "<strong>Državna ili teritorijalna vlada:</strong> mogu živjeti samo u regionalnom ili slabo naseljenom području",
+        "<strong>Rođak:</strong> mogu živjeti u određenom području"
+      ],
+      "stage1Title": "KAKO SE PRIJAVITI ZA PODRAZRED 190 VIZU?",
+      "stage1Description": "Prvi korak koji ćemo poduzeti je provođenje početne procjene vaše podobnosti za ovu vizu. To uključuje pregled vaših kvalifikacija, radnog iskustva, znanja engleskog jezika i drugih okolnosti kako bismo utvrdili ispunjavate li relevantne zahtjeve.",
+      "stage2Title": "FAZA 2: OCJENA VJEŠTINA",
+      "stage2Description": "Ako naša početna procjena pokazuje da ste podobni za pozitivnu ocjenu vještina i EOI, pripremit ćemo vašu prijavu za ocjenu vještina.",
+      "stage3Title": "FAZA 3: IZRAZ INTERESA (EOI)",
+      "stage3Description": "Nakon što dobijete pozitivnu ocjenu vještina od relevantne ocjenjujuće institucije, pripremit ćemo i podnijeti vaš EOI.",
+      "stage4Title": "FAZA 4: ZAHTJEV ZA VIZU",
+      "stage4Description": "Nakon što vas Odjel za imigraciju pozove da podnesete zahtjev za ovu vizu, pripremit ćemo i podnijeti vaš zahtjev za vizu unutar zadanog vremenskog okvira, zajedno sa svim dokumentima koji podržavaju informacije koje ste pružili u EOI. Ako vaš zahtjev za vizu bude odobren, dobit ćete stalnu vizu. Možete biti u Australiji ili izvan nje kada se vaša viza odobri.",
+      "otherRequirementsTitle": "DRUGI ZAHTJEVI",
+      "healthTitle": "ZDRAVLJE",
+      "healthDescription": "Glavni podnositelj i svi članovi obitelji moraju ispunjavati zdravstvene zahtjeve.",
+      "characterTitle": "KARAKTER",
+      "characterDescription": "Morate biti dobrog karaktera. Možda ćete morati dostaviti policijske potvrde za svaku zemlju u kojoj ste živjeli 12 mjeseci ili više, tijekom posljednjih 10 godina (izračunato neposredno prije podnošenja zahtjeva za vizu), od navršenih 16 godina. Policijska potvrda vrijedi 12 mjeseci za imigracijsku svrhu. Ako imate značajnu kaznenu evidenciju, ne možete proći test karaktera. Na primjer, osuđeni ste na 12 mjeseci ili više zatvora.",
+      "locationTitle": "LOKACIJA",
+      "locationDescription": "Možete biti u Australiji ili izvan nje kada podnosite zahtjev za vizu i kada se donosi odluka.",
+      "debtsTitle": "DUGOVI",
+      "debtsDescription": "Morate vratiti ili dogovoriti vraćanje bilo kakvih dugova prema australskoj vladi.",
+      "visaCancelledRefusedTitle": "VIZA OTKAZANA ILI ODBIJENA",
+      "visaCancelledRefusedDescription": "Možda nećete biti podobni za prijavu za ovu vizu ako ste imali vizu otkazanu ili odbijenu dok ste bili u Australiji.",
+      "processingTimeTitle": "VRIJEME OBRADE",
+      "processingTimeDescription": "6-12 mjeseci. NAPOMENA: Stvarno vrijeme potrebno Odjelu za imigraciju za odobrenje zahtjeva i izdavanje vize varira od slučaja do slučaja ovisno o posebnim okolnostima podnositelja zahtjeva i količini popratnih informacija koje Odjel zahtijeva."
+    },
+    "home": {
+      "heroSection": {
+        "title": "Sponzorirani poslovi",
+        "highlightText": ""
+      }
+    },
+    "fiveSteps": {
+      "title": "Pet jednostavnih koraka do australskog sna",
+      "highlightText": "Australski",
+      "description": "Otkrijte kako je proces zapošljavanja u uvjetima nedostatka vještina pomogao međunarodnim kandidatima poput vas da ostvare australski san."
+    },
+    "home1": {
+      "migrationHeroSection": {
+        "title": "SKILLED INDEPENDENT VISA",
+        "highlightText": "PODRAZRED 189"
+      }
+    },
+    "home2": {
+      "title": "Sponzorirani poslovi",
+      "highlightText": ""
+    },
+    "pointCalc": {
+      "otherUsefulLinks": "Ostali korisni linkovi",
+      "migration": "Migracija",
+      "tssVisa": "Privremena viza za nedostatak vještina (TSS) - Podrazred 482",
+      "trainingVisa": "Viza za obuku - Podrazred 407",
+      "independentVisa": "Skilled Independent Visa - Podrazred 189",
+      "nominatedVisa": "Skilled Nominated Visa - Podrazred 190",
+      "regionalVisa": "Regionalna viza za kvalificirani rad - Podrazred 491",
+      "sponsoredJobs": "Sponzorirani poslovi"
+    },
+    "appointmentForm": {
+      "appointmentSchedule": "Raspored termina",
+      "personalInformation": "Osobni podaci",
+      "appointmentScheduleTitle": "Raspored termina",
+      "phoneConsultation": "Telefonska ili online konzultacija",
+      "faceConsultation": "Konzultacija licem u lice",
+      "professionalDevelopment": "Profesionalni razvoj - RPL",
+      "migrationTeam": "Migracijski tim",
+      "admissionTeam": "Prijemni tim",
+      "chooseDateTime": "Odaberite datum i vrijeme",
+      "chooseDate": "Odaberite datum",
+      "chooseTime": "Odaberite vrijeme",
+      "next": "Sljedeće",
+      "personalInformationTitle": "Osobni podaci",
+      "firstName": "Ime",
+      "lastName": "Prezime",
+      "email": "Email",
+      "phoneNumber": "Broj telefona",
+      "submit": "Podnesi",
+      "loading": "Učitavanje...",
+      "submitting": "Podnošenje...",
+      "successMessage": "Termin uspješno zakazan!",
+      "errorMessage": "Greška pri zakazivanju termina"
+    },
+    "contactForm": {
+      "contactTitle": "Ne oklijevajte <span class='text-red-500'>Kontaktirajte nas</span>",
+      "yourName": "Vaše ime",
+      "yourEmail": "Vaš email",
+      "yourPhone": "Vaš telefon",
+      "typeMessage": "Upišite poruku",
+      "sendMessage": "Pošalji poruku",
+      "sending": "Slanje...",
+      "successMessage": "Email uspješno poslan!",
+      "errorMessage": "Greška pri slanju emaila"
+    },
+    "heroSectionCon": {
+      "contactUsTitle": "Ne oklijevajte",
+      "contactUsHighlightText": " Kontaktirajte nas"
+    },
+    "heroSectionBook": {
+      "contactUsTitle": "Zakažite termin",
+      "contactUsHighlightText": ""
+    }
+  }
+  

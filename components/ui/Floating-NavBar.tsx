@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import React, { useState, useEffect } from "react";
 import {
   motion,
@@ -9,9 +9,16 @@ import {
 import Link from "next/link";
 import { cn } from "@/utils/cn";
 import { HoveredLink, MenuItem, NavHoveredLink } from "./NavBar-Menu";
-import HamburgerMenu from "@/components/HamburgerMenu"; // Import the new component
+import HamburgerMenu from "@/components/HamburgerMenu";
+import { useTranslations } from "next-intl";
 
-export const FloatingNav = ({ className }: { className?: string }) => {
+interface FloatingNavProps {
+  className?: string;
+  locale: string;
+}
+
+export const FloatingNav = ({ className, locale }: FloatingNavProps) => {
+  const t = useTranslations("floatingNav");
   const { scrollYProgress } = useScroll();
   const [visible, setVisible] = useState(true);
 
@@ -41,6 +48,8 @@ export const FloatingNav = ({ className }: { className?: string }) => {
     }
   }, [hovering, active]);
 
+  const getLocalizedLink = (path: string) => `/${locale}${path}`;
+
   return (
     <>
       <HamburgerMenu />
@@ -68,48 +77,48 @@ export const FloatingNav = ({ className }: { className?: string }) => {
             border: "1px solid rgba(255, 255, 255, 0.125)",
           }}
         >
-          <NavHoveredLink href="/">Home</NavHoveredLink>
+          <NavHoveredLink href={getLocalizedLink("/")}>{t("home")}</NavHoveredLink>
           <MenuItem
             setActive={setActive}
             active={active}
-            item="Student Visa"
+            item={t("studentVisa")}
             setHovering={setHovering}
-            href="/student-visa"
+            href={getLocalizedLink("/student-visa")}
           >
             <div className="flex flex-col space-y-4 text-sm">
-              <HoveredLink href="/study-in-australia">Study In Australia</HoveredLink>
-              <HoveredLink href="/study-in-canada">Study In Canada</HoveredLink>
-              <HoveredLink href="/affiliate-institutions">Affiliated Institutions</HoveredLink>
-              <HoveredLink href="/Professional-year">Professional Year</HoveredLink>
+              <HoveredLink href={getLocalizedLink("/study-in-australia")}>{t("studyInAustralia")}</HoveredLink>
+              <HoveredLink href={getLocalizedLink("/study-in-canada")}>{t("studyInCanada")}</HoveredLink>
+              <HoveredLink href={getLocalizedLink("/affiliate-institutions")}>{t("affiliatedInstitutions")}</HoveredLink>
+              <HoveredLink href={getLocalizedLink("/Professional-year")}>{t("professionalYear")}</HoveredLink>
             </div>
           </MenuItem>
           <MenuItem
             setActive={setActive}
             active={active}
-            item="Migration"
+            item={t("migration")}
             setHovering={setHovering}
-            href="/migration"
+            href={getLocalizedLink("/migration")}
           >
             <div className="flex flex-col space-y-4 text-sm">
-              <HoveredLink href="/temporary-skill-shortage-tss-visa-subclass-482">Temporary Skilled Shortage Tss Visa Subclass 482 (AUS)</HoveredLink>
-              <HoveredLink href="/training-visa-subclass-407">Training Visa Subclass 407</HoveredLink>
-              <HoveredLink href="/skilled-work-regional-visa">Skilled Work Reginal Visa</HoveredLink>
-              <HoveredLink href="/skilled-nominated-visa">Skilled Nominated Visa</HoveredLink>
-              <HoveredLink href="/skilled-independent-visa">Skilled Independent Visa</HoveredLink>
-              <HoveredLink href="/temporary-graduate-visa-subclass-485">Temporary Graduate Visa</HoveredLink>
-              <HoveredLink href="/sponsored-jobs">Sponsored Jobs</HoveredLink>
-              <HoveredLink href="/point-calculation">Point Calculation</HoveredLink>
+              <HoveredLink href={getLocalizedLink("/temporary-skill-shortage-tss-visa-subclass-482")}>{t("temporarySkillShortageTssVisaSubclass482")}</HoveredLink>
+              <HoveredLink href={getLocalizedLink("/training-visa-subclass-407")}>{t("trainingVisaSubclass407")}</HoveredLink>
+              <HoveredLink href={getLocalizedLink("/skilled-work-regional-visa")}>{t("skilledWorkRegionalVisa")}</HoveredLink>
+              <HoveredLink href={getLocalizedLink("/skilled-nominated-visa")}>{t("skilledNominatedVisa")}</HoveredLink>
+              <HoveredLink href={getLocalizedLink("/skilled-independent-visa")}>{t("skilledIndependentVisa")}</HoveredLink>
+              <HoveredLink href={getLocalizedLink("/temporary-graduate-visa-subclass-485")}>{t("temporaryGraduateVisaSubclass485")}</HoveredLink>
+              <HoveredLink href={getLocalizedLink("/sponsored-jobs")}>{t("sponsoredJobs")}</HoveredLink>
+              <HoveredLink href={getLocalizedLink("/point-calculation")}>{t("pointCalculation")}</HoveredLink>
             </div>
           </MenuItem>
           <MenuItem
             setActive={setActive}
             active={active}
-            item="Contact Us"
+            item={t("contactUs")}
             setHovering={setHovering}
-            href="/contact-us"
+            href={getLocalizedLink("/contact-us")}
           >
             <div className="flex flex-col space-y-4 text-sm">
-              <NavHoveredLink href="/booking">Book An Appointment</NavHoveredLink>
+              <NavHoveredLink href={getLocalizedLink("/booking")}>{t("bookAnAppointment")}</NavHoveredLink>
             </div>
           </MenuItem>
         </motion.div>

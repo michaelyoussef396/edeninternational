@@ -2,11 +2,11 @@
 import React from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
+import { useTranslations } from 'next-intl';
 import Image from 'next/image';
-import Link from 'next/link';
 import { sectionTitleAnimation, cardAnimation } from '@/utils/Animations';
 
-const VisaCategories = () => {
+const VisaCategories: React.FC = () => {
   const { ref: sectionRef, inView: sectionInView } = useInView({ triggerOnce: true });
   const { ref: card1Ref, inView: card1InView } = useInView({ triggerOnce: true });
   const { ref: card2Ref, inView: card2InView } = useInView({ triggerOnce: true });
@@ -19,6 +19,8 @@ const VisaCategories = () => {
   if (card1InView) card1Controls.start("visible");
   if (card2InView) card2Controls.start("visible");
 
+  const t = useTranslations('visaCategories');
+
   return (
     <section className="pt-16 bg-black text-white" ref={sectionRef}>
       <motion.div
@@ -27,8 +29,8 @@ const VisaCategories = () => {
         animate={sectionControls}
         variants={sectionTitleAnimation}
       >
-        <h2 className="text-center text-red-600 mb-4">VISA CATEGORIES</h2>
-        <h3 className="text-center text-3xl font-bold mb-12">Immigration & Visa Categories</h3>
+        <h2 className="text-center text-red-600 mb-4">{t('sectionTitle')}</h2>
+        <h3 className="text-center text-3xl font-bold mb-12">{t('sectionSubtitle')}</h3>
       </motion.div>
       <div className="max-w-6xl mx-auto p-6 md:p-12 grid grid-cols-1 md:grid-cols-2 gap-8">
         <motion.div
@@ -46,9 +48,11 @@ const VisaCategories = () => {
               objectFit="cover"
             />
           </div>
-          <h4 className="text-xl font-semibold mt-4">Student Visas</h4>
-          <p className="mt-2">Student visas are non-immigrant visas and do not require the applicant to gain citizenship.</p>
-            <a href="/student-visa" className="inline-block mt-4 bg-red-600 text-white px-6 py-2 rounded-full hover:bg-red-700">Read More</a>
+          <h4 className="text-xl font-semibold mt-4">{t('studentVisa.title')}</h4>
+          <p className="mt-2">{t('studentVisa.description')}</p>
+            <a href={t('studentVisa.buttonLink')} className="inline-block mt-4 bg-red-600 text-white px-6 py-2 rounded-full hover:bg-red-700">
+              {t('studentVisa.buttonText')}
+            </a>
         </motion.div>
         <motion.div
           className="bg-white text-black p-6 rounded-lg shadow-lg"
@@ -65,9 +69,11 @@ const VisaCategories = () => {
               objectFit="cover"
             />
           </div>
-          <h4 className="text-xl font-semibold mt-4">Migration</h4>
-          <p className="mt-2">You’ll be surprised to know that your experience and qualification may create pathways to skilled migration in Australia.</p>
-            <a href="/migration" className="inline-block mt-4 bg-red-600 text-white px-6 py-2 rounded-full hover:bg-red-700">Read More</a>
+          <h4 className="text-xl font-semibold mt-4">{t('migration.title')}</h4>
+          <p className="mt-2">{t('migration.description')}</p>
+            <a href={t('migration.buttonLink')} className="inline-block mt-4 bg-red-600 text-white px-6 py-2 rounded-full hover:bg-red-700">
+              {t('migration.buttonText')}
+            </a>
         </motion.div>
       </div>
     </section>

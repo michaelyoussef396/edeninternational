@@ -1,0 +1,1002 @@
+{
+"hero": {
+    "slide1": {
+      "subtitle": "Öğrenci Vizesi",
+      "description": "Öğrenci vizeleri göçmen olmayan vizelerdir ve başvuru sahibinin vatandaşlık kazanmasını gerektirmez.",
+      "image": "/hero1.png",
+      "buttonText": "Daha Fazla Bilgi",
+      "buttonLink": "/ogrenci-vizesi"
+    },
+    "slide2": {
+      "subtitle": "Göç",
+      "description": "Deneyiminizin ve niteliklerinizin Avustralya'da vasıflı göçmenlik yolları oluşturabileceğini öğrenince şaşıracaksınız.",
+      "image": "/hero2.png",
+      "buttonText": "Daha Fazla Bilgi",
+      "buttonLink": "/goc"
+    }
+  },
+  "aboutUs": {
+    "whoWeAre": "Biz kimiz?",
+    "title": "Hakkımızda Birkaç Kelime",
+    "description": "EDEN INTERNATIONAL, yurtiçinde veya yurtdışında yüksek öğrenim, göçmenlik için kariyer yolu belirlemekte zorlanan müşterileri göz önünde bulundurarak 2010 yılında kurulmuştur...",
+    "listItems": "Göç|Öğrenci Kabulü|Sponsorlu İşler|Beceri Tanıma",
+    "buttonText": "Daha Fazla Bilgi"
+  },
+  "visaCategories": {
+    "sectionTitle": "VİZE KATEGORİLERİ",
+    "sectionSubtitle": "Göç ve Vize Kategorileri",
+    "studentVisa": {
+      "title": "Öğrenci Vizeleri",
+      "description": "Öğrenci vizeleri göçmen olmayan vizelerdir ve başvuru sahibinin vatandaşlık kazanmasını gerektirmez.",
+      "buttonText": "Daha Fazla Bilgi",
+      "buttonLink": "/ogrenci-vizesi"
+    },
+    "migration": {
+      "title": "Göç",
+      "description": "Deneyiminizin ve niteliklerinizin Avustralya'da vasıflı göçmenlik yolları oluşturabileceğini öğrenince şaşıracaksınız.",
+      "buttonText": "Daha Fazla Bilgi",
+      "buttonLink": "/goc"
+    }
+  },
+  "countryList": {
+    "supportArea": "DESTEK ALANI",
+    "title": "Göçmenlik İçin Ülke Listesi",
+    "subtitle": "Ülke Listesi:",
+    "countries": "Dubai|Kanada|ABD|Avustralya|İtalya|Hırvatistan|Türkiye|Malta|Almanya|Filipinler|Kore"
+  },
+  "workingProcess": {
+    "subtitle": "ÇALIŞMA SÜRECİ",
+    "title": "Hızlı Yardım İçin 3 Kolay Adım",
+    "steps": [
+      {
+        "title": "Birinci Adım",
+        "description": "Gerekli Formu Doldurun"
+      },
+      {
+        "title": "İkinci Adım",
+        "description": "Belgelerinizi Gönderin"
+      },
+      {
+        "title": "Üçüncü Adım",
+        "description": "Vizenizi Almaya Hazır Olun"
+      }
+    ]
+  },
+  "statistics": {
+    "worldwideOfficeHandle": "Dünya Çapında Ofis İşlemleri",
+    "successfulVisaProcess": "Başarılı Vize Süreci",
+    "satisfiedClientsMaintains": "Memnun Müşteri Sürekliliği"
+  },
+  "footer": {
+    "explore": "Keşfet",
+    "affiliates": "Bağlı Kuruluşlar",
+    "contactUs": "Bize Ulaşın",
+    "usefulLinks": "Faydalı Bağlantılar",
+    "studentVisa": "Öğrenci Vizesi",
+    "migration": "Göç",
+    "recentProjects": "Son Projeler"
+  },
+  "floatingNav": {
+    "home": "Ana Sayfa",
+    "studentVisa": "Öğrenci Vizesi",
+    "studyInAustralia": "Avustralya'da Eğitim",
+    "studyInCanada": "Kanada'da Eğitim",
+    "affiliatedInstitutions": "Bağlı Kuruluşlar",
+    "professionalYear": "Profesyonel Yıl",
+    "migration": "Göç",
+    "temporarySkillShortageTssVisaSubclass482": "Geçici Vasıflı Eleman Açığı Vizesi Alt Sınıf 482 (AUS)",
+    "trainingVisaSubclass407": "Eğitim Vizesi Alt Sınıf 407",
+    "skilledWorkRegionalVisa": "Vasıflı İş Bölgesel Vizesi",
+    "skilledNominatedVisa": "Vasıflı Aday Vizesi",
+    "skilledIndependentVisa": "Vasıflı Bağımsız Vize",
+    "temporaryGraduateVisaSubclass485": "Geçici Mezun Vizesi",
+    "sponsoredJobs": "Sponsorlu İşler",
+    "pointCalculation": "Puan Hesaplama",
+    "contactUs": "Bize Ulaşın",
+    "bookAnAppointment": "Randevu Alın"
+  },
+  "heroSectionStudent": {
+    "title": "öğrenci",
+    "highlightText": "vize"
+  },
+  "shoreServices": {
+    "onShoreTitle": "KARADA HİZMETLERİMİZ",
+    "offShoreTitle": "DENİZDE HİZMETLERİMİZ",
+    "forInternationalStudents": "ULUSLARARASI ÖĞRENCİLER İÇİN",
+    "onShores": [
+      {
+        "title": "Kurs Değişikliği",
+        "description": "Eden International, uygun bir kurs seçmenize veya zaten devam eden bir kursu değiştirmenize yardımcı olur."
+      },
+      {
+        "title": "Üniversite veya Kurum Değişikliği",
+        "description": "Birçok öğrenci daha iyi fırsatlar için Üniversitelerini/Kurumlarını değiştirmek ister ancak bunun doğru yolunu bilmez. Bu konuda onlara yardımcı oluyoruz."
+      },
+      {
+        "title": "Göç veya Diğer Vize için Ön Değerlendirme",
+        "description": "Öğrenciler, öğrenimleri sırasında değerlendirme yapabilirler. Göçmenlik ve diğer vizeler için uygunluklarını ve gereksinimlerini kontrol edebilirler."
+      },
+      {
+        "title": "Öğrenci Vizesi Uzatma",
+        "description": "Derslerinizi tamamladınız ve vizeniz sona ermek üzere ya da kursunuzu tamamladınız ve yeni bir öğrenci vizesi başvurusu yapmaya karar verdiniz."
+      }
+    ],
+    "offShores": [
+      {
+        "title": "İlk Değerlendirme",
+        "description": "Tüm Akademik Transkriptlerin ve Sertifikaların, İngilizce Dil Kursu Sertifikasının, Ulusal Kimlik Kartının, Pasaportun vb. Değerlendirilmesi."
+      },
+      {
+        "title": "Mali Değerlendirme",
+        "description": "Kurs ücretleri, seyahat masrafları, sponsor gereksinimleri, kimlerin sponsor olabileceği ve ne kadar para gerektiği hakkında bilgi veriyoruz."
+      },
+      {
+        "title": "Burslar",
+        "description": "Eğitim ücretlerinizi biraz da olsa düşürmek için Educube'den yardım alın."
+      },
+      {
+        "title": "Kurs ve Üniversite Seçimi",
+        "description": "Yurtdışında eğitim görmek için birçok harika üniversite ve kurs varken, nerede ve ne okuyacağınıza karar vermek zor olabilir."
+      }
+    ]
+  },
+  "visitorToStudentVisa": {
+    "title": "ZİYARETÇİDEN ÖĞRENCİ VİZESİNE",
+    "highlight": "ÖĞRENCİ VİZESİ",
+    "description": "Evet, doğru okudunuz. Turist Vizeniz bir öğrenci vizesine dönüştürülebilir. “Daha Fazla Kalma” kısıtlamalarına son verin ve hak ettiğiniz eğitimi alın. Kariyerinizi sınırsız fırsatlara açın."
+  },
+  "studentTestimonials": {
+    "title": "Öğrencilerimizin",
+    "highlight": "Ne Dediğini Öğrenin",
+    "testimonials": [
+      {
+        "quote": "Sonunda vizemi aldım, bu alanda bana yardım ettiğiniz için çok teşekkür ederim. Bu organizasyonla harika bir deneyim yaşadım. Eden International'ın çalışanları çok yardımcı oldu. Arkadaşlarıma yalnızca Eden International aracılığıyla başvurmalarını önereceğim.",
+        "name": "Shakil Alom",
+        "imageUrl": "/img-01-alom-1-150x150.webp"
+      },
+      {
+        "quote": "Eden International Hizmetlerini benim durumumdaki diğer mesleklere tavsiye edeceğim. Bu hizmet, üniversite kursunu yeniden almamı saatlerce çalışmak zorunda kalmaktan kurtardı. Harika organizasyon!!",
+        "name": "Lisa",
+        "imageUrl": "/6-1-1-150x150.webp"
+      },
+      {
+        "quote": "Educube ile çalışmak bir zevkti. Beni yönlendirme şekilleri, özellikle Md Arifuzzaman, beni üniversite mülakatına hazırlanmamda ve İngilizce Dil becerilerimi geliştirmemde çok yardımcı oldu.",
+        "name": "Md Sadh",
+        "imageUrl": "/8-1-150x150.webp"
+      },
+      {
+        "quote": "Vizeyi aldığımda çok memnun oldum. Tüm kredi Eden International Pty Ltd'ye gidiyor çünkü doğru inisiyatif aldılar. Öğrenci Vize işleminde çok dost canlısılar. Yurt dışına gitmek isteyen herkes EDUCUBE ile iletişime geçebilir.",
+        "name": "Arafat Hossain Akib",
+        "imageUrl": "/7-1-150x150.webp"
+      },
+      {
+        "quote": "Bana Ishmael deyin. Yıllar önce—ne kadar olduğunu boş verin—cüzdanımda çok az para varken veya hiç para yokken ve sahilde ilgimi çekecek bir şey yokken, biraz seyir yapmaya ve dünyanın sulu kısmını görmeye karar verdim.",
+        "name": "Herman Melville",
+        "title": "Moby-Dick",
+        "imageUrl": "/fallback-image.jpg"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "title": "Muhasebe",
+      "imageUrl": "/i.webp",
+      "description": "Finansal raporlama, denetim ve vergilendirme becerilerini geliştirin. Finansal tabloları analiz etmeyi ve bütçeleri yönetmeyi öğrenin."
+    },
+    {
+      "title": "Mühendislik ve Teknoloji",
+      "imageUrl": "/i-2.webp",
+      "description": "Mekanik, inşaat ve elektrik mühendisliği gibi alanlarda yenilikçi çözümler keşfedin. Teknoloji geliştirme konusunda pratik deneyim kazanın."
+    },
+    {
+      "title": "Sanat",
+      "imageUrl": "/i-3.webp",
+      "description": "Çeşitli medya aracılığıyla yaratıcı ifadeyi inceleyin. Sanat tarihi, teknikleri ve çağdaş uygulamaları öğrenin."
+    },
+    {
+      "title": "İşletme Yönetimi",
+      "imageUrl": "/i-4.webp",
+      "description": "İş operasyonlarını, pazarlamayı ve stratejiyi anlayın. Çeşitli organizasyonel ortamlarda liderlik rolleri için hazırlanın."
+    },
+    {
+      "title": "İletişim",
+      "imageUrl": "/i-5.webp",
+      "description": "Etkili iletişim stratejileri, halkla ilişkiler ve medya dinamiklerini öğrenin. Kişilerarası ve yazma becerilerinizi geliştirin."
+    },
+    {
+      "title": "Medya",
+      "imageUrl": "/i-6.webp",
+      "description": "Dijital medyanın, gazeteciliğin ve içerik oluşturmanın etkilerini inceleyin. Multimedya hikaye anlatımı ve üretiminde beceriler kazanın."
+    },
+    {
+      "title": "Tıp",
+      "imageUrl": "/i-7.webp",
+      "description": "Hasta bakımı, tıbbi araştırma ve klinik uygulamalara odaklanarak sağlık alanında bir kariyere hazırlanın."
+    },
+    {
+      "title": "Hemşirelik",
+      "imageUrl": "/i-11.webp",
+      "description": "Hasta bakımı, tıbbi prosedürler ve sağlık yönetimi konularında eğitim alın. Başkalarına yardım etmeye adanmış ödüllendirici bir mesleğe katılın."
+    },
+    {
+      "title": "Dil",
+      "imageUrl": "/i-9.webp",
+      "description": "Dilbilim, çeviri ve kültürler arası iletişimi inceleyin. Birden çok dilde yetkinliğinizi artırın."
+    },
+    {
+      "title": "Bilişim ve Teknoloji",
+      "imageUrl": "/999.webp",
+      "description": "Yazılım geliştirme, veri analizi ve yeni teknolojiler hakkında bilgi edinin. Bilgisayar bilimi konusunda sağlam bir temel oluşturun."
+    },
+    {
+      "title": "Eğitim ve Öğretim",
+      "imageUrl": "/i-10.webp",
+      "description": "Öğretim becerilerini ve eğitim teorisini geliştirin. Gelecek nesil öğrenicileri ilham vermeye ve eğitmeye hazırlanın."
+    },
+    {
+      "title": "Mimarlık",
+      "imageUrl": "/192.webp",
+      "description": "Mimari tasarım, kentsel planlama ve sürdürülebilir bina konularını inceleyin. İnşa edilmiş çevreyi şekillendirme becerilerini kazanın."
+    }
+  ],
+  "studyInAustralia": {
+    "title": "Avustralya'da",
+    "highlightText": "Eğitim"
+  },
+  "whyStudyAustralia": {
+    "educationIsYourRight": "Eğitim Hakkınız, Seçenek Değil",
+    "whyStudyIn": "NEDEN",
+    "australia": "AVUSTRALYA'DA EĞİTİM",
+    "description": "Avustralya'da eğitim görmeyi düşündüğümüzde, öğrencilerin dikkatini çeken birçok faktör vardır. Gelişen Hedef. Avustralya şu anda İngilizce konuşulan dünyada Amerika Birleşik Devletleri ve İngiltere'nin ardından uluslararası öğrenciler için üçüncü en popüler destinasyondur. Birçok uluslararası öğrenci, kültürel çeşitlilik, dost canlısı yerliler ve yüksek kaliteli eğitim nedeniyle orada eğitim görmeyi tercih ediyor."
+  },
+  "quickSteps": {
+    "title": "BAŞVURU SÜRECİNİN",
+    "highlight": "HIZLI ADIMLARI",
+    "fileSubmission": {
+      "title": "Dosya Teslimi",
+      "description": [
+        "Pasaport",
+        "Pasaport Boyutunda Fotoğraflar",
+        "Akademik Belgeler",
+        "Doğum Belgesi",
+        "NID (İngilizce Çevirisi)",
+        "Başvuru Ücretleri",
+        "SOP (Amaç Beyanı)",
+        "Özgeçmiş/CV",
+        "IELTS/TOEFL Sertifikası"
+      ]
+    },
+    "offerLetter": {
+      "title": "Teklif Mektubu",
+      "description": "Başarılı G.T.E. Değerlendirmesi sonucunda Üniversiteden Kabul Teklif Mektubu alın."
+    },
+    "gteAssessment": {
+      "title": "G.T.E. Değerlendirmesi",
+      "description": "Mali ve diğer belgelerin incelenmesi ve üniversite ile mülakat."
+    },
+    "coeConfirmation": {
+      "title": "COE Onayı",
+      "description": "Üniversiteye başarılı bir şekilde kayıt ve ödeme onayı."
+    },
+    "visaLodgement": {
+      "title": "Vize Başvurusu",
+      "description": "Vize başvurusu ve gerekli belgeleri teslim edin."
+    },
+    "successfulVisa": {
+      "title": "Başarılı Vize",
+      "description": "Vize onayı alın ve seyahat hazırlıklarına başlayın."
+    },
+    "buttonText": "Tam vize sürecini görmek için tıklayın"
+  },
+  "studyProcess": {
+    "title": "VİZE",
+    "highlight": "SÜRECİ",
+    "steps": [
+      {
+        "title": "GÜVENLİ ÜLKE",
+        "description": "Çoğu uluslararası öğrenci için yurtdışında eğitim programı seçerken en önemli faktör, ülkenin ve özellikle şehrin güvenliği ve emniyetidir. Ebeveynler çocuklarının güvenliği konusunda endişelenir ve kadınlara karşı suçlar, ırk ayrımcılığı, hırsızlık ve soygun gibi faktörler, yurtdışında eğitim almak için bir yer seçerken önemli bir rol oynar. Bu açıdan, Kanada, çok düşük suç oranları ve ırk ayrımcılığı vakalarıyla eğitim için en güvenli yerlerden biridir."
+      },
+      {
+        "title": "ÇOK KÜLTÜRLÜ ÇEVRE",
+        "description": "Kanada, bilgisayar ve bilgi teknolojilerinde uluslararası bir liderdir ve telekomünikasyon, animasyon, ulaşım ve mühendislik gibi sektörlerde mükemmeliyet için bir üne sahiptir; ve özellikle havacılık, kentsel ulaşım, mikroelektronik, tıbbi cihazlar, ileri yazılım, hidroelektrik ve nükleer enerji, lazerler ve optoelektronik, biyoteknoloji vb. Kanada, okulları ve kütüphaneleri internete bağlama ihtiyacını ilk fark eden ülkelerden biri oldu ve SchoolNet programı dünya çapında kopyalanıyor. Her türlü modern olanak sağlanır ve çoğu kampüs, dünyanın sunabileceği en sofistike teknolojilerle donatılmıştır."
+      },
+      {
+        "title": "İŞ FIRSATLARI",
+        "description": "Evet, bir uluslararası öğrenci olarak hala aynı kurs için Kanadalılardan daha fazla ödeyeceksiniz, ancak aynı kurs başka bir ülkede, örneğin Amerika Birleşik Devletleri, Avustralya veya Birleşik Krallık'ta, muhtemelen daha pahalıya mal olacaktır. Ayrıca, yukarıdaki 1. maddeyi de görün – Kanada'da daha az ödüyorsunuz, ayrıca kazanıyorsunuz."
+      },
+      {
+        "title": "UYGUN FİYATLI EĞİTİM VE YAŞAM",
+        "description": "Kanada, sadece kaliteli eğitim değil, aynı zamanda uluslararası, dahil olmak üzere Hintli öğrenciler için uygun fiyatlı eğitim sunar. İngiltere, ABD ve Avustralya gibi ülkelere kıyasla, Kanada'da eğitim maliyeti oldukça makuldür."
+      },
+      {
+        "title": "KABUL ŞARTLARI",
+        "description": "COE alındıktan sonra, EDUCUDE - öğrenci adına tüm akademik ve mali belgeleri büyükelçiliğe teslim eder ve öğrencileri biyometrik ve tıbbi kontrol için hazırlar. Vize almak 20-30 iş günü sürer."
+      }
+    ]
+  },
+  "studyInCanada": {
+    "title": "KANADA'DA",
+    "highlightText": "EĞİTİM"
+  },
+  "whyStudyInCanada": {
+    "title": "NEDEN",
+    "highlightText": "KANADA'DA EĞİTİM?",
+    "description": {
+      "part1": "30 Nisan 2018 – Dünyanın",
+      "part2": "en iyi 500 üniversitesinden",
+      "part3": "21'ine ve",
+      "part4": "ilk 1000'de",
+      "part5": "32'sine sahip olan Kanada, her yıl",
+      "part6": "400.000'den fazla uluslararası öğrenciyi",
+      "part7": "ağırlıyor. Dünyanın en iyi eğitim programlarını sunuyor ve dünyanın önde gelen araştırma tesisleri ve akademik kurumlarından bazılarına ev sahipliği yapıyor. Yurtdışında eğitim almayı planlıyorsanız, Kanada listenizin başında olmalıdır."
+    }
+  },
+  "accordionCanada": {
+    "title": "KANADA'YI SEÇMEK İÇİN",
+    "highlightText": "BAŞLICA NEDENLER",
+    "buttonText": "UYGUNLUĞUNUZUN ÜCRETSİZ İLK DEĞERLENDİRMESİNİ ALIN",
+    "items": [
+      {
+        "title": "GÜVENLİ ÜLKE",
+        "content": "Çoğu uluslararası öğrenci için yurtdışında eğitim programı seçerken en önemli faktör, ülkenin ve özellikle şehrin güvenliği ve emniyetidir. Ebeveynler çocuklarının güvenliği konusunda endişelenir ve kadınlara karşı suçlar, ırk ayrımcılığı, hırsızlık ve soygun gibi faktörler, yurtdışında eğitim almak için bir yer seçerken önemli bir rol oynar. Bu açıdan, Kanada, çok düşük suç oranları ve ırk ayrımcılığı vakalarıyla eğitim için en güvenli yerlerden biridir."
+      },
+      {
+        "title": "ÇOK KÜLTÜRLÜ ÇEVRE",
+        "content": "Kanada, bilgisayar ve bilgi teknolojilerinde uluslararası bir liderdir ve telekomünikasyon, animasyon, ulaşım ve mühendislik gibi sektörlerde mükemmeliyet için bir üne sahiptir; ve özellikle havacılık, kentsel ulaşım, mikroelektronik, tıbbi cihazlar, ileri yazılım, hidroelektrik ve nükleer enerji, lazerler ve optoelektronik, biyoteknoloji vb. Kanada, okulları ve kütüphaneleri internete bağlama ihtiyacını ilk fark eden ülkelerden biri oldu ve SchoolNet programı dünya çapında kopyalanıyor. Her türlü modern olanak sağlanır ve çoğu kampüs, dünyanın sunabileceği en sofistike teknolojilerle donatılmıştır."
+      },
+      {
+        "title": "İŞ FIRSATLARI",
+        "content": "Evet, bir uluslararası öğrenci olarak hala aynı kurs için Kanadalılardan daha fazla ödeyeceksiniz, ancak aynı kurs başka bir ülkede, örneğin Amerika Birleşik Devletleri, Avustralya veya Birleşik Krallık'ta, muhtemelen daha pahalıya mal olacaktır. Ayrıca, yukarıdaki 1. maddeyi de görün – Kanada'da daha az ödüyorsunuz, ayrıca kazanıyorsunuz."
+      },
+      {
+        "title": "UYGUN FİYATLI EĞİTİM VE YAŞAM",
+        "content": "Kanada, sadece kaliteli eğitim değil, aynı zamanda uluslararası, dahil olmak üzere Hintli öğrenciler için uygun fiyatlı eğitim sunar. İngiltere, ABD ve Avustralya gibi ülkelere kıyasla, Kanada'da eğitim maliyeti oldukça makuldür."
+      },
+      {
+        "title": "KABUL ŞARTLARI",
+        "content": "Kanada'daki herhangi bir Üniversite/College/Enstitüye kabul almak için tüm öğrenciler aşağıdaki kriterleri karşılamalıdır: Akademik Nitelikler: Orta ve lise düzeyinde veya ara düzeyde ve lisans veya onur derecelerinde tüm önceki derece programlarında en az %60 puan. ESL Kursu (İkinci Dil Olarak İngilizce): İngilizce dil yeterliliği: IELTS olmadan başvurabilir. Diploma: İngilizce dil yeterliliği: Öğrencilerin IELTS'de minimum 5.5 bant (hiçbir bant 5.0'dan düşük olmamak üzere) veya PTE'de 46 veya TOEFL'de 62 puan almaları gerekmektedir. Lisans Programı: İngilizce dil yeterliliği: Öğrencilerin IELTS'de minimum 6.0 bant (hiçbir bant 5.5'ten düşük olmamak üzere) veya PTE'de 54 veya TOEFL'de 73 puan almaları gerekmektedir. Yüksek Lisans Programı: İngilizce dil yeterliliği: Öğrencilerin IELTS'de minimum 6.5 bant (hiçbir bant 6.0'dan düşük olmamak üzere) veya PTE'de 61 veya TOEFL'de 85 puan almaları gerekmektedir."
+      }
+    ]
+  },
+  "affiliatedInstitutions": {
+    "title": "BAĞLI",
+    "highlightText": "KURUMLAR",
+    "description": "Bağlı bir okul veya bağlı bir kolej, bağımsız olarak faaliyet gösteren, ancak başka bir büyük kurumla resmi bir işbirliği anlaşması olan ve akademik politikaları, standartları veya programları üzerinde bir dereceye kadar kontrole veya etkisine sahip olabilen eğitim kurumudur."
+  },
+  "heroSection": {
+    "firstTitle": "",
+    "firstHighlightText": "",
+    "secondTitle": "BAĞLI",
+    "secondHighlightText": "KURUMLARIMIZ"
+  },
+  "affiliated": {
+    "title": "Bağlı Kurumlar",
+    "institutions": [
+      { "name": "Kuzey Güney Galler Üniversitesi (UNSW) - Global", "url": "https://www.unsw.edu.au/" },
+      { "name": "Central Queensland Üniversitesi (CQU)", "url": "https://www.cqu.edu.au/" },
+      { "name": "Charles Darwin Üniversitesi (CDU)", "url": "https://www.cdu.edu.au/" },
+      { "name": "Charles Stuart Üniversitesi", "url": "https://www.csu.edu.au/" },
+      { "name": "Curtin Üniversitesi - Perth", "url": "https://www.curtin.edu.au/" },
+      { "name": "Deakin Üniversitesi", "url": "https://www.deakin.edu.au/" },
+      { "name": "Edith Cowan Üniversitesi (ECU)", "url": "https://www.ecu.edu.au/" },
+      { "name": "James Cook Üniversitesi (JCUB)", "url": "https://www.jcu.edu.au/" },
+      { "name": "La Trobe Üniversitesi", "url": "https://www.latrobe.edu.au/" },
+      { "name": "La Trobe Üniversitesi - Sydney", "url": "https://www.latrobe.edu.au/sydney" },
+      { "name": "Macquarie Üniversitesi", "url": "https://www.mq.edu.au/" },
+      { "name": "Monash Üniversitesi / Kolej", "url": "https://www.monash.edu/" },
+      { "name": "Murdoch Üniversitesi", "url": "https://www.murdoch.edu.au/" },
+      { "name": "RMIT (Royal Melbourne Teknoloji Enstitüsü)", "url": "https://www.rmit.edu.au/" },
+      { "name": "SAIBT - Güney Avustralya Üniversitesi (Navitas)", "url": "https://www.saibt.sa.edu.au/" },
+      { "name": "Southern Cross Üniversitesi (SCU)", "url": "https://www.scu.edu.au/" },
+      { "name": "Swinburne Üniversitesi", "url": "https://www.swinburne.edu.au/" },
+      { "name": "Sydney İşletme ve Teknoloji Enstitüsü (SIBT)", "url": "https://www.sibt.nsw.edu.au/" },
+      { "name": "TAFE NSW", "url": "https://www.tafensw.edu.au/" },
+      { "name": "Newcastle Üniversitesi", "url": "https://www.newcastle.edu.au/" },
+      { "name": "Torrens Üniversitesi", "url": "https://www.torrens.edu.au/" },
+      { "name": "Queensland Üniversitesi (UQ)", "url": "https://www.uq.edu.au/" },
+      { "name": "Tasmanya Üniversitesi Sydney (UTAS)", "url": "https://www.utas.edu.au/" },
+      { "name": "Sydney Teknoloji Üniversitesi (UTS)", "url": "https://www.uts.edu.au/" },
+      { "name": "Western Sydney Üniversitesi (WSU)", "url": "https://www.westernsydney.edu.au/" },
+      { "name": "Wollongong Üniversitesi (UOW)", "url": "https://www.uow.edu.au/" },
+      { "name": "Victoria Teknoloji Enstitüsü (VIT)", "url": "https://www.vit.edu.au/" },
+      { "name": "Victoria Üniversitesi - Melbourne", "url": "https://www.vu.edu.au/" },
+      { "name": "Sunshine Coast Üniversitesi", "url": "https://www.usc.edu.au/" },
+      { "name": "Avustralya Ulusal Üniversitesi", "url": "https://www.anu.edu.au/" },
+      { "name": "Queensland Üniversitesi", "url": "https://www.uq.edu.au/" },
+      { "name": "Batı Avustralya Üniversitesi", "url": "https://www.uwa.edu.au/" },
+      { "name": "Güney Avustralya Üniversitesi", "url": "https://www.unisa.edu.au/" },
+      { "name": "Notre Dame Avustralya Üniversitesi", "url": "https://www.notredame.edu.au/" },
+      { "name": "Federasyon Üniversitesi Avustralya", "url": "https://federation.edu.au/" },
+      { "name": "Bright Koleji", "url": "#" },
+      { "name": "AIBI Koleji", "url": "#" },
+      { "name": "Alpha Koleji", "url": "#" },
+      { "name": "Connected Enstitüsü", "url": "#" },
+      { "name": "Bina Enstitüsü (NSW)", "url": "#" },
+      { "name": "Avustralya Öğrenme Enstitüsü", "url": "#" },
+      { "name": "Trinity Enstitüsü Avustralya", "url": "#" },
+      { "name": "Astrall Beceriler Enstitüsü Avustralya", "url": "#" },
+      { "name": "Apex Avustralya", "url": "#" },
+      { "name": "Reach Topluluk Koleji", "url": "#" },
+      { "name": "Waratah Politeknik", "url": "#" },
+      { "name": "Avustralya Misafirperverlik Yönetimi Akademisi", "url": "#" },
+      { "name": "Kaplan İşletme Okulu Avustralya", "url": "https://www.kbs.edu.au/" },
+      { "name": "TAFE NSW", "url": "https://www.tafensw.edu.au/" },
+      { "name": "Kings Own Enstitüsü", "url": "https://www.koi.edu.au/" },
+      { "name": "Eğitim Merkezi Avustralya (ECA)", "url": "https://www.eca.edu.au/" },
+      { "name": "Stodds Koleji", "url": "https://www.stotts.edu.au/" },
+      { "name": "TAFE Queensland", "url": "https://tafeqld.edu.au/" },
+      { "name": "UTS Koleji", "url": "https://utscollege.edu.au/" },
+      { "name": "UOW Koleji", "url": "https://www.uowcollege.edu.au/" },
+      { "name": "Stanley Koleji", "url": "https://www.stanleycollege.edu.au/" },
+      { "name": "TAFE SA", "url": "https://www.tafesa.edu.au/" },
+      { "name": "Charles Darwin Uluslararası Koleji", "url": "https://www.cdu.edu.au/cdu-international" },
+      { "name": "Deakin Koleji", "url": "https://www.deakincollege.edu.au/" },
+      { "name": "Latrobe Koleji Avustralya", "url": "https://www.latrobe.edu.au/" },
+      { "name": "Conestoga Koleji", "url": "https://www.conestogac.on.ca/" },
+      { "name": "Confederation Koleji", "url": "https://www.confederationcollege.ca/" },
+      { "name": "ACAP Koleji", "url": "https://www.acap.edu.au/" },
+      { "name": "Academia International", "url": "https://www.academia21.com/" },
+      { "name": "Mühendislik Enstitüsü Teknoloji", "url": "https://www.eit.edu.au/" },
+      { "name": "Melbourne Teknoloji Enstitüsü (MIT)", "url": "https://www.mit.edu.au/" },
+      { "name": "Insearch UTS", "url": "https://www.insearch.edu.au/" },
+      { "name": "Griffith Koleji (Navitas)", "url": "https://www.griffithcollege.edu.au/" },
+      { "name": "Lead Koleji", "url": "https://www.leadcollege.edu.au/" },
+      { "name": "Griffith Koleji", "url": "https://www.griffithcollege.edu.au/" },
+      { "name": "Uluslararası İşletme Yönetimi Koleji (Sydney)", "url": "https://www.icms.edu.au/" },
+      { "name": "TAFE Uluslararası Batı Avustralya", "url": "https://www.tafeinternational.wa.edu.au/" },
+      { "name": "Holmes Enstitüsü", "url": "https://www.holmes.edu.au/" },
+      { "name": "Swinburne Koleji", "url": "https://www.swinburne.edu.au/" },
+      { "name": "Crown Yüksek Öğretim Enstitüsü", "url": "https://www.cihe.edu.au/" },
+      { "name": "Uluslararası İşletme ve Bilgi Teknolojisi Enstitüsü", "url": "https://www.iibit.edu.au/" },
+      { "name": "Le Cordon Bleu", "url": "https://www.cordonbleu.edu/" },
+      { "name": "Melbourne Politeknik", "url": "https://www.melbournepolytechnic.edu.au/" },
+      { "name": "Adelaide Üniversitesi Koleji", "url": "https://college.adelaide.edu.au/" },
+      { "name": "Quality Koleji Avustralya", "url": "https://www.qca.edu.au/" },
+      { "name": "Sydney İşletme ve Teknoloji Enstitüsü (SIBT)", "url": "https://www.sibt.nsw.edu.au/" },
+      { "name": "Adelaide İşletme ve Teknoloji Enstitüsü", "url": "https://aibtglobal.edu.au/" },
+      { "name": "Greenwich Koleji", "url": "https://www.greenwichcollege.edu.au/" },
+      { "name": "Curtin Koleji", "url": "https://www.curtincollege.edu.au/" },
+      { "name": "Edith Cowan Koleji", "url": "https://www.edithcowancollege.edu.au/" },
+      { "name": "Equals Uluslararası", "url": "https://www.equals.edu.au/" },
+      { "name": "Avustralya Otelcilik Okulu", "url": "https://www.hotelschool.scu.edu.au/" },
+      { "name": "Avustralya Öğrenme Grubu", "url": "https://alg.edu.au/" },
+      { "name": "UNSW Global", "url": "https://www.unswglobal.unsw.edu.au/" },
+      { "name": "Academics Australasia Politeknik", "url": "https://www.aapoly.edu.au/" },
+      { "name": "Kent Enstitüsü Avustralya", "url": "https://kent.edu.au/" },
+      { "name": "Icon Enstitüsü Avustralya", "url": "https://icon.edu.au/" },
+      { "name": "Beceri Avustralya Enstitüsü", "url": "https://sai.edu.au/" },
+      { "name": "Avustralya Ideal Koleji", "url": "https://idealcollege.edu.au/" },
+      { "name": "Imagine Eğitim Avustralya", "url": "https://www.imagineeducation.edu.au/" },
+      { "name": "Sağlık ve Hemşirelik Enstitüsü Avustralya", "url": "https://www.ihna.edu.au/" },
+      { "name": "Signet Enstitüsü Avustralya", "url": "https://signet.edu.au/" },
+      { "name": "ILSC-Avustralya", "url": "https://www.ilsc.com/" },
+      { "name": "Avustralya Sağlık ve Bilim Enstitüsü", "url": "https://ahsinstitute.edu.au/" },
+      { "name": "Avustralya Ulusal Havayolu Koleji", "url": "https://www.anacollege.edu.au/" },
+      { "name": "WSU - Kolej", "url": "https://www.westernsydney.edu.au/" },
+      { "name": "Phoneix", "url": "#" },
+      { "name": "Murdoch Enstitüsü (MIT)", "url": "https://www.mit.edu.au/" },
+      { "name": "Greystone Koleji Avustralya", "url": "https://www.greystonecollege.com.au/" },
+      { "name": "Oxford House (OHC) - Avustralya", "url": "https://www.oxfordhouse.com/" },
+      { "name": "ANGAD Avustralya Teknoloji Enstitüsü", "url": "https://angad.vic.edu.au/" },
+      { "name": "Avustralya Ulusal Eğitim (ANE)", "url": "https://www.ane.edu.au/" },
+      { "name": "Avustralya Teknik Koleji Batı", "url": "https://www.atcwa.edu.au/" },
+      { "name": "Avustralya Uluslararası Lisesi Pty Ltd", "url": "https://www.aihs.edu.au/" },
+      { "name": "Beceri Eğitimi Avustralya", "url": "https://skillstraining.edu.au/" },
+      { "name": "Avustralya Liman Uluslararası Koleji", "url": "https://www.ahic.edu.au/" },
+      { "name": "Avustralya Bilim ve Matematik Okulu", "url": "https://www.asms.sa.edu.au/" },
+      { "name": "Avustralya Beceri Grubu", "url": "https://asgroup.com.au/" },
+      { "name": "Kaplan Uluslararası İngilizce - Avustralya", "url": "https://www.kaplaninternational.com/" },
+      { "name": "Texila Koleji Avustralya", "url": "#" },
+      { "name": "Avustralya İngilizce Merkezi", "url": "https://www.australiancentreofenglish.com.au/" },
+      { "name": "Avustralya Çocuk Bakımı Kariyer Seçenekleri", "url": "https://www.acco.edu.au/" },
+      { "name": "Avustralya Yönetim ve Yenilik Koleji", "url": "https://acmi.edu.au/" },
+      { "name": "Avustralya Teknoloji Koleji Pty Ltd", "url": "https://act.edu.au/" },
+      { "name": "Avustralya Elektro Teknoloji Enstitüsü", "url": "https://aite.edu.au/" },
+      { "name": "Avustralya Teknik Eğitim Enstitüsü", "url": "https://aitt.edu.au/" },
+      { "name": "Avustralya Uluslararası Koleji", "url": "https://aic.edu.au/" },
+      { "name": "Avustralya Ulusal Havayolu Koleji", "url": "https://www.anacollege.edu.au/" },
+      { "name": "Avustralya Ulusal Eğitim Enstitüsü", "url": "https://anie.edu.au/" },
+      { "name": "Avustralya Beceri Yönetimi Enstitüsü", "url": "https://asmi.edu.au/" },
+      { "name": "Avustralya Egemen Koleji", "url": "#" },
+      { "name": "Uluslararası Spor Koleji Avustralya", "url": "https://iscaustralia.edu.au/" },
+      { "name": "Salisbury Koleji Avustralya", "url": "https://salisburycollege.com.au/" },
+      { "name": "Blue Mountain Otelcilik Okulu", "url": "https://www.bluemountains.edu.au/" },
+      { "name": "Canterbury Teknoloji Enstitüsü (USQ Sydney)", "url": "https://www.canterbury.ac.nz/" },
+      { "name": "Canterbury Eğitim Grubu (CLA, CBC, CTI)", "url": "https://www.canterbury.ac.nz/" },
+      { "name": "Chisholm Enstitüsü", "url": "https://www.chisholm.edu.au/" },
+      { "name": "Deakin Koleji (Navitas)", "url": "https://www.deakincollege.edu.au/" },
+      { "name": "Excelsia Koleji", "url": "https://excelsia.edu.au/" },
+      { "name": "Mühendislik Enstitüsü Teknoloji", "url": "https://www.eit.edu.au/" },
+      { "name": "Eyensbury", "url": "#" }
+    ]
+  },
+  "proHeroSection": {
+    "imageSrc": "/1001_Team.webp", 
+    "title": "Profesyonel",
+    "highlightText": "Yıl Planı",
+    "height": "h-96"
+  },
+  "professionalYearPrograms": {
+    "title": "PROFESYONEL",
+    "highlightText": "YIL PROGRAMLARI",
+    "content": "Profesyonel Yıl Programı (PYP), Avustralya'da bir üniversiteden mezun olmuş uluslararası öğrencilere kendi mesleklerine giriş ve ilgili pratik eğitim sağlar. Australian Internships, Profesyonel Yıl Programı'nın (PYP) pratik bileşenini sağlar ve Göç ve Sınır Koruma Bakanlığı (DIBP) tarafından yetkilendirilmiş akreditasyon kuruluşları tarafından onaylanmıştır.",
+    "imageSrc": "/study.jpg"  
+  },
+  "educationCentre": {
+    "title": "AVUSTRALYA EĞİTİM MERKEZİ",
+    "highlightText": "",
+    "content": "Education Centre of Australia (ECA), Sydney, Brisbane ve Melbourne'de birden fazla kampüsü olan Avustralya'nın önde gelen uygun fiyatlı özel eğitim sağlayıcılarından biridir. Genişleyen bir kolej ağı olarak, ECA ile geçirdiğiniz sürenin size kaliteli eğitim, pratik beceriler ve proje bazlı uygulamalı öğrenim sağlamasını sağlamak için yollar arıyoruz. Sunduğumuz yol programları ve stajlar, öğrencileri sınıftan kariyere taşır. Modern çok kültürlü öğrenim ortamlarımız, büyüyen zihinler için mükemmel bir yer sağlar.",
+    "imageSrc": "/eca-img.jpg" 
+  },
+  "performanceEducation": {
+    "title": "PERFORMANCE",
+    "highlightText": "EDUCATION",
+    "content": "Mezun İstihdam Uzmanları olarak, Performance Education Group, insanların kariyer başarılarına ulaşmalarına yardımcı olarak yaşamlarını değiştirir ve Avustralya'nın en iyi istihdam bağlantılarına erişim sağlar. 2006 yılında genç profesyonellerin kariyerlerini iyileştirmek için kurulan kurumumuz, şimdi profesyonel iş iletişimi, işyeri hazır olma, İş Entegrasyonlu Öğrenme (WIL) programları ve kariyer becerileri gibi çok ihtiyaç duyulan istihdam edilebilirlik becerileri geliştirme alanında liderdir. Her öğrenciye kariyer hedeflerine ulaşmaları için en iyi eğitim ve desteği sağlıyoruz.",
+    "imageSrc": "/Performance-Education.webp" 
+  },
+  "atmcProfessionalYear": {
+    "title": "ATMC",
+    "highlightText": "PROFESYONEL YIL",
+    "content": "Derecenizi bitirdiniz ama Avustralya'da kariyerinizi kurmak için ek teknik beceri ve bilgi kazanmak mı istiyorsunuz? Şimdi ATMC Profesyonel Yıl Programı ile kariyerinize başlangıç yapabilirsiniz. ATMC, Bilgi Teknolojisi mezunları için Avustralya Bilgisayar Derneği (ACS) aracılığıyla ve muhasebe programları için Muhasebe PYP aracılığıyla Profesyonel Yıl programları sunar. Profesyonel Yıl (PY) Programı, Avustralya'da bir üniversiteden mezun olmuş ve üniversiteden istihdama ve Avustralya'da ikamete giden başarılı bir yol arayan uluslararası öğrenciler için özel olarak tasarlanmıştır.",
+    "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
+  },
+  "migrationHeroSection": {
+    "title": "GÖÇ",
+    "highlightText": ""
+  },
+  "visaOptions": {
+    "title": "VİZE",
+    "highlightText": "SEÇENEKLERİ",
+    "visitorVisa": {
+      "title": "Ziyaretçi Vizesi",
+      "description": "Avustralya'ya tatil, gezi, sosyal veya rekreasyonel nedenlerle, akrabaları, arkadaşları ziyaret etmek için gelebilirsiniz."
+    },
+    "skilledVisa": {
+      "title": "Vasıflı Vize",
+      "description": "Genel Vasıflı Göçmenlik (GSM) veya Vasıflı Vizeler, Avustralya'da geçici veya kalıcı olarak yaşamak ve çalışmak isteyen kişiler içindir."
+    },
+    "sponsoredVisa": {
+      "title": "Sponsorlu Vize",
+      "description": "İşveren Sponsorlu Vizeler, bir Avustralyalı çalışanla doldurulamayacak veya Avustralyalı çalışanları eğiterek doldurulamayacak bir pozisyonu olan işverenler içindir."
+    },
+    "studentVisa": {
+      "title": "Öğrenci Vizesi",
+      "description": "Bir öğrenci vizesi sınıfı (TU) ve sekiz vize alt sınıfı vardır. Yedi vize alt sınıfı belirli eğitim sektörleriyle ilgilidir ve biri öğrenci vasilerle ilgilidir."
+    },
+    "partnerVisa": {
+      "title": "Eş Vizesi",
+      "description": "Bir partner vizesi, bir Avustralya vatandaşı veya uygun bir Yeni Zelanda vatandaşı ile evli, nişanlı veya de facto ilişkisi olan ve Avustralya'da yaşamak isteyen kişiler içindir."
+    },
+    "aatFederalCourt": {
+      "title": "AAT ve Federal Mahkeme",
+      "description": "Profesyonel avukatlar ve avukatlar ekibimiz var. Büyük sorunlarınız varsa, lütfen bizimle iletişime geçin ve karmaşık göçmenlik sorunlarınızı çözebiliriz."
+    }
+  },
+  "visaSpecialisations": {
+    "title": "UZMANLAŞTIĞIMIZ VİZELER",
+    "highlightText": "",
+    "temporarySkillShortageVisa": {
+      "title": "Geçici Vasıf Eksikliği Vizesi",
+      "subclass": "Alt Sınıf 482"
+    },
+    "trainingVisa": {
+      "title": "Eğitim Vizesi",
+      "subclass": "Alt Sınıf 407"
+    },
+    "skilledIndependentVisa": {
+      "title": "Vasıflı Bağımsız Vize",
+      "subclass": "Alt Sınıf 189"
+    },
+    "skilledNominatedVisa": {
+      "title": "Vasıflı Aday Vizesi",
+      "subclass": "Alt Sınıf 190"
+    },
+    "skilledWorkRegionalVisa": {
+      "title": "Vasıflı İş Bölgesel Vizesi",
+      "subclass": "Alt Sınıf 491"
+    },
+    "sponsoredJobs": {
+      "title": "Sponsorlu İşler",
+      "subclass": ""
+    }
+  },
+  "faqAccordion": {
+    "title": "Sıkça Sorulan",
+    "highlightText": "Sorular",
+    "howDoIFindOutIfIAmEligibleToApply": {
+      "title": "BAŞVURMAK İÇİN UYGUN OLUP OLMADIĞIMI NASIL ÖĞRENEBİLİRİM?",
+      "content": "Lütfen mevcut Avustralya göçmenlik düzenlemelerinin bir özetini görmek için buraya tıklayın. Ardından uygunluğunuzu ücretsiz olarak kontrol edin ve bir MARA Kayıtlı Göçmenlik Danışmanına yönlendirin."
+    },
+    "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+      "title": "AVUSTRALYA'YA GÖÇ ETMEK İÇİN KALICI OTURUM VİZESİ ALMAK NE KADAR SÜRER?",
+      "content": "Her başvuru farklıdır ve işlem süreleri büyük ölçüde başvurulan vize türüne bağlıdır. Avustralya vize işlem süreleri için en güncel kılavuzlar için, Göç ve Vatandaşlık İşlem Süreleri bölümüne bakın."
+    },
+    "canTheImmigrationAuthoritiesRefuseMyApplication": {
+      "title": "GÖÇMENLİK YETKİLİLERİ BAŞVURUMU REDDEDEBİLİR Mİ?",
+      "content": "Evet. Birçok başvuru sahibi, göçmenlik düzenlemelerinin ne kadar sıkı uygulandığının farkında değildir ve başvurularındaki teknik hatalar veya yanlış destekleyici belgeler gönderilmesi nedeniyle gereksiz yere reddedilir veya gecikir. Bu nedenle, ikamet başvurusu yapmadan önce bir MARA Kayıtlı Göçmenlik Danışmanının profesyonel rehberliğini ve bağımsız tavsiyesini almayı düşünmelisiniz."
+    },
+    "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+      "title": "GÖÇMENLİK YETKİLİLERİ VEYA ELÇİLİK, BAŞVURUMU HAZIRLAMAMA VE BAŞVURMADAN ÖNCE HER ŞEYİN DOĞRU OLDUĞUNDAN EMİN OLMAMA YARDIMCI OLUR MU?",
+      "content": "Hayır. Bu tür bir hizmet artık Hükümet tarafından sağlanmamaktadır. Yetkililer, göçmenlik yasalarını uygulamak, ikamet başvuruları hakkında karar vermek ve ikamet vizeleri vermek için vardır. Temel bilgiler ve başvuru formları mevcut olsa da, yetkililer belirli durumunuz hakkında bağımsız tavsiye ve kişiselleştirilmiş rehberlik sağlayamaz. Bir Avustralya Kayıtlı Göçmenlik Danışmanı bu tür bir hizmeti sağlayabilir."
+    },
+    "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+      "title": "GÖÇMENLİK DANIŞMANIM, AVUSTRALYA'DA İKAMET İÇİN UYGUN OLDUĞUMU DEĞERLENDİRDİ. ONUN YARDIMI OLMADAN BAŞVURURSAM BAŞARILI OLMA İHTİMALİM KESİN Mİ?",
+      "content": "Hayır. Göçmenlik politikasına göre temel olarak uygun olabilirsiniz, ancak başarı garantisi yoktur. Başvurunuz, geçerli göçmenlik düzenlemelerine uygun olarak hazırlanmalı ve başvuruyu destekleyen uygun belgelerle birlikte sunulmalıdır. Bunu yapmanın yolları göçmenlik yetkilileri tarafından her zaman açıkça belirtilmemektedir ve bu, birçok başvuru sahibinin dosyalarını yanlış sunmasına neden olarak reddedilmelerine yol açmaktadır. Bu nedenle, bir MARA Kayıtlı Göçmenlik Danışmanının tavsiyesini almayı düşünmelisiniz."
+    },
+    "cta": "UYGUNLUĞUNUZUN ÜCRETSİZ İLK DEĞERLENDİRMESİNİ ALIN"
+  },
+  "temporarySkilledVisaData": {
+    "hero": {
+      "title": "GEÇİCİ VASIF EKSİKLİĞİ (TSS) VİZESİ",
+      "highlightText": "ALT SINIF 482"
+    },
+    "title": "BU VİZE HAKKINDA",
+    "description": "Geçici Çalışma Vizesi (Alt Sınıf 457), 18 Mart 2018'de Geçici Vasıf Eksikliği (TSS) Vizesi Alt Sınıf 482 ile değiştirilmiştir. Bu vize, işverenlerin, uygun beceriye sahip bir Avustralyalı çalışan bulamadıklarında vasıflı işçileri getirmelerine olanak tanır.",
+    "section1": {
+      "heading": "GEÇİCİ VASIF EKSİKLİĞİ (TSS) ALT SINIF 482 VİZESİNE NASIL UYGUN OLURUM?",
+      "subSections": [
+        {
+          "subHeading": "Geçici Vasıf Eksikliği (TSS) Vizesi Alt Sınıf 482 için Uygunluk:",
+          "details": [
+            {
+              "title": "i) Kısa Dönem Akış:",
+              "content": "Bu akış, bir işverenin yalnızca Geçici Vasıflı Meslek Listesi (STSOL) üzerinde listelenen mesleklerde geçici olarak bir yurt dışı vasıflı işçiyi sponsor etmek istemesi durumunda kullanılabilir. İTO (Uluslararası Ticaret Yükümlülüğü) uygulanıyorsa, maksimum iki yıl veya dört yıl süreyle kullanılabilir."
+            },
+            {
+              "title": "ii) Orta Dönem Akış:",
+              "content": "Bu vize, işverenlerin, uygun beceriye sahip bir Avustralyalı çalışan bulamadıklarında vasıflı işçileri getirmelerine olanak tanır."
+            },
+            {
+              "title": "iii) İş Gücü Anlaşması Akışı:",
+              "content": "Bu vize, İş Gücü Anlaşması olan işverenler tarafından aday gösterilen vasıflı işçiler içindir. Bu vize, geçici olarak Avustralya'da yaşamanıza ve çalışmanıza olanak tanır. İş gücü anlaşmaları, Avustralya Hükümeti (Bakanlık tarafından temsil edilen) ve işverenler arasında geliştirilir."
+            }
+          ]
+        }
+      ]
+    },
+    "section2": {
+      "heading": "Geçici Vasıf Eksikliği (TSS) Alt Sınıf 482 Vizesine başvurmak için uygunluk şartları nelerdir?",
+      "listItems": [
+        "Birleşik Vasıflı Meslekler listesinde bir mesleğe sahip olmanız",
+        "Sizi çalıştırmak isteyen bir Avustralyalı işveren tarafından bir iş pozisyonu için aday gösterilmeniz",
+        "Mesleğiniz için ilgili beceri ve niteliklere sahip olmanız",
+        "Mesleğinizde en az iki (2) yıl iş deneyimine sahip olmanız",
+        "Mesleki İngilizce dil yeterliliğine sahip olmanız",
+        "DHA gereksinimlerini karşıladığınızı kanıtlamanız",
+        "Avustralya'daysanız, geçerli bir vizeniz olması veya bir A, B veya C köprü vizesi ve vize şartlarını yerine getirmeniz."
+      ],
+      "note": "Not: TSS vizesi için yaş gereksinimi yoktur."
+    },
+    "section3": {
+      "heading": "İşverenlerin Geçici Vasıf Eksikliği (TSS) Alt Sınıf 482 Vizesine başvurmak için genel gereksinimleri nelerdir?",
+      "listItems": [
+        "Yasal olarak faaliyet gösteren bir iş olması",
+        "İşletme hakkında olumsuz bilgiye sahip olmaması",
+        "Yabancı çalışan için tam zamanlı ve gerçek bir iş pozisyonu aday göstermesi",
+        "Maaş ve istihdam koşullarına ilişkin gereksinimleri karşılaması",
+        "Gerekirse İş Gücü Piyasası Testi kanıtı sağlaması"
+      ]
+    },
+    "section4": {
+      "heading": "Geçici Vasıf Eksikliği (TSS) Alt Sınıf 482 Vizesine nasıl başvururum?",
+      "content": "TSS vizesine başvurmadan önce, önerilen işvereninizin sizin için bir adaylık başvurusu yapması gerekecek. Bunu ancak onaylı bir sponsor olduklarında veya standart iş sponsorluğu için başvuruda bulunduklarında yapabilirler. İşvereniniz hala onaylı bir 457 sponsoruysa, mevcut sponsorluk altında sizin için bir TSS (Alt Sınıf 482) başvurusunda bulunabilirler. Sponsorlar, pozisyona bir Avustralyalı çalışanın atanamayacağını göstermek için zorunlu iş gücü piyasası testini de kanıtlamalıdır."
+    },
+    "section5": {
+      "heading": "Bu vize size ne yapma imkanı tanır?",
+      "content": "Bu vize, vize süresi boyunca Avustralya'ya seyahat etmenize ve geri dönmenize olanak tanır ve:",
+      "listItems": [
+        "Eğer birincil vize sahibi iseniz, Avustralya'da onaylı bir sponsor için aday gösterilen mesleğinizde çalışmanıza olanak tanır",
+        "Aile üyesi iseniz, Avustralya'da çalışma ve eğitim görme imkanı tanır"
+      ]
+    }
+  },
+  "trainingVisa": {
+    "title": "BU VİZE HAKKINDA",
+    "description": "Eğitim vizesi alt sınıf 407 geçici bir vizedir...",
+    "qualifyTitle": "EĞİTİM ALT SINIF 407 VİZESİNE NASIL UYGUN OLURUM?",
+    "qualifyDescription": "Eğitim vizesine uygun olabilmek için:",
+    "qualifyList": [
+      "onaylı bir sponsor tarafından sponsor olunması...",
+      "onaylı bir meslek pozisyonuna aday gösterilmesi...",
+      "...",
+      "gerçek bir geçici giren olmak"
+    ],
+    "subQualifyList": [
+      "Alt Sınıf 403 Geçici Çalışma Vizesi...",
+      "Alt Sınıf 771 Transit Vizesi...",
+      "Özel Amaç Vizesi"
+    ],
+    "allowTitle": "BU VİZE SİZE NE YAPMA İMKANI TANIR",
+    "allowDescription": "Bu geçici vize, sahibine şu imkanları tanır:",
+    "allowList": [
+      "Geçici olarak Avustralya'da yaşamak...",
+      "Avustralya'ya girip çıkmak...",
+      "Uygun aile üyelerini getirmek..."
+    ],
+    "conditionTitle": "KOŞUL",
+    "conditionDescription": "Vize 8102 koşuluna tabidir...",
+    "workConditionTitle": "ÇALIŞMA KOŞULU",
+    "workConditionDescription": "Sadece sponsorunuz için çalışabilirsiniz...",
+    "healthInsuranceTitle": "SAĞLIK SİGORTASI",
+    "healthInsuranceDescription": "Ayrıca sağlık sigortanızı da sürdürmelisiniz...",
+    "locationTitle": "KONUM",
+    "locationDescription": "Başvuru çevrimiçi olarak yapılmalıdır...",
+    "familyMembersTitle": "AİLE ÜYELERİ",
+    "familyMembersDescription": "Aile üyeleri (eşler ve çocuklar) eklenebilir..."
+  },
+  "trainingVisaHero": {
+    "title": "EĞİTİM VİZESİ",
+    "highlightText": "ALT SINIF 407"
+  },
+  "skilledWorkRegionalVisaHero": {
+    "title": "VASIFLI İŞ BÖLGESEL VİZESİ",
+    "highlightText": "ALT SINIF 491"
+  },
+  "visaDetails": {
+    "aboutTitle": "BU VİZE HAKKINDA",
+    "aboutDescription1": "Vasıflı İş Bölgesel Vizesi Alt Sınıf 491, 16 Kasım 2019'da Göç İşleri Bakanlığı (DHA) tarafından Alt Sınıf 489'un yerini alarak tanıtıldı. Bu vize, vasıflı işçilerin Avustralya'nın belirli bir bölgesinde 5 yıla kadar yaşamasına ve çalışmasına olanak tanır.",
+    "aboutDescription2": "Bu vize için Devlet/Territorye adaylığı size Göç İşleri Bakanlığı puan testi geçiş notunu 65 puana ulaşmanıza yardımcı olacak 15 ek puan sağlar.",
+    "aboutDescription3": "Bu vize için Devlet veya Territorye Hükümeti tarafından aday gösterilen bir kişinin bu vizenin geçerli olduğu süre boyunca o Devlet/Territorye'de yaşaması gerekmektedir. Bölgesel bir alanda üç yıl yaşamış ve çalışmış olan ve yıllık en az 53,900 dolar maaş kazananlar, 16 Kasım 2022'de başlayacak olan Alt Sınıf 191 Vizesi başvurusunda bulunabilirler. Kalıcı oturum vizesi verildiğinde, Avustralya'nın her yerinde yaşayabilirler. Alt Sınıf 191 Vizesi verilmeden önce Avustralya'nın herhangi bir yerinde yaşamaya başlayamazsınız.",
+    "aboutDescription4": "Bu SC 491 vizesine başvurmak istiyorsanız, öncelikle aday mesleğinizden olumlu bir beceri değerlendirmesi almalı ve ardından bir İfade ve İlgi (EOI) ve Devlet veya Territorye adaylık başvurusu yapmalısınız. Bu başarılı olursa, vize başvurusu yapmanız için davet edileceksiniz.",
+    "qualifyTitle": "ALT SINIF 190 VİZESİNE NASIL UYGUN OLURUM?",
+    "qualifyDescription": "Bu vizeye başvurmanız için davet edildiğinizde:",
+    "qualifyList": [
+      "45 yaşından küçük olmak",
+      "İlgili Meslek Listesi'nde (MLTSSL) yer alan bir mesleği aday göstermek",
+      "Bir EOI sunmak ve bir davet almak",
+      "Puan testi geçiş notunu 65 puana ulaşmak",
+      "Bir Devlet veya Territorye tarafından desteklenmek",
+      "Yeterli İngilizce dil yeterliliğine sahip olmak veya sahip olunan puana bağlı olarak daha yüksek bir düzeyde olmak",
+      "Sağlık ve karakter gereksinimlerini karşılamak"
+    ],
+    "visaAllowsTitle": "BU VİZE SİZE NE YAPMA İMKANI TANIR:",
+    "visaAllowsDescription": "Alt Sınıf 491 vizesi, sahibine koşullu olarak Avustralya'da geçici oturum sağlar.",
+    "visaAllowsList": [
+      "Sahip, vize veriliş tarihinden itibaren 5 yıl boyunca Avustralya'nın belirli bir bölgesinde yaşama, çalışma ve eğitim görme imkanı tanır",
+      "Sahip, vize geçerli olduğu sürece Avustralya'ya serbestçe seyahat etme imkanı tanır",
+      "Sahip, 16 Kasım 2022'de başlayacak olan Kalıcı İkamet Vasıflı Bölgesel Vize Alt Sınıf 191 aracılığıyla kalıcı oturum başvurusunda bulunma fırsatına sahip olabilir."
+    ],
+    "applyTitle": "AVUSTRALYA'DA VEYA YURT DIŞINDA HERHANGİ BİRİ BAŞVURABİLİR Mİ?",
+    "applyDescription": "Herkes, bu vizeye başvurmak için Avustralya'da veya yurt dışında olabilir. Eğer Avustralya'daysanız, bu vizeye başvurmadan önce geçerli bir vizeniz olması veya bir A, B veya C köprü vizesine sahip olmanız gerekmektedir. Başvurulduğunda, dosyanızın kararı gelene kadar size bir köprü vizesi verilecektir ve bu süre zarfında Avustralya'da kalmanıza olanak tanır.",
+    "durationTitle": "SÜRE VE KOŞULLAR",
+    "durationDescription": "Bu, sahibine ve bağımlılarına herhangi bir bölgesel veya düşük nüfuslu bölgede yaşama, çalışma veya eğitim görme imkanı tanıyan 5 yıllık geçici bir vizedir. Onaylanmış bölgesel alanlar, bir akraba veya bir Devlet veya Territorye Hükümeti tarafından desteklenip desteklenmediğine bağlı olarak değişir:",
+    "durationList": [
+      {
+        "label": "Devlet veya Territorye Hükümeti:",
+        "content": "Sadece Bölgesel veya Düşük Nüfus Büyüme Alanında yaşayabilirler"
+      },
+      {
+        "label": "Akraba:",
+        "content": "Tasarlandığı Bölge'de yaşayabilirler"
+      }
+    ],
+    "applyHowTitle": "ALT SINIF 190 VİZESİNE NASIL BAŞVURURUM?",
+    "applyHowDescription": "Bu vizeye başvurmak isteyen herkes, Göçmenlik Bakanlığı tarafından bir başvuru yapma daveti almalıdır. Bu daveti alabilmek için, gereksinimleri nasıl karşıladığınızı belirten bir 'İlgi Beyanı' (EOI) sunmanız gerekmektedir.",
+    "initialEligibilityTitle": "AŞAMA 1: İLK UYGUNLUK:",
+    "initialEligibilityDescription": "Bu vize için uygunluğunuzu değerlendirmek için ilk adım, niteliklerinizi, iş deneyiminizi, İngilizce dil becerilerinizi ve diğer durumlarınızı inceleyerek ilgili gereksinimleri karşılama olasılığınızı belirlemektir.",
+    "skillsAssessmentTitle": "AŞAMA 2: BECERİLERİN DEĞERLENDİRİLMESİ",
+    "skillsAssessmentDescription": "İlk değerlendirmemiz, olumlu bir beceri değerlendirmesi ve EOI'ye uygun olduğunuzu gösterirse, beceri değerlendirme başvurunuzu hazırlayacağız.",
+    "expressionOfInterestTitle": "AŞAMA 3: İLGİ BEYANI (EOI)",
+    "expressionOfInterestDescription": "Beceri değerlendirme otoritesinden olumlu bir beceri değerlendirmesi aldıktan sonra, EOI'nizi hazırlayıp sunacağız. Bu aşamada destekleyici belgeler sağlamanıza gerek yoktur, ancak davet edildiğinizde EOI'de verilen bilgilerin doğru olduğunu kanıtlayabilmelisiniz.",
+    "visaApplicationTitle": "AŞAMA 4: VİZE BAŞVURUSU",
+    "visaApplicationDescription": "Göçmenlik Bakanlığı sizi bu vizeye başvurmanız için davet ettiğinde, vize başvurunuzu belirlenen süre içinde hazırlayıp sunacağız ve EOI'de verdiğiniz bilgileri destekleyen tüm belgeleri ekleyeceğiz.",
+    "otherRequirementsTitle": "DİĞER GEREKSİNİMLER",
+    "healthTitle": "SAĞLIK",
+    "healthDescription": "Ana başvuru sahibi ve tüm aile üyeleri sağlık gereksinimlerini karşılamalıdır.",
+    "characterTitle": "KARAKTER",
+    "characterDescription": "İyi karakterde olmalısınız. 16 yaşına girdikten sonra son 10 yıl içinde 12 ay veya daha fazla süreyle yaşadığınız her ülke için polis sertifikaları sağlamanız istenebilir.",
+    "locationTitle": "KONUM",
+    "locationDescription": "Vize başvurusu yaparken ve karar verildiğinde Avustralya'da veya yurt dışında olabilirsiniz.",
+    "debtsTitle": "BORÇLAR",
+    "debtsDescription": "Avustralya hükümetine olan tüm borçlarınızı ödemiş olmalısınız veya ödemeyi düzenlemiş olmalısınız.",
+    "visaCancelledTitle": "VİZE İPTALİ VEYA REDDİ",
+    "visaCancelledDescription": "Avustralya'da iken vizeniz iptal edildi veya reddedildiyse bu vizeye başvurmak için uygun olmayabilirsiniz.",
+    "processingTimeTitle": "İŞLEM SÜRESİ",
+    "processingTimeDescription": "6-12 Ay.",
+    "processingNote": "LÜTFEN NOT: Göçmenlik Bakanlığı'nın bir başvuruyu onaylaması ve bir vize vermesi için geçen gerçek süre, başvuru sahibinin özel durumlarına ve Bakanlığın ihtiyaç duyduğu destekleyici bilgi miktarına bağlı olarak değişir."
+  },
+  "skilledMigrationHeroSection": {
+    "skilledNominatedVisaTitle": "VASIFLI ADAY VİZESİ",
+    "subclass190": "ALT SINIF 190"
+  },
+  "aboutVisa": {
+    "aboutTitle": "BU VİZE HAKKINDA",
+    "aboutDescription1": "Vasıflı Aday Vizesi Alt Sınıf 190, Avustralya Devlet veya Territorye Hükümeti tarafından aday gösterilerek, vasıflı işçilerin Avustralya'da kalıcı olarak yaşamasına olanak tanıyan kalıcı bir vizedir.",
+    "aboutDescription2": "Başvuru sahipleri, Birleşik Sponsorlu Meslek Listesi (CSOL) temelinde Avustralya'nın mevcut beceri eksikliklerini doldurmak için nitelikli ve deneyimli olmalıdır.",
+    "aboutDescription3": "Bu vize için uygun olabilmek için, başvuru sahiplerinin bir Avustralya Devlet veya Territorye Hükümeti tarafından aday gösterilmeleri gerekmektedir.",
+    "aboutDescription4": "Bu vize için Devlet/Territorye adaylığı size Göç İşleri Bakanlığı puan testi geçiş notunu 65 puana ulaşmanıza yardımcı olacak 5 ek puan sağlar.",
+    "aboutDescription5": "Bu vize için Devlet veya Territorye Hükümeti tarafından aday gösterilen bir kişinin vize verildikten sonra iki yıl boyunca o Devlet/Territorye'de yaşaması gerekmektedir.",
+    "aboutDescription6": "Bu vizeye başvurmak istiyorsanız, öncelikle aday mesleğinizden olumlu bir beceri değerlendirmesi almalı ve ardından bir İfade ve İlgi (EOI) ve Devlet veya Territorye adaylık başvurusu yapmalısınız. Bu başarılı olursa, vize başvurusu yapmanız için davet edileceksiniz.",
+    "qualifyTitle": "ALT SINIF 190 VİZESİNE NASIL UYGUN OLURUM?",
+    "qualifyDescription": "Bu vizeye başvurmanız için davet edildiğinizde:",
+    "qualifyList": [
+      "45 yaşından küçük olmak",
+      "İlgili Meslek Listesi'nde (MLTSSL) yer alan bir mesleği aday göstermek",
+      "Bir EOI sunmak ve bir davet almak",
+      "Puan testi geçiş notunu 65 puana ulaşmak",
+      "Yeterli İngilizce dil yeterliliğine sahip olmak veya sahip olunan puana bağlı olarak daha yüksek bir düzeyde olmak",
+      "Bu seçenek bir akraba veya Devlet/Territorye Hükümeti tarafından desteklenmeyi gerektirir"
+    ],
+    "visaAllowsTitle": "BU VİZE SİZE NE YAPMA İMKANI TANIR:",
+    "visaAllowsDescription": "Verildiğinde, Vasıflı Aday Vizesi, başvuru sahibi ve refakat eden aile üyelerine kalıcı oturum sağlar:",
+    "visaAllowsList": [
+      "Avustralya'nın herhangi bir yerinde, sınırsız olarak yaşama ve çalışma imkanı",
+      "Avustralya'da eğitim görme, sübvanse edilmiş eğitime erişim imkanı",
+      "Medicare'e erişim",
+      "Avustralya vatandaşlığına başvurma imkanı (uygun gereksinimleri karşıladıktan sonra)",
+      "Belirli vizeler için aile üyelerine sponsor olma imkanı",
+      "Sosyal güvenlik ödemelerine başvurma imkanı",
+      "Vize geçerli olduğu sürece Avustralya'ya giriş çıkış yapma imkanı"
+    ],
+    "visaAllowsNote": "Not: Vize, sahibinin belirli bir meslekte vasıflı olmasına dayanarak verilmiş olsa da, verildikten sonra sahip, bu meslekte iş aramak veya sürdürmek zorunda değildir.",
+    "applyTitle": "AVUSTRALYA'DA VEYA YURT DIŞINDA HERHANGİ BİRİ BAŞVURABİLİR Mİ?",
+    "applyDescription1": "Herkes, bu vizeye başvurmak için Avustralya'da veya yurt dışında olabilir. Eğer Avustralya'daysanız, bu vizeye başvurmadan önce geçerli bir vizeniz olması veya bir A, B veya C köprü vizesine sahip olmanız gerekmektedir. Başvurulduğunda, dosyanızın kararı gelene kadar size bir köprü vizesi verilecektir ve bu süre zarfında Avustralya'da kalmanıza olanak tanır.",
+    "applyDescription2": "Bir başvuru sahibi, bu vize başvurusunu yaparken aile üyelerini ekleyebilir.",
+    "applyDescription3": "Eklenebilecekler:",
+    "applyList": [
+      "Eşler, de facto partnerler ve aynı cinsiyetten partnerler",
+      "Bağımlı çocuklar",
+      "Diğer bağımlı aile üyeleri – örneğin, sizinle yaşayan ve mali olarak size bağımlı olan ebeveynler"
+    ],
+    "applyProcessTitle": "ALT SINIF 190 VİZESİNE NASIL BAŞVURURUM?",
+    "stage1Title": "AŞAMA 1: İLK UYGUNLUK:",
+    "stage1Description1": "Bu vize için uygunluğunuzu değerlendirmek için ilk adım, niteliklerinizi, iş deneyiminizi, İngilizce dil becerilerinizi ve diğer durumlarınızı inceleyerek ilgili gereksinimleri karşılama olasılığınızı belirlemektir.",
+    "stage1Description2": "Bu ilk uygunluk değerlendirmesinin bir parçası olarak, aday gösterebileceğiniz MLTSSL meslek(ler)ini ve bu meslek için ilgili değerlendirme otoritesinden olumlu bir beceri değerlendirmesi alıp alamayacağınızı değerlendireceğiz.",
+    "stage1Description3": "Ardından, Göç İşleri Bakanlığı'nın göçmenlerin bu vize için başvuru daveti alabilmek için yerine getirmeleri gereken minimum standartları karşılama yeteneğiniz hakkında bilgilendirici ve kapsamlı tavsiyeler sunacağız.",
+    "stage1Note": "Not: Uygunluğunuzun ilk değerlendirmesi, olumlu bir beceri değerlendirmesi alacağınızı veya bu vize için bir davetiye alacağınızı garanti etmez (veya etmez). Özellikle, Göç İşleri Bakanlığı'nın size bir davetiye verip vermeyeceği, puan testi skorunuzun diğer potansiyel başvuru sahiplerinin skorlarına göre nasıl olduğuna ve aday gösterdiğiniz mesleğin Avustralya'da gerekli olup olmadığına bağlı olacaktır.",
+    "stage2Title": "AŞAMA 2: BECERİLERİN DEĞERLENDİRİLMESİ",
+    "stage2Description1": "İlk değerlendirmemiz, olumlu bir beceri değerlendirmesi ve EOI'ye uygun olduğunuzu gösterirse, beceri değerlendirme başvurunuzu hazırlayacağız.",
+    "stage2Description2": "MLTSSL üzerinde listelenen her vasıflı meslek için, Göç İşleri Bakanlığı, o meslek için beceri değerlendirmeleri yapabilecek bir değerlendirme otoritesini belirlemiştir. Sadece ilgili değerlendirme otoritesi tarafından yapılan bir beceri değerlendirmesi, EOI'yi desteklemek için Göç İşleri Bakanlığı tarafından kabul edilecektir. Başvurunuzu desteklemek için gerekli olan bilgi ve belgelerin tam bir listesini size sağlayacağız. Gerekli ayrıntıları ve belgeleri, ayrıca gerekli değerlendirme ücretini sağladığınızda, başvurunuzu ilgili beceri değerlendirme otoritesine sunacağız.",
+    "stage2Description3": "Beceri değerlendirme otoritesinden olumlu bir beceri değerlendirmesi aldıktan sonra, EOI'nizi hazırlayıp sunacağız. Bu aşamada destekleyici belgeler sağlamanıza gerek yoktur, ancak davet edildiğinizde EOI'de verilen bilgilerin doğru olduğunu kanıtlayabilmelisiniz.",
+    "stage3Title": "AŞAMA 3: İLGİ BEYANI (EOI)",
+    "stage3Description1": "Beceri değerlendirme otoritesinden olumlu bir beceri değerlendirmesi aldıktan sonra, EOI'nizi hazırlayıp sunacağız. Bu aşamada destekleyici belgeler sağlamanıza gerek yoktur, ancak davet edildiğinizde EOI'de verilen bilgilerin doğru olduğunu kanıtlayabilmelisiniz.",
+    "stage3Description2": "Ardından, Göç İşleri Bakanlığı'ndan bir sonuç ve puan skoru alacaksınız, bu skor, bu vize için EOI sunmuş diğer başvuru sahiplerine karşı nasıl sıralandığınızı belirlemek için kullanılır. Sıralama, kısmen, EOI'nizin değerlendirildiği sırada mesleğinizin Avustralya'nın ihtiyacı olan bir beceri olup olmadığına dayanır. EOI'niz başarılı olursa, vize başvurusu yapmanız için davet edileceksiniz.",
+    "stage3Description3": "Not: Göç İşleri Bakanlığı, bir EOI'yi sunulduğu tarihten itibaren 2 yıl süreyle saklar. Bu süre zarfında, EOI'niz, herhangi bir durumda değişiklik olursa (örneğin, yeni bir nitelik veya beceri değerlendirmesi alırsanız) güncellenebilir. Puanınız, bu 2 yıllık dönem boyunca değişirse, Göç İşleri Bakanlığı tarafından o dönemde size bir başvuru daveti verilebilir.",
+    "stage4Title": "AŞAMA 4: VİZE BAŞVURUSU",
+    "stage4Description1": "Göç İşleri Bakanlığı sizi bu vizeye başvurmanız için davet ettiğinde, vize başvurunuzu belirlenen süre içinde hazırlayıp sunacağız ve EOI'de verdiğiniz bilgileri destekleyen tüm belgeleri ekleyeceğiz. Bu, beceri değerlendirme sonucunuz, İngilizce dil testi sonuçlarınız, nitelikleriniz, iş referanslarınız ve diğer tüm gerekli belgeleri içerir. Vize başvurunuz onaylanırsa, size kalıcı bir vize verilecektir. Vizeniz verildiğinde Avustralya'da veya yurt dışında olabilirsiniz.",
+    "otherRequirementsTitle": "DİĞER GEREKSİMLER",
+    "healthTitle": "SAĞLIK",
+    "healthDescription": "Ana başvuru sahibi ve tüm aile üyeleri sağlık gereksinimlerini karşılamalıdır.",
+    "characterTitle": "KARAKTER",
+    "characterDescription1": "İyi karakterde olmalısınız. 16 yaşına girdikten sonra son 10 yıl içinde 12 ay veya daha fazla süreyle yaşadığınız her ülke için polis sertifikaları sağlamanız istenebilir.",
+    "characterDescription2": "Göçmenlik amacıyla Polis Sertifikası 12 ay geçerlidir. Eğer önemli bir suç kaydınız varsa, karakter testini geçemezsiniz. Örneğin, 12 ay veya daha fazla hapis cezasına çarptırıldınız.",
+    "locationTitle": "KONUM",
+    "locationDescription": "Vize başvurusu yaparken ve karar verildiğinde Avustralya'da veya yurt dışında olabilirsiniz.",
+    "debtsTitle": "BORÇLAR",
+    "debtsDescription": "Avustralya hükümetine olan tüm borçlarınızı ödemiş olmalısınız veya ödemeyi düzenlemiş olmalısınız.",
+    "visaCancelledTitle": "VİZE İPTALİ VEYA REDDİ",
+    "visaCancelledDescription": "Avustralya'da iken vizeniz iptal edildi veya reddedildiyse bu vizeye başvurmak için uygun olmayabilirsiniz.",
+    "processingTimeTitle": "İŞLEM SÜRESİ",
+    "processingTime": "6 AY",
+    "processingTimeNote": "LÜTFEN NOT: Göçmenlik Bakanlığı'nın bir başvuruyu onaylaması ve bir vize vermesi için geçen gerçek süre, başvuru sahibinin özel durumlarına ve Bakanlığın ihtiyaç duyduğu destekleyici bilgi miktarına bağlı olarak değişir."
+  },
+  "tempTrainingVisa": {
+    "title": "GEÇİCİ MEZUN VİZESİ",
+    "highlightText": "ALT SINIF 407"
+  },
+  "visaInfo": {
+    "aboutTitle": "BU VİZE HAKKINDA",
+    "aboutDescription": "Geçici Mezun Alt Sınıf 485 Vizesi, Avustralya'daki bir eğitim kurumundan yakın zamanda mezun olmuş uluslararası öğrenciler için geçici bir vizedir.",
+    "qualifyTitle": "ALT SINIF 190 VİZESİNE NASIL UYGUN OLURUM?",
+    "qualifyDescription": "Bu vizeye başvurmanız için davet edildiğinizde:",
+    "qualifyList": [
+      "45 yaşından küçük olmak",
+      "İlgili Meslek Listesi'nde (MLTSSL) yer alan bir mesleği aday göstermek",
+      "Bir EOI sunmak ve bir davet almak",
+      "Puan testi geçiş notunu 65 puana ulaşmak",
+      "Bir Devlet veya Territorye tarafından desteklenmek",
+      "Yeterli İngilizce dil yeterliliğine sahip olmak veya sahip olunan puana bağlı olarak daha yüksek bir düzeyde olmak",
+      "Sağlık ve karakter gereksinimlerini karşılamak"
+    ],
+    "whatThisVisaAllowsTitle": "BU VİZE SİZE NE YAPMA İMKANI TANIR:",
+    "whatThisVisaAllowsDescription": "Alt Sınıf 491 vizesi, sahibine koşullu olarak Avustralya'da geçici oturum sağlar.",
+    "whatThisVisaAllowsList": [
+      "Sahip, vize veriliş tarihinden itibaren 5 yıl boyunca Avustralya'nın belirli bir bölgesinde yaşama, çalışma ve eğitim görme imkanı tanır",
+      "Sahip, vize geçerli olduğu sürece Avustralya'ya serbestçe seyahat etme imkanı tanır",
+      "Sahip, 16 Kasım 2022'de başlayacak olan Kalıcı İkamet Vasıflı Bölgesel Vize Alt Sınıf 191 aracılığıyla kalıcı oturum başvurusunda bulunma fırsatına sahip olabilir."
+    ],
+    "applyTitle": "AVUSTRALYA'DA VEYA YURT DIŞINDA HERHANGİ BİRİ BAŞVURABİLİR Mİ?",
+    "applyDescription": "Herkes, bu vizeye başvurmak için Avustralya'da veya yurt dışında olabilir. Eğer Avustralya'daysanız, bu vizeye başvurmadan önce geçerli bir vizeniz olması veya bir A, B veya C köprü vizesine sahip olmanız gerekmektedir. Başvurulduğunda, dosyanızın kararı gelene kadar size bir köprü vizesi verilecektir ve bu süre zarfında Avustralya'da kalmanıza olanak tanır.",
+    "durationConditionsTitle": "SÜRE VE KOŞULLAR",
+    "durationConditionsDescription": "Bu, sahibine ve bağımlılarına herhangi bir bölgesel veya düşük nüfuslu bölgede yaşama, çalışma veya eğitim görme imkanı tanıyan 5 yıllık geçici bir vizedir. Onaylanmış bölgesel alanlar, bir akraba veya bir Devlet veya Territorye Hükümeti tarafından desteklenip desteklenmediğine bağlı olarak değişir:",
+    "durationConditionsList": [
+      "<strong>Devlet veya Territorye Hükümeti:</strong> Sadece Bölgesel veya Düşük Nüfus Büyüme Alanında yaşayabilirler",
+      "<strong>Akraba:</strong> Tasarlandığı Bölge'de yaşayabilirler"
+    ],
+    "stage1Title": "ALT SINIF 190 VİZESİNE NASIL BAŞVURURUM?",
+    "stage1Description": "Bu vize için uygunluğunuzu değerlendirmek için ilk adım, niteliklerinizi, iş deneyiminizi, İngilizce dil becerilerinizi ve diğer durumlarınızı inceleyerek ilgili gereksinimleri karşılama olasılığınızı belirlemektir.",
+    "stage2Title": "AŞAMA 2: BECERİLERİN DEĞERLENDİRİLMESİ",
+    "stage2Description": "İlk değerlendirmemiz, olumlu bir beceri değerlendirmesi ve EOI'ye uygun olduğunuzu gösterirse, beceri değerlendirme başvurunuzu hazırlayacağız.",
+    "stage3Title": "AŞAMA 3: İLGİ BEYANI (EOI)",
+    "stage3Description": "Beceri değerlendirme otoritesinden olumlu bir beceri değerlendirmesi aldıktan sonra, EOI'nizi hazırlayıp sunacağız.",
+    "stage4Title": "AŞAMA 4: VİZE BAŞVURUSU",
+    "stage4Description": "Göç İşleri Bakanlığı sizi bu vizeye başvurmanız için davet ettiğinde, vize başvurunuzu belirlenen süre içinde hazırlayıp sunacağız ve EOI'de verdiğiniz bilgileri destekleyen tüm belgeleri ekleyeceğiz. Vize başvurunuz onaylanırsa, size kalıcı bir vize verilecektir. Vizeniz verildiğinde Avustralya'da veya yurt dışında olabilirsiniz.",
+    "otherRequirementsTitle": "DİĞER GEREKSİMLER",
+    "healthTitle": "SAĞLIK",
+    "healthDescription": "Ana başvuru sahibi ve tüm aile üyeleri sağlık gereksinimlerini karşılamalıdır.",
+    "characterTitle": "KARAKTER",
+    "characterDescription": "İyi karakterde olmalısınız. 16 yaşına girdikten sonra son 10 yıl içinde 12 ay veya daha fazla süreyle yaşadığınız her ülke için polis sertifikaları sağlamanız istenebilir. Göçmenlik amacıyla Polis Sertifikası 12 ay geçerlidir. Eğer önemli bir suç kaydınız varsa, karakter testini geçemezsiniz. Örneğin, 12 ay veya daha fazla hapis cezasına çarptırıldınız.",
+    "locationTitle": "KONUM",
+    "locationDescription": "Vize başvurusu yaparken ve karar verildiğinde Avustralya'da veya yurt dışında olabilirsiniz.",
+    "debtsTitle": "BORÇLAR",
+    "debtsDescription": "Avustralya hükümetine olan tüm borçlarınızı ödemiş olmalısınız veya ödemeyi düzenlemiş olmalısınız.",
+    "visaCancelledRefusedTitle": "VİZE İPTALİ VEYA REDDİ",
+    "visaCancelledRefusedDescription": "Avustralya'da iken vizeniz iptal edildi veya reddedildiyse bu vizeye başvurmak için uygun olmayabilirsiniz.",
+    "processingTimeTitle": "İŞLEM SÜRESİ",
+    "processingTimeDescription": "6-12 Ay. LÜTFEN NOT: Göçmenlik Bakanlığı'nın bir başvuruyu onaylaması ve bir vize vermesi için geçen gerçek süre, başvuru sahibinin özel durumlarına ve Bakanlığın ihtiyaç duyduğu destekleyici bilgi miktarına bağlı olarak değişir."
+  },
+  "home": {
+    "heroSection": {
+      "title": "Sponsorlu İşler",
+      "highlightText": ""
+    }
+  },
+  "fiveSteps": {
+    "title": "Avustralya Hayalini Yaşamanın Beş Kolay Adımı",
+    "highlightText": "Avustralya",
+    "description": "Beceri Eksikliği İşe Alım Süreci'nin uluslararası adaylara Avustralya Hayalini yaşama konusunda nasıl yardımcı olduğunu keşfedin."
+  },
+  "home1": {
+    "migrationHeroSection": {
+      "title": "VASIFLI BAĞIMSIZ VİZE",
+      "highlightText": "ALT SINIF 189"
+    }
+  },
+  "home2": {
+    "title": "Sponsorlu İşler",
+    "highlightText": ""
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Diğer Faydalı Bağlantılar",
+    "migration": "Göç",
+    "tssVisa": "Geçici Vasıf Eksikliği (TSS) Vizesi - Alt Sınıf 482",
+    "trainingVisa": "Eğitim Vizesi - Alt Sınıf 407",
+    "independentVisa": "Vasıflı Bağımsız Vize - Alt Sınıf 189",
+    "nominatedVisa": "Vasıflı Aday Vizesi - Alt Sınıf 190",
+    "regionalVisa": "Vasıflı İş Bölgesel Vizesi - Alt Sınıf 491",
+    "sponsoredJobs": "Sponsorlu İşler"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Randevu Takvimi",
+    "personalInformation": "Kişisel Bilgiler",
+    "appointmentScheduleTitle": "Randevu Takvimi",
+    "phoneConsultation": "Telefon veya Çevrimiçi Danışma",
+    "faceConsultation": "Yüz Yüze Danışma",
+    "professionalDevelopment": "Profesyonel Gelişim - RPL",
+    "migrationTeam": "Göç Ekibi",
+    "admissionTeam": "Kabul Ekibi",
+    "chooseDateTime": "Tarih ve Saat Seçin",
+    "chooseDate": "Tarih Seçin",
+    "chooseTime": "Saat Seçin",
+    "next": "İleri",
+    "personalInformationTitle": "Kişisel Bilgiler",
+    "firstName": "Ad",
+    "lastName": "Soyad",
+    "email": "E-posta",
+    "phoneNumber": "Telefon Numarası",
+    "submit": "Gönder",
+    "loading": "Yükleniyor...",
+    "submitting": "Gönderiliyor...",
+    "successMessage": "Randevu başarıyla planlandı!",
+    "errorMessage": "Randevu planlanırken hata oluştu"
+  },
+  "contactForm": {
+    "contactTitle": "<span class='text-red-500'>Bizimle</span> İletişime Geçmekten Çekinmeyin",
+    "yourName": "Adınız",
+    "yourEmail": "E-posta Adresiniz",
+    "yourPhone": "Telefon Numaranız",
+    "typeMessage": "Mesaj yazın",
+    "sendMessage": "Mesaj Gönder",
+    "sending": "Gönderiliyor...",
+    "successMessage": "E-posta başarıyla gönderildi!",
+    "errorMessage": "E-posta gönderilirken hata oluştu"
+  },
+  "heroSectionCon": {
+    "contactUsTitle": "Bizimle İletişime",
+    "contactUsHighlightText": "Geçmekten Çekinmeyin"
+  },
+  "heroSectionBook": {
+    "contactUsTitle": "Randevu Alın",
+    "contactUsHighlightText": ""
+  }
+}

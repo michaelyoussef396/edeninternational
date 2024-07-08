@@ -1,12 +1,32 @@
 "use client"
-import { statistics } from '@/data';
 import React from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import CountUp from 'react-countup';
 import { scrollReveal } from '@/utils/Animations';
+import { useTranslations } from 'next-intl';
 
 const Statistics: React.FC = () => {
+  const t = useTranslations('statistics');
+  
+  const statistics = [
+    {
+      icon: '🌍', // Replace with actual icon if available
+      value: '20+',
+      description: t('worldwideOfficeHandle'),
+    },
+    {
+      icon: '📄', // Replace with actual icon if available
+      value: '15.8k',
+      description: t('successfulVisaProcess'),
+    },
+    {
+      icon: '👥', // Replace with actual icon if available
+      value: '99%',
+      description: t('satisfiedClientsMaintains'),
+    },
+  ];
+
   const { ref, inView } = useInView({ triggerOnce: true });
   const controls = useAnimation();
 

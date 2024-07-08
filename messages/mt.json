@@ -1,0 +1,1003 @@
+{
+    "hero": {
+      "slide1": {
+        "subtitle": "Viża ta' Student",
+        "description": "Viżas ta' student huma viżas mhux immigranti u ma jeħtiġux li l-applikant jikseb iċ-ċittadinanza.",
+        "image": "/hero1.png",
+        "buttonText": "Aktar Informazzjoni",
+        "buttonLink": "/student-visa"
+      },
+      "slide2": {
+        "subtitle": "Migrazzjoni",
+        "description": "Tkun sorpriż li tkun taf li l-esperjenza tiegħek u l-kwalifika tiegħek jistgħu joħolqu toroq għall-migrazzjoni tas-sengħa fl-Awstralja.",
+        "image": "/hero2.png",
+        "buttonText": "Aktar Informazzjoni",
+        "buttonLink": "/migration"
+      }
+    },
+    "aboutUs": {
+      "whoWeAre": "Min aħna?",
+      "title": "Ftit Kliem Dwarna",
+      "description": "EDEN INTERNATIONAL twaqqfet fl-2010, bil-ħsieb ta' dawk il-klijenti li qed jitħabtu jsibuha diffiċli biex jiddeterminaw il-karriera tagħhom barra minn xtutna għall-edukazzjoni għolja onshore jew offshore, migrazzjoni...",
+      "listItems": "Migrazzjoni|Ammissjoni tal-Istudenti|Impjiegi Sponsorjati|Rikonoxximent tal-Ħiliet",
+      "buttonText": "Aktar Dwar"
+    },
+    "visaCategories": {
+      "sectionTitle": "KATEGORIJIJIET TA' VIŻA",
+      "sectionSubtitle": "Immigrazzjoni u Kategoriji ta' Viża",
+      "studentVisa": {
+        "title": "Viżas ta' Student",
+        "description": "Viżas ta' student huma viżas mhux immigranti u ma jeħtiġux li l-applikant jikseb iċ-ċittadinanza.",
+        "buttonText": "Aqra Aktar",
+        "buttonLink": "/student-visa"
+      },
+      "migration": {
+        "title": "Migrazzjoni",
+        "description": "Tkun sorpriż li tkun taf li l-esperjenza tiegħek u l-kwalifika tiegħek jistgħu joħolqu toroq għall-migrazzjoni tas-sengħa fl-Awstralja.",
+        "buttonText": "Aqra Aktar",
+        "buttonLink": "/migration"
+      }
+    },
+    "countryList": {
+      "supportArea": "ŻONA TA' APPOĠĠ",
+      "title": "Lista ta' Pajjiżi għall-Immigrazzjoni",
+      "subtitle": "Lista ta' Pajjiżi:",
+      "countries": "Dubai|Kanada|USA|Awstralja|Italja|Kroazja|Turkija|Malta|Ġermanja|Filippini|Korea"
+    },
+    "workingProcess": {
+      "subtitle": "PROĊESS TA' ĦIDMA",
+      "title": "3 Passi Faċli biex Tikseb Għajnuna Mgħaġġla",
+      "steps": [
+        {
+          "title": "Pass Wieħed",
+          "description": "Imla l-Formola Meħtieġa"
+        },
+        {
+          "title": "Pass Tnejn",
+          "description": "Ibgħat id-Dokumenti Tiegħek"
+        },
+        {
+          "title": "Pass Tlieta",
+          "description": "Ipprepara biex Tirċievi l-Viża Tiegħek"
+        }
+      ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "Uffiċċji Madwar id-Dinja",
+      "successfulVisaProcess": "Proċess ta' Viża Suċċess",
+      "satisfiedClientsMaintains": "Klijenti Sodisfatti"
+    },
+    "footer": {
+      "explore": "Esplora",
+      "affiliates": "Affiljati",
+      "contactUs": "Ikkuntattjana",
+      "usefulLinks": "Links Utli",
+      "studentVisa": "Viża ta' Student",
+      "migration": "Migrazzjoni",
+      "recentProjects": "Proġetti Riċenti"
+    },
+    "floatingNav": {
+      "home": "Dar",
+      "studentVisa": "Viża ta' Student",
+      "studyInAustralia": "Studi fl-Awstralja",
+      "studyInCanada": "Studi fil-Kanada",
+      "affiliatedInstitutions": "Istituzzjonijiet Affiljati",
+      "professionalYear": "Sena Professjonali",
+      "migration": "Migrazzjoni",
+      "temporarySkillShortageTssVisaSubclass482": "Viża Temporanja ta' Nuqqas ta' Ħiliet TSS Sottoklassi 482 (AUS)",
+      "trainingVisaSubclass407": "Viża ta' Taħriġ Sottoklassi 407",
+      "skilledWorkRegionalVisa": "Viża Reġjonali ta' Ħidma Sengħa",
+      "skilledNominatedVisa": "Viża Nominta Sengħa",
+      "skilledIndependentVisa": "Viża Indipendenti Sengħa",
+      "temporaryGraduateVisaSubclass485": "Viża ta' Gradwati Temporanja",
+      "sponsoredJobs": "Impjiegi Sponsorjati",
+      "pointCalculation": "Kalkolu tal-Punti",
+      "contactUs": "Ikkuntattjana",
+      "bookAnAppointment": "Ibbukkja Appuntament"
+    },
+    "heroSectionStudent": {
+      "title": "student",
+      "highlightText": "viża"
+    },
+    "shoreServices": {
+      "onShoreTitle": "IS-SERVIZZI TAGĦNA ONSHORE",
+      "offShoreTitle": "IS-SERVIZZI TAGĦNA OFFSHORE",
+      "forInternationalStudents": "GĦAL STUDENTI INTERNAZZJONALI",
+      "onShores": [
+        {
+          "title": "Bidla fil-Kors",
+          "description": "Eden International jgħinek tagħżel kors xieraq jew tibdel kors li diġà qed isir."
+        },
+        {
+          "title": "Bidla fl-Università jew fl-Istituzzjoni",
+          "description": "Ħafna studenti jridu jibdlu l-Universitajiet/Istituzzjonijiet tagħhom għal opportunitajiet aħjar imma ma jafux kif jagħmlu dan b'mod xieraq. Aħna ngħinuhom jagħmlu dan."
+        },
+        {
+          "title": "Pre-valutazzjoni għal migrazzjoni jew viża oħra",
+          "description": "L-istudenti jistgħu jkollhom il-valutazzjoni tagħhom waqt l-istudji. Jistgħu jiċċekkjaw l-eliġibilità u l-prerekwiżiti tagħhom għall-migrazzjoni tas-sengħa u viżas oħra permezz ta' Avukat tal-Migrazzjoni tal-Educube."
+        },
+        {
+          "title": "Estensjoni tal-Viża ta' Student",
+          "description": "Inti lest dawk is-suġġetti u l-viża tiegħek qed toqrob li tiskadi jew inti lest il-kors tiegħek u issa ddeċidejt li tapplika għal viża ta' student ġdida."
+        }
+      ],
+      "offShores": [
+        {
+          "title": "Valutazzjoni Inizjali",
+          "description": "Valutazzjoni ta' Transkripti Akkademiċi u Ċertifikati kollha, Ċertifikat tal-Kors tal-Lingwa Ingliża, Identità Nazzjonali, Passaport eċċ."
+        },
+        {
+          "title": "Valutazzjoni Finanzjarja",
+          "description": "Aħna ninfurmawk dwar il-miżati tal-kors, l-ispejjeż tal-ivvjaġġar, ir-rekwiżiti tal-isponsor, min jista' jkun sponsor u kemm flus huma meħtieġa biex tħallas."
+        },
+        {
+          "title": "Boroż ta' Studju",
+          "description": "Iffranka fuq il-miżati tal-kors tiegħek bl-għajnuna ta' Educube."
+        },
+        {
+          "title": "Għażla ta' Kors u Università",
+          "description": "B'tant universitajiet barra l-pajjiż kbar u korsijiet x'jagħżlu, id-deċiżjoni dwar fejn u xiex jistudjaw tista' tkun diffiċli."
+        }
+      ]
+    },
+    "visitorToStudentVisa": {
+      "title": "VIŻA TA' VIŻITATUR GĦAL STUDENT",
+      "highlight": "VIŻA TA' STUDENT",
+      "description": "Iva, qrajt sewwa. Il-Viża tat-Turist tiegħek għandha l-potenzjal li tinbidel f'viża ta' student. Waqqaf ir-restrizzjonijiet ta' 'No More Stay' u ikseb dik l-edukazzjoni li tixraqlok. Iftaħ il-karriera tiegħek għal opportunitajiet bla limitu."
+    },
+    "studentTestimonials": {
+      "title": "X'Jgħidu",
+      "highlight": "l-Istudenti Tagħna",
+      "testimonials": [
+        {
+          "quote": "Fl-aħħar irċevejt il-viża tiegħi, grazzi ħafna tal-għajnuna tiegħek f'dan il-qasam. Kelli esperjenza kbira ma' din l-organizzazzjoni. L-istaff ta' Eden International huwa tassew ta' għajnuna. Nirrakkomanda lill-ħbieb tiegħi biex japplikaw biss permezz ta' Eden International.",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "Se nirrakkomanda s-Servizzi ta' Eden International lil kwalunkwe sengħa oħra li tinsab f'sitwazzjoni tiegħi. Dan is-servizz salva lili bosta sigħat milli nerġa' nirreżisti kors tal-kulleġġ. Organizzazzjoni kbira!!",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "Kien pjaċir li naħdem ma' Educube. Il-mod kif jiggwidaw, speċjalment Md Arifuzzaman għenni ħafna biex nista' nkun lest għall-viva tal-Università u nurik direzzjoni xierqa biex niżviluppa l-ħiliet tiegħi fil-Lingwa Ingliża.",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "Kont biss ferħan meta rċevejt il-Viża. Nixtieq nagħti l-mertu kollu lil Eden International Pty Ltd. minħabba l-inizjattiva xierqa tagħhom. Huma wisq ħbiberija dwar l-ipproċessar tal-Viża ta' Student. Jekk xi ħadd irid imur barra minn xtutna allura ħossok liberu li tikkuntattja ma' EDUCUBE.",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "Sejjaħli Ismaele. Xi snin ilu - mhux f'moħħna kemm preċiżament - b'ftit jew xejn flus fil-borża tiegħi, u xejn partikolarment biex jintriga lili fuq ix-xatt, ħsibt li nivvjaġġa ftit u nara l-parti għerqa tad-dinja.",
+          "name": "Herman Melville",
+          "title": "Moby-Dick",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
+    },
+    "cards": [
+      {
+        "title": "Kontabilità",
+        "imageUrl": "/i.webp",
+        "description": "Iżviluppa ħiliet fir-rapportar finanzjarju, l-awditjar, u t-tassazzjoni. Tgħallem tanalizza rendikonti finanzjarji u timmaniġġja baġits."
+      },
+      {
+        "title": "Inġinerija & Teknoloġija",
+        "imageUrl": "/i-2.webp",
+        "description": "Esplora soluzzjonijiet innovattivi f'oqsma bħal inġinerija mekkanika, ċivili, u elettrika. Iksbu esperjenza prattika fl-iżvilupp tat-teknoloġija."
+      },
+      {
+        "title": "Arti",
+        "imageUrl": "/i-3.webp",
+        "description": "Indaħħlu fl-espressjoni kreattiva permezz ta' diversi mezzi. Studju storja tal-arti, tekniki, u prattiki kontemporanji."
+      },
+      {
+        "title": "Ġestjoni tan-Negozju",
+        "imageUrl": "/i-4.webp",
+        "description": "Iffhem l-operazzjonijiet tan-negozju, il-marketing, u l-istrateġija. Ipprepara għal rwoli ta' tmexxija f'issettji organizzazzjonali diversi."
+      },
+      {
+        "title": "Komunikazzjoni",
+        "imageUrl": "/i-5.webp",
+        "description": "Tgħallem strateġiji ta' komunikazzjoni effettiva, relazzjonijiet pubbliċi, u dinamika tal-midja. Issaħħaħ il-ħiliet interpersonali u ta' kitba tiegħek."
+      },
+      {
+        "title": "Midja",
+        "imageUrl": "/i-6.webp",
+        "description": "Studi l-impatt tal-midja diġitali, ġurnaliżmu, u ħolqien ta' kontenut. Iksbu ħiliet fir-rakkont tal-istejjer multimedjali u l-produzzjoni."
+      },
+      {
+        "title": "Mediċina",
+        "imageUrl": "/i-7.webp",
+        "description": "Ipprepara għal karriera fil-kura tas-saħħa b'enfasi fuq il-kura tal-pazjent, ir-riċerka medika, u l-prattiki kliniċi."
+      },
+      {
+        "title": "Infermerija",
+        "imageUrl": "/i-11.webp",
+        "description": "Taħriġ fil-kura tal-pazjent, proċeduri mediċi, u ġestjoni tal-kura tas-saħħa. Ingħaqad ma' professjoni ta' sodisfazzjon iddedikata biex tgħin lill-oħrajn."
+      },
+      {
+        "title": "Lingwa",
+        "imageUrl": "/i-9.webp",
+        "description": "Studja lingwistika, traduzzjoni, u komunikazzjoni interkulturali. Issaħħaħ il-profiċjenza tiegħek f'diversi lingwi."
+      },
+      {
+        "title": "Informatika & Teknoloġija",
+        "imageUrl": "/999.webp",
+        "description": "Tgħallem dwar l-iżvilupp tas-softwer, l-analiżi tad-data, u t-teknoloġiji emerġenti. Iżviluppa bażi soda fix-xjenza tal-kompjuter."
+      },
+      {
+        "title": "Edukazzjoni & Taħriġ",
+        "imageUrl": "/i-10.webp",
+        "description": "Iżviluppa ħiliet ta' tagħlim u teorija edukattiva. Ipprepara biex ispiraw u jedukaw il-ġenerazzjoni li jmiss ta' studenti."
+      },
+      {
+        "title": "Arkitettura",
+        "imageUrl": "/192.webp",
+        "description": "Esplora d-disinn arkitetturali, l-ippjanar urban, u l-bini sostenibbli. Iksbu l-ħiliet biex tfassal l-ambjent mibni."
+      }
+    ],
+    "studyInAustralia": {
+      "title": "Studi fl",
+      "highlightText": "Awstralja"
+    },
+    "whyStudyAustralia": {
+      "educationIsYourRight": "L-Edukazzjoni Hija Dritt Tiegħek, Mhux Għażla",
+      "whyStudyIn": "GĦALIEX TISTUDJA FL",
+      "australia": "AWSTRALJA",
+      "description": "Meta nqisu l-istudju fl-Awstralja, hemm ħafna fatturi li jiġbdu l-attenzjoni tal-istudenti faċilment. Destinazzjoni Li Qed Tikber. L-AWSTRALJA bħalissa hija t-tielet destinazzjoni l-aktar popolari għall-istudenti internazzjonali fid-dinja li titkellem bl-Ingliż, wara l-Istati Uniti u r-Renju Unit. Ħafna studenti internazzjonali jagħżlu li jistudjaw hemm minħabba d-diversità kulturali, in-nies ħbiberija, u l-kwalità għolja tal-edukazzjoni."
+    },
+    "quickSteps": {
+      "title": "PASSI Mgħaġġla TAL",
+      "highlight": "PROĊESS TA' AMMISSJONI",
+      "fileSubmission": {
+        "title": "Sottomissjoni tal-Fajl",
+        "description": [
+          "Passaport",
+          "Ritratti tad-Daqs tal-Passaport",
+          "Dokumenti Akkademiċi",
+          "Ċertifikat tat-Twelid",
+          "NID (Tradott għall-Ingliż)",
+          "Miżati tal-Applikazzjoni",
+          "SOP (Dikjarazzjoni tal-Għan)",
+          "Resume/CV",
+          "Ċertifikat IELTS/TOEFL"
+        ]
+      },
+      "offerLetter": {
+        "title": "Ittra ta' Offerta",
+        "description": "Irċievi Ittra ta' Offerta mill-Università għall-Ammissjoni wara valutazzjoni ta' G.T.E. b'suċċess."
+      },
+      "gteAssessment": {
+        "title": "Valutazzjoni ta' G.T.E.",
+        "description": "Investigazzjoni tad-dokumenti finanzjarji u oħrajn u intervista mal-università."
+      },
+      "coeConfirmation": {
+        "title": "Konferma ta' COE",
+        "description": "Irreġistrazzjoni b'suċċess fl-università u konferma tal-ħlas."
+      },
+      "visaLodgement": {
+        "title": "Sottomissjoni tal-Viża",
+        "description": "Ibgħat applikazzjoni għall-viża u d-dokumenti meħtieġa."
+      },
+      "successfulVisa": {
+        "title": "Viża ta' Suċċess",
+        "description": "Irċievi approvazzjoni tal-viża u pprepara għall-ivvjaġġar."
+      },
+      "buttonText": "Ikklikkja hawn biex tara l-proċess sħiħ tal-viża"
+    },
+    "studyProcess": {
+      "title": "PROĊESS TA' VIŻA",
+      "highlight": "",
+      "steps": [
+        {
+          "title": "PAJJIŻ SIGUR",
+          "description": "Fattur importanti ħafna għal ħafna studenti internazzjonali waqt li jagħżlu programm ta' studju barra minn xtutna, hija s-sigurtà u s-sigurtà tal-pajjiż u l-belt b'mod partikolari. Il-ġenituri huma mħassba dwar is-sigurtà tat-tfal tagħhom u fatturi bħal kriminalità kontra n-nisa, diskriminazzjoni razzjali, serq u serq għandhom rwol importanti waqt li jagħżlu destinazzjoni għall-istudju barra minn xtutna. F'dan ir-rigward, il-Kanada hija waħda mill-aktar postijiet siguri biex tistudja b'rati baxxi ħafna ta' kriminalità u każijiet ta' diskriminazzjoni razzjali. Statistiċi minn Numbeo juru li l-indiċi tas-sigurtà tal-Kanada (62.42) huwa ferm ogħla mill-indiċi tas-sigurtà ta' destinazzjonijiet oħra popolari għall-istudju barra l-pajjiż bħall-Istati Uniti (49.99), ir-Renju Unit (57.9) u l-Awstralja (57.94)."
+        },
+        {
+          "title": "AMBIJENT MULTIKULTURALI",
+          "description": "Il-Kanada hija mexxejja internazzjonali fil-kompjuter u t-teknoloġiji tal-informazzjoni u għandha reputazzjoni għall-eċċellenza f'setturi bħal telekomunikazzjonijiet, animazzjoni, trasport u inġinerija; u speċifikament, ajrużvja, trasport urban, mikroeletronika, apparat mediku, softwer avvanzat, enerġija idroelettrika u nukleari, lasers u opto-elettronika, bijoteknoloġija eċċ. Il-Kanada kienet fost l-ewwel fid-dinja li rrikonoxxiet il-ħtieġa li tgħaqqad skejjel u libreriji mal-Internet, u l-programm SchoolNet tagħha qed jiġi kkupjat madwar id-dinja. Tipi kollha ta' servizzi moderni huma pprovduti u l-maġġoranza tal-kampusijiet jiġru jkunu mqabbda mal-aktar teknoloġiji sofistikati li d-dinja għandha toffri."
+        },
+        {
+          "title": "OPPORTUNITAJIET TA' XOGĦOL",
+          "description": "Iva, bħala student internazzjonali xorta tħallas aktar mill-Kanadiżi għall-istess kors, iżda dak l-istess kors f'pajjiż ieħor, bħall-Istati Uniti, l-Awstralja jew ir-Renju Unit, x'aktarx jiswa anke aktar. Ukoll, ara l-punt 1 hawn fuq - mhux biss qed tħallas inqas fil-Kanada, int ukoll qed taqla'."
+        },
+        {
+          "title": "EDUKAZZJONI AFFORDABLI & ĦAJJA",
+          "description": "Il-Kanada toffri mhux biss edukazzjoni ta' kwalità, iżda edukazzjoni li hija affordabbli għal studenti internazzjonali inklużi l-Indjani. Meta mqabbla ma' pajjiżi bħal ir-Renju Unit, l-Istati Uniti u l-Awstralja, l-ispiża tal-edukazzjoni fil-Kanada hija pjuttost moderata."
+        },
+        {
+          "title": "REQUISITI TA' AMMISSJONI",
+          "description": "Wara li jkollhom COE, EDUCUDE – f'isem l-istudent se jissottometti d-dokumenti finanzjarji akkademiċi kollha lill-ambaxxata u jipprepara lill-istudenti għall-bijo-metrika u kontroll mediku. Jieħu 20-30 jum ta' ħidma biex tikseb viża."
+        }
+      ]
+    },
+    "studyInCanada": {
+      "title": "STUDJI FIL",
+      "highlightText": "KANADA"
+    },
+    "whyStudyInCanada": {
+      "title": "GĦALIEX TISTUDJA FIL",
+      "highlightText": "KANADA?",
+      "description": {
+        "part1": "30 ta' April, 2018 – B'21 mill-aqwa",
+        "part2": "500 universitajiet",
+        "part3": "tad-dinja u 32 fl-aqwa",
+        "part4": "1000",
+        "part5": ", il-Kanada tilqa' aktar minn",
+        "part6": "400,000 studenti internazzjonali",
+        "part7": "kull sena. Toffri l-aqwa programmi ta' studju tad-dinja u hija d-dar ta' xi wħud mill-aqwa faċilitajiet ta' riċerka u istituzzjonijiet akkademiċi tad-dinja. Jekk l-istudju barra l-pajjiż huwa l-pjan tiegħek, il-Kanada għandha tkun fl-ewwel post tal-lista tiegħek."
+      }
+    },
+    "accordionCanada": {
+      "title": "RAĠUNijiet EWLENIN BIEX TAGĦŻEL",
+      "highlightText": "KANADA",
+      "buttonText": "IKSEB VALUTAZZJONI INIZZJALI B'XEJN TA' L-ELIGIBILITÀ TIEGĦEK",
+      "items": [
+        {
+          "title": "PAJJIŻ SIGUR",
+          "content": "Fattur importanti ħafna għal ħafna studenti internazzjonali waqt li jagħżlu programm ta' studju barra minn xtutna, hija s-sigurtà u s-sigurtà tal-pajjiż u l-belt b'mod partikolari. Il-ġenituri huma mħassba dwar is-sigurtà tat-tfal tagħhom u fatturi bħal kriminalità kontra n-nisa, diskriminazzjoni razzjali, serq u serq għandhom rwol importanti waqt li jagħżlu destinazzjoni għall-istudju barra minn xtutna. F'dan ir-rigward, il-Kanada hija waħda mill-aktar postijiet siguri biex tistudja b'rati baxxi ħafna ta' kriminalità u każijiet ta' diskriminazzjoni razzjali. Statistiċi minn Numbeo juru li l-indiċi tas-sigurtà tal-Kanada (62.42) huwa ferm ogħla mill-indiċi tas-sigurtà ta' destinazzjonijiet oħra popolari għall-istudju barra l-pajjiż bħall-Istati Uniti (49.99), ir-Renju Unit (57.9) u l-Awstralja (57.94)."
+        },
+        {
+          "title": "AMBIJENT MULTIKULTURALI",
+          "content": "Il-Kanada hija mexxejja internazzjonali fil-kompjuter u t-teknoloġiji tal-informazzjoni u għandha reputazzjoni għall-eċċellenza f'setturi bħal telekomunikazzjonijiet, animazzjoni, trasport u inġinerija; u speċifikament, ajrużvja, trasport urban, mikroeletronika, apparat mediku, softwer avvanzat, enerġija idroelettrika u nukleari, lasers u opto-elettronika, bijoteknoloġija eċċ. Il-Kanada kienet fost l-ewwel fid-dinja li rrikonoxxiet il-ħtieġa li tgħaqqad skejjel u libreriji mal-Internet, u l-programm SchoolNet tagħha qed jiġi kkupjat madwar id-dinja. Tipi kollha ta' servizzi moderni huma pprovduti u l-maġġoranza tal-kampusijiet jiġru jkunu mqabbda mal-aktar teknoloġiji sofistikati li d-dinja għandha toffri."
+        },
+        {
+          "title": "OPPORTUNITAJIET TA' XOGĦOL",
+          "content": "Iva, bħala student internazzjonali xorta tħallas aktar mill-Kanadiżi għall-istess kors, iżda dak l-istess kors f'pajjiż ieħor, bħall-Istati Uniti, l-Awstralja jew ir-Renju Unit, x'aktarx jiswa anke aktar. Ukoll, ara l-punt 1 hawn fuq - mhux biss qed tħallas inqas fil-Kanada, int ukoll qed taqla'."
+        },
+        {
+          "title": "EDUKAZZJONI AFFORDABLI & ĦAJJA",
+          "content": "Il-Kanada toffri mhux biss edukazzjoni ta' kwalità, iżda edukazzjoni li hija affordabbli għal studenti internazzjonali inklużi l-Indjani. Meta mqabbla ma' pajjiżi bħal ir-Renju Unit, l-Istati Uniti u l-Awstralja, l-ispiża tal-edukazzjoni fil-Kanada hija pjuttost moderata."
+        },
+        {
+          "title": "REQUISITI TA' AMMISSJONI",
+          "content": "L-istudenti kollha għandhom jissodisfaw dawn ir-rekwiżiti biex jidħlu fi kwalunkwe Università/Kulleġġ/Istituzzjoni fil-Kanada: Kwalifikazzjonijiet Akkademiċi: Minimu ta' 60% marka fl-programmi tal-lawrji kollha preċedenti, jiġifieri livell sekondarju u superjuri jew livell intermedju u baċellerat jew unuri. Kors ESL (Ingliż bħala Lingwa Ġdida): Kwalifikazzjonijiet tal-lingwa Ingliża: Bi jew mingħajr IELTS jistgħu japplikaw. Diploma: Kwalifikazzjonijiet tal-lingwa Ingliża: L-istudenti jeħtieġ li jiksbu skor ta' mill-inqas band 5.5 (ebda band inqas minn 5.0) fl-IELTS jew 46 fil-PTE jew 62 fit-TOEFL. Programm tal-Baċellerat: Kwalifikazzjonijiet tal-lingwa Ingliża: L-istudenti jeħtieġ li jiksbu skor ta' mill-inqas band 6.0 (ebda band inqas minn 5.5) fl-IELTS jew 54 fil-PTE jew 73 fit-TOEFL. Programm tal-Masters: Kwalifikazzjonijiet tal-lingwa Ingliża: L-istudenti jeħtieġ li jiksbu skor ta' mill-inqas band 6.5 (ebda band inqas minn 6.0) fl-IELTS jew 61 fil-PTE jew 85 fit-TOEFL."
+        }
+      ]
+    },
+    "affiliatedInstitutions": {
+      "title": "ISTITUZZJONIJIET",
+      "highlightText": "AFFILJATI",
+      "description": "Skola affiljata jew kulleġġ affiljat hija istituzzjoni edukattiva li taħdem b'mod indipendenti, iżda għandha wkoll ftehim ta' kollaborazzjoni formali ma' istituzzjoni oħra, normalment akbar, li tista' jkollha xi livell ta' kontroll jew influwenza fuq il-politiki akkademiċi, l-istandards jew il-programmi tagħha."
+    },
+    "heroSection": {
+      "firstTitle": "",
+      "firstHighlightText": "",
+      "secondTitle": "L-ISTITUZZJONIJIET TAGĦNA",
+      "secondHighlightText": "AFFILJATI"
+    },
+    "affiliated": {
+      "title": "Istituzzjonijiet Affiljati",
+      "institutions": [
+        { "name": "University of North South Wales (UNSW) - Global", "url": "https://www.unsw.edu.au/" },
+        { "name": "Central Queensland University (CQU)", "url": "https://www.cqu.edu.au/" },
+        { "name": "Charles Darwin University (CDU)", "url": "https://www.cdu.edu.au/" },
+        { "name": "Charles Stuart University", "url": "https://www.csu.edu.au/" },
+        { "name": "Curtin University - Perth", "url": "https://www.curtin.edu.au/" },
+        { "name": "Deakin University", "url": "https://www.deakin.edu.au/" },
+        { "name": "Edith Cowan University (ECU)", "url": "https://www.ecu.edu.au/" },
+        { "name": "James Cook University (JCUB)", "url": "https://www.jcu.edu.au/" },
+        { "name": "La Trobe University", "url": "https://www.latrobe.edu.au/" },
+        { "name": "La Trobe University - Sydney", "url": "https://www.latrobe.edu.au/sydney" },
+        { "name": "Macquarie University", "url": "https://www.mq.edu.au/" },
+        { "name": "Monash University / College", "url": "https://www.monash.edu/" },
+        { "name": "Murdoch University", "url": "https://www.murdoch.edu.au/" },
+        { "name": "RMIT (Royal Melbourne Institute of Technology)", "url": "https://www.rmit.edu.au/" },
+        { "name": "SAIBT - University of South Australia (Navitas)", "url": "https://www.saibt.sa.edu.au/" },
+        { "name": "Southern Cross University (SCU)", "url": "https://www.scu.edu.au/" },
+        { "name": "Swinburne University", "url": "https://www.swinburne.edu.au/" },
+        { "name": "Sydney Institute of Business and Technology (SIBT)", "url": "https://www.sibt.nsw.edu.au/" },
+        { "name": "TAFE NSW", "url": "https://www.tafensw.edu.au/" },
+        { "name": "The University of Newcastle", "url": "https://www.newcastle.edu.au/" },
+        { "name": "Torrens University", "url": "https://www.torrens.edu.au/" },
+        { "name": "University of Queensland (UQ)", "url": "https://www.uq.edu.au/" },
+        { "name": "University of Tasmania Sydney (UTAS)", "url": "https://www.utas.edu.au/" },
+        { "name": "University of Technology, Sydney (UTS)", "url": "https://www.uts.edu.au/" },
+        { "name": "University of Western Sydney (WSU)", "url": "https://www.westernsydney.edu.au/" },
+        { "name": "University of Wollongong (UOW)", "url": "https://www.uow.edu.au/" },
+        { "name": "Victorian Institute of Technology (VIT)", "url": "https://www.vit.edu.au/" },
+        { "name": "Victoria University - Melbourne", "url": "https://www.vu.edu.au/" },
+        { "name": "University of Sunshine Coast", "url": "https://www.usc.edu.au/" },
+        { "name": "Australian National University", "url": "https://www.anu.edu.au/" },
+        { "name": "The University of Queensland", "url": "https://www.uq.edu.au/" },
+        { "name": "The University of Western Australia", "url": "https://www.uwa.edu.au/" },
+        { "name": "University of South Australia", "url": "https://www.unisa.edu.au/" },
+        { "name": "The University of Notre Dame Australia", "url": "https://www.notredame.edu.au/" },
+        { "name": "Federation University Australia", "url": "https://federation.edu.au/" },
+        { "name": "Bright College", "url": "#" },
+        { "name": "AIBI College", "url": "#" },
+        { "name": "Alpha College", "url": "#" },
+        { "name": "Connected Institute", "url": "#" },
+        { "name": "Building Institute (NSW)", "url": "#" },
+        { "name": "Australian Learning Institute", "url": "#" },
+        { "name": "Trinity Institute Australia", "url": "#" },
+        { "name": "Astrall Skill Institute Australia", "url": "#" },
+        { "name": "Apex Australia", "url": "#" },
+        { "name": "Reach Community College", "url": "#" },
+        { "name": "Waratah Polytechnic", "url": "#" },
+        { "name": "Australian Academy of Hospitality Management", "url": "#" },
+        { "name": "Kaplan Business School Australia", "url": "https://www.kbs.edu.au/" },
+        { "name": "TAFE NSW", "url": "https://www.tafensw.edu.au/" },
+        { "name": "Kings Own Institute", "url": "https://www.koi.edu.au/" },
+        { "name": "Education Centre of Australia (ECA)", "url": "https://www.eca.edu.au/" },
+        { "name": "Stodds College", "url": "https://www.stotts.edu.au/" },
+        { "name": "TAFE Queensland", "url": "https://tafeqld.edu.au/" },
+        { "name": "UTS College", "url": "https://utscollege.edu.au/" },
+        { "name": "UOW College", "url": "https://www.uowcollege.edu.au/" },
+        { "name": "Stanley College", "url": "https://www.stanleycollege.edu.au/" },
+        { "name": "TAFE SA", "url": "https://www.tafesa.edu.au/" },
+        { "name": "Charles Darwin University International College", "url": "https://www.cdu.edu.au/cdu-international" },
+        { "name": "Deakin College", "url": "https://www.deakincollege.edu.au/" },
+        { "name": "Latrobe College Australia", "url": "https://www.latrobe.edu.au/" },
+        { "name": "Conestoga College", "url": "https://www.conestogac.on.ca/" },
+        { "name": "Confederation College", "url": "https://www.confederationcollege.ca/" },
+        { "name": "ACAP College", "url": "https://www.acap.edu.au/" },
+        { "name": "Academia International", "url": "https://www.academia21.com/" },
+        { "name": "Engineer Institute of Technology", "url": "https://www.eit.edu.au/" },
+        { "name": "Melbourne Institute of Technology (MIT)", "url": "https://www.mit.edu.au/" },
+        { "name": "Insearch UTS", "url": "https://www.insearch.edu.au/" },
+        { "name": "Griffith College (Navitas)", "url": "https://www.griffithcollege.edu.au/" },
+        { "name": "Lead College", "url": "https://www.leadcollege.edu.au/" },
+        { "name": "Griffith College", "url": "https://www.griffithcollege.edu.au/" },
+        { "name": "International College of Management (Sydney)", "url": "https://www.icms.edu.au/" },
+        { "name": "TAFE International Western Australia", "url": "https://www.tafeinternational.wa.edu.au/" },
+        { "name": "Holmes Institute", "url": "https://www.holmes.edu.au/" },
+        { "name": "Swinburne College", "url": "https://www.swinburne.edu.au/" },
+        { "name": "Crown Institute of Higher Education", "url": "https://www.cihe.edu.au/" },
+        { "name": "International Institute of Business and Information Technology", "url": "https://www.iibit.edu.au/" },
+        { "name": "Le Cordon Bleu", "url": "https://www.cordonbleu.edu/" },
+        { "name": "Melbourne Polytechnic", "url": "https://www.melbournepolytechnic.edu.au/" },
+        { "name": "The Université of Adelaide College", "url": "https://college.adelaide.edu.au/" },
+        { "name": "Quality College of Australia", "url": "https://www.qca.edu.au/" },
+        { "name": "Sydney Institute of Business and Technology (SIBT)", "url": "https://www.sibt.nsw.edu.au/" },
+        { "name": "Adelaide Institute of Business and Technology", "url": "https://aibtglobal.edu.au/" },
+        { "name": "Greenwich College", "url": "https://www.greenwichcollege.edu.au/" },
+        { "name": "Curtin College", "url": "https://www.curtincollege.edu.au/" },
+        { "name": "Edith Cowan College", "url": "https://www.edithcowancollege.edu.au/" },
+        { "name": "Equals International", "url": "https://www.equals.edu.au/" },
+        { "name": "The Hotel School of Australia", "url": "https://www.hotelschool.scu.edu.au/" },
+        { "name": "Australian Learning Group", "url": "https://alg.edu.au/" },
+        { "name": "UNSW Global", "url": "https://www.unswglobal.unsw.edu.au/" },
+        { "name": "Academics Australasia Polytechnic", "url": "https://www.aapoly.edu.au/" },
+        { "name": "Kent Institute Australia", "url": "https://kent.edu.au/" },
+        { "name": "Icon Institute of Australia", "url": "https://icon.edu.au/" },
+        { "name": "Skills Australia Institute", "url": "https://sai.edu.au/" },
+        { "name": "Australian Ideal College", "url": "https://idealcollege.edu.au/" },
+        { "name": "Imagine Education Australia", "url": "https://www.imagineeducation.edu.au/" },
+        { "name": "Institute of Health and Nursing Australia", "url": "https://www.ihna.edu.au/" },
+        { "name": "Signet Institute of Australia", "url": "https://signet.edu.au/" },
+        { "name": "ILSC-Australia", "url": "https://www.ilsc.com/" },
+        { "name": "Australian Health & Science Institute", "url": "https://ahsinstitute.edu.au/" },
+        { "name": "Australian National Airline College", "url": "https://www.anacollege.edu.au/" },
+        { "name": "WSU - College", "url": "https://www.westernsydney.edu.au/" },
+        { "name": "Phoneix", "url": "#" },
+        { "name": "Murdoch Institute (MIT)", "url": "https://www.mit.edu.au/" },
+        { "name": "Greystone College Australia", "url": "https://www.greystonecollege.com.au/" },
+        { "name": "Oxford House (OHC) - Australia", "url": "https://www.oxfordhouse.com/" },
+        { "name": "ANGAD Australian Institute of Technology", "url": "https://angad.vic.edu.au/" },
+        { "name": "Australian National Education (ANE)", "url": "https://www.ane.edu.au/" },
+        { "name": "Australian Technical College Western", "url": "https://www.atcwa.edu.au/" },
+        { "name": "Australian International High School Pty Ltd", "url": "https://www.aihs.edu.au/" },
+        { "name": "Skills Training Australia", "url": "https://skillstraining.edu.au/" },
+        { "name": "Australian Harbour International College", "url": "https://www.ahic.edu.au/" },
+        { "name": "Australian Science and Mathematics School", "url": "https://www.asms.sa.edu.au/" },
+        { "name": "Australian Skills Group", "url": "https://asgroup.com.au/" },
+        { "name": "Kaplan International English - Australia", "url": "https://www.kaplaninternational.com/" },
+        { "name": "Texila College Australia", "url": "#" },
+        { "name": "Australian Centre of English", "url": "https://www.australiancentreofenglish.com.au/" },
+        { "name": "Australian Childcare Career Options", "url": "https://www.acco.edu.au/" },
+        { "name": "Australian College of Management and Innovation", "url": "https://acmi.edu.au/" },
+        { "name": "Australian College of Technology Pty Ltd", "url": "https://act.edu.au/" },
+        { "name": "Australian Institute of Electro Technology", "url": "https://aite.edu.au/" },
+        { "name": "Australian Institute of Technical Training", "url": "https://aitt.edu.au/" },
+        { "name": "Australian International College", "url": "https://aic.edu.au/" },
+        { "name": "Australian National Airline College", "url": "https://www.anacollege.edu.au/" },
+        { "name": "Australian National Institute of Education", "url": "https://anie.edu.au/" },
+        { "name": "Australian Skills Management Institute", "url": "https://asmi.edu.au/" },
+        { "name": "Australian Sovereign College", "url": "#" },
+        { "name": "International Sport College of Australia", "url": "https://iscaustralia.edu.au/" },
+        { "name": "Salisbury College Australia", "url": "https://salisburycollege.com.au/" },
+        { "name": "Blue Mountain Hotel School", "url": "https://www.bluemountains.edu.au/" },
+        { "name": "Canterbury Intstitute of Technology (USQ Sydney)", "url": "https://www.canterbury.ac.nz/" },
+        { "name": "Canterbury Education Group (CLA, CBC, CTI)", "url": "https://www.canterbury.ac.nz/" },
+        { "name": "Chisholm Institute", "url": "https://www.chisholm.edu.au/" },
+        { "name": "Deakin College (Navitas)", "url": "https://www.deakincollege.edu.au/" },
+        { "name": "Excelsia College", "url": "https://excelsia.edu.au/" },
+        { "name": "Engineering Institute of Technology", "url": "https://www.eit.edu.au/" },
+        { "name": "Eyensbury", "url": "#" }
+      ]
+    },
+    "proHeroSection": {
+      "imageSrc": "/1001_Team.webp", 
+      "title": "Pjan tas-Sena",
+      "highlightText": "Professjonali",
+      "height": "h-96"
+    },
+    "professionalYearPrograms": {
+      "title": "PROGRAMMI",
+      "highlightText": "TAS-SENA PROFESSJONALI",
+      "content": "Il-Programm tas-Sena Professjonali (PYP) joffri lill-istudenti internazzjonali preċedenti, li ggradwaw minn università fl-Awstralja, introduzzjoni għall-okkupazzjoni rispettiva tagħhom u taħriġ prattiku rilevanti. L-Internships Awstraljani jipprovdu l-komponent prattiku tal-Programm tas-Sena Professjonali (PYP) u ġew approvati mill-korpi ta' akreditazzjoni awtorizzati mid-Dipartiment tal-Immigrazzjoni u l-Protezzjoni tal-Bordijiet (DIBP).",
+      "imageSrc": "/study.jpg"  
+    },
+    "educationCentre": {
+      "title": "ĊENTRU EDUKATTIV TA'",
+      "highlightText": "AWSTRALJA",
+      "content": "Iċ-Ċentru Edukattiv ta' Awstralja (ECA) huwa wieħed mill-fornituri privati ta' edukazzjoni affordabbli ewlenin fl-Awstralja b'diversi kampusijiet f'Sydney, Brisbane u Melbourne. Bħala netwerk ta' kulleġġi li qed jikber, qed infittxu modi biex niżguraw li l-ħin tiegħek ma' ECA jipprovdilek l-kwalità tal-edukazzjoni, ħiliet prattiċi u tagħlim ibbażat fuq proġetti prattiku. Il-programmi tal-mogħdijiet u l-istages li noffru jieħdu lill-istudenti mill-klassi għall-karriera. L-ambjenti tagħna moderni ta' tagħlim multikulturali jipprovdu post eċċellenti għal imħuħ li qed jikbru.",
+      "imageSrc": "/eca-img.jpg" 
+    },
+    "performanceEducation": {
+      "title": "EDUKAZZJONI",
+      "highlightText": "TA' PRESTAZZJONI",
+      "content": "Bħala l-Esperti tal-Impjegabilità tal-Gradwati, il-Performance Education Group jibdel il-ħajjiet billi jgħin lin-nies jiksbu suċċess fil-karriera tagħhom permezz tat-tagħlim u l-aċċess għall-aħjar konnessjonijiet ta' impjiegi fl-Awstralja. Imwaqqfa fl-2006 biex ittejjeb il-karrieri ta' professjonisti żgħażagħ fl-Awstralja, issa aħna mexxejja f'dan l-ispazju, niżviluppaw ħiliet ta' impjegabilità meħtieġa inklużi; komunikazzjoni tan-negozju professjonali, lesta għall-post tax-xogħol, programmi ta' Tagħlim Integrat tax-Xogħol (WIL) u ħiliet ta' karriera. Aħna niżguraw li kull student jingħata l-aħjar taħriġ u appoġġ possibbli biex jiksbu l-għanijiet tal-karriera tagħhom.",
+      "imageSrc": "/Performance-Education.webp" 
+    },
+    "atmcProfessionalYear": {
+      "title": "SENA PROFESSJONALI",
+      "highlightText": "ATMC",
+      "content": "Għadek kif spiċċajt id-degree tiegħek iżda trid tikseb ħiliet u għarfien tekniku addizzjonali biex tistabbilixxi l-karriera tiegħek fl-Awstralja? Issa tista' tibda l-karriera tiegħek bl-għajnuna mill-Programm tas-Sena Professjonali ma' ATMC. ATMC joffri programmi tas-Sena Professjonali permezz tas-Soċjetà tal-Kompjuter Awstraljana (ACS) għall-gradwati tat-teknoloġija tal-informazzjoni u programmi tal-kontabilità permezz tal-Programm tal-Kontabilità (PYP). Il-Programm tas-Sena Professjonali (PY) huwa ddisinjat speċifikament għall-istudenti internazzjonali li ggradwaw minn università Awstraljana u qed ifittxu mogħdija ta' suċċess mill-università għall-impjieg u r-residenza fl-Awstralja.",
+      "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
+    },
+    "migrationHeroSection": {
+      "title": "MIGRAZZJONI",
+      "highlightText": ""
+    },
+    "visaOptions": {
+      "title": "OPZJONIJIET TA' VIŻA",
+      "highlightText": "",
+      "visitorVisa": {
+        "title": "Viża ta' Viżitatur",
+        "description": "Tista' tiġi l-Awstralja għal raġunijiet bħall-vaganzi, żjarat turistiċi, raġunijiet soċjali jew rikreattivi, biex iżżur qraba, ħbieb."
+      },
+      "skilledVisa": {
+        "title": "Viża tas-Sengħa",
+        "description": "Il-Migrazzjoni Sengħa Ġenerali (GSM) jew Viżas Sengħa hija għal nies li jridu jgħixu u jaħdmu fl-Awstralja fuq bażi temporanja jew permanenti."
+      },
+      "sponsoredVisa": {
+        "title": "Viża Sponsorjata",
+        "description": "Viżas Sponsorjati mill-Impjegaturi huma għall-impjegaturi li ma jistgħux jimlew pożizzjoni bi ħaddiem Awstraljan jew billi jħarrġu ħaddiema Awstraljani."
+      },
+      "studentVisa": {
+        "title": "Viża ta' Student",
+        "description": "Hemm klassi waħda ta' viża ta' student (TU) b'tmien sottoklassijiet ta' viża. Seba' mill-sottoklassijiet tal-viża jikkonċernaw setturi edukattivi speċifiċi u wieħed jikkonċerna guardians tal-istudenti."
+      },
+      "partnerVisa": {
+        "title": "Viża ta' Sħab",
+        "description": "Viża ta' sħab hija għal nies li huma miżżewġa, mgħarrsa, jew f'relazzjoni de facto ma' ċittadin Awstraljan jew ċittadin eliġibbli ta' New Zealand u jridu jgħixu fl-Awstralja."
+      },
+      "aatFederalCourt": {
+        "title": "AAT & Qorti Federali",
+        "description": "Għandna tim ta' avukati u solicitors professjonali. Jekk għandek kwistjonijiet kbar, jekk jogħġbok ikkuntattjana u nkunu kapaċi nsolvu l-problemi kumplessi tal-migrazzjoni tiegħek."
+      }
+    },
+    "visaSpecialisations": {
+      "title": "VIŻAS LI NISPEĊJALIZZAW FIHOM",
+      "highlightText": "",
+      "temporarySkillShortageVisa": {
+        "title": "Viża Temporanja ta' Nuqqas ta' Ħiliet",
+        "subclass": "Sottoklassi 482"
+      },
+      "trainingVisa": {
+        "title": "Viża ta' Taħriġ",
+        "subclass": "Sottoklassi 407"
+      },
+      "skilledIndependentVisa": {
+        "title": "Viża Indipendenti Sengħa",
+        "subclass": "Sottoklassi 189"
+      },
+      "skilledNominatedVisa": {
+        "title": "Viża Sengħa Nominata",
+        "subclass": "Sottoklassi 190"
+      },
+      "skilledWorkRegionalVisa": {
+        "title": "Viża Reġjonali ta' Ħidma Sengħa",
+        "subclass": "Sottoklassi 491"
+      },
+      "sponsoredJobs": {
+        "title": "Impjiegi Sponsorjati",
+        "subclass": ""
+      }
+    },
+    "faqAccordion": {
+      "title": "Mistoqsijiet Frekwenti",
+      "highlightText": "",
+      "howDoIFindOutIfIAmEligibleToApply": {
+        "title": "KIF NISTA' NAF JEKk JIEN ELIĠIBBLI BIEX NAPPLIKA?",
+        "content": "Jekk jogħġbok ikklikkja hawn għal sommarju tar-regolamenti attwali tal-immigrazzjoni Awstraljana. Imbagħad ħu kontroll inizjali b'xejn tal-eliġibilità tiegħek biex tkun riferut lil Aġent tal-Migrazzjoni Reġistrat MARA."
+      },
+      "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+        "title": "KEMM JIEĦU ŻMIEN BIEX TIKSEB VIŻA TA' RESIDENZA PERMANENTI BIEX TIMMIGRA L-AWstralja?",
+        "content": "Kull applikazzjoni hija differenti u l-ħinijiet tal-ipproċessar jiddependu ħafna fuq it-tip ta' viża li qed tiġi applikata. Għall-linji gwida l-aktar riċenti għall-ħinijiet tal-ipproċessar tal-viża Awstraljana, ara l-Ħinijiet tal-ipproċessar globali tal-viża u ċ-ċittadinanza fuq il-websajt tad-Dipartiment tal-Immigrazzjoni u l-Protezzjoni tal-Bordijiet."
+      },
+      "canTheImmigrationAuthoritiesRefuseMyApplication": {
+        "title": "L-AWTORITAJIET TAL-IMMIGRAZZJONI JISTGĦU JIRRIFJUTAW L-APPLIKAZZJONI TIEGĦI?",
+        "content": "Iva. Numru sorprendenti ta' applikanti mhumiex konxji kif ir-regolamenti tal-immigrazzjoni huma infurzati b'mod strett u spiss jiġu rifjutati jew dewmien bla bżonn minħabba żbalji tekniċi fl-applikazzjoni tagħhom jew billi jissottomettu d-dokumentazzjoni ta' appoġġ ħażina. Għalhekk il-moral tal-istorja huwa li tikkunsidra li titlob il-gwida professjonali u l-parir indipendenti ta' Aġent tal-Migrazzjoni Reġistrat MARA qabel ma tissottometti applikazzjoni għal residenza. L-Aġenti tal-Migrazzjoni jeżistu biex jgħinuk issib l-aħjar mod biex tgħaddi mill-labirint tal-immigrazzjoni u huma effettivi ħafna biex jagħmlu dan."
+      },
+      "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+        "title": "L-AWTORITAJIET TAL-IMMIGRAZZJONI JEW L-AMBAXXATA SE JGĦINUNI NIPPREPARA L-APPLIKAZZJONI TIEGĦI U NIŻGURAW LI KOLLOX HUWA KORRETT QABEL MA JAPPLIKAW?",
+        "content": "Le. Dan it-tip ta' servizz m'għadux ipprovdut mill-Gvern. L-awtoritajiet jeżistu biex jinfurzaw il-liġi tal-immigrazzjoni, jieħdu deċiżjonijiet dwar l-applikazzjonijiet ta' residenza u joħorġu viżas ta' residenza. Għalkemm l-informazzjoni bażika u l-formoli tal-applikazzjoni huma disponibbli, l-awtoritajiet mhumiex kapaċi jipprovdu parir indipendenti u gwida personalizzata fuq il-każ speċifiku tiegħek. Aġent tal-Migrazzjoni Reġistrat Awstraljan jista' jipprovdi dan it-tip ta' servizz."
+      },
+      "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+        "title": "L-AĠENT TAL-MIGRAZZJONI TIEGĦI ĦAREġ LI JIEN ELIĠIBBLI GĦAR-RESIDENZA FL-AWstralja. JEKk NAPPLIKA MINGĦAJR L-GĦAJNUNA TIEGĦU/TAJJIN, NISTA' NINKARIGAW MINN SUĊĊESS?",
+        "content": "Le. Għalkemm tista' tikkwalifika fundamentalment taħt il-politika tal-immigrazzjoni, m'għandekx garanzija ta' suċċess. L-applikazzjoni tiegħek trid tkun ippreparata skont ir-regolamenti tal-immigrazzjoni prevalenti u ssottomessa flimkien mad-dokumentazzjoni ta' appoġġ xierqa sabiex tkun approvata mill-awtoritajiet tal-immigrazzjoni. Il-modi kif tagħmel dan mhumiex dejjem stabbiliti b'mod ċar mill-awtoritajiet tal-immigrazzjoni u jirriżultaw f'ħafna applikanti jippreżentaw il-każijiet tagħhom b'mod ħażin, inevitabbilment iwasslu għal rifjut. Għalhekk għandek tikkunsidra li titlob il-parir ta' Aġent tal-Migrazzjoni Reġistrat MARA."
+      },
+      "cta": "IKSEB VALUTAZZJONI INIZZJALI B'XEJN TA' L-ELIGIBILITÀ TIEGĦEK"
+    },
+    "temporarySkilledVisaData": {
+      "hero": {
+        "title": "VIŻA TA' NUQQAS TA' ĦILiet TEMPORANJA (TSS)",
+        "highlightText": "SOTTOKLASSI 482"
+      },
+      "title": "DWAR DIN IL-VIŻA",
+      "description": "Il-Viża tax-Xogħol Temporanja (Sottoklassi 457) ġiet mibdula mill-Viża ta' Nuqqas ta' Ħiliet Temporanja (TSS) Sottoklassi 482 fit-18 ta' Marzu 2018. Din il-viża tippermetti lill-impjegaturi jindirizzaw in-nuqqas ta' ħiliet billi jġibu ħaddiema kkwalifikati minn barra fejn l-impjegaturi ma jistgħux isibu ħaddiem Awstraljan adegwatament kkwalifikat.",
+      "section1": {
+        "heading": "KIF NISTA' NIKWALIFIKA GĦAL VIŻA TA' NUQQAS TA' ĦILiet TEMPORANJA (TSS) SOTTOKLASSI 482?",
+        "subSections": [
+          {
+            "subHeading": "Eliġibilità għall-Viża ta' Nuqqas ta' Ħiliet Temporanja (TSS) Sottoklassi 482:",
+            "details": [
+              {
+                "title": "i) Stream Terminu Qasir:",
+                "content": "Din il-stream hija disponibbli jekk impjegatur jixtieq isponsorja ħaddiem kkwalifikat barrani fuq bażi temporanja biss f'okkupazzjonijiet elenkati fuq il-lista tal-Okkupazzjoni ta' Ħiliet Qosra (STSOL) għal viża TSS. Tista' tintuża biex timla pożizzjonijiet għal massimu ta' sentejn jew erba' snin jekk japplika Obbligu ta' Kummerċ Internazzjonali (ITO)."
+              },
+              {
+                "title": "ii) Stream Terminu Medju:",
+                "content": "Din il-viża tippermetti lill-impjegaturi jindirizzaw in-nuqqas ta' ħiliet billi jġibu ħaddiema kkwalifikati minn barra fejn l-impjegaturi ma jistgħux isibu ħaddiem Awstraljan adegwatament kkwalifikat."
+              },
+              {
+                "title": "iii) Stream tal-Ftehim tax-Xogħol:",
+                "content": "Din il-viża hija għal ħaddiema kkwalifikati nominati minn impjegaturi li għandhom Ftehim tax-Xogħol. Tippermetti li tgħix u taħdem fl-Awstralja temporanjament. Il-ftehim tax-xogħol jiġu żviluppati bejn il-Gvern Awstraljan (irrappreżentat mid-Dipartiment) u l-impjegaturi."
+              }
+            ]
+          }
+        ]
+      },
+      "section2": {
+        "heading": "X'inhuma r-rekwiżiti ta' eliġibilità biex tapplika għal viża ta' Nuqqas ta' Ħiliet Temporanja (sottoklassi 482)?",
+        "listItems": [
+          "Għandek okkupazzjoni fuq il-lista tal-Okkupazzjonijiet ta' Ħiliet Konsolidati",
+          "Int nominat għal pożizzjoni tax-xogħol minn impjegatur Awstraljan li jrid jirrekluta lilek biex taħdem għalihom",
+          "Għandek il-ħiliet u l-kwalifiki rilevanti għall-okkupazzjoni tiegħek",
+          "Għandek mill-inqas sentejn esperjenza ta' xogħol fl-okkupazzjoni tiegħek",
+          "Għandek abbiltà lingwistika Ingliża vokazzjonali",
+          "Tista' tissodisfa r-rekwiżiti tad-DHA għall-karattru tajjeb u s-saħħa",
+          "Jekk inti fl-Awstralja, għandek viża sostantiva, jew viża ta' bridging A, B, jew C u ssodisfajt il-kundizzjoni tal-viża tiegħek."
+        ],
+        "note": "Nota: M'hemm l-ebda rekwiżit ta' età għall-viża TSS."
+      },
+      "section3": {
+        "heading": "X'inhuma r-rekwiżiti ġenerali għall-impjegaturi biex japplikaw għal viża ta' Nuqqas ta' Ħiliet Temporanja (sottoklassi 482)?",
+        "listItems": [
+          "Ikun negozju li jopera b'mod legali",
+          "Ma jkollokx informazzjoni sfavorevoli kontra n-negozju",
+          "Nomina pożizzjoni tax-xogħol għall-ħaddiem nazzjonali barrani li hija full-time u ġenwina",
+          "Sodisfa rekwiżiti relatati mas-salarju u l-kundizzjonijiet tax-xogħol",
+          "Ipprovdi evidenza ta' Ttestjar tas-Suq tax-Xogħol jekk meħtieġ"
+        ]
+      },
+      "section4": {
+        "heading": "Kif nista' napplika għal Viża ta' Nuqqas ta' Ħiliet Temporanja (TSS) Sottoklassi 482?",
+        "content": "Qabel ma tkun tista' tapplika għal viża TSS, l-impjegatur propost tiegħek ikollu bżonn jissottometti applikazzjoni ta' nomina għalik. Jistgħu jagħmlu dan biss jekk huma sponsor approvat jew għamlu mill-inqas applikazzjoni biex isiru sponsor standard tan-negozju. Jekk l-impjegatur tiegħek għadu sponsor approvat 457 allura jistgħu jissponsorjaw lilek għal TSS (Sottoklassi 482) taħt dak l-isponsorship eżistenti. Sponsors jeħtieġ ukoll li jipprovdu evidenza ta' testjar obbligatorju tas-suq tax-xogħol biex juru li ma jistgħux jimpjegaw Awstraljan fil-pożizzjoni."
+      },
+      "section5": {
+        "heading": "X'tippermetti din il-viża tagħmel?",
+        "content": "Din il-viża tippermettilek tivvjaġġa lejn u minn Awstralja għall-perjodu tal-viża tiegħek u:",
+        "listItems": [
+          "Jekk int il-holder primarju tal-viża, taħdem fl-Awstralja għal sponsor approvat fl-okkupazzjoni nominata tiegħek",
+          "Jekk int membru tal-familja, taħdem u tistudja fl-Awstralja"
+        ]
+      }
+    },
+    "trainingVisa": {
+      "title": "DWAR DIN IL-VIŻA",
+      "description": "Il-viża ta' taħriġ sottoklassi 407 hija viża temporanja...",
+      "qualifyTitle": "KIF NISTA' NIKWALIFIKA GĦAL VIŻA TA' TAĦRIĠ SOTTOKLASSI 407?",
+      "qualifyDescription": "Biex tkun eliġibbli għall-viża ta' taħriġ trid:",
+      "qualifyList": [
+        "tkun sponsorjat minn sponsor approvat...",
+        "tkun ġejt nominat għal pożizzjoni okkupazzjonali approvata...",
+        "...",
+        "tkun entrant ġenwin temporanju"
+      ],
+      "subQualifyList": [
+        "Viża ta' Xogħol Temporanja Sottoklassi 403...",
+        "Viża ta' Transitu Sottoklassi 771...",
+        "Viża ta' Skop Speċjali"
+      ],
+      "allowTitle": "X'Tippermetti din il-Viża tagħmel",
+      "allowDescription": "Din hija viża temporanja li tippermetti lill-holder biex:",
+      "allowList": [
+        "Jgħix temporanjament fl-Awstralja...",
+        "Jitlaq u jerġa' jidħol fl-Awstralja...",
+        "Jġib membri tal-familja eliġibbli..."
+      ],
+      "conditionTitle": "KUNDIZZJONI",
+      "conditionDescription": "Il-viża hija soġġetta għall-kundizzjoni 8102...",
+      "workConditionTitle": "KUNDIZZJONI TAX-XOGĦOL",
+      "workConditionDescription": "Tista' taħdem biss għall-sponsor tiegħek...",
+      "healthInsuranceTitle": "ASSIKURAZZJONI TAS-SAĦĦA",
+      "healthInsuranceDescription": "Trid iżżomm ukoll l-assikurazzjoni tas-saħħa tiegħek...",
+      "locationTitle": "LOKAZZJONI",
+      "locationDescription": "L-applikazzjoni trid tkun sottomessa online...",
+      "familyMembersTitle": "MEMBRI TAL-FAMILJA",
+      "familyMembersDescription": "Membri tal-familja (konjuġi u tfal) jistgħu jkunu inklużi..."
+    },
+    "trainingVisaHero": {
+      "title": "VIŻA TA' TAĦRIĠ",
+      "highlightText": "SOTTOKLASSI 407"
+    },
+    "skilledWorkRegionalVisaHero": {
+      "title": "VIŻA REĠJONALI TA' ĦIDMA SENGĦA",
+      "highlightText": "SOTTOKLASSI 491"
+    },
+    "visaDetails": {
+      "aboutTitle": "DWAR DIN IL-VIŻA",
+      "aboutDescription1": "Il-Viża Reġjonali ta' Ħidma Sengħa Sottoklassi 491 ġiet introdotta mid-Dipartiment tal-Affarijiet Interni (DHA) fis-16 ta' Novembru, 2019, tissostitwixxi l-viża preċedenti Sottoklassi 489. Din il-viża tippermetti lill-ħaddiema kkwalifikati jgħixu u jaħdmu f'żona reġjonali magħżula fl-Awstralja għal sa 5 snin.",
+      "aboutDescription2": "In-nomina mill-Istat/Territorju għal din il-viża tipprovdilek 15-il punt addizzjonali biex tgħinek tilħaq il-marka tal-punti tat-test tal-punti tad-Dipartiment tal-Affarijiet Interni ta' 65 punt.",
+      "aboutDescription3": "Jekk xi ħadd jiġi nnominat mill-Gvern tal-Istat jew it-Territorju għal din il-viża, irid jgħix f'dak l-Istat/Territorju għall-perjodu tal-viża kollha. Huma jkunu jistgħu jissottomettu applikazzjoni għal Viża Sottoklassi 191 jekk ikunu għexu u ħadmu f'żona reġjonali għal tliet snin u għandhom salarju minimu ta' $53,900 fis-sena. Ladarba tiġi mogħtija viża ta' residenza permanenti, jistgħu jgħixu kullimkien fl-Awstralja. Ma jistgħux jibdew jgħixu kullimkien fl-Awstralja qabel ma tingħata Viża Sottoklassi 191.",
+      "aboutDescription4": "Jekk jixtiequ japplikaw għal din il-viża SC 491, l-ewwel għandhom jiksbu valutazzjoni pożittiva tal-ħiliet mill-okkupazzjoni nominata tagħhom, u mbagħad jissottomettu Espressjoni ta' Interess & Applikazzjoni ta' Nominazzjoni mill-Istat jew it-Territorju. Jekk dan jirnexxi, jiġu mistiedna jissottomettu applikazzjoni għall-viża.",
+      "qualifyTitle": "KIF NISTA' NIKWALIFIKA GĦAL VIŻA SOTTOKLASSI 190?",
+      "qualifyDescription": "Fil-mument li inti mistieden tapplika għal din il-viża, trid:",
+      "qualifyList": [
+        "Kollok inqas minn 45 sena",
+        "Innomina okkupazzjoni li hija inkluża fuq il-Lista rilevanti tal-Okkupazzjonijiet (MLTSSL)",
+        "Ibgħat EOI u irċievi stedina",
+        "Sodisfa l-marka tal-punti tat-test tal-punti ta' 65 punt",
+        "Tkollok sponsorizzazzjoni minn qarib li jgħix f'żona speċifikata jew Istati/t-territorju",
+        "Ikollok Ingliż Kompetenti jew ogħla skont il-punti li għandek",
+        "Sodisfa r-rekwiżiti tas-saħħa u l-karattru"
+      ],
+      "visaAllowsTitle": "X'Tippermetti din il-Viża tagħmel:",
+      "visaAllowsDescription": "Il-viża Sottoklassi 491 tipprovdi lill-holder b'residenza temporanja fl-Awstralja, b'kundizzjonijiet.",
+      "visaAllowsList": [
+        "Il-holder jista' jgħix, jaħdem u jistudja f'żona speċifikata tal-Awstralja għal 5 snin mid-data tal-għoti tal-viża",
+        "Il-holder jista' jivvjaġġa liberament lejn u minn Awstralja waqt li l-viża tkun valida",
+        "Il-holder jista' jkollu l-opportunità li japplika għal residenza permanenti permezz tal-Viża Permanenti ta' Residenza Reġjonali Sengħa Sottoklassi 191, li tibda fis-16 ta' Novembru 2022."
+      ],
+      "applyTitle": "TISTA' TAPPLIKA KULLIMKIEN FL-AWstralja JEW BARRA?",
+      "applyDescription": "Kull min jista' jkun onshore jew offshore biex japplika għal din il-viża. Jekk ikunu onshore, għandhom ikollhom viża valida qabel ma japplikaw għal din jew viża ta' bridging A, B jew C. Ladarba jiġu applikati, jingħataw viża ta' bridging sakemm tasal id-deċiżjoni tal-fajl tiegħek, li tippermettilhom jibqgħu fl-Awstralja sakemm tasal id-deċiżjoni.",
+      "durationTitle": "DURATA U KUNDIZZJONIJIET",
+      "durationDescription": "Din hija viża proviżorja ta' 5 snin li tippermetti lill-holder u d-dipendenti tagħhom jgħixu, jaħdmu jew jistudjaw fi kwalunkwe żona reġjonali jew b'popolazzjoni baxxa. Iż-żoni reġjonali approvati jvarjaw skont jekk humiex sponsorjati minn qarib jew minn Gvern tal-Istat jew tat-Territorju:",
+      "durationList": [
+        {
+          "label": "Gvern tal-Istat jew tat-Territorju:",
+          "content": "Jistgħu jgħixu biss f'Żona Reġjonali jew ta' Tkabbir Baxx tal-Popolazzjoni"
+        },
+        {
+          "label": "Qarib:",
+          "content": "Jistgħu jgħixu f'Żona Designata"
+        }
+      ],
+      "applyHowTitle": "KIF NISTA' NAPPLIKA GĦAL VIŻA SOTTOKLASSI 190?",
+      "applyHowDescription": "Kull min jixtieq japplika għal din il-viża GĦANDU l-ewwel ikun MISTIEDEN biex jissottometti applikazzjoni mid-Dipartiment tal-Immigrazzjoni. Sabiex jikkwalifika għal stedina, trid tissottometti 'Espressjoni ta' Interess' (EOI), li tistabbilixxi kif tissodisfa r-rekwiżiti għal din il-viża.",
+      "initialEligibilityTitle": "STADJU 1: ELIĠIBILITÀ INIZZJALI:",
+      "initialEligibilityDescription": "L-ewwel pass li se nieħdu huwa li nwettqu valutazzjoni inizjali tal-eliġibilità tiegħek għal din il-viża. Dan jinvolvi reviżjoni tal-kwalifiki tiegħek, esperjenza ta' xogħol, lingwa Ingliża u ċirkostanzi oħra, biex jiġi stabbilit jekk intx probabbli li tissodisfa r-rekwiżiti rilevanti.",
+      "skillsAssessmentTitle": "STADJU 2: VALUTAZZJONI TAL-ĦILiet",
+      "skillsAssessmentDescription": "Jekk il-valutazzjoni inizjali tagħna tindika li int eliġibbli għal valutazzjoni pożittiva tal-ħiliet u EOI, aħna nħejju l-applikazzjoni tal-valutazzjoni tal-ħiliet tiegħek.",
+      "expressionOfInterestTitle": "STADJU 3: ESPRESSJONI TA' INTERESS (EOI)",
+      "expressionOfInterestDescription": "Ladarba tkun irċevejt valutazzjoni pożittiva tal-ħiliet mill-awtorità tal-valutazzjoni tal-ħiliet, aħna nħejju u nissottomettu l-EOI tiegħek. Għalkemm ma jkollokx bżonn tipprovdi dokumenti ta' appoġġ f'dan l-istadju, TRID tkun kapaċi tipprovdi evidenza li l-informazzjoni pprovduta fl-EOI hija korretta fil-ħin li inti mistieden tapplika għall-viża.",
+      "visaApplicationTitle": "STADJU 4: APPLIKAZZJONI TAL-VIŻA",
+      "visaApplicationDescription": "Ladarba d-Dipartiment tal-Immigrazzjoni jkun stiednek tapplika għal din il-viża, aħna nħejju u nissottomettu l-applikazzjoni tal-viża tiegħek fi żmien speċifikat, flimkien mad-dokumenti kollha li jappoġġaw l-informazzjoni li pprovdejna fl-EOI tiegħek.",
+      "otherRequirementsTitle": "REKWIŻITI OĦRA",
+      "healthTitle": "SAĦĦA",
+      "healthDescription": "L-applikant ewlieni u l-membri kollha tal-familja għandhom jissodisfaw ir-rekwiżiti tas-saħħa.",
+      "characterTitle": "KARATTRU",
+      "characterDescription": "Trid tkun ta' karattru tajjeb. Tista' tintalab tipprovdi ċertifikati tal-pulizija għal kull pajjiż li għext fih għal 12-il xahar jew aktar, matul l-aħħar 10 snin (ikkalkulat immedjatament qabel il-ħin li tkun sottomessa l-applikazzjoni tal-viża), minn meta għalaqt is-16-il sena.",
+      "locationTitle": "LOKAZZJONI",
+      "locationDescription": "Tista' tkun fl-Awstralja jew barra meta tapplika għall-viża u meta tittieħed deċiżjoni.",
+      "debtsTitle": "DJUN",
+      "debtsDescription": "Għandek tkun ħallast, jew għamilt arranġamenti biex tħallas, kwalunkwe djun pendenti mal-gvern Awstraljan.",
+      "visaCancelledTitle": "VIŻA KANĊELLATA JEW MIĠREFUSA",
+      "visaCancelledDescription": "Tista' ma tkunx eliġibbli biex tapplika għal din il-viża jekk kellek viża kanċellata jew miġrefusa waqt li kont fl-Awstralja.",
+      "processingTimeTitle": "ĦIN TA' PROĊESSAR",
+      "processingTimeDescription": "6-12-il Xahar.",
+      "processingNote": "NOTA: Il-ħin attwali meħud mid-Dipartiment tal-Immigrazzjoni biex japprova applikazzjoni u jagħti viża jvarja minn każ għal każ skont iċ-ċirkostanzi partikolari tal-applikant, u l-ammont ta' informazzjoni ta' appoġġ li d-Dipartiment jeħtieġ."
+    },
+    "skilledMigrationHeroSection": {
+      "skilledNominatedVisaTitle": "VIŻA NOMINATA SENGĦA",
+      "subclass190": "SOTTOKLASSI 190"
+    },
+    "aboutVisa": {
+      "aboutTitle": "DWAR DIN IL-VIŻA",
+      "aboutDescription1": "Il-Viża Nominata Sengħa Sottoklassi 190 hija viża permanenti, li tippermetti lill-ħaddiema kkwalifikati jgħixu fl-Awstralja, ibbażati fuq nominazzjoni minn Gvern Awstraljan tal-Istat jew it-Territorju.",
+      "aboutDescription2": "L-applikanti għandhom ikunu ħaddiema kkwalifikati li huma kkwalifikati u esperjenzati biex jimlew in-nuqqasijiet ta' ħiliet kurrenti tal-Awstralja, ibbażati fuq il-Lista Konsolidata tal-Okkupazzjoni Sponsorjata (CSOL), u jimmigraw lejn l-Awstralja.",
+      "aboutDescription3": "Biex ikunu eliġibbli għal din il-viża, l-applikanti għandhom jirċievu nominazzjoni minn Gvern Awstraljan tal-Istat jew tat-Territorju.",
+      "aboutDescription4": "In-nomina mill-Istat/Territorju għal din il-viża tipprovdilek 5 punti addizzjonali biex tgħinek tilħaq il-marka tal-punti tat-test tal-punti tad-Dipartiment tal-Affarijiet Interni ta' 65 punt.",
+      "aboutDescription5": "Jekk tkun nominata mill-Gvern tal-Istat jew tat-Territorju għal din il-viża, trid tgħix f'dak l-Istat/Territorju għall-perjodu ta' sentejn wara li tkun ingħatat il-viża.",
+      "aboutDescription6": "Jekk tixtieq tapplika għal din il-viża, trid l-ewwel tikseb valutazzjoni pożittiva tal-ħiliet mill-okkupazzjoni nominata tiegħek, u mbagħad tissottometti Espressjoni ta' Interess & Applikazzjoni ta' Nominazzjoni mill-Istat jew it-Territorju. Jekk dan jirnexxi, tiġi mistieden tissottometti applikazzjoni għall-viża.",
+      "qualifyTitle": "KIF NISTA' NIKWALIFIKA GĦAL VIŻA SOTTOKLASSI 190?",
+      "qualifyDescription": "Fil-mument li inti mistieden tapplika għal din il-viża, trid:",
+      "qualifyList": [
+        "Kollok inqas minn 45 sena",
+        "Innomina okkupazzjoni li hija inkluża fuq il-Lista rilevanti tal-Okkupazzjonijiet (MLTSSL)",
+        "Ibgħat EOI u irċievi stedina",
+        "Sodisfa l-marka tal-punti tat-test tal-punti ta' 65 punt",
+        "Ikollok Ingliż Kompetenti jew ogħla skont il-punti li għandek",
+        "Din l-għażla teħtieġ sponsor minn qarib jew Gvern tal-Istat/t-Territorju"
+      ],
+      "visaAllowsTitle": "X'Tippermetti din il-Viża tagħmel:",
+      "visaAllowsDescription": "Ladarba tingħata, il-Viża Nominata Sengħa hija viża permanenti li tippermetti lill-applikant u lill-membri tal-familja akkumpanjanti biex:",
+      "visaAllowsList": [
+        "Jgħixu u jaħdmu kullimkien fl-Awstralja indefinittivament, mingħajr restrizzjonijiet",
+        "Jistudjaw fl-Awstralja, b'aċċess għal edukazzjoni sussidjata",
+        "Aċċess għal Medicare",
+        "Japplikaw għaċ-ċittadinanza Awstraljana (wara li jissodisfaw ir-rekwiżiti xierqa)",
+        "Ikunu jistgħu jissponsorjaw membri tal-familja għal ċerti viżas",
+        "Japplikaw għal ħlasijiet ta' sigurtà soċjali",
+        "Jivvjaġġaw lejn u minn Awstralja għal 5 snin"
+      ],
+      "visaAllowsNote": "Nota: Għalkemm il-viża tingħata fuq il-bażi li l-holder huwa kkwalifikat f'okkupazzjoni speċifika, ladarba tingħata l-holder mhux meħtieġ li jfittxu jew iżommu impjieg f'din l-okkupazzjoni.",
+      "applyTitle": "TISTA' TAPPLIKA KULLIMKIEN FL-AWstralja JEW BARRA?",
+      "applyDescription1": "Kull min jista' jkun onshore jew offshore biex japplika għal din il-viża. Jekk huwa/hija onshore, jeħtieġ li jkollu viża valida qabel ma japplika għal din jew viża ta' bridging A, B jew C. Ladarba japplika, jingħata viża ta' bridging sakemm tasal id-deċiżjoni tal-fajl tiegħek, li tippermettilu jibqa' fl-Awstralja sakemm tasal id-deċiżjoni.",
+      "applyDescription2": "L-applikant jista' jinkludi membri tal-familja tiegħu/tagħha waqt li jissottometti din il-viża.",
+      "applyDescription3": "L-affarijiet li jistgħu jiġu miżjuda huma:",
+      "applyList": [
+        "Konjuġi, imsieħba de facto, u msieħba tal-istess sess",
+        "Tfal dipendenti",
+        "Membri oħra tal-familja dipendenti - eż. ġenituri li jgħixu miegħek u huma dipendenti finanzjarjament"
+      ],
+      "applyProcessTitle": "KIF NISTA' NAPPLIKA GĦAL VIŻA SOTTOKLASSI 190?",
+      "stage1Title": "STADJU 1: ELIĠIBILITÀ INIZZJALI:",
+      "stage1Description1": "L-ewwel pass li se nieħdu huwa li nwettqu valutazzjoni inizjali tal-eliġibilità tiegħek għal din il-viża. Dan jinvolvi reviżjoni tal-kwalifiki tiegħek, esperjenza ta' xogħol, lingwa Ingliża u ċirkostanzi oħra, biex jiġi stabbilit jekk intx probabbli li tissodisfa r-rekwiżiti rilevanti.",
+      "stage1Description2": "Bħala parti minn din il-valutazzjoni inizjali tal-eliġibilità, aħna nikkunsidraw liema okkupazzjoni(i) MLTSSL int probabbli li tista' tnomina, u jekk intx potenzjalment eliġibbli għal valutazzjoni pożittiva tal-ħiliet mill-awtorità tal-valutazzjoni rilevanti għal dik l-okkupazzjoni.",
+      "stage1Description3": "Imbagħad nipprovdulek parir infurmat u komprensiv dwar il-ħila tiegħek li tissodisfa l-istandards minimi li d-Dipartiment tal-Immigrazzjoni jeħtieġ li l-migranti jissodisfaw, sabiex jikkwalifikaw għal stedina biex japplikaw għal din il-viża.",
+      "stage1Note": "Nota: Il-valutazzjoni inizjali tagħna tal-eliġibilità tiegħek ma tiggarantixxix li int (jew mhux) fil-fatt tikseb valutazzjoni pożittiva tal-ħiliet, jew tkun mogħti stedina biex tapplika għal din il-viża. B'mod partikolari, jekk id-Dipartiment tal-Immigrazzjoni jissuddkilx stedina jkun jiddependi fuq kif il-punteġġ tat-test tal-punti tiegħek iqabbel mal-punteġġi ta' applikanti oħra potenzjali, u jekk id-Dipartiment tal-Immigrazzjoni iqisx l-okkupazzjoni nominata tiegħek bħala meħtieġa fl-Awstralja.",
+      "stage2Title": "STADJU 2: VALUTAZZJONI TAL-ĦILiet",
+      "stage2Description1": "Jekk il-valutazzjoni inizjali tagħna tindika li int eliġibbli għal valutazzjoni pożittiva tal-ħiliet u EOI, aħna nħejju l-applikazzjoni tal-valutazzjoni tal-ħiliet tiegħek.",
+      "stage2Description2": "Għal kull okkupazzjoni sengħa elenkata fuq il-MLTSSL, id-Dipartiment tal-Immigrazzjoni speċifika awtorità ta' valutazzjoni li tista' twettaq valutazzjonijiet tal-ħiliet għal dik l-okkupazzjoni. Biss valutazzjoni tal-ħiliet imwettqa mill-awtorità ta' valutazzjoni rilevanti tkun aċċettata mid-Dipartiment tal-Immigrazzjoni biex tappoġġja EOI. Aħna nipprovdulek lista sħiħa tal-informazzjoni u d-dokumenti meħtieġa biex tappoġġja l-applikazzjoni tiegħek. Meta tipprovdi d-dettalji u d-dokumenti meħtieġa, flimkien mal-ħlas ta' valutazzjoni meħtieġa, aħna nissottomettu l-applikazzjoni tiegħek mal-awtorità ta' valutazzjoni tal-ħiliet applikabbli.",
+      "stage2Description3": "Ladarba tkun irċevejt valutazzjoni pożittiva tal-ħiliet mill-awtorità tal-valutazzjoni tal-ħiliet, aħna nħejju u nissottomettu l-EOI tiegħek. Għalkemm ma jkollokx bżonn tipprovdi dokumenti ta' appoġġ f'dan l-istadju, TRID tkun kapaċi tipprovdi evidenza li l-informazzjoni pprovduta fl-EOI hija korretta fil-ħin li inti mistieden tapplika għall-viża.",
+      "stage3Title": "STADJU 3: ESPRESSJONI TA' INTERESS (EOI)",
+      "stage3Description1": "Ladarba tkun irċevejt valutazzjoni pożittiva tal-ħiliet mill-awtorità tal-valutazzjoni tal-ħiliet, aħna nħejju u nissottomettu l-EOI tiegħek. Għalkemm ma jkollokx bżonn tipprovdi dokumenti ta' appoġġ f'dan l-istadju, TRID tkun kapaċi tipprovdi evidenza li l-informazzjoni pprovduta fl-EOI hija korretta fil-ħin li inti mistieden tapplika għall-viża.",
+      "stage3Description2": "Int sussegwentement tirċievi riżultat u punteġġ ta' punti mid-Dipartiment tal-Immigrazzjoni, li jintuża biex tikklassifikak kontra applikanti oħra li ssottomettew EOIs għal din il-viża. Il-klassifikazzjoni hija bbażata parzjalment fuq jekk l-okkupazzjoni tiegħek hijiex ħila li l-Awstralja teħtieġ fil-ħin li tiġi evalwata l-EOI tiegħek. Jekk l-EOI tiegħek tkun ta' suċċess, tiġi mistieden tissottometti applikazzjoni għall-viża.",
+      "stage3Description3": "Nota: Id-Dipartiment tal-Immigrazzjoni jżomm EOI għal 2 snin mid-data li tkun sottomessa. Matul dan iż-żmien, l-EOI tiegħek tista' tiġi aġġornata jekk tinbidlu xi ċirkostanzi tiegħek (eż. tikseb kwalifika ġdida jew valutazzjoni tal-ħiliet). Jekk il-klassifikazzjoni tiegħek tinbidel matul dan il-perjodu ta' 2 snin, ibbażat fuq iċ-ċirkostanzi li qed jinbidlu tiegħek jew il-ħiliet li qed jinbidlu tal-Awstralja, tista' tingħata stedina biex tapplika għall-viża f'dak il-ħin.",
+      "stage4Title": "STADJU 4: APPLIKAZZJONI TAL-VIŻA",
+      "stage4Description1": "Ladarba d-Dipartiment tal-Immigrazzjoni jkun stiednek tapplika għal din il-viża, aħna nħejju u nissottomettu l-applikazzjoni tal-viża tiegħek fi żmien speċifikat, flimkien mad-dokumenti kollha li jappoġġaw l-informazzjoni li pprovdajna fl-EOI tiegħek. Dan jinkludi l-valutazzjoni tal-ħiliet tiegħek, ir-riżultati tat-test tal-lingwa Ingliża, il-kwalifiki, referenzi tax-xogħol u d-dokumenti kollha l-oħra meħtieġa. Jekk l-applikazzjoni tal-viża tiegħek tiġi approvata, tkun mogħtija viża permanenti. Tista' tkun fl-Awstralja jew barra meta tingħata l-viża tiegħek.",
+      "otherRequirementsTitle": "REKWIŻITI OĦRA",
+      "healthTitle": "SAĦĦA",
+      "healthDescription": "L-applikant ewlieni u l-membri kollha tal-familja għandhom jissodisfaw ir-rekwiżiti tas-saħħa.",
+      "characterTitle": "KARATTRU",
+      "characterDescription1": "Trid tkun ta' karattru tajjeb. Tista' tintalab tipprovdi ċertifikati tal-pulizija għal kull pajjiż li għext fih għal 12-il xahar jew aktar, matul l-aħħar 10 snin (ikkalkulat immedjatament qabel il-ħin li tkun sottomessa l-applikazzjoni tal-viża), minn meta għalaqt is-16-il sena.",
+      "characterDescription2": "Iċ-Ċertifikat tal-Pulizija huwa validu għal 12-il xahar għall-iskop tal-immigrazzjoni. Jekk għandek rekord kriminali sostanzjali, ma tistax tgħaddi mit-test tal-karattru. Pereżempju, Int ġejt ikkundannat għal 12-il xahar jew aktar ħabs.",
+      "locationTitle": "LOKAZZJONI",
+      "locationDescription": "Tista' tkun fl-Awstralja jew barra meta tapplika għall-viża u meta tittieħed deċiżjoni.",
+      "debtsTitle": "DJUN",
+      "debtsDescription": "Għandek tkun ħallast, jew għamilt arranġamenti biex tħallas, kwalunkwe djun pendenti mal-gvern Awstraljan.",
+      "visaCancelledTitle": "VIŻA KANĊELLATA JEW MIĠREFUSA",
+      "visaCancelledDescription": "Tista' ma tkunx eliġibbli biex tapplika għal din il-viża jekk kellek viża kanċellata jew miġrefusa waqt li kont fl-Awstralja.",
+      "processingTimeTitle": "ĦIN TA' PROĊESSAR",
+      "processingTime": "6 XHUR",
+      "processingTimeNote": "NOTA: Il-ħin attwali meħud mid-Dipartiment tal-Immigrazzjoni biex japprova applikazzjoni u jagħti viża jvarja minn każ għal każ skont iċ-ċirkostanzi partikolari tal-applikant, u l-ammont ta' informazzjoni ta' appoġġ li d-Dipartiment jeħtieġ."
+    },
+    "tempTrainingVisa": {
+      "title": "VIŻA TA' GRADWAT TEMPORANJU",
+      "highlightText": "SOTTOKLASSI 407"
+    },
+    "visaInfo": {
+      "aboutTitle": "DWAR DIN IL-VIŻA",
+      "aboutDescription": "Il-Viża ta' Gradwat Temporanju Sottoklassi 485 hija viża temporanja għal studenti internazzjonali, li riċentement ggradwaw minn istituzzjoni edukattiva Awstraljana.",
+      "qualifyTitle": "KIF NISTA' NIKWALIFIKA GĦAL VIŻA SOTTOKLASSI 190?",
+      "qualifyDescription": "Fil-mument li inti mistieden tapplika għal din il-viża, trid:",
+      "qualifyList": [
+        "Kollok inqas minn 45 sena",
+        "Innomina okkupazzjoni li hija inkluża fuq il-Lista rilevanti tal-Okkupazzjonijiet (MLTSSL)",
+        "Ibgħat EOI u irċievi stedina",
+        "Sodisfa l-marka tal-punti tat-test tal-punti ta' 65 punt",
+        "Ikollok sponsorizzazzjoni minn qarib li jgħix f'żona speċifikata jew Istati/t-territorju",
+        "Ikollok Ingliż Kompetenti jew ogħla skont il-punti li għandek",
+        "Sodisfa r-rekwiżiti tas-saħħa u l-karattru"
+      ],
+      "whatThisVisaAllowsTitle": "X'Tippermetti din il-Viża tagħmel:",
+      "whatThisVisaAllowsDescription": "Il-viża Sottoklassi 491 tipprovdi lill-holder b'residenza temporanja fl-Awstralja, b'kundizzjonijiet.",
+      "whatThisVisaAllowsList": [
+        "Il-holder jista' jgħix, jaħdem u jistudja f'żona speċifikata tal-Awstralja għal 5 snin mid-data tal-għoti tal-viża",
+        "Il-holder jista' jivvjaġġa liberament lejn u minn Awstralja waqt li l-viża tkun valida",
+        "Il-holder jista' jkollu l-opportunità li japplika għal residenza permanenti permezz tal-Viża Permanenti ta' Residenza Reġjonali Sengħa Sottoklassi 191, li tibda fis-16 ta' Novembru 2022"
+      ],
+      "applyTitle": "TISTA' TAPPLIKA KULLIMKIEN FL-AWstralja JEW BARRA?",
+      "applyDescription": "Kull min jista' jkun onshore jew offshore biex japplika għal din il-viża. Jekk huwa/hija onshore, jeħtieġ li jkollu viża valida qabel ma japplika għal din jew viża ta' bridging A, B, jew C. Ladarba japplika, jingħata viża ta' bridging sakemm tasal id-deċiżjoni tal-fajl tiegħek, li tippermettilu jibqa' fl-Awstralja sakemm tasal id-deċiżjoni.",
+      "durationConditionsTitle": "DURATA U KUNDIZZJONIJIET",
+      "durationConditionsDescription": "Din hija viża proviżorja ta' 5 snin li tippermetti lilu u lid-dipendenti tiegħu/tagħha jgħixu, jaħdmu jew jistudjaw fi kwalunkwe żona reġjonali jew b'popolazzjoni baxxa. Iż-żoni reġjonali approvati jvarjaw skont jekk humiex sponsorjati minn qarib jew minn Gvern tal-Istat jew tat-Territorju:",
+      "durationConditionsList": [
+        "<strong>Gvern tal-Istat jew tat-Territorju:</strong> jista' jgħix biss f'Żona Reġjonali jew ta' Tkabbir Baxx tal-Popolazzjoni",
+        "<strong>Qarib:</strong> Jista' jgħix f'Żona Designata"
+      ],
+      "stage1Title": "KIF NISTA' NAPPLIKA GĦAL VIŻA SOTTOKLASSI 190?",
+      "stage1Description": "L-ewwel pass li se nieħdu huwa li nwettqu valutazzjoni inizjali tal-eliġibilità tiegħek għal din il-viża. Dan jinvolvi reviżjoni tal-kwalifiki tiegħek, esperjenza ta' xogħol, lingwa Ingliża u ċirkostanzi oħra, biex jiġi stabbilit jekk intx probabbli li tissodisfa r-rekwiżiti rilevanti.",
+      "stage2Title": "STADJU 2: VALUTAZZJONI TAL-ĦILiet",
+      "stage2Description": "Jekk il-valutazzjoni inizjali tagħna tindika li int eliġibbli għal valutazzjoni pożittiva tal-ħiliet u EOI, aħna nħejju l-applikazzjoni tal-valutazzjoni tal-ħiliet tiegħek.",
+      "stage3Title": "STADJU 3: ESPRESSJONI TA' INTERESS (EOI)",
+      "stage3Description": "Ladarba tkun irċevejt valutazzjoni pożittiva tal-ħiliet mill-awtorità tal-valutazzjoni tal-ħiliet, aħna nħejju u nissottomettu l-EOI tiegħek.",
+      "stage4Title": "STADJU 4: APPLIKAZZJONI TAL-VIŻA",
+      "stage4Description": "Ladarba d-Dipartiment tal-Immigrazzjoni jkun stiednek tapplika għal din il-viża, aħna nħejju u nissottomettu l-applikazzjoni tal-viża tiegħek fi żmien speċifikat, flimkien mad-dokumenti kollha li jappoġġaw l-informazzjoni li pprovdajna fl-EOI tiegħek. Jekk l-applikazzjoni tal-viża tiegħek tiġi approvata, tkun mogħtija viża permanenti. Tista' tkun fl-Awstralja jew barra meta tingħata l-viża tiegħek.",
+      "otherRequirementsTitle": "REKWIŻITI OĦRA",
+      "healthTitle": "SAĦĦA",
+      "healthDescription": "L-applikant ewlieni u l-membri kollha tal-familja għandhom jissodisfaw ir-rekwiżiti tas-saħħa.",
+      "characterTitle": "KARATTRU",
+      "characterDescription": "Trid tkun ta' karattru tajjeb. Tista' tintalab tipprovdi ċertifikati tal-pulizija għal kull pajjiż li għext fih għal 12-il xahar jew aktar, matul l-aħħar 10 snin (ikkalkulat immedjatament qabel il-ħin li tkun sottomessa l-applikazzjoni tal-viża), minn meta għalaqt is-16-il sena. Iċ-Ċertifikat tal-Pulizija huwa validu għal 12-il xahar għall-iskop tal-immigrazzjoni. Jekk għandek rekord kriminali sostanzjali, ma tistax tgħaddi mit-test tal-karattru. Pereżempju, Int ġejt ikkundannat għal 12-il xahar jew aktar ħabs.",
+      "locationTitle": "LOKAZZJONI",
+      "locationDescription": "Tista' tkun fl-Awstralja jew barra meta tapplika għall-viża u meta tittieħed deċiżjoni.",
+      "debtsTitle": "DJUN",
+      "debtsDescription": "Għandek tkun ħallast, jew għamilt arranġamenti biex tħallas, kwalunkwe djun pendenti mal-gvern Awstraljan.",
+      "visaCancelledRefusedTitle": "VIŻA KANĊELLATA JEW MIĠREFUSA",
+      "visaCancelledRefusedDescription": "Tista' ma tkunx eliġibbli biex tapplika għal din il-viża jekk kellek viża kanċellata jew miġrefusa waqt li kont fl-Awstralja.",
+      "processingTimeTitle": "ĦIN TA' PROĊESSAR",
+      "processingTimeDescription": "6-12-il Xahar. NOTA: Il-ħin attwali meħud mid-Dipartiment tal-Immigrazzjoni biex japprova applikazzjoni u jagħti viża jvarja minn każ għal każ skont iċ-ċirkostanzi partikolari tal-applikant, u l-ammont ta' informazzjoni ta' appoġġ li d-Dipartiment jeħtieġ."
+    },
+    "home": {
+      "heroSection": {
+        "title": "Impjiegi Sponsorjati",
+        "highlightText": ""
+      }
+    },
+    "fiveSteps": {
+      "title": "Ħames Passi Faċli Biex Tgħix il-Ħolma Awstraljana",
+      "highlightText": "Awstraljana",
+      "description": "Skopri kif il-Proċess ta' Reklutaġġ ta' Nuqqas ta' Ħiliet għen kandidati internazzjonali bħalek tgħix il-Ħolma Awstraljana."
+    },
+    "home1": {
+      "migrationHeroSection": {
+        "title": "VIŻA INDIPENDENTI SENGĦA",
+        "highlightText": "SOTTOKLASSI 189"
+      }
+    },
+    "home2": {
+      "title": "Impjiegi Sponsorjati",
+      "highlightText": ""
+    },
+    "pointCalc": {
+      "otherUsefulLinks": "Links Utli Oħra",
+      "migration": "Migrazzjoni",
+      "tssVisa": "Viża ta' Nuqqas ta' Ħiliet Temporanja (TSS) - Sottoklassi 482",
+      "trainingVisa": "Viża ta' Taħriġ - Sottoklassi 407",
+      "independentVisa": "Viża Indipendenti Sengħa - Sottoklassi 189",
+      "nominatedVisa": "Viża Sengħa Nominata - Sottoklassi 190",
+      "regionalVisa": "Viża Reġjonali ta' Ħidma Sengħa - Sottoklassi 491",
+      "sponsoredJobs": "Impjiegi Sponsorjati"
+    },
+    "appointmentForm": {
+      "appointmentSchedule": "Skeda ta' Appuntament",
+      "personalInformation": "Informazzjoni Personali",
+      "appointmentScheduleTitle": "Skeda ta' Appuntament",
+      "phoneConsultation": "Konsultazzjoni Telefonika jew Online",
+      "faceConsultation": "Konsultazzjoni Face to Face",
+      "professionalDevelopment": "Żvilupp Professjonali - RPL",
+      "migrationTeam": "Tim tal-Migrazzjoni",
+      "admissionTeam": "Tim tal-Ammissjoni",
+      "chooseDateTime": "Agħżel Data u Ħin",
+      "chooseDate": "Agħżel Data",
+      "chooseTime": "Agħżel Ħin",
+      "next": "Li jmiss",
+      "personalInformationTitle": "Informazzjoni Personali",
+      "firstName": "Isem",
+      "lastName": "Kunjom",
+      "email": "Email",
+      "phoneNumber": "Numru tat-Telefon",
+      "submit": "Ibgħat",
+      "loading": "Tagħbija...",
+      "submitting": "Tissottometti...",
+      "successMessage": "Appuntament skedat b'suċċess!",
+      "errorMessage": "Żball fl-iskedar tal-appuntament"
+    },
+    "contactForm": {
+      "contactTitle": "Tħossokx Tiddubita biex <span class='text-red-500'>Ikkuntattjana</span>",
+      "yourName": "Isem tiegħek",
+      "yourEmail": "Email tiegħek",
+      "yourPhone": "Telefon tiegħek",
+      "typeMessage": "Ittajpja messaġġ",
+      "sendMessage": "Ibgħat Messaġġ",
+      "sending": "Tibgħat...",
+      "successMessage": "Email mibgħuta b'suċċess!",
+      "errorMessage": "Żball fl-ibgħat tal-email"
+    },
+    "heroSectionCon": {
+      "contactUsTitle": "Tħossokx Tiddubita biex",
+      "contactUsHighlightText": "Ikkuntattjana"
+    },
+    "heroSectionBook": {
+      "contactUsTitle": "Ibbukkja Appuntament",
+      "contactUsHighlightText": ""
+    }
+  }
+  

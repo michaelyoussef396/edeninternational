@@ -1,8 +1,8 @@
-// components/AccordionCanada.tsx
 "use client";
 import { FC, useState } from "react";
 import { motion } from "framer-motion";
 import htmlParser from 'html-react-parser';
+import { useTranslations } from "next-intl";
 
 interface AccordionItemProps {
   title: string;
@@ -47,11 +47,13 @@ interface AccordionProps {
 }
 
 const AccordionCanada: FC<AccordionProps> = ({ items }) => {
+  const t = useTranslations('accordionCanada');
+
   return (
     <section className="bg-white py-12">
       <div className="container mx-auto px-8 md:px-20">
         <h2 className="text-5xl font-bold text-center mb-8">
-          TOP REASONS TO CHOOSE <span className="text-red-500">CANADA</span>
+          {t('title')} <span className="text-red-500">{t('highlightText')}</span>
         </h2>
         <div className="space-y-4">
           {items.map((item, index) => (
@@ -60,9 +62,9 @@ const AccordionCanada: FC<AccordionProps> = ({ items }) => {
         </div>
         <div className="mt-8 text-center">
           <a href="/contact-us">
-          <button className="px-6 py-3 text-white bg-red-500 hover:bg-red-600 font-bold">
-            GET A FREE INITIAL ASSESSMENT OF YOUR ELIGIBILITY
-          </button>        
+            <button className="px-6 py-3 text-white bg-red-500 hover:bg-red-600 font-bold">
+              {t('buttonText')}
+            </button>
           </a>
         </div>
       </div>

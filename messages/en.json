@@ -1,0 +1,1002 @@
+{
+  "hero": {
+    "slide1": {
+      "subtitle": "Student Visa",
+      "description": "Student visas are non-immigrant visas and do not require the applicant to gain citizenship.",
+      "image": "/hero1.png",
+      "buttonText": "More Info",
+      "buttonLink": "/student-visa"
+    },
+    "slide2": {
+      "subtitle": "Migration",
+      "description": "You'll be surprised to know that your experience and qualification may create pathways to skilled migration in Australia.",
+      "image": "/hero2.png",
+      "buttonText": "More Info",
+      "buttonLink": "/migration"
+    }
+  },
+  "aboutUs": {
+    "whoWeAre": "Who we are?",
+    "title": "A Few Words About Us",
+    "description": "EDEN INTERNATIONAL was built in 2010, keeping in mind those struggling clients finding it hard to determine their career pathway abroad for onshore or offshore higher education, migration...",
+    "listItems": "Migration|Student Admission|Sponsored Jobs|Skills Recognition",
+    "buttonText": "About More"
+  },
+  "visaCategories": {
+    "sectionTitle": "VISA CATEGORIES",
+    "sectionSubtitle": "Immigration & Visa Categories",
+    "studentVisa": {
+      "title": "Student Visas",
+      "description": "Student visas are non-immigrant visas and do not require the applicant to gain citizenship.",
+      "buttonText": "Read More",
+      "buttonLink": "/student-visa"
+    },
+    "migration": {
+      "title": "Migration",
+      "description": "You’ll be surprised to know that your experience and qualification may create pathways to skilled migration in Australia.",
+      "buttonText": "Read More",
+      "buttonLink": "/migration"
+    }
+  },
+"countryList": {
+    "supportArea": "SUPPORT AREA",
+    "title": "Country List For Immigration",
+    "subtitle": "Country List:",
+    "countries": "Dubai|Canada|USA|Australia|Italy|Croatia|Turkey|Malta|Germany|Philippines|Korea"
+  },
+  "workingProcess": {
+    "subtitle": "WORKING PROCESS",
+    "title": "3 Easy Steps to Get Quick Help",
+    "steps": [
+      {
+        "title": "Step One",
+        "description": "Fill In The Required Form"
+      },
+      {
+        "title": "Step Two",
+        "description": "Submit Your Documents"
+      },
+      {
+        "title": "Step Three",
+        "description": "Get Ready To Receive Your Visa"
+      }
+    ]
+  },
+  "statistics": {
+    "worldwideOfficeHandle": "Worldwide Office Handle",
+    "successfulVisaProcess": "Successful Visa Process",
+    "satisfiedClientsMaintains": "Satisfied Clients Maintains"
+  },
+  "footer": {
+    "explore": "Explore",
+    "affiliates": "Affiliates",
+    "contactUs": "Contact Us",
+    "usefulLinks": "Useful Links",
+    "studentVisa": "Student Visa",
+    "migration": "Migration",
+    "recentProjects": "Recent Projects"
+  },
+  "floatingNav": {
+    "home": "Home",
+    "studentVisa": "Student Visa",
+    "studyInAustralia": "Study In Australia",
+    "studyInCanada": "Study In Canada",
+    "affiliatedInstitutions": "Affiliated Institutions",
+    "professionalYear": "Professional Year",
+    "migration": "Migration",
+    "temporarySkillShortageTssVisaSubclass482": "Temporary Skilled Shortage TSS Visa Subclass 482 (AUS)",
+    "trainingVisaSubclass407": "Training Visa Subclass 407",
+    "skilledWorkRegionalVisa": "Skilled Work Regional Visa",
+    "skilledNominatedVisa": "Skilled Nominated Visa",
+    "skilledIndependentVisa": "Skilled Independent Visa",
+    "temporaryGraduateVisaSubclass485": "Temporary Graduate Visa",
+    "sponsoredJobs": "Sponsored Jobs",
+    "pointCalculation": "Point Calculation",
+    "contactUs": "Contact Us",
+    "bookAnAppointment": "Book An Appointment"
+  },
+  "heroSectionStudent": {
+    "title": "student",
+    "highlightText": "visa"
+  },
+  "shoreServices": {
+    "onShoreTitle": "OUR ON SHORE SERVICES",
+    "offShoreTitle": "OUR OFF SHORE SERVICES",
+    "forInternationalStudents": "FOR INTERNATIONAL STUDENTS",
+    "onShores": [
+      {
+        "title": "Course Change",
+        "description": "Eden International helps you to choose a suitable course or change a course which is already running."
+      },
+      {
+        "title": "University or Institution Change",
+        "description": "Many students want to change their Universities/Institutions for better opportunities but they don’t know the proper way to do this. We help them to do this."
+      },
+      {
+        "title": "Pre-assessment for migration or another Visa",
+        "description": "Students can have their assessment during studies. They can check their eligibility and prerequisite for skilled migration and other visas by in-house Migration Lawyer from Educube."
+      },
+      {
+        "title": "Student Visa Extension",
+        "description": "You've finished those subjects and your visa is about to expire or you've completed your course and now you've decided to apply for a new student visa."
+      }
+    ],
+    "offShores": [
+      {
+        "title": "Initial Assessment",
+        "description": "Valuation of all Academic Transcripts & Certificates, English Language Course Certificate, National Identity, Passport etc."
+      },
+      {
+        "title": "Financial Assessment",
+        "description": "We inform about course fees, travel costs, sponsor requirements, who can be a sponsor and how much money is required to pay."
+      },
+      {
+        "title": "Scholarships",
+        "description": "Save on your course fees with a little help from Educube."
+      },
+      {
+        "title": "Course & University Selection",
+        "description": "With so many great abroad universities and courses to choose from, deciding where and what to study can be a difficult decision."
+      }
+    ]
+  },
+  "visitorToStudentVisa": {
+    "title": "VISITOR TO STUDENT VISA",
+    "highlight": "STUDENT VISA",
+    "description": "Yes, you read it right. Your Tourist Visa has the potential to be converted into a student visa. Put a stop to the “No More Stay” restrictions and get that education you deserve. Open up your career to limitless opportunities."
+  },
+  "studentTestimonials": {
+    "title": "What Our",
+    "highlight": "Students Say",
+    "testimonials": [
+      {
+        "quote": "Finally I've received my visa, thanks a lot to for helping me at this field. I've a great experience with this organisation. Staff of Eden International is very helping. I will suggest my friends to apply through Eden International only.",
+        "name": "Shakil Alom",
+        "imageUrl": "/img-01-alom-1-150x150.webp"
+      },
+      {
+        "quote": "I will be recommending Eden International Services to any other trades that are in my situation. This service saved me countless hours of having to resist a college course. Great organization!!",
+        "name": "Lisa",
+        "imageUrl": "/6-1-1-150x150.webp"
+      },
+      {
+        "quote": "It was a pleasure to work with Educube. The way they guide, especially Md Arifuzzaman helped me a lot to get ready for University viva and show a proper direction to develop my English Language skill.",
+        "name": "Md Sadh",
+        "imageUrl": "/8-1-150x150.webp"
+      },
+      {
+        "quote": "I was just delighted when I got the Visa. I want to give all credit to Eden International Pty Ltd. because of their proper initiative. They are too much friendly about the student Visa processing. If anyone wants to go to abroad then feel free to contact with EDUCUBE.",
+        "name": "Arafat Hossain Akib",
+        "imageUrl": "/7-1-150x150.webp"
+      },
+      {
+        "quote": "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
+        "name": "Herman Melville",
+        "title": "Moby-Dick",
+        "imageUrl": "/fallback-image.jpg"
+      }
+    ]
+  },
+  "cards": [
+    {
+      "title": "Accounting",
+      "imageUrl": "/i.webp",
+      "description": "Develop skills in financial reporting, auditing, and taxation. Learn to analyze financial statements and manage budgets."
+    },
+    {
+      "title": "Engineering & Technology",
+      "imageUrl": "/i-2.webp",
+      "description": "Explore innovative solutions in fields like mechanical, civil, and electrical engineering. Gain hands-on experience in technology development."
+    },
+    {
+      "title": "Art",
+      "imageUrl": "/i-3.webp",
+      "description": "Delve into creative expression through various mediums. Study art history, techniques, and contemporary practices."
+    },
+    {
+      "title": "Business Management",
+      "imageUrl": "/i-4.webp",
+      "description": "Understand business operations, marketing, and strategy. Prepare for leadership roles in diverse organizational settings."
+    },
+    {
+      "title": "Communication",
+      "imageUrl": "/i-5.webp",
+      "description": "Learn effective communication strategies, public relations, and media dynamics. Enhance your interpersonal and writing skills."
+    },
+    {
+      "title": "Media",
+      "imageUrl": "/i-6.webp",
+      "description": "Study the impact of digital media, journalism, and content creation. Gain skills in multimedia storytelling and production."
+    },
+    {
+      "title": "Medicine",
+      "imageUrl": "/i-7.webp",
+      "description": "Prepare for a career in healthcare with a focus on patient care, medical research, and clinical practices."
+    },
+    {
+      "title": "Nursing",
+      "imageUrl": "/i-11.webp",
+      "description": "Train in patient care, medical procedures, and healthcare management. Join a rewarding profession dedicated to helping others."
+    },
+    {
+      "title": "Language",
+      "imageUrl": "/i-9.webp",
+      "description": "Study linguistics, translation, and cross-cultural communication. Enhance your proficiency in multiple languages."
+    },
+    {
+      "title": "Computing & Technology",
+      "imageUrl": "/999.webp",
+      "description": "Learn about software development, data analysis, and emerging technologies. Build a strong foundation in computer science."
+    },
+    {
+      "title": "Education & Training",
+      "imageUrl": "/i-10.webp",
+      "description": "Develop teaching skills and educational theory. Prepare to inspire and educate the next generation of learners."
+    },
+    {
+      "title": "Architecture",
+      "imageUrl": "/192.webp",
+      "description": "Explore architectural design, urban planning, and sustainable building. Gain the skills to shape the built environment."
+    }
+  ],
+  "studyInAustralia": {
+    "title": "Study In",
+    "highlightText": "Australia"
+  },
+  "whyStudyAustralia": {
+    "educationIsYourRight": "Education Is Your Right, Not An Option",
+    "whyStudyIn": "WHY STUDY IN",
+    "australia": "AUSTRALIA",
+    "description": "When we consider studying in Australia, there are lots of factors that attract students’ attention easily. Growing Destination. AUSTRALIA is currently the third most popular destination for international students in the English-speaking world, behind the United States and the UK. Many international students choose to study there because of the cultural diversity, friendly natives, and high quality of education."
+  },
+  "quickSteps": {
+    "title": "QUICK STEPS OF",
+    "highlight": "ADMISSION PROCESS",
+    "fileSubmission": {
+      "title": "File Submission",
+      "description": [
+        "Passport",
+        "Passport Size Photographs",
+        "Academic Documents",
+        "Birth Certificate",
+        "NID (English Translated)",
+        "Application Fees",
+        "SOP (Statement of Purpose)",
+        "Resume/CV",
+        "IELTS/TOEFL Certificate"
+      ]
+    },
+    "offerLetter": {
+      "title": "Offer Letter",
+      "description": "Receive an Offer Letter from the University for Admission upon successful G.T.E. Assessment."
+    },
+    "gteAssessment": {
+      "title": "G.T.E. Assessment",
+      "description": "Financial and other documents investigation and interview with the university."
+    },
+    "coeConfirmation": {
+      "title": "COE Confirmation",
+      "description": "Successful enrollment in university and payment confirmation."
+    },
+    "visaLodgement": {
+      "title": "Visa Lodgement",
+      "description": "Submit visa application and required documents."
+    },
+    "successfulVisa": {
+      "title": "Successful Visa",
+      "description": "Receive visa approval and prepare for travel."
+    },
+    "buttonText": "Click here to see the full visa process"
+  },
+  "studyProcess": {
+    "title": "VISA",
+    "highlight": "PROCESS",
+    "steps": [
+      {
+        "title": "SAFE COUNTRY",
+        "description": "A very important factor for most international students while choosing a study abroad program, is the safety and security of the country and the city in particular. Parents are worried about the safety of their children and factors like crime against women, racial discrimination, theft and burglary play an important role while choosing a destination for study abroad. In this respect, Canada is one of the safest places to study with very low crime rates and cases of racial discrimination. Statistics by Numbeo reveal that Canada’s safety index (62.42) is much higher than the safety indices of other popular study abroad destinations such as US (49.99), UK (57.9) and Australia (57.94)."
+      },
+      {
+        "title": "MULTICULTURAL ENVIRONMENT",
+        "description": "Canada is an international leader in computer and information technologies and has a reputation for excellence in such sectors as telecommunications, animation, transportation and engineering; and specifically, aerospace, urban transport, microelectronics, medical devices, advanced software, hydroelectric and nuclear power, lasers and opto-electronics, biotechnology etc. Canada was among the first in the world to recognize the need to connect schools and libraries to the Internet, and its SchoolNet program is being copied around the world. All kinds of modern amenities are provided and most campuses happen to be wired with the most sophisticated technologies the world has to offer."
+      },
+      {
+        "title": "JOB OPPORTUNITIES",
+        "description": "Yes, as an international student you will still pay more than Canadians for the same course, but that same course in another country, such as the United States, Australia or United Kingdom, would likely cost even more. Also, see point 1 above – not only are you paying less in Canada, you’re also earning."
+      },
+      {
+        "title": "AFFORDABLE EDUCATION & LIVING",
+        "description": "Canada offers not only quality education, but education which is affordable for international including Indian students. Compared to countries like the UK, USA and Australia, cost of education in Canada is quite moderate."
+      },
+      {
+        "title": "ADMISSION REQUIREMENT",
+        "description": "After having COE, EDUCUDE – on behalf of the student will submit all academics financial documents to the embassy and prepare students for bio-metrics and medical checkup. It takes 20-30 working days to get a visa."
+      }
+    ]
+  },
+  "studyInCanada": {
+    "title": "STUDY IN",
+    "highlightText": "CANADA"
+  },
+  "whyStudyInCanada": {
+    "title": "WHY STUDY IN",
+    "highlightText": "CANADA?",
+    "description": {
+      "part1": "Apr 30, 2018 – With 21 of the world’s top",
+      "part2": "500 universities",
+      "part3": "and 32 in the",
+      "part4": "top 1000",
+      "part5": ", Canada welcomes more than",
+      "part6": "400,000 international students",
+      "part7": "each year. It offers the world’s best study programs and is home to some of the world’s leading research facilities and academic institutions. If studying abroad is your plan, Canada should be at the top of your list."
+    }
+  },
+  "accordionCanada": {
+    "title": "TOP REASONS TO CHOOSE",
+    "highlightText": "CANADA",
+    "buttonText": "GET A FREE INITIAL ASSESSMENT OF YOUR ELIGIBILITY",
+    "items": [
+      {
+        "title": "SAFE COUNTRY",
+        "content": "A very important factor for most international students while choosing a study abroad program, is the safety and security of the country and the city in particular. Parents are worried about the safety of their children and factors like crime against women, racial discrimination, theft and burglary play an important role while choosing a destination for study abroad. In this respect, Canada is one of the safest places to study with very low crime rates and cases of racial discrimination. Statistics by Numbeo reveal that Canada’s safety index (62.42) is much higher than the safety indices of other popular study abroad destinations such as US (49.99), UK (57.9) and Australia (57.94)."
+      },
+      {
+        "title": "MULTICULTURAL ENVIRONMENT",
+        "content": "Canada is an international leader in computer and information technologies and has a reputation for excellence in such sectors as telecommunications, animation, transportation and engineering; and specifically, aerospace, urban transport, microelectronics, medical devices, advanced software, hydroelectric and nuclear power, lasers and opto-electronics, biotechnology etc. Canada was among the first in the world to recognize the need to connect schools and libraries to the Internet, and its SchoolNet program is being copied around the world. All kinds of modern amenities are provided and most campuses happen to be wired with the most sophisticated technologies the world has to offer."
+      },
+      {
+        "title": "JOB OPPORTUNITIES",
+        "content": "Yes, as an international student you will still pay more than Canadians for the same course, but that same course in another country, such as the United States, Australia or United Kingdom, would likely cost even more. Also, see point 1 above – not only are you paying less in Canada, you’re also earning."
+      },
+      {
+        "title": "AFFORDABLE EDUCATION & LIVING",
+        "content": "Canada offers not only quality education, but education which is affordable for international including Indian students. Compared to countries like the UK, USA and Australia, cost of education in Canada is quite moderate."
+      },
+      {
+        "title": "ADMISSION REQUIREMENT",
+        "content": "All students must fulfill these following criteria to take admission in any University/College/Institute in Canada: Academic Qualifications: Minimum 60% marks in all previous degree programs i.e. secondary and higher secondary level or intermediate level and bachelor or honors. ESL Course (English as a Second Language): English language qualifications: With/Without IELTS can apply. Diploma: English language qualifications: Students require to score minimum band 5.5 (no band less than 5.0) in IELTS or 46 in PTE or 62 in TOEFL. Bachelor Program: English language qualifications: Students require to score minimum band 6.0 (no band less than 5.5) in IELTS or 54 in PTE or 73 in TOEFL. Masters Program: English language qualifications: Students require to score minimum band 6.5 (no band less than 6.0) in IELTS or 61 in PTE or 85 in TOEFL."
+      }
+    ]
+  },
+  "affiliatedInstitutions": {
+    "title": "AFFILIATED",
+    "highlightText": "INSTITUTIONS",
+    "description": "An affiliated school or affiliated college is an educational institution that operates independently, but also has a formal collaborative agreement with another, usually larger institution that may have some level of control or influence over its academic policies, standards or programs."
+  },
+  "heroSection": {
+    "firstTitle": "",
+    "firstHighlightText": "",
+    "secondTitle": "OUR AFFILIATED",
+    "secondHighlightText": "INSTITUTIONS"
+  },
+  "affiliated": {
+    "title": "Affiliated Institutions",
+    "institutions": [
+      { "name": "University of North South Wales (UNSW) - Global", "url": "https://www.unsw.edu.au/" },
+      { "name": "Central Queensland University (CQU)", "url": "https://www.cqu.edu.au/" },
+      { "name": "Charles Darwin University (CDU)", "url": "https://www.cdu.edu.au/" },
+      { "name": "Charles Stuart University", "url": "https://www.csu.edu.au/" },
+      { "name": "Curtin University - Perth", "url": "https://www.curtin.edu.au/" },
+      { "name": "Deakin University", "url": "https://www.deakin.edu.au/" },
+      { "name": "Edith Cowan University (ECU)", "url": "https://www.ecu.edu.au/" },
+      { "name": "James Cook University (JCUB)", "url": "https://www.jcu.edu.au/" },
+      { "name": "La Trobe University", "url": "https://www.latrobe.edu.au/" },
+      { "name": "La Trobe University - Sydney", "url": "https://www.latrobe.edu.au/sydney" },
+      { "name": "Macquarie University", "url": "https://www.mq.edu.au/" },
+      { "name": "Monash University / College", "url": "https://www.monash.edu/" },
+      { "name": "Murdoch University", "url": "https://www.murdoch.edu.au/" },
+      { "name": "RMIT (Royal Melbourne Institute of Technology)", "url": "https://www.rmit.edu.au/" },
+      { "name": "SAIBT - University of South Australia (Navitas)", "url": "https://www.saibt.sa.edu.au/" },
+      { "name": "Southern Cross University (SCU)", "url": "https://www.scu.edu.au/" },
+      { "name": "Swinburne University", "url": "https://www.swinburne.edu.au/" },
+      { "name": "Sydney Institute of Business and Technology (SIBT)", "url": "https://www.sibt.nsw.edu.au/" },
+      { "name": "TAFE NSW", "url": "https://www.tafensw.edu.au/" },
+      { "name": "The University of Newcastle", "url": "https://www.newcastle.edu.au/" },
+      { "name": "Torrens University", "url": "https://www.torrens.edu.au/" },
+      { "name": "University of Queensland (UQ)", "url": "https://www.uq.edu.au/" },
+      { "name": "University of Tasmania Sydney (UTAS)", "url": "https://www.utas.edu.au/" },
+      { "name": "University of Technology, Sydney (UTS)", "url": "https://www.uts.edu.au/" },
+      { "name": "University of Western Sydney (WSU)", "url": "https://www.westernsydney.edu.au/" },
+      { "name": "University of Wollongong (UOW)", "url": "https://www.uow.edu.au/" },
+      { "name": "Victorian Institute of Technology (VIT)", "url": "https://www.vit.edu.au/" },
+      { "name": "Victoria University - Melbourne", "url": "https://www.vu.edu.au/" },
+      { "name": "University of Sunshine Coast", "url": "https://www.usc.edu.au/" },
+      { "name": "Australian National University", "url": "https://www.anu.edu.au/" },
+      { "name": "The University of Queensland", "url": "https://www.uq.edu.au/" },
+      { "name": "The University of Western Australia", "url": "https://www.uwa.edu.au/" },
+      { "name": "University of South Australia", "url": "https://www.unisa.edu.au/" },
+      { "name": "The University of Notre Dame Australia", "url": "https://www.notredame.edu.au/" },
+      { "name": "Federation University Australia", "url": "https://federation.edu.au/" },
+      { "name": "Bright College", "url": "#" },
+      { "name": "AIBI College", "url": "#" },
+      { "name": "Alpha College", "url": "#" },
+      { "name": "Connected Institute", "url": "#" },
+      { "name": "Building Institute (NSW)", "url": "#" },
+      { "name": "Australian Learning Institute", "url": "#" },
+      { "name": "Trinity Institute Australia", "url": "#" },
+      { "name": "Astrall Skill Institute Australia", "url": "#" },
+      { "name": "Apex Australia", "url": "#" },
+      { "name": "Reach Community College", "url": "#" },
+      { "name": "Waratah Polytechnic", "url": "#" },
+      { "name": "Australian Academy of Hospitality Management", "url": "#" },
+      { "name": "Kaplan Business School Australia", "url": "https://www.kbs.edu.au/" },
+      { "name": "TAFE NSW", "url": "https://www.tafensw.edu.au/" },
+      { "name": "Kings Own Institute", "url": "https://www.koi.edu.au/" },
+      { "name": "Education Centre of Australia (ECA)", "url": "https://www.eca.edu.au/" },
+      { "name": "Stodds College", "url": "https://www.stotts.edu.au/" },
+      { "name": "TAFE Queensland", "url": "https://tafeqld.edu.au/" },
+      { "name": "UTS College", "url": "https://utscollege.edu.au/" },
+      { "name": "UOW College", "url": "https://www.uowcollege.edu.au/" },
+      { "name": "Stanley College", "url": "https://www.stanleycollege.edu.au/" },
+      { "name": "TAFE SA", "url": "https://www.tafesa.edu.au/" },
+      { "name": "Charles Darwin University International College", "url": "https://www.cdu.edu.au/cdu-international" },
+      { "name": "Deakin College", "url": "https://www.deakincollege.edu.au/" },
+      { "name": "Latrobe College Australia", "url": "https://www.latrobe.edu.au/" },
+      { "name": "Conestoga College", "url": "https://www.conestogac.on.ca/" },
+      { "name": "Confederation College", "url": "https://www.confederationcollege.ca/" },
+      { "name": "ACAP College", "url": "https://www.acap.edu.au/" },
+      { "name": "Academia International", "url": "https://www.academia21.com/" },
+      { "name": "Engineer Institute of Technology", "url": "https://www.eit.edu.au/" },
+      { "name": "Melbourne Institute of Technology (MIT)", "url": "https://www.mit.edu.au/" },
+      { "name": "Insearch UTS", "url": "https://www.insearch.edu.au/" },
+      { "name": "Griffith College (Navitas)", "url": "https://www.griffithcollege.edu.au/" },
+      { "name": "Lead College", "url": "https://www.leadcollege.edu.au/" },
+      { "name": "Griffith College", "url": "https://www.griffithcollege.edu.au/" },
+      { "name": "International College of Management (Sydney)", "url": "https://www.icms.edu.au/" },
+      { "name": "TAFE International Western Australia", "url": "https://www.tafeinternational.wa.edu.au/" },
+      { "name": "Holmes Institute", "url": "https://www.holmes.edu.au/" },
+      { "name": "Swinburne College", "url": "https://www.swinburne.edu.au/" },
+      { "name": "Crown Institute of Higher Education", "url": "https://www.cihe.edu.au/" },
+      { "name": "International Institute of Business and Information Technology", "url": "https://www.iibit.edu.au/" },
+      { "name": "Le Cordon Bleu", "url": "https://www.cordonbleu.edu/" },
+      { "name": "Melbourne Polytechnic", "url": "https://www.melbournepolytechnic.edu.au/" },
+      { "name": "The Université of Adelaide College", "url": "https://college.adelaide.edu.au/" },
+      { "name": "Quality College of Australia", "url": "https://www.qca.edu.au/" },
+      { "name": "Sydney Institute of Business and Technology (SIBT)", "url": "https://www.sibt.nsw.edu.au/" },
+      { "name": "Adelaide Institute of Business and Technology", "url": "https://aibtglobal.edu.au/" },
+      { "name": "Greenwich College", "url": "https://www.greenwichcollege.edu.au/" },
+      { "name": "Curtin College", "url": "https://www.curtincollege.edu.au/" },
+      { "name": "Edith Cowan College", "url": "https://www.edithcowancollege.edu.au/" },
+      { "name": "Equals International", "url": "https://www.equals.edu.au/" },
+      { "name": "The Hotel School of Australia", "url": "https://www.hotelschool.scu.edu.au/" },
+      { "name": "Australian Learning Group", "url": "https://alg.edu.au/" },
+      { "name": "UNSW Global", "url": "https://www.unswglobal.unsw.edu.au/" },
+      { "name": "Academics Australasia Polytechnic", "url": "https://www.aapoly.edu.au/" },
+      { "name": "Kent Institute Australia", "url": "https://kent.edu.au/" },
+      { "name": "Icon Institute of Australia", "url": "https://icon.edu.au/" },
+      { "name": "Skills Australia Institute", "url": "https://sai.edu.au/" },
+      { "name": "Australian Ideal College", "url": "https://idealcollege.edu.au/" },
+      { "name": "Imagine Education Australia", "url": "https://www.imagineeducation.edu.au/" },
+      { "name": "Institute of Health and Nursing Australia", "url": "https://www.ihna.edu.au/" },
+      { "name": "Signet Institute of Australia", "url": "https://signet.edu.au/" },
+      { "name": "ILSC-Australia", "url": "https://www.ilsc.com/" },
+      { "name": "Australian Health & Science Institute", "url": "https://ahsinstitute.edu.au/" },
+      { "name": "Australian National Airline College", "url": "https://www.anacollege.edu.au/" },
+      { "name": "WSU - College", "url": "https://www.westernsydney.edu.au/" },
+      { "name": "Phoneix", "url": "#" },
+      { "name": "Murdoch Institute (MIT)", "url": "https://www.mit.edu.au/" },
+      { "name": "Greystone College Australia", "url": "https://www.greystonecollege.com.au/" },
+      { "name": "Oxford House (OHC) - Australia", "url": "https://www.oxfordhouse.com/" },
+      { "name": "ANGAD Australian Institute of Technology", "url": "https://angad.vic.edu.au/" },
+      { "name": "Australian National Education (ANE)", "url": "https://www.ane.edu.au/" },
+      { "name": "Australian Technical College Western", "url": "https://www.atcwa.edu.au/" },
+      { "name": "Australian International High School Pty Ltd", "url": "https://www.aihs.edu.au/" },
+      { "name": "Skills Training Australia", "url": "https://skillstraining.edu.au/" },
+      { "name": "Australian Harbour International College", "url": "https://www.ahic.edu.au/" },
+      { "name": "Australian Science and Mathematics School", "url": "https://www.asms.sa.edu.au/" },
+      { "name": "Australian Skills Group", "url": "https://asgroup.com.au/" },
+      { "name": "Kaplan International English - Australia", "url": "https://www.kaplaninternational.com/" },
+      { "name": "Texila College Australia", "url": "#" },
+      { "name": "Australian Centre of English", "url": "https://www.australiancentreofenglish.com.au/" },
+      { "name": "Australian Childcare Career Options", "url": "https://www.acco.edu.au/" },
+      { "name": "Australian College of Management and Innovation", "url": "https://acmi.edu.au/" },
+      { "name": "Australian College of Technology Pty Ltd", "url": "https://act.edu.au/" },
+      { "name": "Australian Institute of Electro Technology", "url": "https://aite.edu.au/" },
+      { "name": "Australian Institute of Technical Training", "url": "https://aitt.edu.au/" },
+      { "name": "Australian International College", "url": "https://aic.edu.au/" },
+      { "name": "Australian National Airline College", "url": "https://www.anacollege.edu.au/" },
+      { "name": "Australian National Institute of Education", "url": "https://anie.edu.au/" },
+      { "name": "Australian Skills Management Institute", "url": "https://asmi.edu.au/" },
+      { "name": "Australian Sovereign College", "url": "#" },
+      { "name": "International Sport College of Australia", "url": "https://iscaustralia.edu.au/" },
+      { "name": "Salisbury College Australia", "url": "https://salisburycollege.com.au/" },
+      { "name": "Blue Mountain Hotel School", "url": "https://www.bluemountains.edu.au/" },
+      { "name": "Canterbury Intstitute of Technology (USQ Sydney)", "url": "https://www.canterbury.ac.nz/" },
+      { "name": "Canterbury Education Group (CLA, CBC, CTI)", "url": "https://www.canterbury.ac.nz/" },
+      { "name": "Chisholm Institute", "url": "https://www.chisholm.edu.au/" },
+      { "name": "Deakin College (Navitas)", "url": "https://www.deakincollege.edu.au/" },
+      { "name": "Excelsia College", "url": "https://excelsia.edu.au/" },
+      { "name": "Engineering Institute of Technology", "url": "https://www.eit.edu.au/" },
+      { "name": "Eyensbury", "url": "#" }
+    ]
+  },
+  "proHeroSection": {
+    "imageSrc": "/1001_Team.webp", 
+    "title": "Professional",
+    "highlightText": "Year Plan",
+    "height": "h-96"
+  },
+  "professionalYearPrograms": {
+    "title": "PROFESSIONAL",
+    "highlightText": "YEAR PROGRAMS",
+    "content": "The Professional Year Program (PYP) offers former international students, who have graduated from a university in Australia, an introduction to their respective occupation and relevant practical training. Australian Internships provides the practical component of the Professional Year Program (PYP) and has been approved by the accrediting bodies authorised by the Department of Immigration and Boarder Protection (DIBP).",
+    "imageSrc": "/study.jpg"  
+  },
+  "educationCentre": {
+    "title": "EDUCATION CENTRE OF",
+    "highlightText": "AUSTRALIA",
+    "content": "The Education Centre of Australia (ECA) is one of the leading affordable private education providers in Australia with multiple campuses in Sydney, Brisbane and Melbourne. As a growing network of colleges, we are looking for ways to ensure your time with ECA provides you with the quality of education, practical skills and project-based hands-on learning. The pathways programs and internships we offer take students from classroom to career. Our modern multicultural learning environments provide an excellent place for growing minds.",
+    "imageSrc": "/eca-img.jpg" 
+  },
+  "performanceEducation": {
+    "title": "PERFORMANCE",
+    "highlightText": "EDUCATION",
+    "content": "As The Graduate Employability Experts, Performance Education Group changes lives by helping people achieve career success through learning and access to Australia’s best employment connections. Established in 2006 to improve the careers of young professionals in Australia, we are now a leader in this space, developing much-needed employability skills including; professional business communication, workplace readiness, Work Integrated Learning (WIL) programs and career skills. We ensure that each and every student is given the best possible training and support to achieve their career goals.",
+    "imageSrc": "/Performance-Education.webp" 
+  },
+  "atmcProfessionalYear": {
+    "title": "ATMC",
+    "highlightText": "PROFESSIONAL YEAR",
+    "content": "Have you finished your degree but want to gain additional technical skills and knowledge to establish your career in Australia? Now you can kick-start your career with help from the Professional Year Program with ATMC. ATMC offers Professional Year programs through the Australian Computer Society (ACS) for information technology graduates and accounting programs through the Accounting PYP. The Professional Year (PY) Program is specifically designed for international students who have graduated from an Australian university and are looking for a successful pathway from university to employment and residency in Australia.",
+    "imageSrc": "/ATMC-Professional-Year-768x538.webp" 
+  },
+  "migrationHeroSection": {
+    "title": "MIGRATION",
+    "highlightText": ""
+  },
+  "visaOptions": {
+    "title": "VISA",
+    "highlightText": "OPTIONS",
+    "visitorVisa": {
+      "title": "Visitor Visa",
+      "description": "You might come to Australia for reasons such as holidays, sightseeing, social or recreational reasons, to visit relatives, friends."
+    },
+    "skilledVisa": {
+      "title": "Skilled Visa",
+      "description": "General Skilled Migration (GSM) or Skilled Visas is for people who want to live and work in Australia on a temporary or permanent basis."
+    },
+    "sponsoredVisa": {
+      "title": "Sponsored Visa",
+      "description": "Employer Sponsored Visas are for employers who cannot fill a position with an Australian worker or by training Australian workers."
+    },
+    "studentVisa": {
+      "title": "Student Visa",
+      "description": "There is one student visa class (TU) with eight visa subclasses. Seven of the visa subclasses relate to specific educational sectors and one relates to student guardians."
+    },
+    "partnerVisa": {
+      "title": "Partner Visa",
+      "description": "A partner visa is for people who are married, engaged, or in a de facto relationship with an Australian citizen or eligible New Zealand citizen and want to live in Australia."
+    },
+    "aatFederalCourt": {
+      "title": "AAT & Federal Court",
+      "description": "We have a team of professional lawyers and solicitors. If you have major issues, please contact us and we will be able to solve your complex migration problems."
+    }
+  },
+  "visaSpecialisations": {
+    "title": "VISAS WE",
+    "highlightText": "SPECIALISE IN",
+    "temporarySkillShortageVisa": {
+      "title": "Temporary Skill Shortage Visa",
+      "subclass": "Subclass 482"
+    },
+    "trainingVisa": {
+      "title": "Training Visa",
+      "subclass": "Subclass 407"
+    },
+    "skilledIndependentVisa": {
+      "title": "Skilled Independent Visa",
+      "subclass": "Subclass 189"
+    },
+    "skilledNominatedVisa": {
+      "title": "Skilled Nominated Visa",
+      "subclass": "Subclass 190"
+    },
+    "skilledWorkRegionalVisa": {
+      "title": "Skilled Work Regional Visa",
+      "subclass": "Subclass 491"
+    },
+    "sponsoredJobs": {
+      "title": "Sponsored Jobs",
+      "subclass": ""
+    }
+  },
+  "faqAccordion": {
+    "title": "Frequently Asked",
+    "highlightText": "Questions",
+    "howDoIFindOutIfIAmEligibleToApply": {
+      "title": "HOW DO I FIND OUT IF I AM ELIGIBLE TO APPLY?",
+      "content": "Please click here for a summary of the current Australian immigration regulations. Then take a FREE initial check of your eligibility to be referred to a MARA Registered Migration Agent."
+    },
+    "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+      "title": "HOW LONG DOES IT TAKE TO GET A PERMANENT RESIDENCE VISA TO IMMIGRATE TO AUSTRALIA?",
+      "content": "Every application is different and processing times largely depend on the type of visa being applied for. For the most recent guidelines for Australian visa processing times, see Global visa and citizenship processing times on the Department of Immigration and Border Protection website."
+    },
+    "canTheImmigrationAuthoritiesRefuseMyApplication": {
+      "title": "CAN THE IMMIGRATION AUTHORITIES REFUSE MY APPLICATION?",
+      "content": "Yes. A surprisingly large number of applicants are unaware how strictly the immigration regulations are enforced and are often unnecessarily refused or delayed due to technical errors on their application or by submitting the wrong supporting documentation. So the moral of the story is to consider seeking the professional guidance and independent advice of a MARA Registered Migration Agent before lodging an application for residence. Migration Agents exist to help you find the best way through the immigration maze and are highly effective in doing so."
+    },
+    "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+      "title": "WILL THE IMMIGRATION AUTHORITIES OR EMBASSY HELP ME TO PREPARE MY APPLICATION AND MAKE SURE THAT EVERYTHING IS CORRECT BEFORE APPLYING?",
+      "content": "No. This type of service is no longer provided by Government. The authorities exist to enforce the immigration law, make decisions on residence applications and to issue residence visas. Although basic information and application forms are available, the authorities are unable to provide independent advice and personalized guidance on your specific case. An Australian Registered Migration Agent can provide this kind of service."
+    },
+    "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+      "title": "MY MIGRATION AGENT HAS ASSESSED ME AS BEING ELIGIBLE FOR RESIDENCE IN AUSTRALIA. IF I APPLY WITHOUT HIS OR HER HELP, CAN I BE CERTAIN OF SUCCESS?",
+      "content": "No. Although you may fundamentally qualify under the immigration policy, you are by no means guaranteed of success. Your application must be prepared in accordance with the prevailing immigration regulations and submitted together with the appropriate supporting documentation in order to be approved by the immigration authorities. The ways in which to do this are not always clearly set out by the immigration authorities and result in many applicants presenting their cases incorrectly, inevitably leading to refusal. So you should consider seeking the advice of a MARA Registered Migration Agent."
+    },
+    "cta": "GET A FREE INITIAL ASSESSMENT OF YOUR ELIGIBILITY"
+  },
+  "temporarySkilledVisaData": {
+    "hero": {
+      "title": "TEMPORARY SKILL SHORTAGE (TSS) VISA",
+      "highlightText": "SUBCLASS 482"
+    },
+    "title": "ABOUT THIS VISA",
+    "description": "The Temporary Work Visa (Subclass 457) has been replaced by the Temporary Skill Shortage (TSS) Visa Subclass 482 on 18 March 2018. This visa enables employers to address labour shortages by bringing in skilled workers where employers can’t source an appropriately skilled Australian worker.",
+    "section1": {
+      "heading": "HOW DO I QUALIFY FOR THE TEMPORARY SKILL SHORTAGE (TSS) SUBCLASS 482 VISA?",
+      "subSections": [
+        {
+          "subHeading": "Eligibility for the Temporary Skill Shortage (TSS) Visa Subclass 482:",
+          "details": [
+            {
+              "title": "i) Short Term Stream:",
+              "content": "This stream is available if an employer wishes to sponsor an overseas skilled worker on a temporary basis only in occupations listed on the Short-term Skilled Occupation list (STSOL) for a TSS visa. It can be used to fill positions for a maximum of two years or four years if an International Trade Obligation (ITO) applies."
+            },
+            {
+              "title": "ii) Medium Term Stream:",
+              "content": "This visa enables employers to address labour shortages by bringing in skilled workers where employers can’t source an appropriately skilled Australian worker."
+            },
+            {
+              "title": "iii) Labour Agreement Stream:",
+              "content": "This visa is for skilled workers nominated by employers who have a Labour Agreement. It lets you live and work in Australia temporarily. Labour agreements are developed between the Australian Government (represented by the Department) and employers."
+            }
+          ]
+        }
+      ]
+    },
+    "section2": {
+      "heading": "What are the eligibility requirements to apply for a Temporary Skill Shortage visa (subclass 482)?",
+      "listItems": [
+        "You have an occupation on the Consolidated Skilled Occupations list",
+        "You have been nominated for a job position by an Australian employer that wants to recruit you to work for them",
+        "You have the relevant skills and qualifications for your occupation",
+        "You have at least two (2) years of work experience in your occupation",
+        "You have vocational English language ability",
+        "You can satisfy DHA requirements for good character and health",
+        "If you are in Australia, you have a substantive visa, or a bridging visa A, B, or C and you have complied with your visa condition."
+      ],
+      "note": "Note: There is no age requirement for the TSS visa."
+    },
+    "section3": {
+      "heading": "What are the general requirements for employers to apply for a Temporary Skill Shortage visa (subclass 482)?",
+      "listItems": [
+        "Be a lawfully operating business",
+        "Have no adverse information against the business",
+        "Nominate a job position for the foreign national worker that is full-time and genuine",
+        "Satisfy salary and employment condition related requirements",
+        "Provide evidence of Labour Market Testing if required"
+      ]
+    },
+    "section4": {
+      "heading": "How do I apply for the Temporary Skill Shortage (TSS) Subclass 482 Visa?",
+      "content": "Before you can apply for a TSS visa, your proposed employer will need to lodge a nomination application for you. They will only be able to do this if they are an approved sponsor or have at least lodged an application to become a standard business sponsor. If your employer is still an approved 457 sponsor then they can sponsor you for a TSS (Subclass 482) under that existing sponsorship. Sponsors also need to evidence mandatory labour market testing to show that they cannot employ an Australian into the position."
+    },
+    "section5": {
+      "heading": "What this visa will allow you to do?",
+      "content": "This visa allows you to travel to and from Australia for the duration of your visa and:",
+      "listItems": [
+        "If you are the primary visa holder, to work in Australia for an approved sponsor in your nominated occupation",
+        "If you are a family member, to work and study in Australia"
+      ]
+    }
+  },
+  "trainingVisa": {
+    "title": "ABOUT THIS VISA",
+    "description": "The Training visa subclass 407 is a temporary visa...",
+    "qualifyTitle": "HOW DO I QUALIFY FOR THE TRAINING SUBCLASS 407 VISA?",
+    "qualifyDescription": "To be eligible for the training visa you must:",
+    "qualifyList": [
+      "be sponsored by an approved sponsor...",
+      "have been nominated for an approved occupation position...",
+      "...",
+      "be a genuine temporary entrant"
+    ],
+    "subQualifyList": [
+      "Subclass 403 Temporary Work Visa...",
+      "Subclass 771 Transit Visa...",
+      "Special Purpose Visa"
+    ],
+    "allowTitle": "WHAT THIS VISA WILL ALLOW YOU TO DO",
+    "allowDescription": "This is a temporary visa which allows the holder to:",
+    "allowList": [
+      "Temporarily live in Australia...",
+      "Leave and re-enter Australia...",
+      "Bring eligible family members..."
+    ],
+    "conditionTitle": "CONDITION",
+    "conditionDescription": "The visa is subject to condition 8102...",
+    "workConditionTitle": "WORK CONDITION",
+    "workConditionDescription": "You can only work for your sponsor...",
+    "healthInsuranceTitle": "HEALTH INSURANCE",
+    "healthInsuranceDescription": "You must also maintain your health insurance...",
+    "locationTitle": "LOCATION",
+    "locationDescription": "The application must be lodged online...",
+    "familyMembersTitle": "FAMILY MEMBERS",
+    "familyMembersDescription": "Family members (spouses and children) can be included..."
+  },
+  "trainingVisaHero": {
+    "title": "TRAINING VISA",
+    "highlightText": "SUBCLASS 407"
+  },
+  "skilledWorkRegionalVisaHero": {
+    "title": "SKILLED WORK REGIONAL VISA",
+    "highlightText": "SUBCLASS 491"
+  },
+  "visaDetails": {
+    "aboutTitle": "ABOUT THIS VISA",
+    "aboutDescription1": "The Skilled Work Regional Visa Subclass 491 was introduced by the Department of Home Affairs (DHA) on 16th November, 2019, replacing the previous visa Subclass 489. This visa allows skilled workers to live and work in a designated regional area of Australia for up to 5 years.",
+    "aboutDescription2": "State/Territory nomination for this visa provides you with 15 additional points to help meet the Department of Home Affairs points test pass mark of 65 points.",
+    "aboutDescription3": "If anyone is nominated by the State or Territory Government for this visa, they must live in that State/Territory for the period of the entire visa. They will be able to lodge a Subclass 191 Visa application if they have lived and worked in a regional area for three years and should have a minimum salary of $53,900 per annum. Once a permanent residence visa is granted, they can live anywhere in Australia. You cannot start living anywhere in Australia before Subclass 191 Visa is granted.",
+    "aboutDescription4": "If they wish to apply for this SC 491 visa, they must first obtain a positive skills assessment from their nominated occupation, and then lodge an Expression of Interest & State or Territory nomination application. If this is successful, they will be invited to lodge a visa application.",
+    "qualifyTitle": "HOW DO I QUALIFY FOR A SUBCLASS 190 VISA?",
+    "qualifyDescription": "At the time that you are invited to apply for this visa, you must:",
+    "qualifyList": [
+      "Be under 45 years of age",
+      "Nominate an occupation that is included on the relevant Occupation List (MLTSSL)",
+      "Lodge an EOI and receive an invitation",
+      "Meet the points test pass mark of 65 points",
+      "Be sponsored by a relative living in a designated area or State/territory",
+      "Have Competent English or higher depending on the points you have",
+      "Meet health and character requirements"
+    ],
+    "visaAllowsTitle": "WHAT THIS VISA ALLOWS YOU TO DO:",
+    "visaAllowsDescription": "The Subclass 491 visa provides the holder with temporary residency in Australia, with conditions.",
+    "visaAllowsList": [
+      "The holder can live, work and study in a specified region of Australia for 5 years from the visa grant date",
+      "The holder can travel freely to and from Australia while the visa is valid",
+      "The holder may have the opportunity to apply for permanent residency through the Permanent Residence Skilled Regional Visa Subclass 191, which will commence on 16 November 2022."
+    ],
+    "applyTitle": "CAN ANYONE APPLY IN AUSTRALIA OR OVERSEAS?",
+    "applyDescription": "Anyone can either be onshore or offshore to apply for this visa. If they are onshore, they need to have a valid visa before applying for this or a bridging visa A, B or C. Once applied, they will be given a bridging visa until the decision of your file comes up, allowing them to stay in Australia until then.",
+    "durationTitle": "DURATION AND CONDITIONS",
+    "durationDescription": "This is a 5-year provisional visa allowing the holder and their dependents to live, work or study in any regional or low populated areas. The approved regional areas vary depending on whether they are sponsored by a relative or by a State or Territory Government:",
+    "durationList": [
+      {
+        "label": "State or Territory Government:",
+        "content": "They can only live in a Regional or Low Population Growth Area"
+      },
+      {
+        "label": "Relative:",
+        "content": "They can live in a Designated Area"
+      }
+    ],
+    "applyHowTitle": "HOW DO I APPLY FOR A SUBCLASS 190 VISA?",
+    "applyHowDescription": "Anyone who wishes to apply for this visa MUST first be INVITED to lodge an application by the Department of Immigration. In order to qualify for an invitation, you must lodge an 'Expression of Interest' (EOI), which sets out how you meet the requirements for this visa.",
+    "initialEligibilityTitle": "STAGE 1: INITIAL ELIGIBILITY:",
+    "initialEligibilityDescription": "The first step that we will take is to conduct an initial assessment of your eligibility for this visa. This involves reviewing your qualifications, work experience, English language and other circumstances, to establish whether or not you are likely to meet the relevant requirements.",
+    "skillsAssessmentTitle": "STAGE 2: SKILLS ASSESSMENT",
+    "skillsAssessmentDescription": "Should our initial assessment indicate that you are eligible for a positive skills assessment and EOI, we will prepare your skills assessment application.",
+    "expressionOfInterestTitle": "STAGE 3: EXPRESSION OF INTEREST (EOI)",
+    "expressionOfInterestDescription": "Once you have received a positive skills assessment from the skills assessing authority, we will prepare and lodge your EOI. Although you do not need to provide supporting documents at this stage, you MUST be able to provide evidence that the information supplied in the EOI is correct at the time that you are invited to apply for the visa.",
+    "visaApplicationTitle": "STAGE 4: VISA APPLICATION",
+    "visaApplicationDescription": "Once the Department of Immigration has invited you to apply for this visa, we will prepare and lodge your visa application within the specified time frame, together with all of the documents that support the information that you provided in your EOI.",
+    "otherRequirementsTitle": "OTHER REQUIREMENTS",
+    "healthTitle": "HEALTH",
+    "healthDescription": "Main applicant and all of the family members must meet health requirements.",
+    "characterTitle": "CHARACTER",
+    "characterDescription": "You must be of good character. You might be asked to provide police certificates for each country you have lived in for 12 months or more, over the last 10 years (calculated immediately before the time the visa application is lodged), since turning 16 years of age.",
+    "locationTitle": "LOCATION",
+    "locationDescription": "You can be in or outside Australia when you apply for the visa and when a decision is made.",
+    "debtsTitle": "DEBTS",
+    "debtsDescription": "You must have repaid, or have arranged to repay, any outstanding debts to the Australian government.",
+    "visaCancelledTitle": "VISA CANCELLED OR REFUSED",
+    "visaCancelledDescription": "You might not be eligible to apply for this visa if you have had a visa cancelled or refused while you were in Australia.",
+    "processingTimeTitle": "PROCESSING TIME",
+    "processingTimeDescription": "6-12 Months.",
+    "processingNote": "PLEASE NOTE: The actual time taken by the Department of Immigration to approve an application and grant a visa varies from case to case depending upon an applicant's particular circumstances, and the amount of supporting information that the Department requires."
+  },
+  "skilledMigrationHeroSection": {
+    "skilledNominatedVisaTitle": "SKILLED NOMINATED VISA",
+    "subclass190": "SUBCLASS 190"
+  },
+  "aboutVisa": {
+    "aboutTitle": "ABOUT THIS VISA",
+    "aboutDescription1": "The Skilled Nomination Visa Subclass 190 is a permanent visa, which allows skilled workers to live in Australia, based on nomination by an Australian State or Territory Government.",
+    "aboutDescription2": "Applicants must be skilled workers who are qualified and experienced to fill Australia’s current skill shortages, based on the Consolidated Sponsored Occupation List (CSOL), and migrate to Australia.",
+    "aboutDescription3": "To be eligible for this visa, applicants must receive nomination from an Australian State or Territory Government.",
+    "aboutDescription4": "State/Territory nomination for this visa provides you with 5 additional points to help meet the Department of Home Affairs points test pass mark of 65 points.",
+    "aboutDescription5": "If you are nominated by the State or Territory Government for this visa, you must live in that State/Territory for the period of two years after the visa has been granted.",
+    "aboutDescription6": "If you wish to apply for this visa, you must first obtain a positive skills assessment from your nominated occupation, and then lodge an Expression of Interest & State or Territory nomination application. If this is successful, you will be invited to lodge a visa application.",
+    "qualifyTitle": "HOW DO I QUALIFY FOR A SUBCLASS 190 VISA?",
+    "qualifyDescription": "At the time that you are invited to apply for this visa, you must:",
+    "qualifyList": [
+      "Be under 45 years of age",
+      "Nominate an occupation that is included on the relevant Occupation List (MLTSSL)",
+      "Lodge an EOI and receive an invitation",
+      "Meet the points test pass mark of 65 points",
+      "Have competent English or higher depending on the points you have",
+      "This option requires sponsorship by a relative or State/Territory Government"
+    ],
+    "visaAllowsTitle": "WHAT THIS VISA ALLOWS YOU TO DO:",
+    "visaAllowsDescription": "Once granted, the Skilled Nomination Visa is a permanent visa which allows the applicant and accompanying family members to:",
+    "visaAllowsList": [
+      "Live and work anywhere in Australia indefinitely, with no restrictions",
+      "Study in Australia, with access to subsidised education",
+      "Access to Medicare",
+      "Apply for Australian citizenship (after meeting appropriate requirements)",
+      "Be able to sponsor family members for certain visas",
+      "Apply for social security payments",
+      "Travel in and out of Australia for 5 years"
+    ],
+    "visaAllowsNote": "Note: Although the visa is granted based on the holder being skilled in a specific occupation, once granted the holder is not required to seek or maintain employment in this occupation.",
+    "applyTitle": "CAN ANYONE APPLY IN AUSTRALIA OR OVERSEAS?",
+    "applyDescription1": "Anyone can either be onshore or offshore to apply for this visa. If he/she is onshore, he/she needs to have a valid visa before applying for this or a bridging visa A, B or C. Once applied, he/she will be given a bridging visa until the decision of your file comes up, allowing him to stay in Australia until then.",
+    "applyDescription2": "An applicant can include his/her family members while lodging this visa.",
+    "applyDescription3": "The following can be added:",
+    "applyList": [
+      "Spouses, De facto partners, and same-sex partners",
+      "Dependent children",
+      "Other dependent family members – e.g. parents who live with you and are financially dependent"
+    ],
+    "applyProcessTitle": "HOW DO I APPLY FOR A SUBCLASS 190 VISA?",
+    "stage1Title": "STAGE 1: INITIAL ELIGIBILITY:",
+    "stage1Description1": "The first step that we will take is to conduct an initial assessment of your eligibility for this visa. This involves reviewing your qualifications, work experience, English language and other circumstances, to establish whether or not you are likely to meet the relevant requirements.",
+    "stage1Description2": "As part of this initial eligibility assessment, we will consider which MLTSSL occupation(s) you are likely to be able to nominate, and whether or not you are potentially eligible for a positive skills assessment from the relevant assessing authority for that occupation.",
+    "stage1Description3": "We will then provide you with informed and comprehensive advice about your ability to meet the minimum standards that the Department of Immigration requires migrants to fulfil, in order to qualify for an invitation to apply for this visa.",
+    "stage1Note": "Note: Our initial assessment of your eligibility does not guarantee that you will (or will not) in fact obtain a positive skills assessment, or be issued an invitation to apply for this visa. In particular, whether or not the Department of Immigration issues you with an invitation will depend upon how your points test score compares to the scores of other potential applicants, and whether or not the Department of Immigration deems your nominated occupation to be required in Australia.",
+    "stage2Title": "STAGE 2: SKILLS ASSESSMENT",
+    "stage2Description1": "Should our initial assessment indicate that you are eligible for a positive skills assessment and EOI, we will prepare your skills assessment application.",
+    "stage2Description2": "For each skilled occupation listed on the MLTSSL, the Department of Immigration has specified an assessing authority that may carry out skills assessments for that occupation. Only a skills assessment conducted by the relevant assessing authority will be accepted by the Department of Immigration in support of an EOI. We will provide you with a full list of the information and documents required to support your application. When you have provided the necessary details and documents, along with the required assessment fee, we will lodge your application with the applicable skills assessing authority.",
+    "stage2Description3": "Once you have received a positive skills assessment from the skills assessing authority, we will prepare and lodge your EOI. Although you do not need to provide supporting documents at this stage, you MUST be able to provide evidence that the information supplied in the EOI is correct at the time that you are invited to apply for the visa.",
+    "stage3Title": "STAGE 3: EXPRESSION OF INTEREST (EOI)",
+    "stage3Description1": "Once you have received a positive skills assessment from the skills assessing authority, we will prepare and lodge your EOI. Although you do not need to provide supporting documents at this stage, you MUST be able to provide evidence that the information supplied in the EOI is correct at the time that you are invited to apply for the visa.",
+    "stage3Description2": "You will subsequently receive a result and points score from the Department of Immigration, which is used to rank you against other applicants who have lodged EOIs for this visa. The ranking is based partially on whether or not your occupation is a skill that Australia requires at the time your EOI is assessed. If your EOI is successful, you will be invited to lodge a visa application.",
+    "stage3Description3": "Note: The Department of Immigration retains an EOI for 2 years from the date that it is lodged. During this time, your EOI can be updated if any of your circumstances change (e.g. you obtain a new qualification or skills assessment). If your ranking changes during this 2-year period, based on either your changing circumstances or Australia’s changing skill needs, you may be issued with an invitation to apply for the visa at that point in time.",
+    "stage4Title": "STAGE 4: VISA APPLICATION",
+    "stage4Description1": "Once the Department of Immigration has invited you to apply for this visa, we will prepare and lodge your visa application within the specified time frame, together with all of the documents that support the information that you provided in your EOI. This includes your skills assessment, English language test results, qualifications, work references and all other required documents. Should your visa application be approved, you will be granted a permanent visa. You may be either in Australia or overseas when your visa is granted.",
+    "otherRequirementsTitle": "OTHER REQUIREMENTS",
+    "healthTitle": "HEALTH",
+    "healthDescription": "Main applicant and all of the family members must meet health requirements.",
+    "characterTitle": "CHARACTER",
+    "characterDescription1": "You must be of good character. You might be asked to provide police certificates for each country you have lived in for 12 months or more, over the last 10 years (calculated immediately before the time the visa application is lodged), since turning 16 years of age.",
+    "characterDescription2": "Police Certificate is valid for 12 months for the immigration purpose. If you have a substantial criminal record, you cannot pass the character test. For example, You have been sentenced to 12 months or more in prison.",
+    "locationTitle": "LOCATION",
+    "locationDescription": "You can be in or outside Australia when you apply for the visa and when a decision is made.",
+    "debtsTitle": "DEBTS",
+    "debtsDescription": "You must have repaid, or have arranged to repay, any outstanding debts to the Australian government.",
+    "visaCancelledTitle": "VISA CANCELLED OR REFUSED",
+    "visaCancelledDescription": "You might not be eligible to apply for this visa if you have had a visa cancelled or refused while you were in Australia.",
+    "processingTimeTitle": "PROCESSING TIME",
+    "processingTime": "6 MONTHS",
+    "processingTimeNote": "PLEASE NOTE: The actual time taken by the Department of Immigration to approve an application and grant a visa varies from case to case depending upon an applicant’s particular circumstances, and the amount of supporting information that the Department requires."
+  },
+  "tempTrainingVisa": {
+    "title": "TEMPORARY GRADUATE VISA",
+    "highlightText": "SUBCLASS 407"
+  },
+  "visaInfo": {
+    "aboutTitle": "ABOUT THIS VISA",
+    "aboutDescription": "The Temporary Graduate Subclass 485 Visa is a temporary visa for International students, who have recently graduated from an Australian educational institution.",
+    "qualifyTitle": "HOW DO I QUALIFY FOR A SUBCLASS 190 VISA?",
+    "qualifyDescription": "At the time that you are invited to apply for this visa, you must:",
+    "qualifyList": [
+      "Be under 45 years of age",
+      "Nominate an occupation that is included on the relevant Occupation List (MLTSSL)",
+      "Lodge an EOI and receive an invitation",
+      "Meet the points test pass mark of 65 points",
+      "Be sponsored by a relative living in a designated area or State/territory",
+      "Have Competent English or higher depending on the points you have",
+      "Meet health and character requirements"
+    ],
+    "whatThisVisaAllowsTitle": "WHAT THIS VISA ALLOWS YOU TO DO:",
+    "whatThisVisaAllowsDescription": "The Subclass 491 visa provides the holder with temporary residency in Australia, with conditions.",
+    "whatThisVisaAllowsList": [
+      "The holder can live, work and study in a specified region of Australia for 5 years from the visa grant date",
+      "The holder can travel freely to and from Australia while the visa is valid",
+      "The holder may have the opportunity to apply for permanent residency through the Permanent Residence Skilled Regional Visa Subclass 191, which will commence on 16 November 2022"
+    ],
+    "applyTitle": "CAN ANYONE APPLY IN AUSTRALIA OR OVERSEAS?",
+    "applyDescription": "Anyone can either be onshore or offshore to apply for this visa. If he/she is onshore, he/she needs to have a valid visa before applying for this or a bridging visa A, B, or C. Once applied, he/she will be given a bridging visa until the decision of your file comes up, allowing him to stay in Australia until then.",
+    "durationConditionsTitle": "DURATION AND CONDITIONS",
+    "durationConditionsDescription": "This is a 5-year provisional visa allowing him and his/her dependents to live, work or study in any regional or low populated areas. The approved regional areas vary depending on whether s/he is sponsored by a relative or by a State or Territory Government:",
+    "durationConditionsList": [
+      "<strong>State or Territory Government:</strong> s/he can only live in a Regional or Low Population Growth Area",
+      "<strong>Relative:</strong> S/He can live in a Designated Area"
+    ],
+    "stage1Title": "HOW DO I APPLY FOR A SUBCLASS 190 VISA?",
+    "stage1Description": "The first step that we will take is to conduct an initial assessment of your eligibility for this visa. This involves reviewing your qualifications, work experience, English language and other circumstances, to establish whether or not you are likely to meet the relevant requirements.",
+    "stage2Title": "STAGE 2: SKILLS ASSESSMENT",
+    "stage2Description": "Should our initial assessment indicate that you are eligible for a positive skills assessment and EOI, we will prepare your skills assessment application.",
+    "stage3Title": "STAGE 3: EXPRESSION OF INTEREST (EOI)",
+    "stage3Description": "Once you have received a positive skills assessment from the skills assessing authority, we will prepare and lodge your EOI.",
+    "stage4Title": "STAGE 4: VISA APPLICATION",
+    "stage4Description": "Once the Department of Immigration has invited you to apply for this visa, we will prepare and lodge your visa application within the specified time frame, together with all of the documents that support the information that you provided in your EOI. Should your visa application be approved, you will be granted a permanent visa. You may be either in Australia or overseas when your visa is granted.",
+    "otherRequirementsTitle": "OTHER REQUIREMENTS",
+    "healthTitle": "HEALTH",
+    "healthDescription": "Main applicant and all of the family members must meet health requirements.",
+    "characterTitle": "CHARACTER",
+    "characterDescription": "You must be of good character. You might be asked to provide police certificates for each country you have lived in for 12 months or more, over the last 10 years (calculated immediately before the time the visa application is lodged), since turning 16 years of age. Police Certificate is valid for 12 months for the immigration purpose. If you have a substantial criminal record, you cannot pass the character test. For example, You have been sentenced to 12 months or more in prison.",
+    "locationTitle": "LOCATION",
+    "locationDescription": "You can be in or outside Australia when you apply for the visa and when a decision is made.",
+    "debtsTitle": "DEBTS",
+    "debtsDescription": "You must have repaid, or have arranged to repay, any outstanding debts to the Australian government.",
+    "visaCancelledRefusedTitle": "VISA CANCELLED OR REFUSED",
+    "visaCancelledRefusedDescription": "You might not be eligible to apply for this visa if you have had a visa cancelled or refused while you were in Australia.",
+    "processingTimeTitle": "PROCESSING TIME",
+    "processingTimeDescription": "6-12 Months. PLEASE NOTE: The actual time taken by the Department of Immigration to approve an application and grant a visa varies from case to case depending upon an applicant’s particular circumstances, and the amount of supporting information that the Department requires."
+  },
+  "home": {
+    "heroSection": {
+      "title": "Sponsored Jobs",
+      "highlightText": ""
+    }
+  },
+  "fiveSteps": {
+    "title": "Five Easy Steps To Live The Australian Dream",
+    "highlightText": "Australian",
+    "description": "Discover how the Skills Shortage Recruitment Process has helped international candidates like you live the Australian Dream."
+  },
+  "home1": {
+    "migrationHeroSection": {
+      "title": "SKILLED INDEPENDENT VISA",
+      "highlightText": "SUBCLASS 189"
+    }
+  },
+  "home2": {
+    "title": "Sponsored Jobs",
+    "highlightText": ""
+  },
+  "pointCalc": {
+    "otherUsefulLinks": "Other Useful Links",
+    "migration": "Migration",
+    "tssVisa": "Temporary Skill Shortage (TSS) Visa - Subclass 482",
+    "trainingVisa": "Training Visa - Subclass 407",
+    "independentVisa": "Skilled Independent Visa - Subclass 189",
+    "nominatedVisa": "Skilled Nominated Visa - Subclass 190",
+    "regionalVisa": "Skilled Work Regional Visa - Subclass 491",
+    "sponsoredJobs": "Sponsored Jobs"
+  },
+  "appointmentForm": {
+    "appointmentSchedule": "Appointment Schedule",
+    "personalInformation": "Personal Information",
+    "appointmentScheduleTitle": "Appointment Schedule",
+    "phoneConsultation": "Phone or Online Consultation",
+    "faceConsultation": "Face to Face Consultation",
+    "professionalDevelopment": "Professional Development - RPL",
+    "migrationTeam": "Migration Team",
+    "admissionTeam": "Admission Team",
+    "chooseDateTime": "Choose Date & Time",
+    "chooseDate": "Choose Date",
+    "chooseTime": "Choose Time",
+    "next": "Next",
+    "personalInformationTitle": "Personal Information",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "email": "Email",
+    "phoneNumber": "Phone Number",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "submitting": "Submitting...",
+    "successMessage": "Appointment scheduled successfully!",
+    "errorMessage": "Error scheduling appointment"
+  },
+  "contactForm": {
+    "contactTitle": "Do not Hesitate to <span class='text-red-500'>Contact Us</span>",
+    "yourName": "Your Name",
+    "yourEmail": "Your Email",
+    "yourPhone": "Your Phone",
+    "typeMessage": "Type message",
+    "sendMessage": "Send Message",
+    "sending": "Sending...",
+    "successMessage": "Email sent successfully!",
+    "errorMessage": "Error sending email"
+  },
+  "heroSectionCon": {
+    "contactUsTitle": "Don't Hesitate to",
+    "contactUsHighlightText": " Contact Us"
+  },
+  "heroSectionBook": {
+    "contactUsTitle": "Book an Appointment",
+    "contactUsHighlightText": ""
+  }
+}

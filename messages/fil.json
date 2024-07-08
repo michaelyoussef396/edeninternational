@@ -1,0 +1,1004 @@
+{
+    "hero": {
+      "slide1": {
+        "subtitle": "Student Visa",
+        "description": "Ang mga student visa ay non-immigrant visas at hindi nangangailangan ng aplikante na maging mamamayan.",
+        "image": "/hero1.png",
+        "buttonText": "Higit pang Impormasyon",
+        "buttonLink": "/student-visa"
+      },
+      "slide2": {
+        "subtitle": "Migration",
+        "description": "Ikaw ay magugulat na malaman na ang iyong karanasan at kwalipikasyon ay maaaring lumikha ng mga landas para sa skilled migration sa Australia.",
+        "image": "/hero2.png",
+        "buttonText": "Higit pang Impormasyon",
+        "buttonLink": "/migration"
+      }
+    },
+    "aboutUs": {
+      "whoWeAre": "Sino kami?",
+      "title": "Ilang Salita Tungkol sa Amin",
+      "description": "Ang EDEN INTERNATIONAL ay itinatag noong 2010, iniisip ang mga kliyenteng nahihirapan na mahirap matukoy ang kanilang landas sa karera sa ibang bansa para sa onshore o offshore higher education, migration...",
+      "listItems": "Migration|Student Admission|Sponsored Jobs|Skills Recognition",
+      "buttonText": "Higit pang Impormasyon"
+    },
+    "visaCategories": {
+      "sectionTitle": "MGA KATEGORYA NG VISA",
+      "sectionSubtitle": "Mga Kategorya ng Immigration at Visa",
+      "studentVisa": {
+        "title": "Mga Student Visa",
+        "description": "Ang mga student visa ay non-immigrant visas at hindi nangangailangan ng aplikante na maging mamamayan.",
+        "buttonText": "Basahin Pa",
+        "buttonLink": "/student-visa"
+      },
+      "migration": {
+        "title": "Migration",
+        "description": "Ikaw ay magugulat na malaman na ang iyong karanasan at kwalipikasyon ay maaaring lumikha ng mga landas para sa skilled migration sa Australia.",
+        "buttonText": "Basahin Pa",
+        "buttonLink": "/migration"
+      }
+    },
+    "countryList": {
+      "supportArea": "SUPPORT AREA",
+      "title": "Listahan ng Bansa Para sa Immigration",
+      "subtitle": "Listahan ng Bansa:",
+      "countries": "Dubai|Canada|USA|Australia|Italy|Croatia|Turkey|Malta|Germany|Philippines|Korea"
+    },
+    "workingProcess": {
+      "subtitle": "PROSESO NG TRABAHO",
+      "title": "3 Madaling Hakbang Para Makakuha ng Mabilis na Tulong",
+      "steps": [
+        {
+          "title": "Hakbang Isa",
+          "description": "Punan ang Kinakailangang Form"
+        },
+        {
+          "title": "Hakbang Dalawa",
+          "description": "Ipasa ang Iyong Mga Dokumento"
+        },
+        {
+          "title": "Hakbang Tatlo",
+          "description": "Maging Handa Para Matanggap ang Iyong Visa"
+        }
+      ]
+    },
+    "statistics": {
+      "worldwideOfficeHandle": "Worldwide Office Handle",
+      "successfulVisaProcess": "Matagumpay na Proseso ng Visa",
+      "satisfiedClientsMaintains": "Satisfied Clients Maintains"
+    },
+    "footer": {
+      "explore": "Explore",
+      "affiliates": "Affiliates",
+      "contactUs": "Makipag-ugnayan sa Amin",
+      "usefulLinks": "Mga Kapaki-pakinabang na Link",
+      "studentVisa": "Student Visa",
+      "migration": "Migration",
+      "recentProjects": "Kamakailang Mga Proyekto"
+    },
+    "floatingNav": {
+      "home": "Home",
+      "studentVisa": "Student Visa",
+      "studyInAustralia": "Mag-aral sa Australia",
+      "studyInCanada": "Mag-aral sa Canada",
+      "affiliatedInstitutions": "Mga Kaakibat na Institusyon",
+      "professionalYear": "Professional Year",
+      "migration": "Migration",
+      "temporarySkillShortageTssVisaSubclass482": "Temporary Skilled Shortage TSS Visa Subclass 482 (AUS)",
+      "trainingVisaSubclass407": "Training Visa Subclass 407",
+      "skilledWorkRegionalVisa": "Skilled Work Regional Visa",
+      "skilledNominatedVisa": "Skilled Nominated Visa",
+      "skilledIndependentVisa": "Skilled Independent Visa",
+      "temporaryGraduateVisaSubclass485": "Temporary Graduate Visa",
+      "sponsoredJobs": "Sponsored Jobs",
+      "pointCalculation": "Point Calculation",
+      "contactUs": "Makipag-ugnayan sa Amin",
+      "bookAnAppointment": "Mag-book ng Appointment"
+    },
+    "heroSectionStudent": {
+      "title": "studyante",
+      "highlightText": "visa"
+    },
+    "shoreServices": {
+      "onShoreTitle": "ANG AMING MGA ON SHORE SERVICES",
+      "offShoreTitle": "ANG AMING MGA OFF SHORE SERVICES",
+      "forInternationalStudents": "PARA SA MGA INTERNATIONAL STUDENTS",
+      "onShores": [
+        {
+          "title": "Pagbabago ng Kurso",
+          "description": "Ang Eden International ay tumutulong sa iyo na pumili ng angkop na kurso o baguhin ang kurso na kasalukuyang tinatakbo."
+        },
+        {
+          "title": "Pagbabago ng Unibersidad o Institusyon",
+          "description": "Maraming mga estudyante ang nais magpalit ng kanilang mga Unibersidad/Institusyon para sa mas magagandang pagkakataon ngunit hindi nila alam ang tamang paraan upang gawin ito. Tinutulungan namin sila sa paggawa nito."
+        },
+        {
+          "title": "Paunang Pagsusuri para sa Migration o Ibang Visa",
+          "description": "Ang mga estudyante ay maaaring magkaroon ng kanilang pagsusuri habang nag-aaral. Maaari nilang suriin ang kanilang pagiging karapat-dapat at kinakailangan para sa skilled migration at iba pang mga visa sa pamamagitan ng in-house Migration Lawyer mula sa Educube."
+        },
+        {
+          "title": "Pagpapalawig ng Student Visa",
+          "description": "Natapos mo na ang mga subject at malapit nang mag-expire ang iyong visa o natapos mo na ang iyong kurso at ngayon ay napagpasyahan mong mag-apply para sa bagong student visa."
+        }
+      ],
+      "offShores": [
+        {
+          "title": "Paunang Pagsusuri",
+          "description": "Pagtatasa ng lahat ng Academic Transcripts at Certificates, English Language Course Certificate, National Identity, Passport atbp."
+        },
+        {
+          "title": "Pagtatasa ng Pananalapi",
+          "description": "Ipinapaalam namin tungkol sa mga bayarin sa kurso, mga gastos sa paglalakbay, mga kinakailangan sa sponsor, kung sino ang maaaring maging sponsor at kung magkano ang pera ang kinakailangan upang magbayad."
+        },
+        {
+          "title": "Mga Scholarship",
+          "description": "Mag-save sa iyong mga bayarin sa kurso sa tulong mula sa Educube."
+        },
+        {
+          "title": "Pagpili ng Kurso at Unibersidad",
+          "description": "Sa napakaraming magagandang unibersidad sa ibang bansa at mga kurso na mapagpipilian, ang pagpapasya kung saan at ano ang pag-aaralan ay maaaring maging isang mahirap na desisyon."
+        }
+      ]
+    },
+    "visitorToStudentVisa": {
+      "title": "VISITOR TO STUDENT VISA",
+      "highlight": "STUDENT VISA",
+      "description": "Oo, tama ang iyong nabasa. Ang iyong Tourist Visa ay may potensyal na ma-convert sa isang student visa. Itigil ang “No More Stay” na mga paghihigpit at makuha ang edukasyon na nararapat sa iyo. Buksan ang iyong karera sa walang limitasyong mga pagkakataon."
+    },
+    "studentTestimonials": {
+      "title": "Ano ang Sinasabi ng aming mga",
+      "highlight": "Estudyante",
+      "testimonials": [
+        {
+          "quote": "Sa wakas natanggap ko na ang aking visa, maraming salamat sa pagtulong sa akin sa larangang ito. Mayroon akong magandang karanasan sa organisasyong ito. Ang staff ng Eden International ay napaka-tumutulong. Iminumungkahi ko sa aking mga kaibigan na mag-apply sa pamamagitan lamang ng Eden International.",
+          "name": "Shakil Alom",
+          "imageUrl": "/img-01-alom-1-150x150.webp"
+        },
+        {
+          "quote": "Ire-rekomenda ko ang Eden International Services sa iba pang mga manggagawa na nasa aking sitwasyon. Ang serbisyong ito ay nag-save sa akin ng hindi mabilang na oras ng muling pag-aaral sa isang kurso sa kolehiyo. Mahusay na organisasyon!!",
+          "name": "Lisa",
+          "imageUrl": "/6-1-1-150x150.webp"
+        },
+        {
+          "quote": "Isang kasiyahan na magtrabaho kasama ang Educube. Ang paraan ng kanilang paggabay, lalo na si Md Arifuzzaman ay tumulong sa akin ng malaki upang maging handa para sa University viva at magpakita ng tamang direksyon upang mapaunlad ang aking kasanayan sa Wikang Ingles.",
+          "name": "Md Sadh",
+          "imageUrl": "/8-1-150x150.webp"
+        },
+        {
+          "quote": "Ako ay tuwang-tuwa noong natanggap ko ang Visa. Gusto kong ibigay ang lahat ng kredito sa Eden International Pty Ltd. dahil sa kanilang tamang inisyatibo. Sila ay masyadong magiliw tungkol sa pagpoproseso ng student Visa. Kung ang sinuman ay nagnanais na pumunta sa ibang bansa, huwag mag-atubiling makipag-ugnayan sa EDUCUBE.",
+          "name": "Arafat Hossain Akib",
+          "imageUrl": "/7-1-150x150.webp"
+        },
+        {
+          "quote": "Tawagin mo akong Ishmael. Ilang taon na ang nakalipas—huwag alalahanin kung gaano katagal eksakto—na may kaunti o walang pera sa aking pitaka, at walang partikular na interes sa akin sa baybayin, naisip kong maglayag ng kaunti at makita ang bahagi ng tubig ng mundo.",
+          "name": "Herman Melville",
+          "title": "Moby-Dick",
+          "imageUrl": "/fallback-image.jpg"
+        }
+      ]
+    },
+    "cards": [
+      {
+        "title": "Accounting",
+        "imageUrl": "/i.webp",
+        "description": "Mag-develop ng mga kasanayan sa financial reporting, auditing, at taxation. Matutong mag-analyze ng mga financial statement at pamahalaan ang mga budget."
+      },
+      {
+        "title": "Engineering & Technology",
+        "imageUrl": "/i-2.webp",
+        "description": "Mag-explore ng mga innovative solution sa mga larangan tulad ng mechanical, civil, at electrical engineering. Makakuha ng hands-on na karanasan sa pag-develop ng teknolohiya."
+      },
+      {
+        "title": "Art",
+        "imageUrl": "/i-3.webp",
+        "description": "Pumasok sa malikhaing pagpapahayag sa pamamagitan ng iba't ibang medium. Mag-aral ng kasaysayan ng sining, mga teknika, at mga kontemporaryong praktis."
+      },
+      {
+        "title": "Business Management",
+        "imageUrl": "/i-4.webp",
+        "description": "Unawain ang mga operasyon ng negosyo, marketing, at estratehiya. Maghanda para sa mga papel na pamumuno sa iba't ibang mga setting ng organisasyon."
+      },
+      {
+        "title": "Communication",
+        "imageUrl": "/i-5.webp",
+        "description": "Matutunan ang mga mabisang estratehiya sa komunikasyon, public relations, at dynamics ng media. Pahusayin ang iyong interpersonal at writing skills."
+      },
+      {
+        "title": "Media",
+        "imageUrl": "/i-6.webp",
+        "description": "Pag-aralan ang epekto ng digital media, journalism, at paglikha ng nilalaman. Makakuha ng kasanayan sa multimedia storytelling at production."
+      },
+      {
+        "title": "Medicine",
+        "imageUrl": "/i-7.webp",
+        "description": "Maghanda para sa isang karera sa healthcare na may pagtuon sa pangangalaga ng pasyente, medikal na pananaliksik, at mga klinikal na praktis."
+      },
+      {
+        "title": "Nursing",
+        "imageUrl": "/i-11.webp",
+        "description": "Magsanay sa pangangalaga ng pasyente, mga medikal na pamamaraan, at pamamahala ng healthcare. Sumali sa isang rewarding na propesyon na dedikado sa pagtulong sa iba."
+      },
+      {
+        "title": "Language",
+        "imageUrl": "/i-9.webp",
+        "description": "Pag-aralan ang linguistics, translation, at cross-cultural communication. Pahusayin ang iyong proficiency sa maraming wika."
+      },
+      {
+        "title": "Computing & Technology",
+        "imageUrl": "/999.webp",
+        "description": "Matutunan ang tungkol sa software development, data analysis, at mga emerging technology. Bumuo ng isang matibay na pundasyon sa computer science."
+      },
+      {
+        "title": "Education & Training",
+        "imageUrl": "/i-10.webp",
+        "description": "Mag-develop ng mga kasanayan sa pagtuturo at teorya ng edukasyon. Maghanda upang magbigay inspirasyon at magturo sa susunod na henerasyon ng mga mag-aaral."
+      },
+      {
+        "title": "Architecture",
+        "imageUrl": "/192.webp",
+        "description": "Pag-aralan ang architectural design, urban planning, at sustainable building. Makakuha ng mga kasanayan upang hubugin ang built environment."
+      }
+    ],
+    "studyInAustralia": {
+      "title": "Mag-aral sa",
+      "highlightText": "Australia"
+    },
+    "whyStudyAustralia": {
+      "educationIsYourRight": "Ang Edukasyon Ay Iyong Karapatan, Hindi Isang Pagpipilian",
+      "whyStudyIn": "BAKIT MAG-ARAL SA",
+      "australia": "AUSTRALIA",
+      "description": "Kapag isinasaalang-alang natin ang pag-aaral sa Australia, maraming mga kadahilanan na madaling maakit ang atensyon ng mga estudyante. Lumalagong Destinasyon. Ang AUSTRALIA ay kasalukuyang pangatlong pinakapopular na destinasyon para sa mga international students sa English-speaking world, kasunod ng Estados Unidos at UK. Maraming international students ang pumipili na mag-aral dito dahil sa kultural na pagkakaiba-iba, magiliw na mga katutubo, at mataas na kalidad ng edukasyon."
+    },
+    "quickSteps": {
+      "title": "MABILIS NA HAKBANG NG",
+      "highlight": "PROSESO NG PAGPASOK",
+      "fileSubmission": {
+        "title": "Pagsusumite ng File",
+        "description": [
+          "Pasaporte",
+          "Mga Litrato na Passport Size",
+          "Mga Dokumentong Pang-akademiko",
+          "Sertipiko ng Kapanganakan",
+          "NID (Isinalin sa Ingles)",
+          "Mga Bayad sa Aplikasyon",
+          "SOP (Pahayag ng Layunin)",
+          "Resume/CV",
+          "IELTS/TOEFL Certificate"
+        ]
+      },
+      "offerLetter": {
+        "title": "Liham ng Alok",
+        "description": "Tumanggap ng Liham ng Alok mula sa Unibersidad para sa Pagpasok sa matagumpay na G.T.E. Pagsusuri."
+      },
+      "gteAssessment": {
+        "title": "G.T.E. Pagsusuri",
+        "description": "Pagtatasa ng pananalapi at iba pang mga dokumento at panayam sa unibersidad."
+      },
+      "coeConfirmation": {
+        "title": "Pagkumpirma ng COE",
+        "description": "Matagumpay na pag-enrol sa unibersidad at kumpirmasyon ng pagbabayad."
+      },
+      "visaLodgement": {
+        "title": "Pagsusumite ng Visa",
+        "description": "Isumite ang aplikasyon ng visa at kinakailangang mga dokumento."
+      },
+      "successfulVisa": {
+        "title": "Matagumpay na Visa",
+        "description": "Matanggap ang pag-apruba ng visa at maghanda para sa paglalakbay."
+      },
+      "buttonText": "Mag-click dito upang makita ang buong proseso ng visa"
+    },
+    "studyProcess": {
+      "title": "PROSESO NG",
+      "highlight": "VISA",
+      "steps": [
+        {
+          "title": "LIGTAS NA BANSA",
+          "description": "Isang napakahalagang salik para sa karamihan ng mga international students habang pumipili ng programa sa pag-aaral sa ibang bansa, ay ang kaligtasan at seguridad ng bansa at partikular na lungsod. Ang mga magulang ay nag-aalala tungkol sa kaligtasan ng kanilang mga anak at mga salik tulad ng krimen laban sa mga kababaihan, diskriminasyon sa lahi, pagnanakaw at pagnanakaw ay may mahalagang papel sa pagpili ng destinasyon para sa pag-aaral sa ibang bansa. Sa ganitong aspeto, ang Canada ay isa sa mga pinakaligtas na lugar upang mag-aral na may napakababang mga rate ng krimen at mga kaso ng diskriminasyon sa lahi. Ang mga istatistika ng Numbeo ay nagpapakita na ang safety index ng Canada (62.42) ay mas mataas kaysa sa safety indices ng iba pang mga popular na destinasyon para sa pag-aaral sa ibang bansa tulad ng US (49.99), UK (57.9) at Australia (57.94)."
+        },
+        {
+          "title": "MULTICULTURAL NA KAPALIGIRAN",
+          "description": "Ang Canada ay isang internasyonal na lider sa computer at information technologies at may reputasyon para sa kahusayan sa mga sektor tulad ng telecommunications, animation, transportasyon at engineering; at partikular, aerospace, urban transport, microelectronics, medical devices, advanced software, hydroelectric at nuclear power, lasers at opto-electronics, biotechnology atbp. Ang Canada ay isa sa mga unang bansa sa mundo na kinilala ang pangangailangan na ikonekta ang mga paaralan at mga aklatan sa Internet, at ang SchoolNet program nito ay kinopya sa buong mundo. Lahat ng uri ng mga modernong pasilidad ay ibinibigay at karamihan sa mga kampus ay naka-wire sa mga pinaka-sopistikadong teknolohiya na inaalok ng mundo."
+        },
+        {
+          "title": "MGA PAGKAKATAON SA TRABAHO",
+          "description": "Oo, bilang isang international student ay magbabayad ka pa rin ng higit kaysa sa mga Canadians para sa parehong kurso, ngunit ang parehong kurso sa ibang bansa, tulad ng Estados Unidos, Australia o United Kingdom, ay malamang na mas mahal pa. Gayundin, tingnan ang punto 1 sa itaas - hindi lamang mas mababa ang binabayaran mo sa Canada, kumikita ka rin."
+        },
+        {
+          "title": "ABOT-KAYANG EDUKASYON AT PAMUMUHAY",
+          "description": "Nag-aalok ang Canada hindi lamang ng de-kalidad na edukasyon, ngunit edukasyong abot-kaya para sa mga international kabilang ang mga Indian na estudyante. Kung ihahambing sa mga bansa tulad ng UK, USA at Australia, ang halaga ng edukasyon sa Canada ay medyo katamtaman."
+        },
+        {
+          "title": "PANGANGAILANGAN SA PAGPASOK",
+          "description": "Pagkatapos magkaroon ng COE, ang EDUCUDE - sa ngalan ng estudyante ay magsusumite ng lahat ng akademikong dokumento sa pananalapi sa embahada at maghahanda ng mga estudyante para sa bio-metrics at medikal na pagsusuri. Tumagal ng 20-30 araw ng trabaho upang makakuha ng visa."
+        }
+      ]
+    },
+    "studyInCanada": {
+      "title": "MAG-ARAL SA",
+      "highlightText": "CANADA"
+    },
+    "whyStudyInCanada": {
+      "title": "BAKIT MAG-ARAL SA",
+      "highlightText": "CANADA?",
+      "description": {
+        "part1": "Abril 30, 2018 – Mayroong 21 sa pinakamataas na",
+        "part2": "500 unibersidad",
+        "part3": "at 32 sa",
+        "part4": "top 1000",
+        "part5": ", tinatanggap ng Canada ang mahigit sa",
+        "part6": "400,000 international students",
+        "part7": "bawat taon. Nag-aalok ito ng mga pinakamahusay na programa sa pag-aaral sa mundo at tahanan ng ilan sa mga nangungunang pasilidad sa pananaliksik at mga institusyong akademiko sa mundo. Kung ang pag-aaral sa ibang bansa ay iyong plano, ang Canada ay dapat nasa tuktok ng iyong listahan."
+      }
+    },
+    "accordionCanada": {
+      "title": "NANGUNGUNANG MGA DAHILAN PARA PUMILI NG",
+      "highlightText": "CANADA",
+      "buttonText": "KUMUHA NG LIBRENG PAUNANG PAGSUSURI NG IYONG KARAPAT-DAPAT",
+      "items": [
+        {
+          "title": "LIGTAS NA BANSA",
+          "content": "Isang napakahalagang salik para sa karamihan ng mga international students habang pumipili ng programa sa pag-aaral sa ibang bansa, ay ang kaligtasan at seguridad ng bansa at partikular na lungsod. Ang mga magulang ay nag-aalala tungkol sa kaligtasan ng kanilang mga anak at mga salik tulad ng krimen laban sa mga kababaihan, diskriminasyon sa lahi, pagnanakaw at pagnanakaw ay may mahalagang papel sa pagpili ng destinasyon para sa pag-aaral sa ibang bansa. Sa ganitong aspeto, ang Canada ay isa sa mga pinakaligtas na lugar upang mag-aral na may napakababang mga rate ng krimen at mga kaso ng diskriminasyon sa lahi. Ang mga istatistika ng Numbeo ay nagpapakita na ang safety index ng Canada (62.42) ay mas mataas kaysa sa safety indices ng iba pang mga popular na destinasyon para sa pag-aaral sa ibang bansa tulad ng US (49.99), UK (57.9) at Australia (57.94)."
+        },
+        {
+          "title": "MULTICULTURAL NA KAPALIGIRAN",
+          "content": "Ang Canada ay isang internasyonal na lider sa computer at information technologies at may reputasyon para sa kahusayan sa mga sektor tulad ng telecommunications, animation, transportasyon at engineering; at partikular, aerospace, urban transport, microelectronics, medical devices, advanced software, hydroelectric at nuclear power, lasers at opto-electronics, biotechnology atbp. Ang Canada ay isa sa mga unang bansa sa mundo na kinilala ang pangangailangan na ikonekta ang mga paaralan at mga aklatan sa Internet, at ang SchoolNet program nito ay kinopya sa buong mundo. Lahat ng uri ng mga modernong pasilidad ay ibinibigay at karamihan sa mga kampus ay naka-wire sa mga pinaka-sopistikadong teknolohiya na inaalok ng mundo."
+        },
+        {
+          "title": "MGA PAGKAKATAON SA TRABAHO",
+          "content": "Oo, bilang isang international student ay magbabayad ka pa rin ng higit kaysa sa mga Canadians para sa parehong kurso, ngunit ang parehong kurso sa ibang bansa, tulad ng Estados Unidos, Australia o United Kingdom, ay malamang na mas mahal pa. Gayundin, tingnan ang punto 1 sa itaas - hindi lamang mas mababa ang binabayaran mo sa Canada, kumikita ka rin."
+        },
+        {
+          "title": "ABOT-KAYANG EDUKASYON AT PAMUMUHAY",
+          "content": "Nag-aalok ang Canada hindi lamang ng de-kalidad na edukasyon, ngunit edukasyong abot-kaya para sa mga international kabilang ang mga Indian na estudyante. Kung ihahambing sa mga bansa tulad ng UK, USA at Australia, ang halaga ng edukasyon sa Canada ay medyo katamtaman."
+        },
+        {
+          "title": "PANGANGAILANGAN SA PAGPASOK",
+          "content": "Lahat ng estudyante ay dapat matugunan ang mga sumusunod na pamantayan upang makapasok sa anumang Unibersidad/Kolehiyo/Institute sa Canada: Academic Qualifications: Minimum 60% na marka sa lahat ng naunang programa ng degree i.e. secondary at higher secondary level o intermediate level at bachelor o honors. ESL Course (English as a Second Language): English language qualifications: With/Without IELTS maaaring mag-apply. Diploma: English language qualifications: Ang mga estudyante ay nangangailangan ng minimum band na 5.5 (walang band na mas mababa sa 5.0) sa IELTS o 46 sa PTE o 62 sa TOEFL. Bachelor Program: English language qualifications: Ang mga estudyante ay nangangailangan ng minimum band na 6.0 (walang band na mas mababa sa 5.5) sa IELTS o 54 sa PTE o 73 sa TOEFL. Masters Program: English language qualifications: Ang mga estudyante ay nangangailangan ng minimum band na 6.5 (walang band na mas mababa sa 6.0) sa IELTS o 61 sa PTE o 85 sa TOEFL."
+        }
+      ]
+    },
+    "affiliatedInstitutions": {
+      "title": "KAANIB NA",
+      "highlightText": "INSTITUSYON",
+      "description": "Ang isang affiliated school o affiliated college ay isang educational institution na nag-ooperate nang independently, ngunit mayroon ding pormal na collaborative agreement sa isa pang, karaniwang mas malaking institusyon na maaaring may ilang antas ng kontrol o impluwensya sa mga akademikong patakaran, pamantayan o programa nito."
+    },
+    "heroSection": {
+      "firstTitle": "",
+      "firstHighlightText": "",
+      "secondTitle": "ANG AMING KAANIB NA",
+      "secondHighlightText": "INSTITUSYON"
+    },
+    "affiliated": {
+      "title": "Mga Kaanib na Institusyon",
+      "institutions": [
+        { "name": "University of North South Wales (UNSW) - Global", "url": "https://www.unsw.edu.au/" },
+        { "name": "Central Queensland University (CQU)", "url": "https://www.cqu.edu.au/" },
+        { "name": "Charles Darwin University (CDU)", "url": "https://www.cdu.edu.au/" },
+        { "name": "Charles Stuart University", "url": "https://www.csu.edu.au/" },
+        { "name": "Curtin University - Perth", "url": "https://www.curtin.edu.au/" },
+        { "name": "Deakin University", "url": "https://www.deakin.edu.au/" },
+        { "name": "Edith Cowan University (ECU)", "url": "https://www.ecu.edu.au/" },
+        { "name": "James Cook University (JCUB)", "url": "https://www.jcu.edu.au/" },
+        { "name": "La Trobe University", "url": "https://www.latrobe.edu.au/" },
+        { "name": "La Trobe University - Sydney", "url": "https://www.latrobe.edu.au/sydney" },
+        { "name": "Macquarie University", "url": "https://www.mq.edu.au/" },
+        { "name": "Monash University / College", "url": "https://www.monash.edu/" },
+        { "name": "Murdoch University", "url": "https://www.murdoch.edu.au/" },
+        { "name": "RMIT (Royal Melbourne Institute of Technology)", "url": "https://www.rmit.edu.au/" },
+        { "name": "SAIBT - University of South Australia (Navitas)", "url": "https://www.saibt.sa.edu.au/" },
+        { "name": "Southern Cross University (SCU)", "url": "https://www.scu.edu.au/" },
+        { "name": "Swinburne University", "url": "https://www.swinburne.edu.au/" },
+        { "name": "Sydney Institute of Business and Technology (SIBT)", "url": "https://www.sibt.nsw.edu.au/" },
+        { "name": "TAFE NSW", "url": "https://www.tafensw.edu.au/" },
+        { "name": "The University of Newcastle", "url": "https://www.newcastle.edu.au/" },
+        { "name": "Torrens University", "url": "https://www.torrens.edu.au/" },
+        { "name": "University of Queensland (UQ)", "url": "https://www.uq.edu.au/" },
+        { "name": "University of Tasmania Sydney (UTAS)", "url": "https://www.utas.edu.au/" },
+        { "name": "University of Technology, Sydney (UTS)", "url": "https://www.uts.edu.au/" },
+        { "name": "University of Western Sydney (WSU)", "url": "https://www.westernsydney.edu.au/" },
+        { "name": "University of Wollongong (UOW)", "url": "https://www.uow.edu.au/" },
+        { "name": "Victorian Institute of Technology (VIT)", "url": "https://www.vit.edu.au/" },
+        { "name": "Victoria University - Melbourne", "url": "https://www.vu.edu.au/" },
+        { "name": "University of Sunshine Coast", "url": "https://www.usc.edu.au/" },
+        { "name": "Australian National University", "url": "https://www.anu.edu.au/" },
+        { "name": "The University of Queensland", "url": "https://www.uq.edu.au/" },
+        { "name": "The University of Western Australia", "url": "https://www.uwa.edu.au/" },
+        { "name": "University of South Australia", "url": "https://www.unisa.edu.au/" },
+        { "name": "The University of Notre Dame Australia", "url": "https://www.notredame.edu.au/" },
+        { "name": "Federation University Australia", "url": "https://federation.edu.au/" },
+        { "name": "Bright College", "url": "#" },
+        { "name": "AIBI College", "url": "#" },
+        { "name": "Alpha College", "url": "#" },
+        { "name": "Connected Institute", "url": "#" },
+        { "name": "Building Institute (NSW)", "url": "#" },
+        { "name": "Australian Learning Institute", "url": "#" },
+        { "name": "Trinity Institute Australia", "url": "#" },
+        { "name": "Astrall Skill Institute Australia", "url": "#" },
+        { "name": "Apex Australia", "url": "#" },
+        { "name": "Reach Community College", "url": "#" },
+        { "name": "Waratah Polytechnic", "url": "#" },
+        { "name": "Australian Academy of Hospitality Management", "url": "#" },
+        { "name": "Kaplan Business School Australia", "url": "https://www.kbs.edu.au/" },
+        { "name": "TAFE NSW", "url": "https://www.tafensw.edu.au/" },
+        { "name": "Kings Own Institute", "url": "https://www.koi.edu.au/" },
+        { "name": "Education Centre of Australia (ECA)", "url": "https://www.eca.edu.au/" },
+        { "name": "Stodds College", "url": "https://www.stotts.edu.au/" },
+        { "name": "TAFE Queensland", "url": "https://tafeqld.edu.au/" },
+        { "name": "UTS College", "url": "https://utscollege.edu.au/" },
+        { "name": "UOW College", "url": "https://www.uowcollege.edu.au/" },
+        { "name": "Stanley College", "url": "https://www.stanleycollege.edu.au/" },
+        { "name": "TAFE SA", "url": "https://www.tafesa.edu.au/" },
+        { "name": "Charles Darwin University International College", "url": "https://www.cdu.edu.au/cdu-international" },
+        { "name": "Deakin College", "url": "https://www.deakincollege.edu.au/" },
+        { "name": "Latrobe College Australia", "url": "https://www.latrobe.edu.au/" },
+        { "name": "Conestoga College", "url": "https://www.conestogac.on.ca/" },
+        { "name": "Confederation College", "url": "https://www.confederationcollege.ca/" },
+        { "name": "ACAP College", "url": "https://www.acap.edu.au/" },
+        { "name": "Academia International", "url": "https://www.academia21.com/" },
+        { "name": "Engineer Institute of Technology", "url": "https://www.eit.edu.au/" },
+        { "name": "Melbourne Institute of Technology (MIT)", "url": "https://www.mit.edu.au/" },
+        { "name": "Insearch UTS", "url": "https://www.insearch.edu.au/" },
+        { "name": "Griffith College (Navitas)", "url": "https://www.griffithcollege.edu.au/" },
+        { "name": "Lead College", "url": "https://www.leadcollege.edu.au/" },
+        { "name": "Griffith College", "url": "https://www.griffithcollege.edu.au/" },
+        { "name": "International College of Management (Sydney)", "url": "https://www.icms.edu.au/" },
+        { "name": "TAFE International Western Australia", "url": "https://www.tafeinternational.wa.edu.au/" },
+        { "name": "Holmes Institute", "url": "https://www.holmes.edu.au/" },
+        { "name": "Swinburne College", "url": "https://www.swinburne.edu.au/" },
+        { "name": "Crown Institute of Higher Education", "url": "https://www.cihe.edu.au/" },
+        { "name": "International Institute of Business and Information Technology", "url": "https://www.iibit.edu.au/" },
+        { "name": "Le Cordon Bleu", "url": "https://www.cordonbleu.edu/" },
+        { "name": "Melbourne Polytechnic", "url": "https://www.melbournepolytechnic.edu.au/" },
+        { "name": "The Université of Adelaide College", "url": "https://college.adelaide.edu.au/" },
+        { "name": "Quality College of Australia", "url": "https://www.qca.edu.au/" },
+        { "name": "Sydney Institute of Business and Technology (SIBT)", "url": "https://www.sibt.nsw.edu.au/" },
+        { "name": "Adelaide Institute of Business and Technology", "url": "https://aibtglobal.edu.au/" },
+        { "name": "Greenwich College", "url": "https://www.greenwichcollege.edu.au/" },
+        { "name": "Curtin College", "url": "https://www.curtincollege.edu.au/" },
+        { "name": "Edith Cowan College", "url": "https://www.edithcowancollege.edu.au/" },
+        { "name": "Equals International", "url": "https://www.equals.edu.au/" },
+        { "name": "The Hotel School of Australia", "url": "https://www.hotelschool.scu.edu.au/" },
+        { "name": "Australian Learning Group", "url": "https://alg.edu.au/" },
+        { "name": "UNSW Global", "url": "https://www.unswglobal.unsw.edu.au/" },
+        { "name": "Academics Australasia Polytechnic", "url": "https://www.aapoly.edu.au/" },
+        { "name": "Kent Institute Australia", "url": "https://kent.edu.au/" },
+        { "name": "Icon Institute of Australia", "url": "https://icon.edu.au/" },
+        { "name": "Skills Australia Institute", "url": "https://sai.edu.au/" },
+        { "name": "Australian Ideal College", "url": "https://idealcollege.edu.au/" },
+        { "name": "Imagine Education Australia", "url": "https://www.imagineeducation.edu.au/" },
+        { "name": "Institute of Health and Nursing Australia", "url": "https://www.ihna.edu.au/" },
+        { "name": "Signet Institute of Australia", "url": "https://signet.edu.au/" },
+        { "name": "ILSC-Australia", "url": "https://www.ilsc.com/" },
+        { "name": "Australian Health & Science Institute", "url": "https://ahsinstitute.edu.au/" },
+        { "name": "Australian National Airline College", "url": "https://www.anacollege.edu.au/" },
+        { "name": "WSU - College", "url": "https://www.westernsydney.edu.au/" },
+        { "name": "Phoneix", "url": "#" },
+        { "name": "Murdoch Institute (MIT)", "url": "https://www.mit.edu.au/" },
+        { "name": "Greystone College Australia", "url": "https://www.greystonecollege.com.au/" },
+        { "name": "Oxford House (OHC) - Australia", "url": "https://www.oxfordhouse.com/" },
+        { "name": "ANGAD Australian Institute of Technology", "url": "https://angad.vic.edu.au/" },
+        { "name": "Australian National Education (ANE)", "url": "https://www.ane.edu.au/" },
+        { "name": "Australian Technical College Western", "url": "https://www.atcwa.edu.au/" },
+        { "name": "Australian International High School Pty Ltd", "url": "https://www.aihs.edu.au/" },
+        { "name": "Skills Training Australia", "url": "https://skillstraining.edu.au/" },
+        { "name": "Australian Harbour International College", "url": "https://www.ahic.edu.au/" },
+        { "name": "Australian Science and Mathematics School", "url": "https://www.asms.sa.edu.au/" },
+        { "name": "Australian Skills Group", "url": "https://asgroup.com.au/" },
+        { "name": "Kaplan International English - Australia", "url": "https://www.kaplaninternational.com/" },
+        { "name": "Texila College Australia", "url": "#" },
+        { "name": "Australian Centre of English", "url": "https://www.australiancentreofenglish.com.au/" },
+        { "name": "Australian Childcare Career Options", "url": "https://www.acco.edu.au/" },
+        { "name": "Australian College of Management and Innovation", "url": "https://acmi.edu.au/" },
+        { "name": "Australian College of Technology Pty Ltd", "url": "https://act.edu.au/" },
+        { "name": "Australian Institute of Electro Technology", "url": "https://aite.edu.au/" },
+        { "name": "Australian Institute of Technical Training", "url": "https://aitt.edu.au/" },
+        { "name": "Australian International College", "url": "https://aic.edu.au/" },
+        { "name": "Australian National Airline College", "url": "https://www.anacollege.edu.au/" },
+        { "name": "Australian National Institute of Education", "url": "https://anie.edu.au/" },
+        { "name": "Australian Skills Management Institute", "url": "https://asmi.edu.au/" },
+        { "name": "Australian Sovereign College", "url": "#" },
+        { "name": "International Sport College of Australia", "url": "https://iscaustralia.edu.au/" },
+        { "name": "Salisbury College Australia", "url": "https://salisburycollege.com.au/" },
+        { "name": "Blue Mountain Hotel School", "url": "https://www.bluemountains.edu.au/" },
+        { "name": "Canterbury Intstitute of Technology (USQ Sydney)", "url": "https://www.canterbury.ac.nz/" },
+        { "name": "Canterbury Education Group (CLA, CBC, CTI)", "url": "https://www.canterbury.ac.nz/" },
+        { "name": "Chisholm Institute", "url": "https://www.chisholm.edu.au/" },
+        { "name": "Deakin College (Navitas)", "url": "https://www.deakincollege.edu.au/" },
+        { "name": "Excelsia College", "url": "https://excelsia.edu.au/" },
+        { "name": "Engineering Institute of Technology", "url": "https://www.eit.edu.au/" },
+        { "name": "Eyensbury", "url": "#" }
+      ]
+    },
+    "proHeroSection": {
+      "imageSrc": "/1001_Team.webp",
+      "title": "Propesyonal",
+      "highlightText": "Taunang Plano",
+      "height": "h-96"
+    },
+    "professionalYearPrograms": {
+      "title": "PROPESYONAL",
+      "highlightText": "TAUNANG PROGRAMA",
+      "content": "Ang Professional Year Program (PYP) ay nag-aalok sa mga dating international students, na nagtapos mula sa isang unibersidad sa Australia, ng pagpapakilala sa kanilang kaukulang propesyon at kaukulang praktikal na pagsasanay. Ang Australian Internships ay nagbibigay ng praktikal na bahagi ng Professional Year Program (PYP) at naaprubahan ng mga accrediting bodies na pinahintulutan ng Department of Immigration and Boarder Protection (DIBP).",
+      "imageSrc": "/study.jpg"
+    },
+    "educationCentre": {
+      "title": "EDUKASYON CENTRO NG",
+      "highlightText": "AUSTRALIA",
+      "content": "Ang Education Centre of Australia (ECA) ay isa sa mga nangungunang abot-kayang pribadong tagapagbigay ng edukasyon sa Australia na mayroong maraming kampus sa Sydney, Brisbane at Melbourne. Bilang isang lumalaking network ng mga kolehiyo, kami ay naghahanap ng mga paraan upang matiyak na ang iyong oras sa ECA ay magbibigay sa iyo ng kalidad ng edukasyon, praktikal na kasanayan at project-based hands-on learning. Ang mga pathways programs at internships na inaalok namin ay nagdadala sa mga estudyante mula sa classroom patungo sa karera. Ang aming modernong multicultural learning environments ay nagbibigay ng isang mahusay na lugar para sa lumalaking isip.",
+      "imageSrc": "/eca-img.jpg"
+    },
+    "performanceEducation": {
+      "title": "PAGGANAP NA",
+      "highlightText": "EDUKASYON",
+      "content": "Bilang Ang Mga Eksperto sa Graduate Employability, binabago ng Performance Education Group ang mga buhay sa pamamagitan ng pagtulong sa mga tao na makamit ang tagumpay sa karera sa pamamagitan ng pag-aaral at pag-access sa pinakamahusay na mga koneksyon sa trabaho sa Australia. Itinatag noong 2006 upang mapabuti ang mga karera ng mga batang propesyonal sa Australia, kami ay ngayon isang lider sa larangang ito, na nagde-develop ng mga kailangang-kailangang kasanayan sa employability kabilang ang; propesyonal na komunikasyon sa negosyo, kahandaan sa lugar ng trabaho, Work Integrated Learning (WIL) programs at mga kasanayan sa karera. Tinitiyak namin na ang bawat estudyante ay binibigyan ng pinakamahusay na posibleng pagsasanay at suporta upang makamit ang kanilang mga layunin sa karera.",
+      "imageSrc": "/Performance-Education.webp"
+    },
+    "atmcProfessionalYear": {
+      "title": "ATMC",
+      "highlightText": "PROPESYONAL NA TAON",
+      "content": "Natapos mo na ba ang iyong degree ngunit nais mong makakuha ng karagdagang teknikal na kasanayan at kaalaman upang maitaguyod ang iyong karera sa Australia? Ngayon ay maaari mong simulan ang iyong karera sa tulong mula sa Professional Year Program kasama ang ATMC. Nag-aalok ang ATMC ng mga Professional Year programs sa pamamagitan ng Australian Computer Society (ACS) para sa mga nagtapos sa information technology at mga accounting programs sa pamamagitan ng Accounting PYP. Ang Professional Year (PY) Program ay partikular na idinisenyo para sa mga international students na nagtapos mula sa isang unibersidad sa Australia at naghahanap ng matagumpay na landas mula sa unibersidad patungo sa trabaho at residency sa Australia.",
+      "imageSrc": "/ATMC-Professional-Year-768x538.webp"
+    },
+    "migrationHeroSection": {
+      "title": "MIGRASYON",
+      "highlightText": ""
+    },
+    "visaOptions": {
+      "title": "MGA OPSYON NG VISA",
+      "highlightText": "MGA VISA",
+      "visitorVisa": {
+        "title": "Visitor Visa",
+        "description": "Maaari kang pumunta sa Australia para sa mga kadahilanan tulad ng bakasyon, pamamasyal, panlipunan o recreational na mga dahilan, upang bisitahin ang mga kamag-anak, kaibigan."
+      },
+      "skilledVisa": {
+        "title": "Skilled Visa",
+        "description": "Ang General Skilled Migration (GSM) o Skilled Visas ay para sa mga tao na nais manirahan at magtrabaho sa Australia sa isang pansamantala o permanenteng batayan."
+      },
+      "sponsoredVisa": {
+        "title": "Sponsored Visa",
+        "description": "Ang Employer Sponsored Visas ay para sa mga employer na hindi makapagpunan ng isang posisyon sa pamamagitan ng isang Australian worker o sa pamamagitan ng pagsasanay sa mga Australian worker."
+      },
+      "studentVisa": {
+        "title": "Student Visa",
+        "description": "Mayroong isang student visa class (TU) na may walong visa subclasses. Pito sa mga visa subclasses ay nauugnay sa mga partikular na sektor ng edukasyon at isa ay nauugnay sa mga student guardians."
+      },
+      "partnerVisa": {
+        "title": "Partner Visa",
+        "description": "Ang partner visa ay para sa mga tao na kasal, engaged, o nasa de facto na relasyon sa isang Australian citizen o eligible New Zealand citizen at nais manirahan sa Australia."
+      },
+      "aatFederalCourt": {
+        "title": "AAT & Federal Court",
+        "description": "Mayroon kaming team ng mga propesyonal na abogado at solicitor. Kung mayroon kang mga pangunahing isyu, mangyaring makipag-ugnayan sa amin at makakatulong kami sa paglutas ng iyong mga komplikadong problema sa migration."
+      }
+    },
+    "visaSpecialisations": {
+      "title": "MGA VISA NA",
+      "highlightText": "ESPESYALIDAD NAMIN",
+      "temporarySkillShortageVisa": {
+        "title": "Temporary Skill Shortage Visa",
+        "subclass": "Subclass 482"
+      },
+      "trainingVisa": {
+        "title": "Training Visa",
+        "subclass": "Subclass 407"
+      },
+      "skilledIndependentVisa": {
+        "title": "Skilled Independent Visa",
+        "subclass": "Subclass 189"
+      },
+      "skilledNominatedVisa": {
+        "title": "Skilled Nominated Visa",
+        "subclass": "Subclass 190"
+      },
+      "skilledWorkRegionalVisa": {
+        "title": "Skilled Work Regional Visa",
+        "subclass": "Subclass 491"
+      },
+      "sponsoredJobs": {
+        "title": "Sponsored Jobs",
+        "subclass": ""
+      }
+    },
+    "faqAccordion": {
+      "title": "Mga Madalas na Itanong",
+      "highlightText": "Mga Tanong",
+      "howDoIFindOutIfIAmEligibleToApply": {
+        "title": "PAANO KO MALALAMAN KUNG AKO AY KARAPAT-DAPAT NA MAG-APPLY?",
+        "content": "Mangyaring mag-click dito para sa buod ng kasalukuyang mga regulasyon sa imigrasyon ng Australia. Pagkatapos ay kumuha ng LIBRENG paunang pagsusuri ng iyong karapat-dapat na maisangguni sa isang MARA Registered Migration Agent."
+      },
+      "howLongDoesItTakeToGetAPermanentResidenceVisa": {
+        "title": "GAANO KATAGAL ANG PAGKUHA NG PERMANENT RESIDENCE VISA PARA MIGRATE SA AUSTRALIA?",
+        "content": "Ang bawat aplikasyon ay magkakaiba at ang oras ng pagproseso ay nakasalalay sa uri ng visa na ina-applyan. Para sa pinakabagong mga alituntunin para sa mga oras ng pagproseso ng Australian visa, tingnan ang Global visa and citizenship processing times sa website ng Department of Immigration and Border Protection."
+      },
+      "canTheImmigrationAuthoritiesRefuseMyApplication": {
+        "title": "MAAARI BANG TANGGIHAN NG MGA AWTORIDAD SA IMIGRASYON ANG AKING APLIKASYON?",
+        "content": "Oo. Maraming aplikante ang hindi alam kung gaano ka-strict ang mga regulasyon sa imigrasyon at madalas na tinatanggihan o nadedelay dahil sa mga teknikal na error sa kanilang aplikasyon o sa pamamagitan ng pagsumite ng maling mga suportang dokumento. Kaya't ang moral ng kwento ay isaalang-alang ang paghahanap ng propesyonal na gabay at independiyenteng payo ng isang MARA Registered Migration Agent bago magsumite ng aplikasyon para sa residence. Ang mga Migration Agent ay nandiyan upang tulungan kang hanapin ang pinakamahusay na paraan sa immigration maze at sila ay napaka-epektibo sa paggawa nito."
+      },
+      "willTheImmigrationAuthoritiesOrEmbassyHelpMeToPrepareMyApplication": {
+        "title": "TUTULUNGAN BA AKO NG MGA AWTORIDAD SA IMIGRASYON O EMBASSY SA PAGHAHANDA NG AKING APLIKASYON AT TINIYAK NA ANG LAHAT AY TAMA BAGO MAG-APPLY?",
+        "content": "Hindi. Ang ganitong uri ng serbisyo ay hindi na ibinibigay ng Gobyerno. Ang mga awtoridad ay naroroon upang ipatupad ang batas sa imigrasyon, gumawa ng mga desisyon sa mga aplikasyon ng residence at magbigay ng mga residence visa. Bagaman ang mga pangunahing impormasyon at mga form ng aplikasyon ay magagamit, ang mga awtoridad ay hindi maaaring magbigay ng independiyenteng payo at personalized na gabay sa iyong partikular na kaso. Isang Australian Registered Migration Agent ang maaaring magbigay ng ganitong uri ng serbisyo."
+      },
+      "myMigrationAgentHasAssessedMeAsBeingEligibleForResidence": {
+        "title": "ANG AKING MIGRATION AGENT AY TINASA AKO BILANG KARAPAT-DAPAT PARA SA RESIDENCE SA AUSTRALIA. KUNG MAG-APPLY AKO NANG WALANG KANYANG TULONG, MAKAKATIYAK BA AKO NG TAGUMPAY?",
+        "content": "Hindi. Bagaman maaaring kwalipikado ka sa ilalim ng immigration policy, hindi ka garantisado ng tagumpay. Ang iyong aplikasyon ay dapat ihanda ayon sa mga umiiral na regulasyon sa imigrasyon at isumite kasama ang angkop na mga suportang dokumento upang maaprubahan ng mga awtoridad sa imigrasyon. Ang mga paraan kung paano ito gagawin ay hindi laging malinaw na inilalatag ng mga awtoridad sa imigrasyon at nagreresulta sa maraming aplikante na hindi tama ang pag-presenta ng kanilang mga kaso, na nagreresulta sa pagtanggi. Kaya't dapat isaalang-alang ang paghingi ng payo ng isang MARA Registered Migration Agent."
+      },
+      "cta": "KUMUHA NG LIBRENG PAUNANG PAGSUSURI NG IYONG KARAPAT-DAPAT"
+    },
+    "temporarySkilledVisaData": {
+      "hero": {
+        "title": "TEMPORARY SKILL SHORTAGE (TSS) VISA",
+        "highlightText": "SUBCLASS 482"
+      },
+      "title": "TUNGKOL SA VISA NA ITO",
+      "description": "Ang Temporary Work Visa (Subclass 457) ay pinalitan ng Temporary Skill Shortage (TSS) Visa Subclass 482 noong Marso 18, 2018. Ang visa na ito ay nagpapahintulot sa mga employer na tugunan ang kakulangan sa trabaho sa pamamagitan ng pagdala ng mga skilled worker kung saan ang mga employer ay hindi makahanap ng angkop na skilled na Australian worker.",
+      "section1": {
+        "heading": "PAANO AKO MAKAKUHA NG TEMPORARY SKILL SHORTAGE (TSS) SUBCLASS 482 VISA?",
+        "subSections": [
+          {
+            "subHeading": "Eligibility para sa Temporary Skill Shortage (TSS) Visa Subclass 482:",
+            "details": [
+              {
+                "title": "i) Short Term Stream:",
+                "content": "Ang stream na ito ay available kung ang isang employer ay nais mag-sponsor ng isang overseas skilled worker sa isang pansamantalang batayan lamang sa mga trabahong nakalista sa Short-term Skilled Occupation list (STSOL) para sa TSS visa. Maaari itong gamitin upang punan ang mga posisyon para sa maximum na dalawang taon o apat na taon kung may International Trade Obligation (ITO) na nalalapat."
+              },
+              {
+                "title": "ii) Medium Term Stream:",
+                "content": "Ang visa na ito ay nagpapahintulot sa mga employer na tugunan ang kakulangan sa trabaho sa pamamagitan ng pagdala ng mga skilled worker kung saan ang mga employer ay hindi makahanap ng angkop na skilled na Australian worker."
+              },
+              {
+                "title": "iii) Labour Agreement Stream:",
+                "content": "Ang visa na ito ay para sa mga skilled worker na inominado ng mga employer na may Labour Agreement. Pinapayagan kang manirahan at magtrabaho sa Australia pansamantala. Ang mga labour agreement ay binuo sa pagitan ng Australian Government (na kinakatawan ng Department) at mga employer."
+              }
+            ]
+          }
+        ]
+      },
+      "section2": {
+        "heading": "Ano ang mga kinakailangan para mag-apply para sa Temporary Skill Shortage visa (subclass 482)?",
+        "listItems": [
+          "Mayroon kang trabaho sa Consolidated Skilled Occupations list",
+          "Ikaw ay inominado para sa isang posisyon sa trabaho ng isang Australian employer na nais kang kunin upang magtrabaho para sa kanila",
+          "Mayroon kang kaukulang kasanayan at kwalipikasyon para sa iyong trabaho",
+          "Mayroon kang hindi bababa sa dalawang (2) taon na karanasan sa trabaho sa iyong trabaho",
+          "Mayroon kang vocational English language ability",
+          "Maaaring masunod mo ang mga kinakailangan ng DHA para sa magandang karakter at kalusugan",
+          "Kung ikaw ay nasa Australia, mayroon kang substantive visa, o bridging visa A, B, o C at sumunod ka sa iyong kondisyon ng visa."
+        ],
+        "note": "Tandaan: Walang age requirement para sa TSS visa."
+      },
+      "section3": {
+        "heading": "Ano ang mga pangkalahatang kinakailangan para sa mga employer na mag-apply para sa Temporary Skill Shortage visa (subclass 482)?",
+        "listItems": [
+          "Maging isang legal na nag-ooperate na negosyo",
+          "Walang masamang impormasyon laban sa negosyo",
+          "Nominate isang posisyon sa trabaho para sa foreign national worker na full-time at tunay",
+          "Masunod ang mga kinakailangan sa sahod at kondisyon sa trabaho",
+          "Magbigay ng ebidensya ng Labour Market Testing kung kinakailangan"
+        ]
+      },
+      "section4": {
+        "heading": "Paano ako mag-aapply para sa Temporary Skill Shortage (TSS) Subclass 482 Visa?",
+        "content": "Bago ka mag-apply para sa isang TSS visa, ang iyong napipintong employer ay kailangang magsumite ng nomination application para sa iyo. Magagawa lamang nila ito kung sila ay isang aprubadong sponsor o nag-apply man lang na maging isang standard business sponsor. Kung ang iyong employer ay isang aprubadong 457 sponsor, maaari ka nilang i-sponsor para sa isang TSS (Subclass 482) sa ilalim ng umiiral na sponsorship. Ang mga sponsor ay kailangan ding magbigay ng ebidensya ng mandatory labour market testing upang ipakita na hindi sila makapag-employ ng isang Australian sa posisyon."
+      },
+      "section5": {
+        "heading": "Ano ang pinapayagan kang gawin ng visa na ito?",
+        "content": "Ang visa na ito ay nagpapahintulot sa iyo na maglakbay papasok at palabas ng Australia para sa tagal ng iyong visa at:",
+        "listItems": [
+          "Kung ikaw ay pangunahing may hawak ng visa, upang magtrabaho sa Australia para sa isang aprubadong sponsor sa iyong nominadong trabaho",
+          "Kung ikaw ay isang miyembro ng pamilya, upang magtrabaho at mag-aral sa Australia"
+        ]
+      }
+    },
+    "trainingVisa": {
+      "title": "TUNGKOL SA VISA NA ITO",
+      "description": "Ang Training visa subclass 407 ay isang pansamantalang visa...",
+      "qualifyTitle": "PAANO AKO MAKAKUHA NG TRAINING SUBCLASS 407 VISA?",
+      "qualifyDescription": "Upang maging karapat-dapat para sa training visa kailangan mo:",
+      "qualifyList": [
+        "maging sponsored ng isang aprubadong sponsor...",
+        "na-ominado para sa isang aprubadong posisyon sa trabaho...",
+        "...",
+        "maging isang tunay na pansamantalang entrant"
+      ],
+      "subQualifyList": [
+        "Subclass 403 Temporary Work Visa...",
+        "Subclass 771 Transit Visa...",
+        "Special Purpose Visa"
+      ],
+      "allowTitle": "ANO ANG PINAPAYAGAN KANG GAWIN NG VISA NA ITO",
+      "allowDescription": "Ito ay isang pansamantalang visa na nagpapahintulot sa may hawak na:",
+      "allowList": [
+        "Pansamantalang manirahan sa Australia...",
+        "Umalis at bumalik sa Australia...",
+        "Dalhin ang mga kwalipikadong miyembro ng pamilya..."
+      ],
+      "conditionTitle": "KONDISYON",
+      "conditionDescription": "Ang visa ay sumasailalim sa kondisyon 8102...",
+      "workConditionTitle": "KONDISYON SA TRABAHO",
+      "workConditionDescription": "Maaari ka lamang magtrabaho para sa iyong sponsor...",
+      "healthInsuranceTitle": "HEALTH INSURANCE",
+      "healthInsuranceDescription": "Dapat mo ring mapanatili ang iyong health insurance...",
+      "locationTitle": "LOKASYON",
+      "locationDescription": "Ang aplikasyon ay kailangang isumite online...",
+      "familyMembersTitle": "MGA MIYEMBRO NG PAMILYA",
+      "familyMembersDescription": "Ang mga miyembro ng pamilya (mga asawa at mga anak) ay maaaring isama..."
+    },
+    "trainingVisaHero": {
+      "title": "TRAINING VISA",
+      "highlightText": "SUBCLASS 407"
+    },
+    "skilledWorkRegionalVisaHero": {
+      "title": "SKILLED WORK REGIONAL VISA",
+      "highlightText": "SUBCLASS 491"
+    },
+    "visaDetails": {
+      "aboutTitle": "TUNGKOL SA VISA NA ITO",
+      "aboutDescription1": "Ang Skilled Work Regional Visa Subclass 491 ay ipinakilala ng Department of Home Affairs (DHA) noong Nobyembre 16, 2019, na pumalit sa dating visa Subclass 489. Ang visa na ito ay nagpapahintulot sa mga skilled workers na manirahan at magtrabaho sa isang itinalagang regional area ng Australia sa loob ng hanggang 5 taon.",
+      "aboutDescription2": "Ang State/Territory nomination para sa visa na ito ay nagbibigay sa iyo ng 15 karagdagang puntos upang makatulong na matugunan ang puntos test pass mark ng Department of Home Affairs na 65 puntos.",
+      "aboutDescription3": "Kung ikaw ay inominado ng State o Territory Government para sa visa na ito, kailangan mong manirahan sa State/Territory na iyon sa loob ng buong tagal ng visa. Magkakaroon ka ng pagkakataon na mag-apply para sa Subclass 191 Visa kung nanirahan at nagtrabaho ka sa isang regional area sa loob ng tatlong taon at dapat ay may minimum na suweldo na $53,900 kada taon. Kapag na-grant ang permanent residence visa, maaari kang manirahan kahit saan sa Australia. Hindi ka maaaring magsimulang manirahan kahit saan sa Australia bago na-grant ang Subclass 191 Visa.",
+      "aboutDescription4": "Kung nais mong mag-apply para sa SC 491 visa na ito, kailangan mong makakuha muna ng positibong skills assessment mula sa iyong nominadong trabaho, at pagkatapos ay mag-submit ng Expression of Interest & State o Territory nomination application. Kung matagumpay ito, ikaw ay iimbitahan na mag-submit ng visa application.",
+      "qualifyTitle": "PAANO AKO MAKAKUHA NG SUBCLASS 190 VISA?",
+      "qualifyDescription": "Sa oras na ikaw ay iimbitahan na mag-apply para sa visa na ito, kailangan mong:",
+      "qualifyList": [
+        "Maging wala pang 45 taong gulang",
+        "Nominado ang isang trabaho na kasama sa kaukulang Occupation List (MLTSSL)",
+        "Mag-submit ng EOI at makatanggap ng imbitasyon",
+        "Matugunan ang puntos test pass mark ng 65 puntos",
+        "Maging sponsored ng isang kamag-anak na naninirahan sa isang itinalagang lugar o State/territory",
+        "Magkaroon ng Competent English o mas mataas depende sa mga puntos na mayroon ka",
+        "Matugunan ang mga kinakailangan sa kalusugan at karakter"
+      ],
+      "visaAllowsTitle": "ANO ANG PINAPAYAGAN KANG GAWIN NG VISA NA ITO:",
+      "visaAllowsDescription": "Ang Subclass 491 visa ay nagbibigay ng pansamantalang residency sa Australia, na may mga kondisyon.",
+      "visaAllowsList": [
+        "Ang may hawak ay maaaring manirahan, magtrabaho at mag-aral sa isang tinukoy na rehiyon ng Australia sa loob ng 5 taon mula sa petsa ng pag-grant ng visa",
+        "Ang may hawak ay maaaring maglakbay nang malaya papasok at palabas ng Australia habang ang visa ay valid",
+        "Ang may hawak ay maaaring magkaroon ng pagkakataon na mag-apply para sa permanent residency sa pamamagitan ng Permanent Residence Skilled Regional Visa Subclass 191, na magsisimula sa Nobyembre 16, 2022."
+      ],
+      "applyTitle": "MAAARI BANG MAG-APPLY ANG SINUMAN SA AUSTRALIA O SA IBANG BANSA?",
+      "applyDescription": "Ang sinuman ay maaaring nasa onshore o offshore upang mag-apply para sa visa na ito. Kung sila ay nasa onshore, kailangan nilang magkaroon ng valid visa bago mag-apply para dito o isang bridging visa A, B, o C. Kapag nag-apply na, bibigyan sila ng bridging visa hanggang sa dumating ang desisyon ng iyong file, na nagpapahintulot sa kanila na manatili sa Australia hanggang doon.",
+      "durationTitle": "TAGAL AT MGA KONDISYON",
+      "durationDescription": "Ito ay isang 5-taong provisional visa na nagpapahintulot sa may hawak at kanilang mga dependents na manirahan, magtrabaho o mag-aral sa anumang regional o mababang populasyon na lugar. Ang mga aprubadong regional area ay nag-iiba depende kung sila ay sponsored ng isang kamag-anak o ng isang State o Territory Government:",
+      "durationList": [
+        {
+          "label": "State o Territory Government:",
+          "content": "Sila ay maaari lamang manirahan sa isang Regional o Low Population Growth Area"
+        },
+        {
+          "label": "Kamag-anak:",
+          "content": "Sila ay maaaring manirahan sa isang Designated Area"
+        }
+      ],
+      "applyHowTitle": "PAANO AKO MAG-APPLY PARA SA SUBCLASS 190 VISA?",
+      "applyHowDescription": "Ang sinuman na nais mag-apply para sa visa na ito ay KAILANGANG unang maimbita na mag-submit ng application ng Department of Immigration. Upang maging karapat-dapat para sa isang imbitasyon, kailangan mong mag-submit ng 'Expression of Interest' (EOI), na naglalatag kung paano mo natutugunan ang mga kinakailangan para sa visa na ito.",
+      "initialEligibilityTitle": "STAGE 1: PAUNANG KARAPAT-DAPAT:",
+      "initialEligibilityDescription": "Ang unang hakbang na gagawin namin ay magsagawa ng paunang pagtatasa ng iyong karapat-dapat para sa visa na ito. Kabilang dito ang pagsusuri ng iyong mga kwalipikasyon, karanasan sa trabaho, kasanayan sa Ingles at iba pang mga kalagayan, upang matukoy kung natutugunan mo ang kaukulang mga kinakailangan.",
+      "skillsAssessmentTitle": "STAGE 2: PAGSUSURI NG KASANAYAN",
+      "skillsAssessmentDescription": "Kung ang aming paunang pagtatasa ay nagpapakita na ikaw ay karapat-dapat para sa positibong skills assessment at EOI, ihahanda namin ang iyong aplikasyon para sa skills assessment.",
+      "expressionOfInterestTitle": "STAGE 3: EXPRESSION OF INTEREST (EOI)",
+      "expressionOfInterestDescription": "Kapag nakatanggap ka na ng positibong skills assessment mula sa skills assessing authority, ihahanda at isusumite namin ang iyong EOI. Bagaman hindi mo kailangang magbigay ng mga suportang dokumento sa yugtong ito, DAPAT kang makapagbigay ng ebidensya na ang impormasyong ibinigay sa EOI ay tama sa oras na ikaw ay imbitahan na mag-apply para sa visa.",
+      "visaApplicationTitle": "STAGE 4: APLIKASYON SA VISA",
+      "visaApplicationDescription": "Kapag ang Department of Immigration ay nag-imbita sa iyo na mag-apply para sa visa na ito, ihahanda at isusumite namin ang iyong aplikasyon para sa visa sa loob ng tinukoy na panahon, kasama ang lahat ng mga dokumento na sumusuporta sa impormasyong ibinigay mo sa iyong EOI.",
+      "otherRequirementsTitle": "IBA PANG MGA KINAKAILANGAN",
+      "healthTitle": "KALUSUGAN",
+      "healthDescription": "Ang pangunahing aplikante at lahat ng mga miyembro ng pamilya ay dapat matugunan ang mga kinakailangan sa kalusugan.",
+      "characterTitle": "KARAKTER",
+      "characterDescription": "Dapat kang maging may mabuting karakter. Maaaring hingin sa iyo na magbigay ng mga police certificate para sa bawat bansa na iyong tinitirhan sa loob ng 12 buwan o higit pa, sa nakaraang 10 taon (kalkuladong kaagad bago ang oras ng pagsusumite ng aplikasyon ng visa), mula sa ika-16 na taong gulang.",
+      "locationTitle": "LOKASYON",
+      "locationDescription": "Maaari kang nasa loob o labas ng Australia kapag nag-apply para sa visa at kapag ginawa ang desisyon.",
+      "debtsTitle": "MGA UTANG",
+      "debtsDescription": "Dapat mo nang mabayaran, o nakipag-ayos na mabayaran, ang anumang natitirang utang sa gobyerno ng Australia.",
+      "visaCancelledTitle": "VISA CANCELLED O TINANGGIHAN",
+      "visaCancelledDescription": "Maaaring hindi ka karapat-dapat mag-apply para sa visa na ito kung ikaw ay nagkaroon ng visa na kinansela o tinanggihan habang ikaw ay nasa Australia.",
+      "processingTimeTitle": "ORAS NG PAGPROSESO",
+      "processingTimeDescription": "6-12 Buwan.",
+      "processingNote": "PAKITANDAAN: Ang aktwal na oras na kinuha ng Department of Immigration upang aprubahan ang isang aplikasyon at magbigay ng visa ay nag-iiba sa bawat kaso depende sa partikular na kalagayan ng aplikante, at ang dami ng mga suportang impormasyon na hinihingi ng Department."
+    },
+    "skilledMigrationHeroSection": {
+      "skilledNominatedVisaTitle": "SKILLED NOMINATED VISA",
+      "subclass190": "SUBCLASS 190"
+    },
+    "aboutVisa": {
+      "aboutTitle": "TUNGKOL SA VISA NA ITO",
+      "aboutDescription1": "Ang Skilled Nomination Visa Subclass 190 ay isang permanenteng visa, na nagpapahintulot sa mga skilled workers na manirahan sa Australia, batay sa nominasyon ng isang Australian State o Territory Government.",
+      "aboutDescription2": "Ang mga aplikante ay dapat mga skilled workers na kwalipikado at may karanasan upang punan ang kasalukuyang kakulangan ng kasanayan sa Australia, batay sa Consolidated Sponsored Occupation List (CSOL), at mag-migrate sa Australia.",
+      "aboutDescription3": "Upang maging karapat-dapat para sa visa na ito, ang mga aplikante ay dapat makatanggap ng nominasyon mula sa isang Australian State o Territory Government.",
+      "aboutDescription4": "Ang State/Territory nomination para sa visa na ito ay nagbibigay sa iyo ng 5 karagdagang puntos upang makatulong na matugunan ang puntos test pass mark ng Department of Home Affairs na 65 puntos.",
+      "aboutDescription5": "Kung ikaw ay inominado ng State o Territory Government para sa visa na ito, kailangan mong manirahan sa State/Territory na iyon sa loob ng dalawang taon pagkatapos ma-grant ang visa.",
+      "aboutDescription6": "Kung nais mong mag-apply para sa visa na ito, kailangan mong makakuha muna ng positibong skills assessment mula sa iyong nominadong trabaho, at pagkatapos ay mag-submit ng Expression of Interest & State o Territory nomination application. Kung matagumpay ito, ikaw ay iimbitahan na mag-submit ng visa application.",
+      "qualifyTitle": "PAANO AKO MAKAKUHA NG SUBCLASS 190 VISA?",
+      "qualifyDescription": "Sa oras na ikaw ay iimbitahan na mag-apply para sa visa na ito, kailangan mong:",
+      "qualifyList": [
+        "Maging wala pang 45 taong gulang",
+        "Nominado ang isang trabaho na kasama sa kaukulang Occupation List (MLTSSL)",
+        "Mag-submit ng EOI at makatanggap ng imbitasyon",
+        "Matugunan ang puntos test pass mark ng 65 puntos",
+        "Magkaroon ng competent English o mas mataas depende sa mga puntos na mayroon ka",
+        "Ang opsyon na ito ay nangangailangan ng sponsorship ng isang kamag-anak o State/Territory Government"
+      ],
+      "visaAllowsTitle": "ANO ANG PINAPAYAGAN KANG GAWIN NG VISA NA ITO:",
+      "visaAllowsDescription": "Kapag na-grant, ang Skilled Nomination Visa ay isang permanenteng visa na nagpapahintulot sa aplikante at mga kasama na pamilya na:",
+      "visaAllowsList": [
+        "Manirahan at magtrabaho kahit saan sa Australia nang walang limitasyon",
+        "Mag-aral sa Australia, na may access sa subsidised education",
+        "Access sa Medicare",
+        "Mag-apply para sa Australian citizenship (pagkatapos matugunan ang angkop na mga kinakailangan)",
+        "Maaari kang mag-sponsor ng mga miyembro ng pamilya para sa ilang mga visa",
+        "Mag-apply para sa mga social security payments",
+        "Maglakbay papasok at palabas ng Australia sa loob ng 5 taon"
+      ],
+      "visaAllowsNote": "Tandaan: Bagaman ang visa ay na-grant batay sa may hawak na may kasanayan sa isang partikular na trabaho, kapag na-grant na ang may hawak ay hindi kinakailangang maghanap o magpanatili ng trabaho sa trabahong ito.",
+      "applyTitle": "MAAARI BANG MAG-APPLY ANG SINUMAN SA AUSTRALIA O SA IBANG BANSA?",
+      "applyDescription1": "Ang sinuman ay maaaring nasa onshore o offshore upang mag-apply para sa visa na ito. Kung siya ay nasa onshore, kailangan niyang magkaroon ng valid visa bago mag-apply para dito o isang bridging visa A, B o C. Kapag nag-apply na, bibigyan siya ng bridging visa hanggang sa dumating ang desisyon ng iyong file, na nagpapahintulot sa kanya na manatili sa Australia hanggang doon.",
+      "applyDescription2": "Maaaring isama ng isang aplikante ang kanyang mga miyembro ng pamilya habang nag-submit ng visa na ito.",
+      "applyDescription3": "Ang mga sumusunod ay maaaring isama:",
+      "applyList": [
+        "Mga asawa, De facto partners, at same-sex partners",
+        "Mga dependent na anak",
+        "Iba pang dependent na mga miyembro ng pamilya – hal. mga magulang na naninirahan kasama mo at umaasa sa pinansyal"
+      ],
+      "applyProcessTitle": "PAANO AKO MAG-APPLY PARA SA SUBCLASS 190 VISA?",
+      "stage1Title": "STAGE 1: PAUNANG KARAPAT-DAPAT:",
+      "stage1Description1": "Ang unang hakbang na gagawin namin ay magsagawa ng paunang pagtatasa ng iyong karapat-dapat para sa visa na ito. Kabilang dito ang pagsusuri ng iyong mga kwalipikasyon, karanasan sa trabaho, kasanayan sa Ingles at iba pang mga kalagayan, upang matukoy kung natutugunan mo ang kaukulang mga kinakailangan.",
+      "stage1Description2": "Bilang bahagi ng paunang pagtatasa ng eligibility na ito, isasaalang-alang namin kung aling mga MLTSSL occupation(s) ang malamang na magawa mong i-nominate, at kung ikaw ay posibleng karapat-dapat para sa isang positibong skills assessment mula sa kaukulang assessing authority para sa trabahong iyon.",
+      "stage1Description3": "Pagkatapos ay bibigyan ka namin ng komprehensibong payo tungkol sa iyong kakayahang matugunan ang minimum standards na hinihingi ng Department of Immigration para sa mga migrant na kwalipikado, upang maging karapat-dapat para sa isang imbitasyon na mag-apply para sa visa na ito.",
+      "stage1Note": "Tandaan: Ang aming paunang pagtatasa ng iyong eligibility ay hindi ginagarantiya na ikaw ay (o hindi) sa katunayan makakakuha ng isang positibong skills assessment, o mabibigyan ng imbitasyon na mag-apply para sa visa na ito. Sa partikular, kung ang Department of Immigration ay magbibigay sa iyo ng isang imbitasyon ay nakasalalay sa kung paano ang iyong puntos test score kumpara sa mga puntos ng ibang potensyal na aplikante, at kung ang Department of Immigration ay itinuring na kailangan ang iyong nominadong trabaho sa Australia.",
+      "stage2Title": "STAGE 2: PAGSUSURI NG KASANAYAN",
+      "stage2Description1": "Kung ang aming paunang pagtatasa ay nagpapakita na ikaw ay karapat-dapat para sa positibong skills assessment at EOI, ihahanda namin ang iyong aplikasyon para sa skills assessment.",
+      "stage2Description2": "Para sa bawat skilled occupation na nakalista sa MLTSSL, tinukoy ng Department of Immigration ang isang assessing authority na maaaring magsagawa ng skills assessments para sa trabahong iyon. Tanging isang skills assessment na isinagawa ng kaukulang assessing authority ang tatanggapin ng Department of Immigration bilang suporta sa isang EOI. Bibigyan ka namin ng isang kumpletong listahan ng mga impormasyon at dokumento na kinakailangan upang suportahan ang iyong aplikasyon. Kapag naibigay mo na ang mga kinakailangang detalye at dokumento, kasama ang kinakailangang assessment fee, isusumite namin ang iyong aplikasyon sa naaangkop na skills assessing authority.",
+      "stage2Description3": "Kapag nakatanggap ka na ng positibong skills assessment mula sa skills assessing authority, ihahanda at isusumite namin ang iyong EOI. Bagaman hindi mo kailangang magbigay ng mga suportang dokumento sa yugtong ito, DAPAT kang makapagbigay ng ebidensya na ang impormasyong ibinigay sa EOI ay tama sa oras na ikaw ay imbitahan na mag-apply para sa visa.",
+      "stage3Title": "STAGE 3: EXPRESSION OF INTEREST (EOI)",
+      "stage3Description1": "Kapag nakatanggap ka na ng positibong skills assessment mula sa skills assessing authority, ihahanda at isusumite namin ang iyong EOI. Bagaman hindi mo kailangang magbigay ng mga suportang dokumento sa yugtong ito, DAPAT kang makapagbigay ng ebidensya na ang impormasyong ibinigay sa EOI ay tama sa oras na ikaw ay imbitahan na mag-apply para sa visa.",
+      "stage3Description2": "Makakatanggap ka ng resulta at puntos mula sa Department of Immigration, na ginagamit upang i-rank ka laban sa ibang mga aplikante na nagsumite ng EOIs para sa visa na ito. Ang ranking ay batay sa bahagi kung ang iyong trabaho ay isang kasanayan na kailangan ng Australia sa oras na masuri ang iyong EOI. Kung matagumpay ang iyong EOI, ikaw ay iimbitahan na magsumite ng aplikasyon para sa visa.",
+      "stage3Description3": "Tandaan: Ang Department of Immigration ay pinapanatili ang isang EOI sa loob ng 2 taon mula sa petsa na isinumite ito. Sa loob ng panahong ito, maaaring ma-update ang iyong EOI kung nagbago ang iyong mga kalagayan (hal. nakuha mo ang bagong kwalipikasyon o skills assessment). Kung nagbago ang iyong ranking sa loob ng 2-taong panahon na ito, batay sa alinman sa iyong nagbagong kalagayan o sa nagbagong pangangailangan ng kasanayan ng Australia, maaari kang bigyan ng imbitasyon na mag-apply para sa visa sa oras na iyon.",
+      "stage4Title": "STAGE 4: APLIKASYON SA VISA",
+      "stage4Description1": "Kapag ang Department of Immigration ay nag-imbita sa iyo na mag-apply para sa visa na ito, ihahanda at isusumite namin ang iyong aplikasyon para sa visa sa loob ng tinukoy na panahon, kasama ang lahat ng mga dokumento na sumusuporta sa impormasyong ibinigay mo sa iyong EOI. Kabilang dito ang iyong skills assessment, mga resulta ng English language test, mga kwalipikasyon, mga work references at lahat ng iba pang kinakailangang dokumento. Kung ang iyong aplikasyon sa visa ay aprubahan, ikaw ay bibigyan ng permanenteng visa. Maaari kang nasa Australia o nasa ibang bansa kapag na-grant ang iyong visa.",
+      "otherRequirementsTitle": "IBA PANG MGA KINAKAILANGAN",
+      "healthTitle": "KALUSUGAN",
+      "healthDescription": "Ang pangunahing aplikante at lahat ng mga miyembro ng pamilya ay dapat matugunan ang mga kinakailangan sa kalusugan.",
+      "characterTitle": "KARAKTER",
+      "characterDescription1": "Dapat kang maging may mabuting karakter. Maaaring hingin sa iyo na magbigay ng mga police certificate para sa bawat bansa na iyong tinitirhan sa loob ng 12 buwan o higit pa, sa nakaraang 10 taon (kalkuladong kaagad bago ang oras ng pagsusumite ng aplikasyon ng visa), mula sa ika-16 na taong gulang.",
+      "characterDescription2": "Ang Police Certificate ay valid para sa 12 buwan para sa immigration purpose. Kung ikaw ay may malaking criminal record, hindi mo makakayanan ang character test. Halimbawa, ikaw ay nasentensiyahan ng 12 buwan o higit pa sa bilangguan.",
+      "locationTitle": "LOKASYON",
+      "locationDescription": "Maaari kang nasa loob o labas ng Australia kapag nag-apply para sa visa at kapag ginawa ang desisyon.",
+      "debtsTitle": "MGA UTANG",
+      "debtsDescription": "Dapat mo nang mabayaran, o nakipag-ayos na mabayaran, ang anumang natitirang utang sa gobyerno ng Australia.",
+      "visaCancelledTitle": "VISA CANCELLED O TINANGGIHAN",
+      "visaCancelledDescription": "Maaaring hindi ka karapat-dapat mag-apply para sa visa na ito kung ikaw ay nagkaroon ng visa na kinansela o tinanggihan habang ikaw ay nasa Australia.",
+      "processingTimeTitle": "ORAS NG PAGPROSESO",
+      "processingTime": "6 NA BUWAN",
+      "processingTimeNote": "PAKITANDAAN: Ang aktwal na oras na kinuha ng Department of Immigration upang aprubahan ang isang aplikasyon at magbigay ng visa ay nag-iiba sa bawat kaso depende sa partikular na kalagayan ng aplikante, at ang dami ng mga suportang impormasyon na hinihingi ng Department."
+    },
+    "tempTrainingVisa": {
+      "title": "TEMPORARY GRADUATE VISA",
+      "highlightText": "SUBCLASS 407"
+    },
+    "visaInfo": {
+      "aboutTitle": "TUNGKOL SA VISA NA ITO",
+      "aboutDescription": "Ang Temporary Graduate Subclass 485 Visa ay isang pansamantalang visa para sa mga International students, na kamakailan lamang nagtapos mula sa isang Australian educational institution.",
+      "qualifyTitle": "PAANO AKO MAKAKUHA NG SUBCLASS 190 VISA?",
+      "qualifyDescription": "Sa oras na ikaw ay iimbitahan na mag-apply para sa visa na ito, kailangan mong:",
+      "qualifyList": [
+        "Maging wala pang 45 taong gulang",
+        "Nominado ang isang trabaho na kasama sa kaukulang Occupation List (MLTSSL)",
+        "Mag-submit ng EOI at makatanggap ng imbitasyon",
+        "Matugunan ang puntos test pass mark ng 65 puntos",
+        "Maging sponsored ng isang kamag-anak na naninirahan sa isang itinalagang lugar o State/territory",
+        "Magkaroon ng Competent English o mas mataas depende sa mga puntos na mayroon ka",
+        "Matugunan ang mga kinakailangan sa kalusugan at karakter"
+      ],
+      "whatThisVisaAllowsTitle": "ANO ANG PINAPAYAGAN KANG GAWIN NG VISA NA ITO:",
+      "whatThisVisaAllowsDescription": "Ang Subclass 491 visa ay nagbibigay ng pansamantalang residency sa Australia, na may mga kondisyon.",
+      "whatThisVisaAllowsList": [
+        "Ang may hawak ay maaaring manirahan, magtrabaho at mag-aral sa isang tinukoy na rehiyon ng Australia sa loob ng 5 taon mula sa petsa ng pag-grant ng visa",
+        "Ang may hawak ay maaaring maglakbay nang malaya papasok at palabas ng Australia habang ang visa ay valid",
+        "Ang may hawak ay maaaring magkaroon ng pagkakataon na mag-apply para sa permanent residency sa pamamagitan ng Permanent Residence Skilled Regional Visa Subclass 191, na magsisimula sa Nobyembre 16, 2022"
+      ],
+      "applyTitle": "MAAARI BANG MAG-APPLY ANG SINUMAN SA AUSTRALIA O SA IBANG BANSA?",
+      "applyDescription": "Ang sinuman ay maaaring nasa onshore o offshore upang mag-apply para sa visa na ito. Kung siya ay nasa onshore, kailangan niyang magkaroon ng valid visa bago mag-apply para dito o isang bridging visa A, B, o C. Kapag nag-apply na, bibigyan siya ng bridging visa hanggang sa dumating ang desisyon ng iyong file, na nagpapahintulot sa kanya na manatili sa Australia hanggang doon.",
+      "durationConditionsTitle": "TAGAL AT MGA KONDISYON",
+      "durationConditionsDescription": "Ito ay isang 5-taong provisional visa na nagpapahintulot sa kanya at kanyang mga dependents na manirahan, magtrabaho o mag-aral sa anumang regional o mababang populasyon na lugar. Ang mga aprubadong regional area ay nag-iiba depende kung sila ay sponsored ng isang kamag-anak o ng isang State o Territory Government:",
+      "durationConditionsList": [
+        "<strong>State o Territory Government:</strong> siya ay maaari lamang manirahan sa isang Regional o Low Population Growth Area",
+        "<strong>Kamag-anak:</strong> Siya ay maaaring manirahan sa isang Designated Area"
+      ],
+      "stage1Title": "PAANO AKO MAG-APPLY PARA SA SUBCLASS 190 VISA?",
+      "stage1Description": "Ang unang hakbang na gagawin namin ay magsagawa ng paunang pagtatasa ng iyong karapat-dapat para sa visa na ito. Kabilang dito ang pagsusuri ng iyong mga kwalipikasyon, karanasan sa trabaho, kasanayan sa Ingles at iba pang mga kalagayan, upang matukoy kung natutugunan mo ang kaukulang mga kinakailangan.",
+      "stage2Title": "STAGE 2: PAGSUSURI NG KASANAYAN",
+      "stage2Description": "Kung ang aming paunang pagtatasa ay nagpapakita na ikaw ay karapat-dapat para sa positibong skills assessment at EOI, ihahanda namin ang iyong aplikasyon para sa skills assessment.",
+      "stage3Title": "STAGE 3: EXPRESSION OF INTEREST (EOI)",
+      "stage3Description": "Kapag nakatanggap ka na ng positibong skills assessment mula sa skills assessing authority, ihahanda at isusumite namin ang iyong EOI.",
+      "stage4Title": "STAGE 4: APLIKASYON SA VISA",
+      "stage4Description": "Kapag ang Department of Immigration ay nag-imbita sa iyo na mag-apply para sa visa na ito, ihahanda at isusumite namin ang iyong aplikasyon para sa visa sa loob ng tinukoy na panahon, kasama ang lahat ng mga dokumento na sumusuporta sa impormasyong ibinigay mo sa iyong EOI. Kung ang iyong aplikasyon sa visa ay aprubahan, ikaw ay bibigyan ng permanenteng visa. Maaari kang nasa Australia o nasa ibang bansa kapag na-grant ang iyong visa.",
+      "otherRequirementsTitle": "IBA PANG MGA KINAKAILANGAN",
+      "healthTitle": "KALUSUGAN",
+      "healthDescription": "Ang pangunahing aplikante at lahat ng mga miyembro ng pamilya ay dapat matugunan ang mga kinakailangan sa kalusugan.",
+      "characterTitle": "KARAKTER",
+      "characterDescription": "Dapat kang maging may mabuting karakter. Maaaring hingin sa iyo na magbigay ng mga police certificate para sa bawat bansa na iyong tinitirhan sa loob ng 12 buwan o higit pa, sa nakaraang 10 taon (kalkuladong kaagad bago ang oras ng pagsusumite ng aplikasyon ng visa), mula sa ika-16 na taong gulang. Ang Police Certificate ay valid para sa 12 buwan para sa immigration purpose. Kung ikaw ay may malaking criminal record, hindi mo makakayanan ang character test. Halimbawa, ikaw ay nasentensiyahan ng 12 buwan o higit pa sa bilangguan.",
+      "locationTitle": "LOKASYON",
+      "locationDescription": "Maaari kang nasa loob o labas ng Australia kapag nag-apply para sa visa at kapag ginawa ang desisyon.",
+      "debtsTitle": "MGA UTANG",
+      "debtsDescription": "Dapat mo nang mabayaran, o nakipag-ayos na mabayaran, ang anumang natitirang utang sa gobyerno ng Australia.",
+      "visaCancelledRefusedTitle": "VISA CANCELLED O TINANGGIHAN",
+      "visaCancelledRefusedDescription": "Maaaring hindi ka karapat-dapat mag-apply para sa visa na ito kung ikaw ay nagkaroon ng visa na kinansela o tinanggihan habang ikaw ay nasa Australia.",
+      "processingTimeTitle": "ORAS NG PAGPROSESO",
+      "processingTimeDescription": "6-12 Buwan. PAKITANDAAN: Ang aktwal na oras na kinuha ng Department of Immigration upang aprubahan ang isang aplikasyon at magbigay ng visa ay nag-iiba sa bawat kaso depende sa partikular na kalagayan ng aplikante, at ang dami ng mga suportang impormasyon na hinihingi ng Department."
+    },
+    "home": {
+      "heroSection": {
+        "title": "Sponsored Jobs",
+        "highlightText": ""
+      }
+    },
+    "fiveSteps": {
+      "title": "Limang Madaling Hakbang Upang Matuwid Ang Australian Dream",
+      "highlightText": "Australian",
+      "description": "Alamin kung paano nakatulong ang Skills Shortage Recruitment Process sa mga international candidates tulad mo na matupad ang Australian Dream."
+    },
+    "home1": {
+      "migrationHeroSection": {
+        "title": "SKILLED INDEPENDENT VISA",
+        "highlightText": "SUBCLASS 189"
+      }
+    },
+    "home2": {
+      "title": "Sponsored Jobs",
+      "highlightText": ""
+    },
+    "pointCalc": {
+      "otherUsefulLinks": "Iba Pang Mga Kapaki-pakinabang na Link",
+      "migration": "Migrasyon",
+      "tssVisa": "Temporary Skill Shortage (TSS) Visa - Subclass 482",
+      "trainingVisa": "Training Visa - Subclass 407",
+      "independentVisa": "Skilled Independent Visa - Subclass 189",
+      "nominatedVisa": "Skilled Nominated Visa - Subclass 190",
+      "regionalVisa": "Skilled Work Regional Visa - Subclass 491",
+      "sponsoredJobs": "Sponsored Jobs"
+    },
+    "appointmentForm": {
+      "appointmentSchedule": "Schedule ng Appointment",
+      "personalInformation": "Personal na Impormasyon",
+      "appointmentScheduleTitle": "Schedule ng Appointment",
+      "phoneConsultation": "Telepono o Online Consultation",
+      "faceConsultation": "Face to Face Consultation",
+      "professionalDevelopment": "Propesyonal na Pag-unlad - RPL",
+      "migrationTeam": "Koponan ng Migrasyon",
+      "admissionTeam": "Koponan ng Admission",
+      "chooseDateTime": "Pumili ng Petsa at Oras",
+      "chooseDate": "Pumili ng Petsa",
+      "chooseTime": "Pumili ng Oras",
+      "next": "Susunod",
+      "personalInformationTitle": "Personal na Impormasyon",
+      "firstName": "Pangalan",
+      "lastName": "Apelyido",
+      "email": "Email",
+      "phoneNumber": "Numero ng Telepono",
+      "submit": "Isumite",
+      "loading": "Naglo-load...",
+      "submitting": "Nagsusumite...",
+      "successMessage": "Matagumpay na na-schedule ang appointment!",
+      "errorMessage": "Error sa pag-schedule ng appointment"
+    },
+    "contactForm": {
+      "contactTitle": "Huwag Mag-atubiling <span class='text-red-500'>Makipag-ugnayan sa Amin</span>",
+      "yourName": "Iyong Pangalan",
+      "yourEmail": "Iyong Email",
+      "yourPhone": "Iyong Telepono",
+      "typeMessage": "I-type ang mensahe",
+      "sendMessage": "Magpadala ng Mensahe",
+      "sending": "Ipinapadala...",
+      "successMessage": "Matagumpay na naipadala ang email!",
+      "errorMessage": "Error sa pagpapadala ng email"
+    },
+    "heroSectionCon": {
+      "contactUsTitle": "Huwag Mag-atubiling",
+      "contactUsHighlightText": " Makipag-ugnayan sa Amin"
+    },
+    "heroSectionBook": {
+      "contactUsTitle": "Mag-book ng Appointment",
+      "contactUsHighlightText": ""
+    }
+  }
+  
+  
